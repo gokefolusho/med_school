@@ -1,31 +1,63 @@
 {
-  "moduleTitle": "Neuroscience: Brainstem",
+  "moduleTitle": "Neuroscience: Medulla Oblongata",
   "hero": {
-    "badge": "Anatomy & Physiology",
-    "title": "🧠 Medulla & Midbrain",
-    "subtitle": "Clinical Correlation & Pathophysiology"
+    "badge": "Windsor Medical Revision",
+    "title": "🧠 The Medulla Oblongata",
+    "subtitle": "Cranial Nerve Nuclei & Brainstem Stroke Syndromes"
   },
   "sections": [
     {
-      "id": "medulla-notes",
-      "title": "The Medulla Oblongata",
-      "hint": "Rule of 4: CN 9-12 are in the Medulla.",
+      "id": "medulla-anatomy",
+      "title": "Core Anatomy & Landmarks",
+      "hint": "The Medulla is the 'Bulb' of the brainstem, extending from the pons to the foramen magnum.",
       "topics": [
         {
-          "header": "Ventral Surface",
-          "content": "<p>The <b>pyramids</b> carry the corticospinal tracts. The <b>olive</b> sits laterally.</p><ul><li>CN XII exits between pyramid and olive.</li></ul>"
+          "header": "External Features",
+          "content": "<ul><li><b>Pyramids:</b> Ventral swellings containing corticospinal fibers. 90% cross at the <b>Pyramidal Decussation</b> (Lower Medulla).</li><li><b>Olives:</b> Oval elevations lateral to pyramids containing the Inferior Olivary Nucleus (Cerebellar motor learning).</li><li><b>Sulci:</b> CN XII exits the <i>Anterolateral</i> sulcus; CN IX, X, and XI exit the <i>Posteralateral</i> sulcus.</li></ul>"
+        },
+        {
+          "header": "Internal Nuclei (High Yield)",
+          "content": "<ul><li><b>Nucleus Ambiguus:</b> Motor to muscles of larynx/pharynx (CN IX, X). Damage = Dysphagia/Hoarseness.</li><li><b>Solitary Nucleus:</b> Sensory (Taste/Visceral). CN VII, IX, X.</li><li><b>Area Postrema:</b> The 'Vomiting Center' located in the floor of the 4th ventricle.</li><li><b>Hypoglossal Nucleus:</b> Motor to the tongue.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "medullary-syndromes",
+      "title": "Clinical Syndromes (Exam Favorites)",
+      "topics": [
+        {
+          "header": "Medial Medullary Syndrome",
+          "content": "<p><b>Vessel:</b> Anterior Spinal Artery (ASA).</p><ul><li><b>Ipsilateral:</b> Hypoglossal palsy (Tongue deviates <i>to</i> lesion, atrophy).</li><li><b>Contralateral:</b> Hemiparesis (Pyramid) and loss of Fine Touch/Proprioception (Medial Lemniscus).</li></ul>"
+        },
+        {
+          "header": "Lateral Medullary (Wallenberg's) Syndrome",
+          "content": "<p><b>Vessel:</b> PICA (Posterior Inferior Cerebellar Artery).</p><ul><li><b>Ipsilateral Face:</b> Loss of pain/temp (Trigeminal nucleus).</li><li><b>Contralateral Body:</b> Loss of pain/temp (Spinothalamic tract).</li><li><b>Autonomics:</b> Ipsilateral Horner’s Syndrome (Ptosis, Miosis, Anhydrosis).</li><li><b>CN IX/X:</b> Hoarseness, dysphagia, loss of gag reflex (Nucleus Ambiguus).</li></ul>"
         }
       ]
     }
   ],
   "quizzes": {
     "medulla": [
-      {
-        "q": "Which artery results in Lateral Medullary Syndrome?",
-        "a": ["ASA", "PICA", "Basilar", "AICA"],
-        "c": 1,
-        "l": "PICA supplies the lateral medulla; ASA supplies the medial."
-      }
+      { "q": "Between which two structures does CN XII emerge?", "a": ["Olive and Inferior Peduncle", "Pyramid and Olive", "Pons and Medulla", "Two Pyramids"], "c": 1, "l": "CN XII exits the ventrolateral sulcus between the pyramid and the olive." },
+      { "q": "Occlusion of the ASA (Anterior Spinal Artery) results in:", "a": ["Wallenberg Syndrome", "Medial Medullary Syndrome", "Weber Syndrome", "Locked-in Syndrome"], "c": 1, "l": "ASA supplies the medial medulla; PICA supplies the lateral medulla." },
+      { "q": "Ipsilateral tongue deviation with contralateral hemiparesis indicates damage to:", "a": ["CN X", "CN IX", "Medial Medulla", "Lateral Medulla"], "c": 2, "l": "This is Medial Medullary Syndrome (Dejerine Syndrome)." },
+      { "q": "Which nucleus is responsible for the hoarseness seen in Wallenberg Syndrome?", "a": ["Solitary Nucleus", "Nucleus Ambiguus", "Hypoglossal Nucleus", "Dorsal Motor Nucleus"], "c": 1, "l": "The Nucleus Ambiguus provides motor fibers to the larynx via CN X." },
+      { "q": "Which tract decussates in the lower medulla?", "a": ["Spinothalamic", "Corticospinal", "Dorsal Columns", "Vestibulospinal"], "c": 1, "l": "The pyramidal decussation is where 90% of motor fibers cross." },
+      { "q": "PICA supplies which part of the medulla?", "a": ["Medial", "Lateral", "Ventral", "Dorsal Column only"], "c": 1, "l": "PICA occlusion causes Lateral Medullary Syndrome." },
+      { "q": "Horner's syndrome in a medullary stroke is caused by damage to:", "a": ["CN III", "Descending Sympathetics", "CN VII", "Medial Lemniscus"], "c": 1, "l": "Disruption of descending sympathetic fibers in the lateral medulla causes Horner’s." },
+      { "q": "The 'Vomiting Center' is also known as the:", "a": ["Solitary Nucleus", "Nucleus Ambiguus", "Area Postrema", "Obex"], "c": 2, "l": "Area Postrema in the 4th ventricle floor triggers emesis." },
+      { "q": "Loss of pain/temp on the ipsilateral face is due to damage of:", "a": ["Medial Lemniscus", "Spinal Trigeminal Nucleus", "Spinothalamic Tract", "Pyramids"], "c": 1, "l": "Spinal Trigeminal nucleus handles ipsilateral facial pain/temp." },
+      { "q": "Damage to the Medial Lemniscus results in contralateral loss of:", "a": ["Pain and Temperature", "Fine touch and Proprioception", "Motor Control", "Hearing"], "c": 1, "l": "Medial Lemniscus carries dorsal column information." },
+      { "q": "Where is the respiratory rhythmicity center located?", "a": ["Midbrain", "Pons", "Medulla Oblongata", "Thalamus"], "c": 2, "l": "The medulla controls the basic rhythm of breathing." },
+      { "q": "A patient cannot swallow and has no gag reflex. Which nucleus is likely damaged?", "a": ["Solitary", "Ambiguus", "Hypoglossal", "Red Nucleus"], "c": 1, "l": "Nucleus Ambiguus controls the muscles for swallowing." },
+      { "q": "Proprioception from the lower limbs travels in which fasciculus?", "a": ["Gracilis", "Cuneatus", "Spinothalamic", "Lateral"], "c": 0, "l": "Gracilis is for the lower body (T6 and below); Cuneatus is for the upper body." },
+      { "q": "The Inferior Olivary Nucleus sends fibers to the:", "a": ["Thalamus", "Cerebellum", "Spinal Cord", "Basal Ganglia"], "c": 1, "l": "It provides climbing fibers to the cerebellum." },
+      { "q": "Which cranial nerves are associated with the 'Rule of 4' for the Medulla?", "a": ["1, 2, 3, 4", "5, 6, 7, 8", "9, 10, 11, 12", "All of them"], "c": 2, "l": "CN 9-12 are the medullary cranial nerves." },
+      { "q": "A lesion in the right pyramid will cause weakness on which side?", "a": ["Right", "Left", "Bilateral", "Upper limbs only"], "c": 1, "l": "Since fibers cross below the pyramids, the deficit is contralateral." },
+      { "q": "Which structure forms the floor of the 4th ventricle in the medulla?", "a": ["Tectum", "Tegmentum", "Rhomboid Fossa", "Cerebral Peduncle"], "c": 2, "l": "The rhomboid fossa forms the floor of the 4th ventricle." },
+      { "q": "Vertigo and Nystagmus in Wallenberg's are due to which nuclei?", "a": ["Cochlear", "Vestibular", "Ambiguus", "Solitary"], "c": 1, "l": "Vestibular nuclei damage affects balance and eye coordination." },
+      { "q": "The pyramids are located on which aspect of the medulla?", "a": ["Dorsal", "Lateral", "Ventral", "Posterior"], "c": 2, "l": "Pyramids are ventral (anterior) landmarks." },
+      { "q": "The Spinal Trigeminal Nucleus extends from the pons down to the:", "a": ["Midbrain", "Medulla", "Spinal Cord (C2)", "Thalamus"], "c": 2, "l": "It is a long nucleus extending into the upper cervical spinal cord." }
     ]
   }
 }
