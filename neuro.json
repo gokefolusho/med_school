@@ -1,0 +1,31 @@
+{
+  "moduleTitle": "Neuroscience: Brainstem",
+  "hero": {
+    "badge": "Anatomy & Physiology",
+    "title": "🧠 Medulla & Midbrain",
+    "subtitle": "Clinical Correlation & Pathophysiology"
+  },
+  "sections": [
+    {
+      "id": "medulla-notes",
+      "title": "The Medulla Oblongata",
+      "hint": "Rule of 4: CN 9-12 are in the Medulla.",
+      "topics": [
+        {
+          "header": "Ventral Surface",
+          "content": "<p>The <b>pyramids</b> carry the corticospinal tracts. The <b>olive</b> sits laterally.</p><ul><li>CN XII exits between pyramid and olive.</li></ul>"
+        }
+      ]
+    }
+  ],
+  "quizzes": {
+    "medulla": [
+      {
+        "q": "Which artery results in Lateral Medullary Syndrome?",
+        "a": ["ASA", "PICA", "Basilar", "AICA"],
+        "c": 1,
+        "l": "PICA supplies the lateral medulla; ASA supplies the medial."
+      }
+    ]
+  }
+}
