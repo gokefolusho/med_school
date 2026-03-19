@@ -58,6 +58,28 @@
       { "q": "Vertigo and Nystagmus in Wallenberg's are due to which nuclei?", "a": ["Cochlear", "Vestibular", "Ambiguus", "Solitary"], "c": 1, "l": "Vestibular nuclei damage affects balance and eye coordination." },
       { "q": "The pyramids are located on which aspect of the medulla?", "a": ["Dorsal", "Lateral", "Ventral", "Posterior"], "c": 2, "l": "Pyramids are ventral (anterior) landmarks." },
       { "q": "The Spinal Trigeminal Nucleus extends from the pons down to the:", "a": ["Midbrain", "Medulla", "Spinal Cord (C2)", "Thalamus"], "c": 2, "l": "It is a long nucleus extending into the upper cervical spinal cord." }
-    ]
+    ],
+    "midbrain": [
+  { "q": "Which cranial nerve emerges from the interpeduncular fossa of the midbrain?", "a": ["CN II", "CN III", "CN IV", "CN VI"], "c": 1, "l": "The oculomotor nerve (CN III) emerges anteriorly between the cerebral peduncles." },
+  { "q": "A patient with Parinaud’s syndrome would most likely struggle with:", "a": ["Downward gaze", "Upward gaze", "Lateral gaze", "Jaw clenching"], "c": 1, "l": "Parinaud’s (Dorsal Midbrain Syndrome) classically causes paralysis of upward gaze." },
+  { "q": "Weber’s Syndrome is characterized by:", "a": ["Ipsilateral CN III palsy and contralateral hemiparesis", "Contralateral CN III palsy and ipsilateral tremor", "Bilateral CN IV palsy", "Ipsilateral CN VI palsy"], "c": 0, "l": "Weber’s involves the ventral midbrain, affecting CN III and the pyramidal tract." },
+  { "q": "Which structure is responsible for auditory reflexes?", "a": ["Superior Colliculus", "Inferior Colliculus", "Red Nucleus", "Substantia Nigra"], "c": 1, "l": "The Inferior Colliculus is a major relay in the auditory pathway." },
+  { "q": "Decerebrate posturing indicates a lesion at what level?", "a": ["Above the red nucleus", "Below the red nucleus", "Cerebral cortex", "Thalamus"], "c": 1, "l": "Decerebrate (extensor) posturing occurs when the lesion is in the brainstem below the red nucleus." },
+  { "q": "Claude’s and Benedikt’s syndromes primarily involve damage to which nucleus?", "a": ["Solitary Nucleus", "Red Nucleus", "Abducens Nucleus", "Edinger-Westphal Nucleus"], "c": 1, "l": "The Red Nucleus involvement causes the characteristic contralateral ataxia or tremor." },
+  { "q": "Convergence-retraction nystagmus is a hallmark sign of:", "a": ["Wallenberg Syndrome", "Parinaud Syndrome", "Weber Syndrome", "Millard-Gubler Syndrome"], "c": 1, "l": "This is a classic feature of dorsal midbrain (Parinaud) lesions." },
+  { "q": "Which artery provides the primary blood supply to the medial midbrain?", "a": ["PICA", "AICA", "Paramedian perforators of the Basilar/PCA", "Anterior Spinal Artery"], "c": 2, "l": "Paramedian perforators supply the territory involved in Weber’s syndrome." },
+  { "q": "A 'blown pupil' (fixed and dilated) in Weber’s syndrome is due to damage to:", "a": ["Sympathetic fibers", "Parasympathetic fibers of CN III", "Optic nerve", "Superior colliculus"], "c": 1, "l": "CN III carries parasympathetic fibers that constrict the pupil; damage causes dilation." },
+  { "q": "Which structure connects the third and fourth ventricles?", "a": ["Foramen of Monro", "Cerebral Aqueduct", "Foramen of Magendie", "Central Canal"], "c": 1, "l": "The Cerebral Aqueduct of Sylvius runs through the midbrain." },
+  { "q": "The Superior Colliculus is primarily involved in:", "a": ["Hearing", "Visual reflexes", "Motor coordination", "Taste"], "c": 1, "l": "It helps coordinate head and eye movements in response to visual stimuli." },
+  { "q": "Collier’s sign refers to which clinical finding?", "a": ["Drooping eyelid", "Eyelid retraction", "Pinpoint pupils", "Tongue deviation"], "c": 1, "l": "Collier’s sign (eyelid retraction) is seen in Parinaud Syndrome." },
+  { "q": "Decorticate posturing is characterized by:", "a": ["Extension of all four limbs", "Flexion of arms and extension of legs", "Flaccid paralysis", "Ipsilateral flexion only"], "c": 1, "l": "Decorticate involves 'flexing to the core' (arms flexed, legs extended)." },
+  { "q": "Which midbrain syndrome is most likely caused by a Pineal gland tumor?", "a": ["Weber", "Benedikt", "Parinaud", "Claude"], "c": 2, "l": "Pineal tumors compress the dorsal midbrain (tectum), leading to Parinaud’s." },
+  { "q": "If a patient has a right-sided midbrain lesion in the cerebral peduncle, the motor deficit will be on the:", "a": ["Right side", "Left side", "Bilateral", "Face only"], "c": 1, "l": "Corticospinal fibers cross in the medulla, so a midbrain lesion causes contralateral deficits." },
+  { "q": "The Edinger-Westphal nucleus provides innervation for:", "a": ["Eye abduction", "Pupillary constriction", "Pupillary dilation", "Eyelid closing"], "c": 1, "l": "It provides parasympathetic supply to the ciliary ganglion for miosis." },
+  { "q": "Which midbrain structure produces Dopamine and is lost in Parkinson’s?", "a": ["Red Nucleus", "Substantia Nigra", "Periaqueductal Gray", "Inferior Colliculus"], "c": 1, "l": "The Substantia Nigra pars compacta contains dopaminergic neurons." },
+  { "q": "The Trochlear nerve (CN IV) is unique because it:", "a": ["Is the largest cranial nerve", "Exits from the dorsal aspect of the brainstem", "Carries sensory fibers", "Does not cross"], "c": 1, "l": "CN IV is the only cranial nerve to emerge dorsally and the only one to cross completely." },
+  { "q": "Light-near dissociation (Pseudo-Argyll Robertson pupil) is found in:", "a": ["Dorsal Midbrain Syndrome", "Lateral Medullary Syndrome", "Medial Medullary Syndrome", "Pons hemorrhage"], "c": 0, "l": "This is a feature of Parinaud's where pupils react to accommodation but not light." },
+  { "q": "Which tract is responsible for the 'Flexor' component of decorticate posturing?", "a": ["Corticospinal", "Rubrospinal", "Vestibulospinal", "Reticulospinal"], "c": 1, "l": "The Red Nucleus/Rubrospinal tract facilitates upper limb flexion." }
+]
   }
 }
