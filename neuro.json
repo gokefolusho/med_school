@@ -294,7 +294,7 @@
         "h": "Neglect of left side = right parietal lobe"
       }
     ],
-    "neuro_batch2": [
+   "neuro_batch2": [
   {
     "q": "The Purkinje cells of the cerebellar cortex:",
     "a": [
@@ -319,6 +319,107 @@
     "c": 2,
     "l": "Equal contralateral face, arm, and leg weakness with dysarthria indicates a lacunar stroke of the internal capsule due to small vessel disease from hypertension and diabetes.",
     "h": "Equal face + arm + leg weakness → internal capsule (pure motor stroke)"
+  },
+  {
+    "q": "Which of the following nuclei in the thalamus projects to area 3, 1, 2 of the cortex?",
+    "a": [
+      "Dorsomedial",
+      "Lateral geniculate",
+      "Ventral posteromedial",
+      "Ventral posterolateral"
+    ],
+    "c": 3,
+    "l": "Area 3, 1, 2 is the primary somatosensory cortex. The Ventral Posterolateral (VPL) nucleus relays sensory information (pain, temperature, touch, proprioception) from the body to this cortical area.",
+    "h": "Body sensation → VPL → Somatosensory cortex (3, 1, 2)"
+  },
+  {
+    "q": "Heschl’s convolutions are located in which of the following areas?",
+    "a": [
+      "Brodmann’s areas 41, 42",
+      "Centre for defecation and micturition",
+      "Brodmann’s area 43",
+      "Anterior (motor) speech area",
+      "Primary motor cortex"
+    ],
+    "c": 0,
+    "l": "Heschl’s gyrus (transverse temporal gyri) represents the primary auditory cortex, located in the superior temporal lobe (Brodmann areas 41 & 42).",
+    "h": "Heschl’s gyrus = Primary auditory cortex (BA 41, 42)"
+  },
+  {
+    "q": "A 55-year-old overweight man collapsed while loading a truck. Examination revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the left side of the body. These findings suggest:",
+    "a": [
+      "A lesion in the left medial medulla",
+      "A lesion in the right medial pons",
+      "A lesion in the right medial medulla",
+      "A lesion in the lateral medulla",
+      "A lesion in the left medial pons"
+    ],
+    "c": 0,
+    "l": "Medial Medullary Syndrome (Dejerine syndrome) involves the pyramid (contralateral hemiparesis), medial lemniscus (contralateral vibration loss), and CN XII (ipsilateral tongue deviation). Tongue deviates toward the lesion side (Left).",
+    "h": "Contralateral motor/sensory + Ipsilateral tongue = Medial Medulla"
+  },
+  {
+    "q": "Symptoms of cerebellar disease include all of the following EXCEPT:",
+    "a": [
+      "Tremors while performing movements",
+      "Ataxia",
+      "Dysarthria",
+      "Paralysis"
+    ],
+    "c": 3,
+    "l": "The cerebellum coordinates movement but does not initiate it. Lesions cause ataxia, intention tremors, and dysarthria, but NOT paralysis (which is a sign of UMN/LMN lesions).",
+    "h": "Cerebellum = Coordination; Motor initiation = Cortex (Paralysis ≠ Cerebellum)"
+  },
+  {
+    "q": "A 40-year-old male has difficulty producing a smile from the left side of his face. Muscles are flaccid and the eyelids are open. Where do the cell bodies of origin within the CNS lie?",
+    "a": [
+      "Upper medulla",
+      "Lower pons",
+      "Upper pons",
+      "Lower midbrain",
+      "Upper midbrain"
+    ],
+    "c": 1,
+    "l": "This describes a Bell's palsy or Lower Motor Neuron facial nerve (CN VII) lesion. The facial nerve nucleus is located in the lower pons.",
+    "h": "Facial nerve nucleus (CN VII) → Lower pons"
+  },
+  {
+    "q": "The lateral geniculate body:",
+    "a": [
+      "Transmits visual information to the cerebral cortex",
+      "Is part of the mesencephalon",
+      "Is a visual motor reflex center",
+      "Relays auditory information to the cerebral cortex",
+      "All of the above"
+    ],
+    "c": 0,
+    "l": "The Lateral Geniculate Nucleus (LGN) of the thalamus is the primary relay station for visual information from the retina to the primary visual cortex (BA 17).",
+    "h": "LGN = Light (Visual relay)"
+  },
+  {
+    "q": "A 50-year-old woman has right-sided spastic paralysis, loss of vibratory sense on the right, and internuclear ophthalmoplegia (INO) where the left eye would not adduct. Her tongue deviated toward the right. Where is the site of lesion?",
+    "a": [
+      "Medulla",
+      "Pons",
+      "Midbrain",
+      "Cerebral cortex",
+      "Difficulty to diagnose"
+    ],
+    "c": 1,
+    "l": "The presence of Internuclear Ophthalmoplegia (INO) signifies a lesion of the Medial Longitudinal Fasciculus (MLF), which is a classic localizing sign for the pons.",
+    "h": "INO (MLF lesion) = Pons"
+  },
+  {
+    "q": "A 62-year-old man presents with slow shuffling gait, stooped posture, masked facies, micrographia, and a resting pill-rolling tremor. What is the diagnosis?",
+    "a": [
+      "Lateral medullary syndrome",
+      "Sign of cerebellar lesion",
+      "Parkinson’s disease",
+      "Unable to diagnose"
+    ],
+    "c": 2,
+    "l": "Parkinson’s disease is characterized by the 'TRAP' mnemonic: Tremor (resting), Rigidity, Akinesia/bradykinesia, and Postural instability, along with masked facies and micrographia.",
+    "h": "Pill-rolling tremor + Shuffling gait + Masked facies = Parkinson’s"
   }
 ]
   }
