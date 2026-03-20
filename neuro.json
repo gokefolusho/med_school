@@ -2,13 +2,13 @@
   "moduleTitle": "Neuroscience: Medulla Oblongata",
   "hero": {
     "badge": "Windsor Medical Revision",
-    "title": "🧠 The Medulla Oblongata",
+    "title": "🧠 Neuro Block 2",
     "subtitle": "Cranial Nerve Nuclei & Brainstem Stroke Syndromes"
   },
   "sections": [
     {
       "id": "medulla-anatomy",
-      "title": "Core Anatomy & Landmarks",
+      "title": "",
       "hint": "The Medulla is the 'Bulb' of the brainstem, extending from the pons to the foramen magnum.",
       "topics": [
         {
@@ -18,20 +18,6 @@
         {
           "header": "Internal Nuclei (High Yield)",
           "content": "<ul><li><b>Nucleus Ambiguus:</b> Motor to muscles of larynx/pharynx (CN IX, X). Damage = Dysphagia/Hoarseness.</li><li><b>Solitary Nucleus:</b> Sensory (Taste/Visceral). CN VII, IX, X.</li><li><b>Area Postrema:</b> The 'Vomiting Center' located in the floor of the 4th ventricle.</li><li><b>Hypoglossal Nucleus:</b> Motor to the tongue.</li></ul>"
-        }
-      ]
-    },
-    {
-      "id": "medullary-syndromes",
-      "title": "Clinical Syndromes (Exam Favorites)",
-      "topics": [
-        {
-          "header": "Medial Medullary Syndrome",
-          "content": "<p><b>Vessel:</b> Anterior Spinal Artery (ASA).</p><ul><li><b>Ipsilateral:</b> Hypoglossal palsy (Tongue deviates <i>to</i> lesion, atrophy).</li><li><b>Contralateral:</b> Hemiparesis (Pyramid) and loss of Fine Touch/Proprioception (Medial Lemniscus).</li></ul>"
-        },
-        {
-          "header": "Lateral Medullary (Wallenberg's) Syndrome",
-          "content": "<p><b>Vessel:</b> PICA (Posterior Inferior Cerebellar Artery).</p><ul><li><b>Ipsilateral Face:</b> Loss of pain/temp (Trigeminal nucleus).</li><li><b>Contralateral Body:</b> Loss of pain/temp (Spinothalamic tract).</li><li><b>Autonomics:</b> Ipsilateral Horner’s Syndrome (Ptosis, Miosis, Anhydrosis).</li><li><b>CN IX/X:</b> Hoarseness, dysphagia, loss of gag reflex (Nucleus Ambiguus).</li></ul>"
         }
       ]
     }
