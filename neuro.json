@@ -22,7 +22,7 @@
       ]
     }
   ],
-  "quizzes": {
+  "quizzes":{
   "neuro": [
     {
       "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
@@ -64,85 +64,86 @@
       "q": "Which of the following is not correctly paired?",
       "a": ["Neostriatum – Caudate nucleus plus putamen", "Lentiform nucleus – Globus pallidus plus putamen", "Corpus striatum – Caudate nucleus plus lentiform nucleus", "Amygdaloid body – Claustrum plus amygdaloid nucleus"],
       "c": 3,
-      "l": "The amygdaloid body refers only to the amygdala, not the claustrum."
+      "l": "The amygdaloid body refers only to the amygdala, not the claustrum, which is a separate structure."
     },
     {
       "q": "The prefrontal cortex (areas 9, 10, 11 and 12) is essential for:",
       "a": ["Feeding", "Sexual thoughts", "Foresight", "Stereognosis", "Spatial organization"],
       "c": 2,
-      "l": "Prefrontal cortex controls executive functions like planning and foresight."
+      "l": "The prefrontal cortex (especially dorsolateral) is responsible for executive functions like planning, judgment, and foresight."
     },
     {
       "q": "Lesions of the superior parietal lobule interfere with the patient's ability to combine touch, pressure, and proprioceptive impulses, so that he is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
       "a": ["Alexia", "Agraphia", "Astereognosis", "Acalculia"],
       "c": 2,
-      "l": "Parietal lobe damage causes astereognosis."
+      "l": "Damage to the parietal lobe causes astereognosis—an inability to recognize objects by touch despite intact sensation."
     },
     {
       "q": "Adam is a 60-year-old man who is right-handed and was told in the past by his doctor that he has an irregular heartbeat. One morning, he woke to find that his face drooped on the right side and that he could not move his right arm or right leg. When he tried to call an ambulance for help, he had a great deal of difficulty communicating with the operator. His speech was slurred, nonfluent, and missing some pronouns. When listened to, Adam’s heart rate was irregular. He detected an irregular heartbeat. It was very difficult to understand Adam’s speech because it was halting, with a tendency to repeat the same phrases over and over. He had difficulty repeating specific sentences given to him by the neurologist. He was able to follow commands such as “Touch your right ear with your left hand.” His mouth drooped on the right when he attempted to smile, but his forehead remained symmetric. He could not move his right arm at all, but he was able to wiggle his right leg a little bit. Which of the following language problems does Adam have?",
       "a": ["Dysarthria", "Wernicke’s aphasia", "Broca’s aphasia", "Alexia", "Word deafness"],
       "c": 2,
-      "l": "Nonfluent speech with preserved comprehension = Broca’s aphasia."
+      "l": "Nonfluent, effortful speech with preserved comprehension indicates Broca’s (expressive) aphasia."
     },
+
     {
       "q": "Cerebral dominance refers to:",
       "a": ["That hemisphere which is more tactual", "That hemisphere which controls left or right-handed writers", "That hemisphere where speech and language is controlled", "That hemisphere which receives the majority of corpus callosum fibers"],
       "c": 2,
-      "l": "Dominant hemisphere controls language."
+      "l": "The dominant hemisphere (usually left) is defined by control of language and speech functions."
     },
     {
       "q": "A 64-year-old woman is admitted to the emergency room after she experienced dizziness. Several days later, a neurological examination reveals that the patient is unable to move her right eye medially. Which of the following is the likely locus of the lesion?",
       "a": ["Dorsal medulla", "Ventromedial medulla", "Dorsal pons", "Ventromedial pons", "Medial midbrain"],
       "c": 2,
-      "l": "MLF lesion → dorsal pons."
+      "l": "Failure of medial eye movement (adduction) suggests internuclear ophthalmoplegia due to MLF lesion in the dorsal pons."
     },
     {
       "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
       "a": ["Angular gyrus + supramarginal gyrus", "Anterior + posterior paracentral gyri", "Lingual gyrus", "Inferior frontal gyrus", "Parahippocampal gyrus"],
       "c": 3,
-      "l": "Inferior frontal gyrus (Broca’s area)."
+      "l": "The inferior frontal gyrus (Broca’s area) is responsible for speech production—lesions cause expressive aphasia."
     },
     {
-      "q": "A 55-year-old man lost consciousness suddenly... Which syndrome could possibly present these signs and symptoms?",
+      "q": "A 55-year-old man lost consciousness suddenly. Upon regaining consciousness, he complained of double vision and a tremor in his left arm. He was mentally intact and his speech was articulate and appropriate. The right eye had a dilated pupil and he had altered strabismus. On attempted lateral gaze to the left, the right eye would not cross the midline. Although vision was normal, the right pupil did not constrict in either direct or consensual pupillary light reflex. Hearing was normal, as were the rest of the cranial nerves from 5–12. Pain and temperature sensation from the body and face were normal bilaterally. There was diminished vibratory sense and muscle strength in the left arm, which also showed an intention tremor, dysmetria, and occasional involuntary movements. Which of the following syndrome could possibly present these signs and symptoms?",
       "a": ["Horner’s syndrome", "Weber’s syndrome", "Benedict’s syndrome", "Wallenberg’s syndrome"],
       "c": 2,
-      "l": "Benedict’s syndrome = CN III + red nucleus."
+      "l": "Midbrain lesion affecting CN III, red nucleus, and medial lemniscus causes oculomotor palsy with contralateral ataxia and tremor (Benedict’s syndrome)."
     },
     {
-      "q": "A 69-year-old man... hemorrhagic stroke in the internal capsule. Which location?",
+      "q": "A 69-year-old man is brought to the Emergency Department by local EMS. He is somewhat somnolent and complains of a headache. The examination reveals normal cranial nerve function but a profound right-sided weakness and loss of pain sensation and discriminative touch in his right upper and lower extremities. MRI reveals a hemorrhagic stroke in the internal capsule. Based on this man’s deficits, this lesion is most likely located in which of the following?",
       "a": ["Anterior limb", "Genu", "Posterior limb", "Retrolenticular limb", "Sublenticular limb"],
       "c": 2,
-      "l": "Posterior limb carries motor + sensory."
+      "l": "The posterior limb of the internal capsule carries corticospinal and sensory fibers."
     },
     {
-      "q": "A 59-year-old morbidly obese man... flailing movements. Which nucleus?",
+      "q": "A 59-year-old morbidly obese man is brought to the Emergency Department following an episode at his home. The history reveals that the man has uncontrolled diabetes and hypertension. The precipitating factor for this visit was the sudden onset of involuntary flailing movements of his right upper extremity, which occur intermittently without warning. MRI reveals a well-localized infarct in the diencephalon. This lesion is most likely located in which of the following nuclei of the diencephalon?",
       "a": ["Anterior", "Centromedian", "Subthalamic", "Ventral lateral", "Ventral posteromedial"],
       "c": 2,
-      "l": "Subthalamic lesion → hemiballismus."
+      "l": "Lesion of the subthalamic nucleus causes hemiballismus."
     },
     {
-      "q": "The family of a 55-year-old female... tumor causing motor deficits. Which region?",
+      "q": "The family of a 55-year-old female noticed that she was experiencing headaches, having difficulty completing mechanical tasks such as tying her right shoelace, and inability to voluntarily move her eyes to the right. After being hospitalized, an MRI (shown in the following picture) revealed the presence of a tumor. Which of the following regions was primarily affected by the tumor that best accounts for the observed deficits?",
       "a": ["Prefrontal cortex", "Premotor region", "Precentral gyrus", "Basal ganglia"],
       "c": 2,
-      "l": "Precentral gyrus = primary motor cortex."
+      "l": "The precentral gyrus (primary motor cortex) controls voluntary movement of the contralateral body."
     },
     {
       "q": "A lesion in the cerebellopontine angle produces?",
       "a": ["Facial palsy", "Loss of hearing", "Both A and B", "None of the above is correct"],
       "c": 2,
-      "l": "CPA → CN VII & VIII."
+      "l": "CPA lesions affect CN VII and VIII."
     },
     {
-      "q": "A 52-year-old male... tumor causing weakness and facial deficit. Which structure?",
+      "q": "A 52-year-old male is admitted to a local hospital after he first began complaining of headaches, which were then followed by a significant weakness in his right arm and leg, slurred speech, and lack of expression on the right side of the jaw. An MRI reveals the presence of a well-defined brain tumor (shown in the picture below). Which of the following structures or regions damaged by the tumor best accounts for the observed deficits?",
       "a": ["Internal capsule", "Caudate nucleus", "Globus pallidus"],
       "c": 0,
-      "l": "Internal capsule carries motor fibers."
+      "l": "The internal capsule contains major motor pathways."
     },
     {
-      "q": "After his wife had a stroke... neglect of left side. Which area?",
+      "q": "After his wife had a stroke, a husband notices that his wife's hair is always tangled and uncombed on the left side of her head, although on the right her hair is straightened and orderly. The left side of her face is usually with food remaining there, but the right face is always clean. She has stopped putting her ring and watch on her left hand. When eating, she never uses her fork on the left side of her plate and, surprisingly, she often asks why she was not given a fork to eat with. This woman's stroke most likely damaged which area?",
       "a": ["Parietal lobe", "Temporal lobe", "Occipital lobe", "Premotor cortex of frontal lobe", "Orbitomedial cortex of frontal lobe"],
       "c": 0,
-      "l": "Right parietal lesion → hemispatial neglect."
+      "l": "Damage to the right parietal lobe causes contralateral hemispatial neglect."
     }
   ]
 }
