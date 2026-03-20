@@ -5,63 +5,63 @@
     "title": "🧠 Neuro Block 2",
     "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
   },
-"sections": [
-  {
-    "id": "neuro-high-yield",
-    "title": "",
-    "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
-    "topics": [
-      {
-        "header": "Eye Movement & Gaze Control",
-        "content": "<ul><li><b>PPRF (Pons):</b> Horizontal gaze center → coordinates CN VI + CN III via MLF.</li><li><b>Frontal Eye Field (Area 8):</b> Drives contralateral gaze.</li><li><b>MLF:</b> Connects CN III & VI → lesion = INO (adduction failure + nystagmus).</li><li><b>INO:</b> Convergence intact (NOT CN III palsy).</li><li><b>One-and-a-half:</b> PPRF + MLF lesion → only one eye abducts.</li><li><b>Eight-and-a-half:</b> + CN VII palsy → facial weakness.</li></ul>"
-      },
-      {
-        "header": "Pupillary Reflex & Midbrain",
-        "content": "<ul><li><b>CN II → Pretectal → bilateral EW nuclei → CN III:</b> Pupillary constriction.</li><li><b>Pretectal lesion:</b> Loss of direct + consensual reflex.</li><li><b>CN III:</b> Eye down & out + ptosis + dilated pupil.</li><li><b>Nucleus of Cajal:</b> Vertical gaze holding.</li><li><b>Superior colliculus:</b> Visual reflex + head/eye movement (tectospinal/tectobulbar).</li></ul>"
-      },
-      {
-        "header": "Brainstem Localization (Rule Focus)",
-        "content": "<ul><li><b>Medial (3 M's):</b> Motor (corticospinal), Medial lemniscus, Motor CN (III, VI, XII).</li><li><b>Lateral:</b> Spinothalamic, CN V sensory, Sympathetic (Horner), Cerebellum.</li><li><b>Key:</b> Ipsilateral CN signs + contralateral body deficits.</li></ul>"
-      },
-      {
-        "header": "High-Yield Brainstem Syndromes",
-        "content": "<ul><li><b>Medial Medullary (ASA):</b> Contralateral paralysis + vibration loss + tongue deviation (toward lesion).</li><li><b>Wallenberg (PICA):</b> Dysphagia + hoarseness + ipsi face pain + contra body pain + Horner.</li><li><b>Medial Pontine:</b> CN VI palsy + contralateral hemiplegia.</li><li><b>Lateral Pontine (AICA):</b> Facial paralysis + hearing loss.</li><li><b>Weber (Midbrain):</b> CN III palsy + contralateral hemiplegia.</li><li><b>Benedict/Claude:</b> CN III + tremor/ataxia (tegmentum).</li><li><b>Parinaud:</b> Upward gaze palsy + light-near dissociation.</li></ul>"
-      },
-      {
-        "header": "Blood Supply (Ultra High Yield)",
-        "content": "<ul><li><b>PICA:</b> Lateral medulla → Wallenberg.</li><li><b>ASA:</b> Medial medulla.</li><li><b>AICA:</b> Lateral pons → facial + auditory.</li><li><b>Basilar:</b> Pons → locked-in.</li><li><b>PCA:</b> Midbrain syndromes.</li></ul>"
-      },
-      {
-        "header": "Cerebellum",
-        "content": "<ul><li><b>Function:</b> Coordination (NOT strength).</li><li><b>Vermis lesion:</b> Truncal ataxia.</li><li><b>Hemisphere lesion:</b> Ipsilateral limb ataxia.</li><li><b>Signs:</b> Dysmetria, intention tremor, dysdiadochokinesia.</li><li><b>Purkinje cells:</b> Only output (inhibitory).</li></ul>"
-      },
-      {
-        "header": "Cerebellopontine Angle",
-        "content": "<ul><li><b>CN VII + VIII:</b> Facial paralysis + hearing loss.</li><li><b>Cause:</b> Vestibular schwannoma.</li><li><b>Key clue:</b> Facial + auditory symptoms together.</li></ul>"
-      },
-      {
-        "header": "Inferior Olive & Guillain-Mollaret",
-        "content": "<ul><li><b>Pathway:</b> Dentate → Red nucleus → Inferior olive.</li><li><b>Lesion:</b> Hypertrophy (unique).</li><li><b>Signs:</b> Palatal myoclonus + ocular oscillations.</li></ul>"
-      },
-      {
-        "header": "Basal Ganglia Pathways",
-        "content": "<ul><li><b>Direct:</b> Facilitates movement (D1 ↑).</li><li><b>Indirect:</b> Inhibits movement (D2 ↓).</li><li><b>Dopamine:</b> Promotes movement (↑ direct, ↓ indirect).</li><li><b>Thalamus (VA/VL):</b> Output to cortex.</li></ul>"
-      },
-      {
-        "header": "Basal Ganglia Diseases",
-        "content": "<ul><li><b>Parkinson:</b> Dopamine ↓ → TRAP (tremor, rigidity, akinesia, postural instability).</li><li><b>Huntington:</b> AD, CAG repeat → chorea + dementia.</li><li><b>Wilson:</b> Copper → KF rings + movement + liver.</li><li><b>Hemiballismus:</b> STN lesion → flinging movements.</li><li><b>Sydenham:</b> Post-strep chorea (kids).</li><li><b>Tourette:</b> Motor + vocal tics.</li></ul>"
-      },
-      {
-        "header": "Pons (Exam Favorite)",
-        "content": "<ul><li><b>CN:</b> V, VI, VII, VIII.</li><li><b>PPRF:</b> Horizontal gaze.</li><li><b>Middle cerebellar peduncle:</b> Largest → coordination.</li><li><b>Lesions:</b> Facial + eye movement + motor signs.</li></ul>"
-      },
-      {
-        "header": "Exam Strategy",
-        "content": "<ul><li><b>Always localize:</b> Medial vs lateral + level (medulla, pons, midbrain).</li><li><b>Eye signs:</b> INO → MLF, gaze palsy → PPRF.</li><li><b>Facial weakness:</b> LMN = whole face, UMN = forehead spared.</li><li><b>CN combos:</b> VII + VIII = CP angle.</li><li><b>Movement disorder:</b> Think basal ganglia pathways.</li></ul>"
-      }
-    ]
-  }
-],
+  "sections": [
+    {
+      "id": "neuro-high-yield",
+      "title": "",
+      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+      "topics": [
+        {
+          "header": "Eye Movement & Gaze Control",
+          "content": "<ul><li><b>PPRF (Pons):</b> Horizontal gaze center → coordinates CN VI + CN III via MLF.</li><li><b>Frontal Eye Field (Area 8):</b> Drives contralateral gaze.</li><li><b>MLF:</b> Connects CN III & VI → lesion = INO (adduction failure + nystagmus).</li><li><b>INO:</b> Convergence intact (NOT CN III palsy).</li><li><b>One-and-a-half:</b> PPRF + MLF lesion → only one eye abducts.</li><li><b>Eight-and-a-half:</b> + CN VII palsy → facial weakness.</li></ul>"
+        },
+        {
+          "header": "Pupillary Reflex & Midbrain",
+          "content": "<ul><li><b>CN II → Pretectal → bilateral EW nuclei → CN III:</b> Pupillary constriction.</li><li><b>Pretectal lesion:</b> Loss of direct + consensual reflex.</li><li><b>CN III:</b> Eye down & out + ptosis + dilated pupil.</li><li><b>Nucleus of Cajal:</b> Vertical gaze holding.</li><li><b>Superior colliculus:</b> Visual reflex + head/eye movement (tectospinal/tectobulbar).</li></ul>"
+        },
+        {
+          "header": "Brainstem Localization (Rule Focus)",
+          "content": "<ul><li><b>Medial (3 M's):</b> Motor (corticospinal), Medial lemniscus, Motor CN (III, VI, XII).</li><li><b>Lateral:</b> Spinothalamic, CN V sensory, Sympathetic (Horner), Cerebellum.</li><li><b>Key:</b> Ipsilateral CN signs + contralateral body deficits.</li></ul>"
+        },
+        {
+          "header": "High-Yield Brainstem Syndromes",
+          "content": "<ul><li><b>Medial Medullary (ASA):</b> Contralateral paralysis + vibration loss + tongue deviation (toward lesion).</li><li><b>Wallenberg (PICA):</b> Dysphagia + hoarseness + ipsi face pain + contra body pain + Horner.</li><li><b>Medial Pontine:</b> CN VI palsy + contralateral hemiplegia.</li><li><b>Lateral Pontine (AICA):</b> Facial paralysis + hearing loss.</li><li><b>Weber (Midbrain):</b> CN III palsy + contralateral hemiplegia.</li><li><b>Benedict/Claude:</b> CN III + tremor/ataxia (tegmentum).</li><li><b>Parinaud:</b> Upward gaze palsy + light-near dissociation.</li></ul>"
+        },
+        {
+          "header": "Blood Supply (Ultra High Yield)",
+          "content": "<ul><li><b>PICA:</b> Lateral medulla → Wallenberg.</li><li><b>ASA:</b> Medial medulla.</li><li><b>AICA:</b> Lateral pons → facial + auditory.</li><li><b>Basilar:</b> Pons → locked-in.</li><li><b>PCA:</b> Midbrain syndromes.</li></ul>"
+        },
+        {
+          "header": "Cerebellum",
+          "content": "<ul><li><b>Function:</b> Coordination (NOT strength).</li><li><b>Vermis lesion:</b> Truncal ataxia.</li><li><b>Hemisphere lesion:</b> Ipsilateral limb ataxia.</li><li><b>Signs:</b> Dysmetria, intention tremor, dysdiadochokinesia.</li><li><b>Purkinje cells:</b> Only output (inhibitory).</li></ul>"
+        },
+        {
+          "header": "Cerebellopontine Angle",
+          "content": "<ul><li><b>CN VII + VIII:</b> Facial paralysis + hearing loss.</li><li><b>Cause:</b> Vestibular schwannoma.</li><li><b>Key clue:</b> Facial + auditory symptoms together.</li></ul>"
+        },
+        {
+          "header": "Inferior Olive & Guillain-Mollaret",
+          "content": "<ul><li><b>Pathway:</b> Dentate → Red nucleus → Inferior olive.</li><li><b>Lesion:</b> Hypertrophy (unique).</li><li><b>Signs:</b> Palatal myoclonus + ocular oscillations.</li></ul>"
+        },
+        {
+          "header": "Basal Ganglia Pathways",
+          "content": "<ul><li><b>Direct:</b> Facilitates movement (D1 ↑).</li><li><b>Indirect:</b> Inhibits movement (D2 ↓).</li><li><b>Dopamine:</b> Promotes movement (↑ direct, ↓ indirect).</li><li><b>Thalamus (VA/VL):</b> Output to cortex.</li></ul>"
+        },
+        {
+          "header": "Basal Ganglia Diseases",
+          "content": "<ul><li><b>Parkinson:</b> Dopamine ↓ → TRAP (tremor, rigidity, akinesia, postural instability).</li><li><b>Huntington:</b> AD, CAG repeat → chorea + dementia.</li><li><b>Wilson:</b> Copper → KF rings + movement + liver.</li><li><b>Hemiballismus:</b> STN lesion → flinging movements.</li><li><b>Sydenham:</b> Post-strep chorea (kids).</li><li><b>Tourette:</b> Motor + vocal tics.</li></ul>"
+        },
+        {
+          "header": "Pons (Exam Favorite)",
+          "content": "<ul><li><b>CN:</b> V, VI, VII, VIII.</li><li><b>PPRF:</b> Horizontal gaze.</li><li><b>Middle cerebellar peduncle:</b> Largest → coordination.</li><li><b>Lesions:</b> Facial + eye movement + motor signs.</li></ul>"
+        },
+        {
+          "header": "Exam Strategy",
+          "content": "<ul><li><b>Always localize:</b> Medial vs lateral + level (medulla, pons, midbrain).</li><li><b>Eye signs:</b> INO → MLF, gaze palsy → PPRF.</li><li><b>Facial weakness:</b> LMN = whole face, UMN = forehead spared.</li><li><b>CN combos:</b> VII + VIII = CP angle.</li><li><b>Movement disorder:</b> Think basal ganglia pathways.</li></ul>"
+        }
+      ]
+    }
+  ],
   "quizzes": {
     "neuro_batch1": [
       {
@@ -314,441 +314,441 @@
         "h": "Neglect of left side = right parietal lobe"
       }
     ],
-   "neuro_batch2": [
-  {
-    "q": "The Purkinje cells of the cerebellar cortex:",
-    "a": [
-      "Provides the only output to the deep cerebellar nuclei",
-      "Receives inhibitory input from climbing fibers",
-      "Send axons to the thalamus",
-      "Are excited by the axons of the basket cells"
+    "neuro_batch2": [
+      {
+        "q": "The Purkinje cells of the cerebellar cortex:",
+        "a": [
+          "Provides the only output to the deep cerebellar nuclei",
+          "Receives inhibitory input from climbing fibers",
+          "Send axons to the thalamus",
+          "Are excited by the axons of the basket cells"
+        ],
+        "c": 0,
+        "l": "Purkinje cells are the sole output neurons of the cerebellar cortex and send inhibitory (GABAergic) signals to deep cerebellar nuclei.",
+        "h": "Only output of cerebellar cortex → Purkinje cells"
+      },
+      {
+        "q": "Lucy is a 55-year-old woman with a history of hypertension and diabetes for more than 15 years. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Her speech was slurred and unintelligible. She lay on the floor and waited for help to arrive. At the emergency room, she was found to follow commands well, and although her speech was very slurred, it was logical in organization. The lower two-thirds of her face pointed to the right side when asked to protrude her tongue. Her right arm and leg were severely but equally weak. The left side was normal. Where is the lesion most likely located?",
+        "a": [
+          "Left precentral gyrus",
+          "Right precentral gyrus",
+          "Left internal capsule",
+          "Right putamen or globus pallidus",
+          "Left thalamus"
+        ],
+        "c": 2,
+        "l": "Equal contralateral face, arm, and leg weakness with dysarthria indicates a lacunar stroke of the internal capsule due to small vessel disease from hypertension and diabetes.",
+        "h": "Equal face + arm + leg weakness → internal capsule (pure motor stroke)"
+      },
+      {
+        "q": "Which of the following nuclei in the thalamus projects to area 3, 1, 2 of the cortex?",
+        "a": [
+          "Dorsomedial",
+          "Lateral geniculate",
+          "Ventral posteromedial",
+          "Ventral posterolateral"
+        ],
+        "c": 3,
+        "l": "Area 3, 1, 2 is the primary somatosensory cortex. The Ventral Posterolateral (VPL) nucleus relays sensory information (pain, temperature, touch, proprioception) from the body to this cortical area.",
+        "h": "Body sensation → VPL → Somatosensory cortex (3, 1, 2)"
+      },
+      {
+        "q": "Heschl’s convolutions are located in which of the following areas?",
+        "a": [
+          "Brodmann’s areas 41, 42",
+          "Centre for defecation and micturition",
+          "Brodmann’s area 43",
+          "Anterior (motor) speech area",
+          "Primary motor cortex"
+        ],
+        "c": 0,
+        "l": "Heschl’s gyrus (transverse temporal gyri) represents the primary auditory cortex, located in the superior temporal lobe (Brodmann areas 41 & 42).",
+        "h": "Heschl’s gyrus = Primary auditory cortex (BA 41, 42)"
+      },
+      {
+        "q": "A 55-year-old overweight man collapsed while loading a truck. Examination revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the left side of the body. These findings suggest:",
+        "a": [
+          "A lesion in the left medial medulla",
+          "A lesion in the right medial pons",
+          "A lesion in the right medial medulla",
+          "A lesion in the lateral medulla",
+          "A lesion in the left medial pons"
+        ],
+        "c": 0,
+        "l": "Medial Medullary Syndrome (Dejerine syndrome) involves the pyramid (contralateral hemiparesis), medial lemniscus (contralateral vibration loss), and CN XII (ipsilateral tongue deviation). Tongue deviates toward the lesion side (Left).",
+        "h": "Contralateral motor/sensory + Ipsilateral tongue = Medial Medulla"
+      },
+      {
+        "q": "Symptoms of cerebellar disease include all of the following EXCEPT:",
+        "a": [
+          "Tremors while performing movements",
+          "Ataxia",
+          "Dysarthria",
+          "Paralysis"
+        ],
+        "c": 3,
+        "l": "The cerebellum coordinates movement but does not initiate it. Lesions cause ataxia, intention tremors, and dysarthria, but NOT paralysis (which is a sign of UMN/LMN lesions).",
+        "h": "Cerebellum = Coordination; Motor initiation = Cortex (Paralysis ≠ Cerebellum)"
+      },
+      {
+        "q": "A 40-year-old male has difficulty producing a smile from the left side of his face. Muscles are flaccid and the eyelids are open. Where do the cell bodies of origin within the CNS lie?",
+        "a": [
+          "Upper medulla",
+          "Lower pons",
+          "Upper pons",
+          "Lower midbrain",
+          "Upper midbrain"
+        ],
+        "c": 1,
+        "l": "This describes a Bell's palsy or Lower Motor Neuron facial nerve (CN VII) lesion. The facial nerve nucleus is located in the lower pons.",
+        "h": "Facial nerve nucleus (CN VII) → Lower pons"
+      },
+      {
+        "q": "The lateral geniculate body:",
+        "a": [
+          "Transmits visual information to the cerebral cortex",
+          "Is part of the mesencephalon",
+          "Is a visual motor reflex center",
+          "Relays auditory information to the cerebral cortex",
+          "All of the above"
+        ],
+        "c": 0,
+        "l": "The Lateral Geniculate Nucleus (LGN) of the thalamus is the primary relay station for visual information from the retina to the primary visual cortex (BA 17).",
+        "h": "LGN = Light (Visual relay)"
+      },
+      {
+        "q": "A 50-year-old woman has right-sided spastic paralysis, loss of vibratory sense on the right, and internuclear ophthalmoplegia (INO) where the left eye would not adduct. Her tongue deviated toward the right. Where is the site of lesion?",
+        "a": [
+          "Medulla",
+          "Pons",
+          "Midbrain",
+          "Cerebral cortex",
+          "Difficulty to diagnose"
+        ],
+        "c": 1,
+        "l": "The presence of Internuclear Ophthalmoplegia (INO) signifies a lesion of the Medial Longitudinal Fasciculus (MLF), which is a classic localizing sign for the pons.",
+        "h": "INO (MLF lesion) = Pons"
+      },
+      {
+        "q": "A 62-year-old man presents with slow shuffling gait, stooped posture, masked facies, micrographia, and a resting pill-rolling tremor. What is the diagnosis?",
+        "a": [
+          "Lateral medullary syndrome",
+          "Sign of cerebellar lesion",
+          "Parkinson’s disease",
+          "Unable to diagnose"
+        ],
+        "c": 2,
+        "l": "Parkinson’s disease is characterized by the 'TRAP' mnemonic: Tremor (resting), Rigidity, Akinesia/bradykinesia, and Postural instability, along with masked facies and micrographia.",
+        "h": "Pill-rolling tremor + Shuffling gait + Masked facies = Parkinson’s"
+      },
+      {
+        "q": "A 70-year-old woman presents with the complaint of difficulty walking. The history reveals that the woman suddenly had problems while she was playing with her granddaughter at the local park. The examination reveals a slender, otherwise healthy woman who has ataxia and is unable to do the finger-to-nose and the heel-to-shin tests on the right, and has slurred, garbled speech. Which of the following specifically describes the pattern of movement in this woman?",
+        "a": [
+          "Apraxia",
+          "Dysarthria",
+          "Dyslexia",
+          "Dysmetria",
+          "Dysphagia"
+        ],
+        "c": 3,
+        "l": "Dysmetria is a cerebellar sign characterized by inability to accurately judge distance, leading to overshooting or undershooting during movements like finger-to-nose testing.",
+        "h": "Finger-to-nose error + ataxia = dysmetria"
+      },
+      {
+        "q": "A patient who suffers from chronic alcohol abuse, which affects neurons in the cerebellum, will most likely:",
+        "a": [
+          "Have a scanning dysarthria",
+          "Have a dysdiadochokinesia",
+          "Have an ataxic gait",
+          "Have a dysmetria"
+        ],
+        "c": 2,
+        "l": "Chronic alcohol abuse commonly damages the anterior vermis of the cerebellum, leading to gait ataxia (truncal instability).",
+        "h": "Alcohol → anterior vermis → gait ataxia"
+      },
+      {
+        "q": "Which cortical area is responsible for taste recognition?",
+        "a": [
+          "Brodmann’s areas 41, 42",
+          "Centre for defecation and micturition",
+          "Brodmann’s area 43",
+          "Anterior (motor) speech area",
+          "Primary motor cortex"
+        ],
+        "c": 2,
+        "l": "Brodmann area 43 corresponds to the gustatory cortex responsible for taste perception.",
+        "h": "Taste = BA 43"
+      },
+      {
+        "q": "Huntington’s disease is characterized by neuronal degeneration in which of the following structures?",
+        "a": [
+          "Striatum",
+          "Globus pallidus, internal segment",
+          "Globus pallidus, external segment",
+          "Substantia nigra",
+          "Thalamus"
+        ],
+        "c": 0,
+        "l": "Huntington’s disease involves degeneration of GABAergic neurons in the striatum (especially the caudate nucleus), leading to chorea.",
+        "h": "Huntington = caudate (striatum)"
+      },
+      {
+        "q": "Which of the following is an excitatory neuron within the cerebellar cortex?",
+        "a": [
+          "Basket cell",
+          "Golgi cell",
+          "Granule cell",
+          "Purkinje cell",
+          "Stellate cell"
+        ],
+        "c": 2,
+        "l": "Granule cells are the only excitatory neurons in the cerebellar cortex, while all others (Purkinje, basket, stellate, Golgi) are inhibitory.",
+        "h": "Only excitatory = granule cell"
+      },
+      {
+        "q": "A 35-year-old woman is brought to her family physician by her husband. The results of the examination reveal deficits that suggest the woman has had a precipitous vascular event. A CT is ordered, revealing a small stroke in the genu of the internal capsule. Which of the following fiber populations is most affected in this woman's stroke?",
+        "a": [
+          "Corticonigral",
+          "Corticopontine",
+          "Corticospinal",
+          "Corticostriatal",
+          "Corticonuclear"
+        ],
+        "c": 4,
+        "l": "The genu of the internal capsule contains corticonuclear (corticobulbar) fibers that control cranial nerve motor functions.",
+        "h": "Genu = corticonuclear"
+      },
+      {
+        "q": "The neural tract that connects Broca’s area (Brodmann’s 44) with Wernicke’s area (Brodmann’s 22) and regulates fluent speech is the:",
+        "a": [
+          "Fornix",
+          "Stria terminalis",
+          "Arcuate fasciculus",
+          "Corpus callosum",
+          "Superior longitudinal bundle"
+        ],
+        "c": 2,
+        "l": "The arcuate fasciculus connects Broca’s and Wernicke’s areas and is essential for coordinated speech; damage causes conduction aphasia.",
+        "h": "Broca ↔ Wernicke = arcuate fasciculus"
+      },
+      {
+        "q": "Which dopaminergic pathway projects mainly to the caudate nucleus?",
+        "a": [
+          "Nigrostriatal pathway",
+          "The medial longitudinal fasciculus",
+          "Both A and B",
+          "None of the above"
+        ],
+        "c": 0,
+        "l": "The nigrostriatal pathway carries dopamine from the substantia nigra to the striatum (caudate and putamen) and is essential for movement control.",
+        "h": "Nigrostriatal = movement"
+      },
+      {
+        "q": "A 63-year-old patient is seen in a clinic with the following symptoms: a resting tremor in the hand, a slow shuffling gait, and difficulty arising from a chair when seated. These symptoms could be caused by a lesion in the:",
+        "a": [
+          "Subthalamic nucleus",
+          "Cerebellar hemisphere",
+          "Corticospinal tract",
+          "Substantia nigra"
+        ],
+        "c": 3,
+        "l": "Degeneration of dopaminergic neurons in the substantia nigra causes Parkinson’s disease, characterized by tremor, rigidity, and bradykinesia.",
+        "h": "Parkinson = substantia nigra"
+      },
+      {
+        "q": "Gamma aminobutyric acid (GABA) is considered the predominant neurotransmitter in all of the following except?",
+        "a": [
+          "Strionigral fibers",
+          "Striopallidal fibers",
+          "Corticostriate fibers",
+          "Pallidonigral fibers"
+        ],
+        "c": 2,
+        "l": "Corticostriate fibers use glutamate (excitatory), whereas basal ganglia intrinsic pathways (striatal and pallidal) primarily use GABA (inhibitory).",
+        "h": "Cortex = glutamate, not GABA"
+      }
     ],
-    "c": 0,
-    "l": "Purkinje cells are the sole output neurons of the cerebellar cortex and send inhibitory (GABAergic) signals to deep cerebellar nuclei.",
-    "h": "Only output of cerebellar cortex → Purkinje cells"
-  },
-  {
-    "q": "Lucy is a 55-year-old woman with a history of hypertension and diabetes for more than 15 years. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Her speech was slurred and unintelligible. She lay on the floor and waited for help to arrive. At the emergency room, she was found to follow commands well, and although her speech was very slurred, it was logical in organization. The lower two-thirds of her face pointed to the right side when asked to protrude her tongue. Her right arm and leg were severely but equally weak. The left side was normal. Where is the lesion most likely located?",
-    "a": [
-      "Left precentral gyrus",
-      "Right precentral gyrus",
-      "Left internal capsule",
-      "Right putamen or globus pallidus",
-      "Left thalamus"
-    ],
-    "c": 2,
-    "l": "Equal contralateral face, arm, and leg weakness with dysarthria indicates a lacunar stroke of the internal capsule due to small vessel disease from hypertension and diabetes.",
-    "h": "Equal face + arm + leg weakness → internal capsule (pure motor stroke)"
-  },
-  {
-    "q": "Which of the following nuclei in the thalamus projects to area 3, 1, 2 of the cortex?",
-    "a": [
-      "Dorsomedial",
-      "Lateral geniculate",
-      "Ventral posteromedial",
-      "Ventral posterolateral"
-    ],
-    "c": 3,
-    "l": "Area 3, 1, 2 is the primary somatosensory cortex. The Ventral Posterolateral (VPL) nucleus relays sensory information (pain, temperature, touch, proprioception) from the body to this cortical area.",
-    "h": "Body sensation → VPL → Somatosensory cortex (3, 1, 2)"
-  },
-  {
-    "q": "Heschl’s convolutions are located in which of the following areas?",
-    "a": [
-      "Brodmann’s areas 41, 42",
-      "Centre for defecation and micturition",
-      "Brodmann’s area 43",
-      "Anterior (motor) speech area",
-      "Primary motor cortex"
-    ],
-    "c": 0,
-    "l": "Heschl’s gyrus (transverse temporal gyri) represents the primary auditory cortex, located in the superior temporal lobe (Brodmann areas 41 & 42).",
-    "h": "Heschl’s gyrus = Primary auditory cortex (BA 41, 42)"
-  },
-  {
-    "q": "A 55-year-old overweight man collapsed while loading a truck. Examination revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the left side of the body. These findings suggest:",
-    "a": [
-      "A lesion in the left medial medulla",
-      "A lesion in the right medial pons",
-      "A lesion in the right medial medulla",
-      "A lesion in the lateral medulla",
-      "A lesion in the left medial pons"
-    ],
-    "c": 0,
-    "l": "Medial Medullary Syndrome (Dejerine syndrome) involves the pyramid (contralateral hemiparesis), medial lemniscus (contralateral vibration loss), and CN XII (ipsilateral tongue deviation). Tongue deviates toward the lesion side (Left).",
-    "h": "Contralateral motor/sensory + Ipsilateral tongue = Medial Medulla"
-  },
-  {
-    "q": "Symptoms of cerebellar disease include all of the following EXCEPT:",
-    "a": [
-      "Tremors while performing movements",
-      "Ataxia",
-      "Dysarthria",
-      "Paralysis"
-    ],
-    "c": 3,
-    "l": "The cerebellum coordinates movement but does not initiate it. Lesions cause ataxia, intention tremors, and dysarthria, but NOT paralysis (which is a sign of UMN/LMN lesions).",
-    "h": "Cerebellum = Coordination; Motor initiation = Cortex (Paralysis ≠ Cerebellum)"
-  },
-  {
-    "q": "A 40-year-old male has difficulty producing a smile from the left side of his face. Muscles are flaccid and the eyelids are open. Where do the cell bodies of origin within the CNS lie?",
-    "a": [
-      "Upper medulla",
-      "Lower pons",
-      "Upper pons",
-      "Lower midbrain",
-      "Upper midbrain"
-    ],
-    "c": 1,
-    "l": "This describes a Bell's palsy or Lower Motor Neuron facial nerve (CN VII) lesion. The facial nerve nucleus is located in the lower pons.",
-    "h": "Facial nerve nucleus (CN VII) → Lower pons"
-  },
-  {
-    "q": "The lateral geniculate body:",
-    "a": [
-      "Transmits visual information to the cerebral cortex",
-      "Is part of the mesencephalon",
-      "Is a visual motor reflex center",
-      "Relays auditory information to the cerebral cortex",
-      "All of the above"
-    ],
-    "c": 0,
-    "l": "The Lateral Geniculate Nucleus (LGN) of the thalamus is the primary relay station for visual information from the retina to the primary visual cortex (BA 17).",
-    "h": "LGN = Light (Visual relay)"
-  },
-  {
-    "q": "A 50-year-old woman has right-sided spastic paralysis, loss of vibratory sense on the right, and internuclear ophthalmoplegia (INO) where the left eye would not adduct. Her tongue deviated toward the right. Where is the site of lesion?",
-    "a": [
-      "Medulla",
-      "Pons",
-      "Midbrain",
-      "Cerebral cortex",
-      "Difficulty to diagnose"
-    ],
-    "c": 1,
-    "l": "The presence of Internuclear Ophthalmoplegia (INO) signifies a lesion of the Medial Longitudinal Fasciculus (MLF), which is a classic localizing sign for the pons.",
-    "h": "INO (MLF lesion) = Pons"
-  },
-  {
-    "q": "A 62-year-old man presents with slow shuffling gait, stooped posture, masked facies, micrographia, and a resting pill-rolling tremor. What is the diagnosis?",
-    "a": [
-      "Lateral medullary syndrome",
-      "Sign of cerebellar lesion",
-      "Parkinson’s disease",
-      "Unable to diagnose"
-    ],
-    "c": 2,
-    "l": "Parkinson’s disease is characterized by the 'TRAP' mnemonic: Tremor (resting), Rigidity, Akinesia/bradykinesia, and Postural instability, along with masked facies and micrographia.",
-    "h": "Pill-rolling tremor + Shuffling gait + Masked facies = Parkinson’s"
-  },
-    {
-    "q": "A 70-year-old woman presents with the complaint of difficulty walking. The history reveals that the woman suddenly had problems while she was playing with her granddaughter at the local park. The examination reveals a slender, otherwise healthy woman who has ataxia and is unable to do the finger-to-nose and the heel-to-shin tests on the right, and has slurred, garbled speech. Which of the following specifically describes the pattern of movement in this woman?",
-    "a": [
-      "Apraxia",
-      "Dysarthria",
-      "Dyslexia",
-      "Dysmetria",
-      "Dysphagia"
-    ],
-    "c": 3,
-    "l": "Dysmetria is a cerebellar sign characterized by inability to accurately judge distance, leading to overshooting or undershooting during movements like finger-to-nose testing.",
-    "h": "Finger-to-nose error + ataxia = dysmetria"
-  },
-  {
-    "q": "A patient who suffers from chronic alcohol abuse, which affects neurons in the cerebellum, will most likely:",
-    "a": [
-      "Have a scanning dysarthria",
-      "Have a dysdiadochokinesia",
-      "Have an ataxic gait",
-      "Have a dysmetria"
-    ],
-    "c": 2,
-    "l": "Chronic alcohol abuse commonly damages the anterior vermis of the cerebellum, leading to gait ataxia (truncal instability).",
-    "h": "Alcohol → anterior vermis → gait ataxia"
-  },
-  {
-    "q": "Which cortical area is responsible for taste recognition?",
-    "a": [
-      "Brodmann’s areas 41, 42",
-      "Centre for defecation and micturition",
-      "Brodmann’s area 43",
-      "Anterior (motor) speech area",
-      "Primary motor cortex"
-    ],
-    "c": 2,
-    "l": "Brodmann area 43 corresponds to the gustatory cortex responsible for taste perception.",
-    "h": "Taste = BA 43"
-  },
-  {
-    "q": "Huntington’s disease is characterized by neuronal degeneration in which of the following structures?",
-    "a": [
-      "Striatum",
-      "Globus pallidus, internal segment",
-      "Globus pallidus, external segment",
-      "Substantia nigra",
-      "Thalamus"
-    ],
-    "c": 0,
-    "l": "Huntington’s disease involves degeneration of GABAergic neurons in the striatum (especially the caudate nucleus), leading to chorea.",
-    "h": "Huntington = caudate (striatum)"
-  },
-  {
-    "q": "Which of the following is an excitatory neuron within the cerebellar cortex?",
-    "a": [
-      "Basket cell",
-      "Golgi cell",
-      "Granule cell",
-      "Purkinje cell",
-      "Stellate cell"
-    ],
-    "c": 2,
-    "l": "Granule cells are the only excitatory neurons in the cerebellar cortex, while all others (Purkinje, basket, stellate, Golgi) are inhibitory.",
-    "h": "Only excitatory = granule cell"
-  },
-  {
-    "q": "A 35-year-old woman is brought to her family physician by her husband. The results of the examination reveal deficits that suggest the woman has had a precipitous vascular event. A CT is ordered, revealing a small stroke in the genu of the internal capsule. Which of the following fiber populations is most affected in this woman's stroke?",
-    "a": [
-      "Corticonigral",
-      "Corticopontine",
-      "Corticospinal",
-      "Corticostriatal",
-      "Corticonuclear"
-    ],
-    "c": 4,
-    "l": "The genu of the internal capsule contains corticonuclear (corticobulbar) fibers that control cranial nerve motor functions.",
-    "h": "Genu = corticonuclear"
-  },
-  {
-    "q": "The neural tract that connects Broca’s area (Brodmann’s 44) with Wernicke’s area (Brodmann’s 22) and regulates fluent speech is the:",
-    "a": [
-      "Fornix",
-      "Stria terminalis",
-      "Arcuate fasciculus",
-      "Corpus callosum",
-      "Superior longitudinal bundle"
-    ],
-    "c": 2,
-    "l": "The arcuate fasciculus connects Broca’s and Wernicke’s areas and is essential for coordinated speech; damage causes conduction aphasia.",
-    "h": "Broca ↔ Wernicke = arcuate fasciculus"
-  },
-  {
-    "q": "Which dopaminergic pathway projects mainly to the caudate nucleus?",
-    "a": [
-      "Nigrostriatal pathway",
-      "The medial longitudinal fasciculus",
-      "Both A and B",
-      "None of the above"
-    ],
-    "c": 0,
-    "l": "The nigrostriatal pathway carries dopamine from the substantia nigra to the striatum (caudate and putamen) and is essential for movement control.",
-    "h": "Nigrostriatal = movement"
-  },
-  {
-    "q": "A 63-year-old patient is seen in a clinic with the following symptoms: a resting tremor in the hand, a slow shuffling gait, and difficulty arising from a chair when seated. These symptoms could be caused by a lesion in the:",
-    "a": [
-      "Subthalamic nucleus",
-      "Cerebellar hemisphere",
-      "Corticospinal tract",
-      "Substantia nigra"
-    ],
-    "c": 3,
-    "l": "Degeneration of dopaminergic neurons in the substantia nigra causes Parkinson’s disease, characterized by tremor, rigidity, and bradykinesia.",
-    "h": "Parkinson = substantia nigra"
-  },
-  {
-    "q": "Gamma aminobutyric acid (GABA) is considered the predominant neurotransmitter in all of the following except?",
-    "a": [
-      "Strionigral fibers",
-      "Striopallidal fibers",
-      "Corticostriate fibers",
-      "Pallidonigral fibers"
-    ],
-    "c": 2,
-    "l": "Corticostriate fibers use glutamate (excitatory), whereas basal ganglia intrinsic pathways (striatal and pallidal) primarily use GABA (inhibitory).",
-    "h": "Cortex = glutamate, not GABA"
-  }
-],
-"neuro_batch3": [
-  {
-    "q": "A lesion in the right paramedian pontine reticular formation (PPRF) would most likely result in:",
-    "a": [
-      "Inability of both eyes to look to the right",
-      "Inability of the right eye to adduct",
-      "Inability of the left eye to abduct",
-      "Loss of vertical gaze"
-    ],
-    "c": 0,
-    "l": "The PPRF is the horizontal gaze center. A lesion causes ipsilateral gaze palsy, meaning neither eye can look toward the side of the lesion.",
-    "h": "PPRF = horizontal gaze center → both eyes move together"
-  },
-  {
-    "q": "Which structure must be activated to initiate voluntary gaze to the left?",
-    "a": [
-      "Left frontal eye field",
-      "Right frontal eye field",
-      "Left abducens nucleus",
-      "Right oculomotor nucleus"
-    ],
-    "c": 1,
-    "l": "Frontal eye fields control contralateral gaze. The right frontal eye field activates the left PPRF to initiate leftward gaze.",
-    "h": "Frontal eye field → opposite direction gaze"
-  },
-  {
-    "q": "A destructive lesion of the left frontal eye field (Area 8) would cause the eyes to deviate:",
-    "a": [
-      "To the right",
-      "To the left",
-      "Upward",
-      "Downward"
-    ],
-    "c": 1,
-    "l": "A destructive lesion of the frontal eye field causes the eyes to deviate toward the side of the lesion due to unopposed activity of the opposite side.",
-    "h": "Destructive FEF lesion → eyes look toward lesion"
-  },
-  {
-  "q": "A lesion of the right medial longitudinal fasciculus (MLF) would most likely produce which of the following findings when attempting left gaze?",
-  "a": [
-    "Right eye fails to adduct and left eye shows nystagmus",
-    "Left eye fails to abduct",
-    "Both eyes fail to move",
-    "Right eye deviates downward and outward"
-  ],
-  "c": 0,
-  "l": "In internuclear ophthalmoplegia (INO), the eye on the side of the MLF lesion cannot adduct, and the contralateral abducting eye develops nystagmus.",
-  "h": "INO = ipsilateral adduction failure + contralateral nystagmus"
-},
-{
-  "q": "Which feature distinguishes internuclear ophthalmoplegia (INO) from an oculomotor nerve (CN III) palsy?",
-  "a": [
-    "Presence of ptosis",
-    "Impaired pupillary reflex",
-    "Preserved convergence",
-    "Eye deviated down and out"
-  ],
-  "c": 2,
-  "l": "In INO, convergence is preserved because it uses a pathway independent of the MLF, unlike CN III palsy where convergence is impaired.",
-  "h": "INO = convergence intact"
-},
-{
-  "q": "A young adult presents with bilateral internuclear ophthalmoplegia. What is the most likely underlying cause?",
-  "a": [
-    "Posterior communicating artery aneurysm",
-    "Multiple sclerosis",
-    "Basilar artery thrombosis",
-    "Diabetic neuropathy"
-  ],
-  "c": 1,
-  "l": "Bilateral INO is classically associated with multiple sclerosis, especially in younger patients.",
-  "h": "Young + bilateral INO = MS"
-},
-{
-  "q": "A lesion affecting both the right PPRF and right MLF would most likely result in which of the following findings?",
-  "a": [
-    "Neither eye can look right, and the right eye cannot adduct on left gaze",
-    "Both eyes cannot look left",
-    "Right eye cannot abduct and left eye cannot adduct",
-    "Only vertical gaze is impaired"
-  ],
-  "c": 0,
-  "l": "One-and-a-half syndrome combines ipsilateral gaze palsy (PPRF lesion) and INO (MLF lesion). Thus, neither eye looks toward the lesion, and the ipsilateral eye cannot adduct when looking away.",
-  "h": "One = gaze palsy, Half = INO"
-},
-{
-  "q": "In one-and-a-half syndrome, which eye movement is preserved?",
-  "a": [
-    "Adduction of the ipsilateral eye",
-    "Abduction of the contralateral eye",
-    "Adduction of the contralateral eye",
-    "All horizontal eye movements"
-  ],
-  "c": 1,
-  "l": "The only preserved movement is abduction of the contralateral eye, as the ipsilateral PPRF and MLF are both damaged.",
-  "h": "Only ONE eye moves ONE way"
-},
-{
-  "q": "A patient with one-and-a-half syndrome attempts to look away from the lesion side. What is observed?",
-  "a": [
-    "Ipsilateral eye fails to adduct, contralateral eye abducts with nystagmus",
-    "Both eyes fail to move",
-    "Ipsilateral eye abducts normally",
-    "Both eyes adduct normally"
-  ],
-  "c": 0,
-  "l": "When looking away from the lesion, the ipsilateral MLF lesion prevents adduction, while the contralateral eye abducts and often shows nystagmus (INO component).",
-  "h": "INO component = ipsilateral adduction failure"
-},
-{
-  "q": "A lesion in the facial colliculus region of the pons results in one-and-a-half syndrome plus ipsilateral facial paralysis. What is this condition called?",
-  "a": [
-    "Millard-Gubler syndrome",
-    "Eight-and-a-half syndrome",
-    "Wallenberg syndrome",
-    "Foville syndrome"
-  ],
-  "c": 1,
-  "l": "Eight-and-a-half syndrome is defined as one-and-a-half syndrome plus ipsilateral CN VII palsy due to involvement of the facial nerve fibers looping around the abducens nucleus.",
-  "h": "1½ + 7 = 8½ syndrome"
-},
-{
-  "q": "Which additional deficit distinguishes eight-and-a-half syndrome from one-and-a-half syndrome?",
-  "a": [
-    "Loss of vertical gaze",
-    "Ipsilateral lower motor neuron facial paralysis",
-    "Contralateral hemiplegia",
-    "Bilateral pupillary dilation"
-  ],
-  "c": 1,
-  "l": "Eight-and-a-half syndrome includes ipsilateral CN VII palsy, resulting in complete facial weakness on the same side.",
-  "h": "Add CN VII palsy"
-},
-{
-  "q": "A patient presents with inability to gaze toward the right, failure of the right eye to adduct on left gaze, and right-sided facial paralysis involving the forehead. Where is the lesion located?",
-  "a": [
-    "Left midbrain",
-    "Right pons",
-    "Left medulla",
-    "Right cerebellum"
-  ],
-  "c": 1,
-  "l": "This presentation is classic for eight-and-a-half syndrome, which localizes to the ipsilateral pons involving the PPRF, MLF, and CN VII fibers.",
-  "h": "One-and-a-half + facial palsy → pons"
-},
-{
-  "q": "Shining light in one eye normally causes constriction of both pupils. This is due to projections from the pretectal nucleus to:",
-  "a": [
-    "Only the ipsilateral Edinger-Westphal nucleus",
-    "Only the contralateral Edinger-Westphal nucleus",
-    "Bilateral Edinger-Westphal nuclei",
-    "The oculomotor nuclei only"
-  ],
-  "c": 2,
-  "l": "The pretectal nucleus sends bilateral projections to both Edinger-Westphal nuclei, producing both direct and consensual pupillary constriction.",
-  "h": "Pretectal → BOTH EW nuclei"
-},
-{
-  "q": "Which structure serves as the afferent limb of the pupillary light reflex?",
-  "a": [
-    "Oculomotor nerve (CN III)",
-    "Optic nerve (CN II)",
-    "Ciliary ganglion",
-    "Short ciliary nerves"
-  ],
-  "c": 1,
-  "l": "The afferent limb of the pupillary light reflex is carried by the optic nerve (CN II), which transmits light information to the pretectal nucleus.",
-  "h": "Afferent = CN II"
-},
-{
-  "q": "A lesion of the pretectal nucleus would most likely result in which of the following findings when light is shined in one eye?",
-  "a": [
-    "Only ipsilateral pupillary constriction",
-    "Only contralateral pupillary constriction",
-    "No direct or consensual pupillary constriction",
-    "Normal pupillary constriction in both eyes"
-  ],
-  "c": 2,
-  "l": "The pretectal nucleus is essential for relaying signals to both Edinger-Westphal nuclei. Damage results in loss of both direct and consensual light reflexes.",
-  "h": "Pretectal lesion → no light reflex at all"
-}
-]
+    "neuro_batch3": [
+      {
+        "q": "A lesion in the right paramedian pontine reticular formation (PPRF) would most likely result in:",
+        "a": [
+          "Inability of both eyes to look to the right",
+          "Inability of the right eye to adduct",
+          "Inability of the left eye to abduct",
+          "Loss of vertical gaze"
+        ],
+        "c": 0,
+        "l": "The PPRF is the horizontal gaze center. A lesion causes ipsilateral gaze palsy, meaning neither eye can look toward the side of the lesion.",
+        "h": "PPRF = horizontal gaze center → both eyes move together"
+      },
+      {
+        "q": "Which structure must be activated to initiate voluntary gaze to the left?",
+        "a": [
+          "Left frontal eye field",
+          "Right frontal eye field",
+          "Left abducens nucleus",
+          "Right oculomotor nucleus"
+        ],
+        "c": 1,
+        "l": "Frontal eye fields control contralateral gaze. The right frontal eye field activates the left PPRF to initiate leftward gaze.",
+        "h": "Frontal eye field → opposite direction gaze"
+      },
+      {
+        "q": "A destructive lesion of the left frontal eye field (Area 8) would cause the eyes to deviate:",
+        "a": [
+          "To the right",
+          "To the left",
+          "Upward",
+          "Downward"
+        ],
+        "c": 1,
+        "l": "A destructive lesion of the frontal eye field causes the eyes to deviate toward the side of the lesion due to unopposed activity of the opposite side.",
+        "h": "Destructive FEF lesion → eyes look toward lesion"
+      },
+      {
+        "q": "A lesion of the right medial longitudinal fasciculus (MLF) would most likely produce which of the following findings when attempting left gaze?",
+        "a": [
+          "Right eye fails to adduct and left eye shows nystagmus",
+          "Left eye fails to abduct",
+          "Both eyes fail to move",
+          "Right eye deviates downward and outward"
+        ],
+        "c": 0,
+        "l": "In internuclear ophthalmoplegia (INO), the eye on the side of the MLF lesion cannot adduct, and the contralateral abducting eye develops nystagmus.",
+        "h": "INO = ipsilateral adduction failure + contralateral nystagmus"
+      },
+      {
+        "q": "Which feature distinguishes internuclear ophthalmoplegia (INO) from an oculomotor nerve (CN III) palsy?",
+        "a": [
+          "Presence of ptosis",
+          "Impaired pupillary reflex",
+          "Preserved convergence",
+          "Eye deviated down and out"
+        ],
+        "c": 2,
+        "l": "In INO, convergence is preserved because it uses a pathway independent of the MLF, unlike CN III palsy where convergence is impaired.",
+        "h": "INO = convergence intact"
+      },
+      {
+        "q": "A young adult presents with bilateral internuclear ophthalmoplegia. What is the most likely underlying cause?",
+        "a": [
+          "Posterior communicating artery aneurysm",
+          "Multiple sclerosis",
+          "Basilar artery thrombosis",
+          "Diabetic neuropathy"
+        ],
+        "c": 1,
+        "l": "Bilateral INO is classically associated with multiple sclerosis, especially in younger patients.",
+        "h": "Young + bilateral INO = MS"
+      },
+      {
+        "q": "A lesion affecting both the right PPRF and right MLF would most likely result in which of the following findings?",
+        "a": [
+          "Neither eye can look right, and the right eye cannot adduct on left gaze",
+          "Both eyes cannot look left",
+          "Right eye cannot abduct and left eye cannot adduct",
+          "Only vertical gaze is impaired"
+        ],
+        "c": 0,
+        "l": "One-and-a-half syndrome combines ipsilateral gaze palsy (PPRF lesion) and INO (MLF lesion). Thus, neither eye looks toward the lesion, and the ipsilateral eye cannot adduct when looking away.",
+        "h": "One = gaze palsy, Half = INO"
+      },
+      {
+        "q": "In one-and-a-half syndrome, which eye movement is preserved?",
+        "a": [
+          "Adduction of the ipsilateral eye",
+          "Abduction of the contralateral eye",
+          "Adduction of the contralateral eye",
+          "All horizontal eye movements"
+        ],
+        "c": 1,
+        "l": "The only preserved movement is abduction of the contralateral eye, as the ipsilateral PPRF and MLF are both damaged.",
+        "h": "Only ONE eye moves ONE way"
+      },
+      {
+        "q": "A patient with one-and-a-half syndrome attempts to look away from the lesion side. What is observed?",
+        "a": [
+          "Ipsilateral eye fails to adduct, contralateral eye abducts with nystagmus",
+          "Both eyes fail to move",
+          "Ipsilateral eye abducts normally",
+          "Both eyes adduct normally"
+        ],
+        "c": 0,
+        "l": "When looking away from the lesion, the ipsilateral MLF lesion prevents adduction, while the contralateral eye abducts and often shows nystagmus (INO component).",
+        "h": "INO component = ipsilateral adduction failure"
+      },
+      {
+        "q": "A lesion in the facial colliculus region of the pons results in one-and-a-half syndrome plus ipsilateral facial paralysis. What is this condition called?",
+        "a": [
+          "Millard-Gubler syndrome",
+          "Eight-and-a-half syndrome",
+          "Wallenberg syndrome",
+          "Foville syndrome"
+        ],
+        "c": 1,
+        "l": "Eight-and-a-half syndrome is defined as one-and-a-half syndrome plus ipsilateral CN VII palsy due to involvement of the facial nerve fibers looping around the abducens nucleus.",
+        "h": "1½ + 7 = 8½ syndrome"
+      },
+      {
+        "q": "Which additional deficit distinguishes eight-and-a-half syndrome from one-and-a-half syndrome?",
+        "a": [
+          "Loss of vertical gaze",
+          "Ipsilateral lower motor neuron facial paralysis",
+          "Contralateral hemiplegia",
+          "Bilateral pupillary dilation"
+        ],
+        "c": 1,
+        "l": "Eight-and-a-half syndrome includes ipsilateral CN VII palsy, resulting in complete facial weakness on the same side.",
+        "h": "Add CN VII palsy"
+      },
+      {
+        "q": "A patient presents with inability to gaze toward the right, failure of the right eye to adduct on left gaze, and right-sided facial paralysis involving the forehead. Where is the lesion located?",
+        "a": [
+          "Left midbrain",
+          "Right pons",
+          "Left medulla",
+          "Right cerebellum"
+        ],
+        "c": 1,
+        "l": "This presentation is classic for eight-and-a-half syndrome, which localizes to the ipsilateral pons involving the PPRF, MLF, and CN VII fibers.",
+        "h": "One-and-a-half + facial palsy → pons"
+      },
+      {
+        "q": "Shining light in one eye normally causes constriction of both pupils. This is due to projections from the pretectal nucleus to:",
+        "a": [
+          "Only the ipsilateral Edinger-Westphal nucleus",
+          "Only the contralateral Edinger-Westphal nucleus",
+          "Bilateral Edinger-Westphal nuclei",
+          "The oculomotor nuclei only"
+        ],
+        "c": 2,
+        "l": "The pretectal nucleus sends bilateral projections to both Edinger-Westphal nuclei, producing both direct and consensual pupillary constriction.",
+        "h": "Pretectal → BOTH EW nuclei"
+      },
+      {
+        "q": "Which structure serves as the afferent limb of the pupillary light reflex?",
+        "a": [
+          "Oculomotor nerve (CN III)",
+          "Optic nerve (CN II)",
+          "Ciliary ganglion",
+          "Short ciliary nerves"
+        ],
+        "c": 1,
+        "l": "The afferent limb of the pupillary light reflex is carried by the optic nerve (CN II), which transmits light information to the pretectal nucleus.",
+        "h": "Afferent = CN II"
+      },
+      {
+        "q": "A lesion of the pretectal nucleus would most likely result in which of the following findings when light is shined in one eye?",
+        "a": [
+          "Only ipsilateral pupillary constriction",
+          "Only contralateral pupillary constriction",
+          "No direct or consensual pupillary constriction",
+          "Normal pupillary constriction in both eyes"
+        ],
+        "c": 2,
+        "l": "The pretectal nucleus is essential for relaying signals to both Edinger-Westphal nuclei. Damage results in loss of both direct and consensual light reflexes.",
+        "h": "Pretectal lesion → no light reflex at all"
+      }
+    ]
   }
 }
