@@ -5,43 +5,63 @@
     "title": "🧠 Neuro Block 2",
     "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
   },
-  "sections": [
-    {
-      "id": "neuro-high-yield",
-      "title": "",
-      "hint": "Focus on lesion localization, Rule of 4s, and vascular syndromes.",
-      "topics": [
-        {
-          "header": "Core Systems",
-          "content": "<ul><li><b>Brainstem:</b> Midbrain, Pons, Medulla → lesion localization is KEY.</li><li><b>Cerebellum:</b> Coordination, ataxia, intention tremor.</li><li><b>Basal Ganglia:</b> Movement disorders (Parkinson, Hemiballismus).</li><li><b>Thalamus:</b> Major sensory relay station.</li><li><b>Frontal Lobe:</b> Motor control + executive function.</li></ul>"
-        },
-        {
-          "header": "Rule of 4s (Brainstem Localization)",
-          "content": "<ul><li><b>4 Midline Structures:</b><ul><li>Motor pathway (corticospinal)</li><li>Medial lemniscus</li><li>MLF (internuclear ophthalmoplegia)</li><li>Motor cranial nerve nuclei</li></ul></li><li><b>4 Lateral Structures:</b><ul><li>Spinothalamic tract</li><li>Spinocerebellar tract</li><li>Sympathetic pathway (Horner syndrome)</li><li>Sensory cranial nerve nuclei</li></ul></li></ul>"
-        },
-        {
-          "header": "High-Yield Syndromes",
-          "content": "<ul><li><b>Wallenberg Syndrome (PICA):</b> Ipsilateral face pain loss + contralateral body pain loss + dysphagia.</li><li><b>Medial Medullary Syndrome (ASA):</b> Contralateral paralysis + tongue deviation.</li><li><b>Ventral Pontine Syndrome:</b> Corticobulbar + corticospinal → facial + body weakness.</li><li><b>MLF Syndrome (INO):</b> Eye cannot adduct + nystagmus of abducting eye.</li></ul>"
-        },
-        {
-          "header": "Basal Ganglia (Exam Favorites)",
-          "content": "<ul><li><b>Wilson Disease:</b> Copper accumulation → movement + psychiatric symptoms.</li><li><b>Hemiballismus:</b> Subthalamic nucleus lesion → flailing movements.</li><li><b>Parkinson Disease:</b> Dopamine ↓ → rigidity, tremor, bradykinesia.</li></ul>"
-        },
-        {
-          "header": "Blood Supply (Very High Yield)",
-          "content": "<ul><li><b>PICA:</b> Lateral medulla → Wallenberg syndrome.</li><li><b>ASA:</b> Medial medulla → motor + proprioception loss.</li><li><b>Basilar Artery:</b> Pons → locked-in syndrome.</li></ul>"
-        },
-        {
-          "header": "Cerebellum",
-          "content": "<ul><li>Ataxia</li><li>Dysdiadochokinesia</li><li>Intention tremor</li></ul>"
-        },
-        {
-          "header": "Extra High-Yield Points",
-          "content": "<ul><li><b>Inferior Colliculi:</b> Auditory reflex center.</li><li><b>MLF:</b> Connects CN III, IV, VI for coordinated eye movement.</li><li><b>Thalamus:</b> Relays all sensory input except smell.</li></ul>"
-        }
-      ]
-    }
-  ],
+"sections": [
+  {
+    "id": "neuro-high-yield",
+    "title": "Brainstem, Eye Movements & Movement Disorders",
+    "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+    "topics": [
+      {
+        "header": "Eye Movement & Gaze Control",
+        "content": "<ul><li><b>PPRF (Pons):</b> Horizontal gaze center → coordinates CN VI + CN III via MLF.</li><li><b>Frontal Eye Field (Area 8):</b> Drives contralateral gaze.</li><li><b>MLF:</b> Connects CN III & VI → lesion = INO (adduction failure + nystagmus).</li><li><b>INO:</b> Convergence intact (NOT CN III palsy).</li><li><b>One-and-a-half:</b> PPRF + MLF lesion → only one eye abducts.</li><li><b>Eight-and-a-half:</b> + CN VII palsy → facial weakness.</li></ul>"
+      },
+      {
+        "header": "Pupillary Reflex & Midbrain",
+        "content": "<ul><li><b>CN II → Pretectal → bilateral EW nuclei → CN III:</b> Pupillary constriction.</li><li><b>Pretectal lesion:</b> Loss of direct + consensual reflex.</li><li><b>CN III:</b> Eye down & out + ptosis + dilated pupil.</li><li><b>Nucleus of Cajal:</b> Vertical gaze holding.</li><li><b>Superior colliculus:</b> Visual reflex + head/eye movement (tectospinal/tectobulbar).</li></ul>"
+      },
+      {
+        "header": "Brainstem Localization (Rule Focus)",
+        "content": "<ul><li><b>Medial (3 M's):</b> Motor (corticospinal), Medial lemniscus, Motor CN (III, VI, XII).</li><li><b>Lateral:</b> Spinothalamic, CN V sensory, Sympathetic (Horner), Cerebellum.</li><li><b>Key:</b> Ipsilateral CN signs + contralateral body deficits.</li></ul>"
+      },
+      {
+        "header": "High-Yield Brainstem Syndromes",
+        "content": "<ul><li><b>Medial Medullary (ASA):</b> Contralateral paralysis + vibration loss + tongue deviation (toward lesion).</li><li><b>Wallenberg (PICA):</b> Dysphagia + hoarseness + ipsi face pain + contra body pain + Horner.</li><li><b>Medial Pontine:</b> CN VI palsy + contralateral hemiplegia.</li><li><b>Lateral Pontine (AICA):</b> Facial paralysis + hearing loss.</li><li><b>Weber (Midbrain):</b> CN III palsy + contralateral hemiplegia.</li><li><b>Benedict/Claude:</b> CN III + tremor/ataxia (tegmentum).</li><li><b>Parinaud:</b> Upward gaze palsy + light-near dissociation.</li></ul>"
+      },
+      {
+        "header": "Blood Supply (Ultra High Yield)",
+        "content": "<ul><li><b>PICA:</b> Lateral medulla → Wallenberg.</li><li><b>ASA:</b> Medial medulla.</li><li><b>AICA:</b> Lateral pons → facial + auditory.</li><li><b>Basilar:</b> Pons → locked-in.</li><li><b>PCA:</b> Midbrain syndromes.</li></ul>"
+      },
+      {
+        "header": "Cerebellum",
+        "content": "<ul><li><b>Function:</b> Coordination (NOT strength).</li><li><b>Vermis lesion:</b> Truncal ataxia.</li><li><b>Hemisphere lesion:</b> Ipsilateral limb ataxia.</li><li><b>Signs:</b> Dysmetria, intention tremor, dysdiadochokinesia.</li><li><b>Purkinje cells:</b> Only output (inhibitory).</li></ul>"
+      },
+      {
+        "header": "Cerebellopontine Angle",
+        "content": "<ul><li><b>CN VII + VIII:</b> Facial paralysis + hearing loss.</li><li><b>Cause:</b> Vestibular schwannoma.</li><li><b>Key clue:</b> Facial + auditory symptoms together.</li></ul>"
+      },
+      {
+        "header": "Inferior Olive & Guillain-Mollaret",
+        "content": "<ul><li><b>Pathway:</b> Dentate → Red nucleus → Inferior olive.</li><li><b>Lesion:</b> Hypertrophy (unique).</li><li><b>Signs:</b> Palatal myoclonus + ocular oscillations.</li></ul>"
+      },
+      {
+        "header": "Basal Ganglia Pathways",
+        "content": "<ul><li><b>Direct:</b> Facilitates movement (D1 ↑).</li><li><b>Indirect:</b> Inhibits movement (D2 ↓).</li><li><b>Dopamine:</b> Promotes movement (↑ direct, ↓ indirect).</li><li><b>Thalamus (VA/VL):</b> Output to cortex.</li></ul>"
+      },
+      {
+        "header": "Basal Ganglia Diseases",
+        "content": "<ul><li><b>Parkinson:</b> Dopamine ↓ → TRAP (tremor, rigidity, akinesia, postural instability).</li><li><b>Huntington:</b> AD, CAG repeat → chorea + dementia.</li><li><b>Wilson:</b> Copper → KF rings + movement + liver.</li><li><b>Hemiballismus:</b> STN lesion → flinging movements.</li><li><b>Sydenham:</b> Post-strep chorea (kids).</li><li><b>Tourette:</b> Motor + vocal tics.</li></ul>"
+      },
+      {
+        "header": "Pons (Exam Favorite)",
+        "content": "<ul><li><b>CN:</b> V, VI, VII, VIII.</li><li><b>PPRF:</b> Horizontal gaze.</li><li><b>Middle cerebellar peduncle:</b> Largest → coordination.</li><li><b>Lesions:</b> Facial + eye movement + motor signs.</li></ul>"
+      },
+      {
+        "header": "Exam Strategy",
+        "content": "<ul><li><b>Always localize:</b> Medial vs lateral + level (medulla, pons, midbrain).</li><li><b>Eye signs:</b> INO → MLF, gaze palsy → PPRF.</li><li><b>Facial weakness:</b> LMN = whole face, UMN = forehead spared.</li><li><b>CN combos:</b> VII + VIII = CP angle.</li><li><b>Movement disorder:</b> Think basal ganglia pathways.</li></ul>"
+      }
+    ]
+  }
+],
   "quizzes": {
     "neuro_batch1": [
       {
