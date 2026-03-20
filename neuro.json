@@ -23,91 +23,601 @@
     }
   ],
   "quizzes": {
-
     "neuro": [
-    { "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?", "a": ["Angular gyrus + supramarginal gyrus", "Anterior + posterior paracentral gyri", "Cuneus + lingual gyrus", "Pars opercularis + pars triangularis", "Uncus + parahippocampal gyrus"], "c": 3, "l": "Broca’s area (inferior frontal gyrus) lesion causes expressive aphasia with preserved comprehension." },
-
-    { "q": "Dysdiadochokinesia is an impairment of:", "a": ["Successive finger movements", "Heel-to-shin testing", "Rapid alternating movements", "Tremor suppression", "Conjugate eye movements"], "c": 2, "l": "Dysdiadochokinesia is inability to perform rapid alternating movements (cerebellar sign)." },
-
-    { "q": "The term lentiform nucleus refers to:", "a": ["Caudate and putamen", "Caudate and globus pallidus", "Putamen and globus pallidus", "Caudate only", "Putamen only"], "c": 2, "l": "Lentiform nucleus = putamen + globus pallidus." },
-
-    { "q": "A 59-year-old right-handed male presents with occipital headaches, diplopia, ptosis, contralateral pain loss, ipsilateral facial deficits, and cerebellar signs. What is the diagnosis?", "a": ["Wallenberg syndrome", "Dejerine syndrome", "Lateral pontine syndrome", "Benedict’s syndrome"], "c": 0, "l": "PICA lesion causes Wallenberg syndrome with crossed sensory loss and nucleus ambiguus deficits." },
-
-    { "q": "Which of the following statements about the globus pallidus is not true?", "a": ["It is located adjacent (lateral) to the internal capsule", "It receives excitatory axons from the caudate and putamen", "It is the major outflow nucleus of the corpus striatum", "It sends inhibitory axons to the thalamus"], "c": 1, "l": "Globus pallidus receives inhibitory (GABAergic), not excitatory, input from striatum." },
-
-    { "q": "A patient has contralateral motor weakness, facial weakness sparing forehead, INO, and sensory loss. Where is the lesion?", "a": ["Medulla", "Pons", "Midbrain", "Cerebral cortex"], "c": 1, "l": "Combination of corticospinal, medial lemniscus, and MLF signs localizes to the pons." },
-
-    { "q": "Which of the following is not correctly paired?", "a": ["Neostriatum – Caudate nucleus plus putamen", "Lentiform nucleus – Globus pallidus plus putamen", "Corpus striatum – Caudate nucleus plus lentiform nucleus", "Amygdaloid body – Claustrum plus amygdaloid nucleus"], "c": 3, "l": "Amygdaloid body refers only to the amygdala, not the claustrum." },
-
-    { "q": "The prefrontal cortex (areas 9, 10, 11 and 12) is essential for:", "a": ["Feeding", "Sexual thoughts", "Foresight", "Stereognosis", "Spatial organization"], "c": 2, "l": "Prefrontal cortex controls executive functions like planning and foresight." },
-
-    { "q": "Loss of ability to recognize objects by touch despite intact sensation is called:", "a": ["Alexia", "Agraphia", "Astereognosis", "Acalculia"], "c": 2, "l": "Parietal lobe lesions cause astereognosis." },
-
-    { "q": "A patient has nonfluent speech, preserved comprehension, and difficulty repeating sentences. What is the diagnosis?", "a": ["Dysarthria", "Wernicke’s aphasia", "Broca’s aphasia", "Alexia", "Word deafness"], "c": 2, "l": "Nonfluent speech with intact comprehension = Broca’s aphasia." },
-
-    { "q": "Cerebral dominance refers to:", "a": ["More tactual hemisphere", "Controls handedness", "Controls speech and language", "Receives corpus callosum fibers"], "c": 2, "l": "Dominant hemisphere is defined by language control." },
-
-    { "q": "A patient cannot adduct the eye (INO). Where is the lesion?", "a": ["Dorsal medulla", "Ventromedial medulla", "Dorsal pons", "Ventromedial pons", "Medial midbrain"], "c": 2, "l": "MLF lesion causing INO is located in the dorsal pons." },
-
-    { "q": "A patient has expressive aphasia with preserved comprehension. Where is the lesion?", "a": ["Angular gyrus + supramarginal gyrus", "Anterior + posterior paracentral gyri", "Lingual gyrus", "Inferior frontal gyrus", "Parahippocampal gyrus"], "c": 3, "l": "Inferior frontal gyrus (Broca’s area) controls speech production." },
-
-    { "q": "A patient has CN III palsy with contralateral tremor and ataxia. What syndrome?", "a": ["Horner’s syndrome", "Weber’s syndrome", "Benedict’s syndrome", "Wallenberg’s syndrome"], "c": 2, "l": "Benedict syndrome involves red nucleus, CN III, and medial lemniscus." },
-
-    { "q": "A patient has contralateral motor and sensory loss due to internal capsule lesion. Which part is affected?", "a": ["Anterior limb", "Genu", "Posterior limb", "Retrolenticular limb", "Sublenticular limb"], "c": 2, "l": "Posterior limb carries corticospinal and sensory fibers." },
-
-    { "q": "A patient has hemiballismus. Which nucleus is affected?", "a": ["Anterior", "Centromedian", "Subthalamic", "Ventral lateral", "Ventral posteromedial"], "c": 2, "l": "Subthalamic nucleus lesion causes hemiballismus." },
-
-    { "q": "A tumor causes contralateral motor deficits and difficulty with voluntary movement. Which region is affected?", "a": ["Prefrontal cortex", "Premotor region", "Precentral gyrus", "Basal ganglia"], "c": 2, "l": "Precentral gyrus is the primary motor cortex." },
-
-    { "q": "A lesion in the cerebellopontine angle produces:", "a": ["Facial palsy", "Loss of hearing", "Both A and B", "None"], "c": 2, "l": "CPA lesions affect CN VII and VIII causing facial palsy and hearing loss." },
-
-    { "q": "A tumor causes contralateral weakness and facial involvement. Which structure is affected?", "a": ["Internal capsule", "Caudate nucleus", "Globus pallidus"], "c": 0, "l": "Internal capsule contains major motor pathways." },
-
-    { "q": "A patient neglects the left side of the body and space after stroke. Which area is damaged?", "a": ["Parietal lobe", "Temporal lobe", "Occipital lobe", "Premotor cortex", "Orbitomedial cortex"], "c": 0, "l": "Right parietal lobe damage causes contralateral hemispatial neglect." }
-  ],
+      {
+        "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
+        "a": [
+          "Angular gyrus + supramarginal gyrus",
+          "Anterior + posterior paracentral gyri",
+          "Cuneus + lingual gyrus",
+          "Pars opercularis + pars triangularis",
+          "Uncus + parahippocampal gyrus"
+        ],
+        "c": 3,
+        "l": "Lesion of Broca’s area (inferior frontal gyrus: pars opercularis & triangularis) causes expressive aphasia with preserved comprehension."
+      },
+      {
+        "q": "Dysdiadochokinesia is an impairment of:",
+        "a": [
+          "Successive finger movements",
+          "Heel-to-shin testing",
+          "Rapid alternating movements",
+          "Tremor suppression",
+          "Conjugate eye movements"
+        ],
+        "c": 2,
+        "l": "Dysdiadochokinesia is a cerebellar sign characterized by inability to perform rapid alternating movements."
+      },
+      {
+        "q": "The term lentiform nucleus refers to:",
+        "a": [
+          "Caudate and putamen",
+          "Caudate and globus pallidus",
+          "Putamen and globus pallidus",
+          "Caudate only",
+          "Putamen only"
+        ],
+        "c": 2,
+        "l": "The lentiform nucleus = putamen + globus pallidus, forming part of the basal ganglia."
+      },
+      {
+        "q": "A 59-year-old right-handed male was admitted to the hospital with a chief complaint of occipital headaches of 3 weeks duration. Two weeks prior to admission, the patient had a sudden onset of diplopia on forward gaze and a sensation of dizziness. One day prior to admission, he noted a sudden onset of ptosis of the right eye. The patient has a history of hypertension of two years. His blood pressure is 180/100 mmHg. He is alert, oriented, and cooperative. His pupils are equal and reactive to light. The uvula deviates to the left side and there is deficient elevation on the right side of the palate. The patient also has nystagmus on left lateral gaze and his right corneal reflex is diminished. His facial expressions are full and symmetric; however, he does not respond to pinprick sensations on the left side of his face and left side of his body. Ataxia and intention tremor are present on his right lower extremity. Position, vibration, and touch modalities are intact throughout. What do you think his diagnosis is based on the options below?",
+        "a": [
+          "Wallenberg syndrome",
+          "Dejerine syndrome",
+          "Lateral pontine syndrome",
+          "Benedict’s syndrome"
+        ],
+        "c": 0,
+        "l": "Lateral medullary (PICA) lesion causes ipsilateral facial pain loss, contralateral body pain loss, nucleus ambiguus deficits (dysphagia), and cerebellar signs."
+      },
+      {
+        "q": "Which of the following statements about the globus pallidus is not true?",
+        "a": [
+          "It is located adjacent (lateral) to the internal capsule",
+          "It receives excitatory axons from the caudate and putamen",
+          "It is the major outflow nucleus of the corpus striatum",
+          "It sends inhibitory axons to the thalamus"
+        ],
+        "c": 1,
+        "l": "The globus pallidus receives inhibitory (GABAergic), not excitatory, input from the striatum (caudate + putamen)."
+      },
+      {
+        "q": "A 50-year-old woman was diagnosed with paralysis of her right arm and leg that later became spastic with increased deep reflexes and a positive Babinski sign. There were also movements on the left extremities. The muscles of the lips and cheeks were weak on the right side, but she could tightly close both eyes and wrinkle her forehead symmetrically. An internuclear ophthalmoplegia was observed in which the left eye would not adduct on attempted lateral gaze to the right although both eyes converged on near objects. There was loss of vibratory sense and discriminative touch from the right side of the body. When protruded, the tongue deviated toward the right. Based on these findings, what is the site of lesion?",
+        "a": [
+          "Medulla",
+          "Pons",
+          "Midbrain",
+          "Cerebral cortex"
+        ],
+        "c": 1,
+        "l": "Combination of corticospinal, medial lemniscus, cranial nerve (facial weakness), and MLF (INO) signs localizes the lesion to the pons."
+      },
+      {
+        "q": "Which of the following is not correctly paired?",
+        "a": [
+          "Neostriatum – Caudate nucleus plus putamen",
+          "Lentiform nucleus – Globus pallidus plus putamen",
+          "Corpus striatum – Caudate nucleus plus lentiform nucleus",
+          "Amygdaloid body – Claustrum plus amygdaloid nucleus"
+        ],
+        "c": 3,
+        "l": "The amygdaloid body refers only to the amygdala, not the claustrum, which is a separate structure."
+      },
+      {
+        "q": "The prefrontal cortex (areas 9, 10, 11 and 12) is essential for:",
+        "a": [
+          "Feeding",
+          "Sexual thoughts",
+          "Foresight",
+          "Stereognosis",
+          "Spatial organization"
+        ],
+        "c": 2,
+        "l": "The prefrontal cortex (especially dorsolateral) is responsible for executive functions like planning, judgment, and foresight."
+      },
+      {
+        "q": "Lesions of the superior parietal lobule interfere with the patient's ability to combine touch, pressure, and proprioceptive impulses, so that he is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
+        "a": [
+          "Alexia",
+          "Agraphia",
+          "Astereognosis",
+          "Acalculia"
+        ],
+        "c": 2,
+        "l": "Damage to the parietal lobe causes astereognosis—an inability to recognize objects by touch despite intact sensation."
+      },
+      {
+        "q": "Adam is a 60-year-old man who is right-handed and was told in the past by his doctor that he has an irregular heartbeat. One morning, he woke to find that his face drooped on the right side and that he could not move his right arm or right leg. When he tried to call an ambulance for help, he had a great deal of difficulty communicating with the operator. His speech was slurred, nonfluent, and missing some pronouns. When listened to, Adam’s heart rate was irregular. He detected an irregular heartbeat. It was very difficult to understand Adam’s speech because it was halting, with a tendency to repeat the same phrases over and over. He had difficulty repeating specific sentences given to him by the neurologist. He was able to follow commands such as “Touch your right ear with your left hand.” His mouth drooped on the right when he attempted to smile, but his forehead remained symmetric. He could not move his right arm at all, but he was able to wiggle his right leg a little bit. Which of the following language problems does Adam have?",
+        "a": [
+          "Dysarthria",
+          "Wernicke’s aphasia",
+          "Broca’s aphasia",
+          "Alexia",
+          "Word deafness"
+        ],
+        "c": 2,
+        "l": "Nonfluent, effortful speech with preserved comprehension indicates Broca’s (expressive) aphasia."
+      },
+      {
+        "q": "Cerebral dominance refers to:",
+        "a": [
+          "That hemisphere which is more tactual",
+          "That hemisphere which controls left or right-handed writers",
+          "That hemisphere where speech and language is controlled",
+          "That hemisphere which receives the majority of corpus callosum fibers"
+        ],
+        "c": 2,
+        "l": "The dominant hemisphere (usually left) is defined by control of language and speech functions."
+      },
+      {
+        "q": "A 64-year-old woman is admitted to the emergency room after she experienced dizziness. Several days later, a neurological examination reveals that the patient is unable to move her right eye medially. Which of the following is the likely locus of the lesion?",
+        "a": [
+          "Dorsal medulla",
+          "Ventromedial medulla",
+          "Dorsal pons",
+          "Ventromedial pons",
+          "Medial midbrain"
+        ],
+        "c": 2,
+        "l": "Failure of medial eye movement (adduction) suggests internuclear ophthalmoplegia due to MLF lesion in the dorsal pons."
+      },
+      {
+        "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
+        "a": [
+          "Angular gyrus + supramarginal gyrus",
+          "Anterior + posterior paracentral gyri",
+          "Lingual gyrus",
+          "Inferior frontal gyrus",
+          "Parahippocampal gyrus"
+        ],
+        "c": 3,
+        "l": "The inferior frontal gyrus (Broca’s area) is responsible for speech production—lesions cause expressive aphasia."
+      }
+    ],
     "medulla": [
-      { "q": "Between which two structures does CN XII emerge?", "a": ["Olive and Inferior Peduncle", "Pyramid and Olive", "Pons and Medulla", "Two Pyramids"], "c": 1, "l": "CN XII exits the ventrolateral sulcus between the pyramid and the olive." },
-      { "q": "Occlusion of the ASA (Anterior Spinal Artery) results in:", "a": ["Wallenberg Syndrome", "Medial Medullary Syndrome", "Weber Syndrome", "Locked-in Syndrome"], "c": 1, "l": "ASA supplies the medial medulla; PICA supplies the lateral medulla." },
-      { "q": "Ipsilateral tongue deviation with contralateral hemiparesis indicates damage to:", "a": ["CN X", "CN IX", "Medial Medulla", "Lateral Medulla"], "c": 2, "l": "This is Medial Medullary Syndrome (Dejerine Syndrome)." },
-      { "q": "Which nucleus is responsible for the hoarseness seen in Wallenberg Syndrome?", "a": ["Solitary Nucleus", "Nucleus Ambiguus", "Hypoglossal Nucleus", "Dorsal Motor Nucleus"], "c": 1, "l": "The Nucleus Ambiguus provides motor fibers to the larynx via CN X." },
-      { "q": "Which tract decussates in the lower medulla?", "a": ["Spinothalamic", "Corticospinal", "Dorsal Columns", "Vestibulospinal"], "c": 1, "l": "The pyramidal decussation is where 90% of motor fibers cross." },
-      { "q": "PICA supplies which part of the medulla?", "a": ["Medial", "Lateral", "Ventral", "Dorsal Column only"], "c": 1, "l": "PICA occlusion causes Lateral Medullary Syndrome." },
-      { "q": "Horner's syndrome in a medullary stroke is caused by damage to:", "a": ["CN III", "Descending Sympathetics", "CN VII", "Medial Lemniscus"], "c": 1, "l": "Disruption of descending sympathetic fibers in the lateral medulla causes Horner’s." },
-      { "q": "The 'Vomiting Center' is also known as the:", "a": ["Solitary Nucleus", "Nucleus Ambiguus", "Area Postrema", "Obex"], "c": 2, "l": "Area Postrema in the 4th ventricle floor triggers emesis." },
-      { "q": "Loss of pain/temp on the ipsilateral face is due to damage of:", "a": ["Medial Lemniscus", "Spinal Trigeminal Nucleus", "Spinothalamic Tract", "Pyramids"], "c": 1, "l": "Spinal Trigeminal nucleus handles ipsilateral facial pain/temp." },
-      { "q": "Damage to the Medial Lemniscus results in contralateral loss of:", "a": ["Pain and Temperature", "Fine touch and Proprioception", "Motor Control", "Hearing"], "c": 1, "l": "Medial Lemniscus carries dorsal column information." },
-      { "q": "Where is the respiratory rhythmicity center located?", "a": ["Midbrain", "Pons", "Medulla Oblongata", "Thalamus"], "c": 2, "l": "The medulla controls the basic rhythm of breathing." },
-      { "q": "A patient cannot swallow and has no gag reflex. Which nucleus is likely damaged?", "a": ["Solitary", "Ambiguus", "Hypoglossal", "Red Nucleus"], "c": 1, "l": "Nucleus Ambiguus controls the muscles for swallowing." },
-      { "q": "Proprioception from the lower limbs travels in which fasciculus?", "a": ["Gracilis", "Cuneatus", "Spinothalamic", "Lateral"], "c": 0, "l": "Gracilis is for the lower body (T6 and below); Cuneatus is for the upper body." },
-      { "q": "The Inferior Olivary Nucleus sends fibers to the:", "a": ["Thalamus", "Cerebellum", "Spinal Cord", "Basal Ganglia"], "c": 1, "l": "It provides climbing fibers to the cerebellum." },
-      { "q": "Which cranial nerves are associated with the 'Rule of 4' for the Medulla?", "a": ["1, 2, 3, 4", "5, 6, 7, 8", "9, 10, 11, 12", "All of them"], "c": 2, "l": "CN 9-12 are the medullary cranial nerves." },
-      { "q": "A lesion in the right pyramid will cause weakness on which side?", "a": ["Right", "Left", "Bilateral", "Upper limbs only"], "c": 1, "l": "Since fibers cross below the pyramids, the deficit is contralateral." },
-      { "q": "Which structure forms the floor of the 4th ventricle in the medulla?", "a": ["Tectum", "Tegmentum", "Rhomboid Fossa", "Cerebral Peduncle"], "c": 2, "l": "The rhomboid fossa forms the floor of the 4th ventricle." },
-      { "q": "Vertigo and Nystagmus in Wallenberg's are due to which nuclei?", "a": ["Cochlear", "Vestibular", "Ambiguus", "Solitary"], "c": 1, "l": "Vestibular nuclei damage affects balance and eye coordination." },
-      { "q": "The pyramids are located on which aspect of the medulla?", "a": ["Dorsal", "Lateral", "Ventral", "Posterior"], "c": 2, "l": "Pyramids are ventral (anterior) landmarks." },
-      { "q": "The Spinal Trigeminal Nucleus extends from the pons down to the:", "a": ["Midbrain", "Medulla", "Spinal Cord (C2)", "Thalamus"], "c": 2, "l": "It is a long nucleus extending into the upper cervical spinal cord." }
+      {
+        "q": "Between which two structures does CN XII emerge?",
+        "a": [
+          "Olive and Inferior Peduncle",
+          "Pyramid and Olive",
+          "Pons and Medulla",
+          "Two Pyramids"
+        ],
+        "c": 1,
+        "l": "CN XII exits the ventrolateral sulcus between the pyramid and the olive."
+      },
+      {
+        "q": "Occlusion of the ASA (Anterior Spinal Artery) results in:",
+        "a": [
+          "Wallenberg Syndrome",
+          "Medial Medullary Syndrome",
+          "Weber Syndrome",
+          "Locked-in Syndrome"
+        ],
+        "c": 1,
+        "l": "ASA supplies the medial medulla; PICA supplies the lateral medulla."
+      },
+      {
+        "q": "Ipsilateral tongue deviation with contralateral hemiparesis indicates damage to:",
+        "a": [
+          "CN X",
+          "CN IX",
+          "Medial Medulla",
+          "Lateral Medulla"
+        ],
+        "c": 2,
+        "l": "This is Medial Medullary Syndrome (Dejerine Syndrome)."
+      },
+      {
+        "q": "Which nucleus is responsible for the hoarseness seen in Wallenberg Syndrome?",
+        "a": [
+          "Solitary Nucleus",
+          "Nucleus Ambiguus",
+          "Hypoglossal Nucleus",
+          "Dorsal Motor Nucleus"
+        ],
+        "c": 1,
+        "l": "The Nucleus Ambiguus provides motor fibers to the larynx via CN X."
+      },
+      {
+        "q": "Which tract decussates in the lower medulla?",
+        "a": [
+          "Spinothalamic",
+          "Corticospinal",
+          "Dorsal Columns",
+          "Vestibulospinal"
+        ],
+        "c": 1,
+        "l": "The pyramidal decussation is where 90% of motor fibers cross."
+      },
+      {
+        "q": "PICA supplies which part of the medulla?",
+        "a": [
+          "Medial",
+          "Lateral",
+          "Ventral",
+          "Dorsal Column only"
+        ],
+        "c": 1,
+        "l": "PICA occlusion causes Lateral Medullary Syndrome."
+      },
+      {
+        "q": "Horner's syndrome in a medullary stroke is caused by damage to:",
+        "a": [
+          "CN III",
+          "Descending Sympathetics",
+          "CN VII",
+          "Medial Lemniscus"
+        ],
+        "c": 1,
+        "l": "Disruption of descending sympathetic fibers in the lateral medulla causes Horner’s."
+      },
+      {
+        "q": "The 'Vomiting Center' is also known as the:",
+        "a": [
+          "Solitary Nucleus",
+          "Nucleus Ambiguus",
+          "Area Postrema",
+          "Obex"
+        ],
+        "c": 2,
+        "l": "Area Postrema in the 4th ventricle floor triggers emesis."
+      },
+      {
+        "q": "Loss of pain/temp on the ipsilateral face is due to damage of:",
+        "a": [
+          "Medial Lemniscus",
+          "Spinal Trigeminal Nucleus",
+          "Spinothalamic Tract",
+          "Pyramids"
+        ],
+        "c": 1,
+        "l": "Spinal Trigeminal nucleus handles ipsilateral facial pain/temp."
+      },
+      {
+        "q": "Damage to the Medial Lemniscus results in contralateral loss of:",
+        "a": [
+          "Pain and Temperature",
+          "Fine touch and Proprioception",
+          "Motor Control",
+          "Hearing"
+        ],
+        "c": 1,
+        "l": "Medial Lemniscus carries dorsal column information."
+      },
+      {
+        "q": "Where is the respiratory rhythmicity center located?",
+        "a": [
+          "Midbrain",
+          "Pons",
+          "Medulla Oblongata",
+          "Thalamus"
+        ],
+        "c": 2,
+        "l": "The medulla controls the basic rhythm of breathing."
+      },
+      {
+        "q": "A patient cannot swallow and has no gag reflex. Which nucleus is likely damaged?",
+        "a": [
+          "Solitary",
+          "Ambiguus",
+          "Hypoglossal",
+          "Red Nucleus"
+        ],
+        "c": 1,
+        "l": "Nucleus Ambiguus controls the muscles for swallowing."
+      },
+      {
+        "q": "Proprioception from the lower limbs travels in which fasciculus?",
+        "a": [
+          "Gracilis",
+          "Cuneatus",
+          "Spinothalamic",
+          "Lateral"
+        ],
+        "c": 0,
+        "l": "Gracilis is for the lower body (T6 and below); Cuneatus is for the upper body."
+      },
+      {
+        "q": "The Inferior Olivary Nucleus sends fibers to the:",
+        "a": [
+          "Thalamus",
+          "Cerebellum",
+          "Spinal Cord",
+          "Basal Ganglia"
+        ],
+        "c": 1,
+        "l": "It provides climbing fibers to the cerebellum."
+      },
+      {
+        "q": "Which cranial nerves are associated with the 'Rule of 4' for the Medulla?",
+        "a": [
+          "1, 2, 3, 4",
+          "5, 6, 7, 8",
+          "9, 10, 11, 12",
+          "All of them"
+        ],
+        "c": 2,
+        "l": "CN 9-12 are the medullary cranial nerves."
+      },
+      {
+        "q": "A lesion in the right pyramid will cause weakness on which side?",
+        "a": [
+          "Right",
+          "Left",
+          "Bilateral",
+          "Upper limbs only"
+        ],
+        "c": 1,
+        "l": "Since fibers cross below the pyramids, the deficit is contralateral."
+      },
+      {
+        "q": "Which structure forms the floor of the 4th ventricle in the medulla?",
+        "a": [
+          "Tectum",
+          "Tegmentum",
+          "Rhomboid Fossa",
+          "Cerebral Peduncle"
+        ],
+        "c": 2,
+        "l": "The rhomboid fossa forms the floor of the 4th ventricle."
+      },
+      {
+        "q": "Vertigo and Nystagmus in Wallenberg's are due to which nuclei?",
+        "a": [
+          "Cochlear",
+          "Vestibular",
+          "Ambiguus",
+          "Solitary"
+        ],
+        "c": 1,
+        "l": "Vestibular nuclei damage affects balance and eye coordination."
+      },
+      {
+        "q": "The pyramids are located on which aspect of the medulla?",
+        "a": [
+          "Dorsal",
+          "Lateral",
+          "Ventral",
+          "Posterior"
+        ],
+        "c": 2,
+        "l": "Pyramids are ventral (anterior) landmarks."
+      },
+      {
+        "q": "The Spinal Trigeminal Nucleus extends from the pons down to the:",
+        "a": [
+          "Midbrain",
+          "Medulla",
+          "Spinal Cord (C2)",
+          "Thalamus"
+        ],
+        "c": 2,
+        "l": "It is a long nucleus extending into the upper cervical spinal cord."
+      }
     ],
     "midbrain": [
-  { "q": "Which cranial nerve emerges from the interpeduncular fossa of the midbrain?", "a": ["CN II", "CN III", "CN IV", "CN VI"], "c": 1, "l": "The oculomotor nerve (CN III) emerges anteriorly between the cerebral peduncles." },
-  { "q": "A patient with Parinaud’s syndrome would most likely struggle with:", "a": ["Downward gaze", "Upward gaze", "Lateral gaze", "Jaw clenching"], "c": 1, "l": "Parinaud’s (Dorsal Midbrain Syndrome) classically causes paralysis of upward gaze." },
-  { "q": "Weber’s Syndrome is characterized by:", "a": ["Ipsilateral CN III palsy and contralateral hemiparesis", "Contralateral CN III palsy and ipsilateral tremor", "Bilateral CN IV palsy", "Ipsilateral CN VI palsy"], "c": 0, "l": "Weber’s involves the ventral midbrain, affecting CN III and the pyramidal tract." },
-  { "q": "Which structure is responsible for auditory reflexes?", "a": ["Superior Colliculus", "Inferior Colliculus", "Red Nucleus", "Substantia Nigra"], "c": 1, "l": "The Inferior Colliculus is a major relay in the auditory pathway." },
-  { "q": "Decerebrate posturing indicates a lesion at what level?", "a": ["Above the red nucleus", "Below the red nucleus", "Cerebral cortex", "Thalamus"], "c": 1, "l": "Decerebrate (extensor) posturing occurs when the lesion is in the brainstem below the red nucleus." },
-  { "q": "Claude’s and Benedikt’s syndromes primarily involve damage to which nucleus?", "a": ["Solitary Nucleus", "Red Nucleus", "Abducens Nucleus", "Edinger-Westphal Nucleus"], "c": 1, "l": "The Red Nucleus involvement causes the characteristic contralateral ataxia or tremor." },
-  { "q": "Convergence-retraction nystagmus is a hallmark sign of:", "a": ["Wallenberg Syndrome", "Parinaud Syndrome", "Weber Syndrome", "Millard-Gubler Syndrome"], "c": 1, "l": "This is a classic feature of dorsal midbrain (Parinaud) lesions." },
-  { "q": "Which artery provides the primary blood supply to the medial midbrain?", "a": ["PICA", "AICA", "Paramedian perforators of the Basilar/PCA", "Anterior Spinal Artery"], "c": 2, "l": "Paramedian perforators supply the territory involved in Weber’s syndrome." },
-  { "q": "A 'blown pupil' (fixed and dilated) in Weber’s syndrome is due to damage to:", "a": ["Sympathetic fibers", "Parasympathetic fibers of CN III", "Optic nerve", "Superior colliculus"], "c": 1, "l": "CN III carries parasympathetic fibers that constrict the pupil; damage causes dilation." },
-  { "q": "Which structure connects the third and fourth ventricles?", "a": ["Foramen of Monro", "Cerebral Aqueduct", "Foramen of Magendie", "Central Canal"], "c": 1, "l": "The Cerebral Aqueduct of Sylvius runs through the midbrain." },
-  { "q": "The Superior Colliculus is primarily involved in:", "a": ["Hearing", "Visual reflexes", "Motor coordination", "Taste"], "c": 1, "l": "It helps coordinate head and eye movements in response to visual stimuli." },
-  { "q": "Collier’s sign refers to which clinical finding?", "a": ["Drooping eyelid", "Eyelid retraction", "Pinpoint pupils", "Tongue deviation"], "c": 1, "l": "Collier’s sign (eyelid retraction) is seen in Parinaud Syndrome." },
-  { "q": "Decorticate posturing is characterized by:", "a": ["Extension of all four limbs", "Flexion of arms and extension of legs", "Flaccid paralysis", "Ipsilateral flexion only"], "c": 1, "l": "Decorticate involves 'flexing to the core' (arms flexed, legs extended)." },
-  { "q": "Which midbrain syndrome is most likely caused by a Pineal gland tumor?", "a": ["Weber", "Benedikt", "Parinaud", "Claude"], "c": 2, "l": "Pineal tumors compress the dorsal midbrain (tectum), leading to Parinaud’s." },
-  { "q": "If a patient has a right-sided midbrain lesion in the cerebral peduncle, the motor deficit will be on the:", "a": ["Right side", "Left side", "Bilateral", "Face only"], "c": 1, "l": "Corticospinal fibers cross in the medulla, so a midbrain lesion causes contralateral deficits." },
-  { "q": "The Edinger-Westphal nucleus provides innervation for:", "a": ["Eye abduction", "Pupillary constriction", "Pupillary dilation", "Eyelid closing"], "c": 1, "l": "It provides parasympathetic supply to the ciliary ganglion for miosis." },
-  { "q": "Which midbrain structure produces Dopamine and is lost in Parkinson’s?", "a": ["Red Nucleus", "Substantia Nigra", "Periaqueductal Gray", "Inferior Colliculus"], "c": 1, "l": "The Substantia Nigra pars compacta contains dopaminergic neurons." },
-  { "q": "The Trochlear nerve (CN IV) is unique because it:", "a": ["Is the largest cranial nerve", "Exits from the dorsal aspect of the brainstem", "Carries sensory fibers", "Does not cross"], "c": 1, "l": "CN IV is the only cranial nerve to emerge dorsally and the only one to cross completely." },
-  { "q": "Light-near dissociation (Pseudo-Argyll Robertson pupil) is found in:", "a": ["Dorsal Midbrain Syndrome", "Lateral Medullary Syndrome", "Medial Medullary Syndrome", "Pons hemorrhage"], "c": 0, "l": "This is a feature of Parinaud's where pupils react to accommodation but not light." },
-  { "q": "Which tract is responsible for the 'Flexor' component of decorticate posturing?", "a": ["Corticospinal", "Rubrospinal", "Vestibulospinal", "Reticulospinal"], "c": 1, "l": "The Red Nucleus/Rubrospinal tract facilitates upper limb flexion." }
-]
+      {
+        "q": "Which cranial nerve emerges from the interpeduncular fossa of the midbrain?",
+        "a": [
+          "CN II",
+          "CN III",
+          "CN IV",
+          "CN VI"
+        ],
+        "c": 1,
+        "l": "The oculomotor nerve (CN III) emerges anteriorly between the cerebral peduncles."
+      },
+      {
+        "q": "A patient with Parinaud’s syndrome would most likely struggle with:",
+        "a": [
+          "Downward gaze",
+          "Upward gaze",
+          "Lateral gaze",
+          "Jaw clenching"
+        ],
+        "c": 1,
+        "l": "Parinaud’s (Dorsal Midbrain Syndrome) classically causes paralysis of upward gaze."
+      },
+      {
+        "q": "Weber’s Syndrome is characterized by:",
+        "a": [
+          "Ipsilateral CN III palsy and contralateral hemiparesis",
+          "Contralateral CN III palsy and ipsilateral tremor",
+          "Bilateral CN IV palsy",
+          "Ipsilateral CN VI palsy"
+        ],
+        "c": 0,
+        "l": "Weber’s involves the ventral midbrain, affecting CN III and the pyramidal tract."
+      },
+      {
+        "q": "Which structure is responsible for auditory reflexes?",
+        "a": [
+          "Superior Colliculus",
+          "Inferior Colliculus",
+          "Red Nucleus",
+          "Substantia Nigra"
+        ],
+        "c": 1,
+        "l": "The Inferior Colliculus is a major relay in the auditory pathway."
+      },
+      {
+        "q": "Decerebrate posturing indicates a lesion at what level?",
+        "a": [
+          "Above the red nucleus",
+          "Below the red nucleus",
+          "Cerebral cortex",
+          "Thalamus"
+        ],
+        "c": 1,
+        "l": "Decerebrate (extensor) posturing occurs when the lesion is in the brainstem below the red nucleus."
+      },
+      {
+        "q": "Claude’s and Benedikt’s syndromes primarily involve damage to which nucleus?",
+        "a": [
+          "Solitary Nucleus",
+          "Red Nucleus",
+          "Abducens Nucleus",
+          "Edinger-Westphal Nucleus"
+        ],
+        "c": 1,
+        "l": "The Red Nucleus involvement causes the characteristic contralateral ataxia or tremor."
+      },
+      {
+        "q": "Convergence-retraction nystagmus is a hallmark sign of:",
+        "a": [
+          "Wallenberg Syndrome",
+          "Parinaud Syndrome",
+          "Weber Syndrome",
+          "Millard-Gubler Syndrome"
+        ],
+        "c": 1,
+        "l": "This is a classic feature of dorsal midbrain (Parinaud) lesions."
+      },
+      {
+        "q": "Which artery provides the primary blood supply to the medial midbrain?",
+        "a": [
+          "PICA",
+          "AICA",
+          "Paramedian perforators of the Basilar/PCA",
+          "Anterior Spinal Artery"
+        ],
+        "c": 2,
+        "l": "Paramedian perforators supply the territory involved in Weber’s syndrome."
+      },
+      {
+        "q": "A 'blown pupil' (fixed and dilated) in Weber’s syndrome is due to damage to:",
+        "a": [
+          "Sympathetic fibers",
+          "Parasympathetic fibers of CN III",
+          "Optic nerve",
+          "Superior colliculus"
+        ],
+        "c": 1,
+        "l": "CN III carries parasympathetic fibers that constrict the pupil; damage causes dilation."
+      },
+      {
+        "q": "Which structure connects the third and fourth ventricles?",
+        "a": [
+          "Foramen of Monro",
+          "Cerebral Aqueduct",
+          "Foramen of Magendie",
+          "Central Canal"
+        ],
+        "c": 1,
+        "l": "The Cerebral Aqueduct of Sylvius runs through the midbrain."
+      },
+      {
+        "q": "The Superior Colliculus is primarily involved in:",
+        "a": [
+          "Hearing",
+          "Visual reflexes",
+          "Motor coordination",
+          "Taste"
+        ],
+        "c": 1,
+        "l": "It helps coordinate head and eye movements in response to visual stimuli."
+      },
+      {
+        "q": "Collier’s sign refers to which clinical finding?",
+        "a": [
+          "Drooping eyelid",
+          "Eyelid retraction",
+          "Pinpoint pupils",
+          "Tongue deviation"
+        ],
+        "c": 1,
+        "l": "Collier’s sign (eyelid retraction) is seen in Parinaud Syndrome."
+      },
+      {
+        "q": "Decorticate posturing is characterized by:",
+        "a": [
+          "Extension of all four limbs",
+          "Flexion of arms and extension of legs",
+          "Flaccid paralysis",
+          "Ipsilateral flexion only"
+        ],
+        "c": 1,
+        "l": "Decorticate involves 'flexing to the core' (arms flexed, legs extended)."
+      },
+      {
+        "q": "Which midbrain syndrome is most likely caused by a Pineal gland tumor?",
+        "a": [
+          "Weber",
+          "Benedikt",
+          "Parinaud",
+          "Claude"
+        ],
+        "c": 2,
+        "l": "Pineal tumors compress the dorsal midbrain (tectum), leading to Parinaud’s."
+      },
+      {
+        "q": "If a patient has a right-sided midbrain lesion in the cerebral peduncle, the motor deficit will be on the:",
+        "a": [
+          "Right side",
+          "Left side",
+          "Bilateral",
+          "Face only"
+        ],
+        "c": 1,
+        "l": "Corticospinal fibers cross in the medulla, so a midbrain lesion causes contralateral deficits."
+      },
+      {
+        "q": "The Edinger-Westphal nucleus provides innervation for:",
+        "a": [
+          "Eye abduction",
+          "Pupillary constriction",
+          "Pupillary dilation",
+          "Eyelid closing"
+        ],
+        "c": 1,
+        "l": "It provides parasympathetic supply to the ciliary ganglion for miosis."
+      },
+      {
+        "q": "Which midbrain structure produces Dopamine and is lost in Parkinson’s?",
+        "a": [
+          "Red Nucleus",
+          "Substantia Nigra",
+          "Periaqueductal Gray",
+          "Inferior Colliculus"
+        ],
+        "c": 1,
+        "l": "The Substantia Nigra pars compacta contains dopaminergic neurons."
+      },
+      {
+        "q": "The Trochlear nerve (CN IV) is unique because it:",
+        "a": [
+          "Is the largest cranial nerve",
+          "Exits from the dorsal aspect of the brainstem",
+          "Carries sensory fibers",
+          "Does not cross"
+        ],
+        "c": 1,
+        "l": "CN IV is the only cranial nerve to emerge dorsally and the only one to cross completely."
+      },
+      {
+        "q": "Light-near dissociation (Pseudo-Argyll Robertson pupil) is found in:",
+        "a": [
+          "Dorsal Midbrain Syndrome",
+          "Lateral Medullary Syndrome",
+          "Medial Medullary Syndrome",
+          "Pons hemorrhage"
+        ],
+        "c": 0,
+        "l": "This is a feature of Parinaud's where pupils react to accommodation but not light."
+      },
+      {
+        "q": "Which tract is responsible for the 'Flexor' component of decorticate posturing?",
+        "a": [
+          "Corticospinal",
+          "Rubrospinal",
+          "Vestibulospinal",
+          "Reticulospinal"
+        ],
+        "c": 1,
+        "l": "The Red Nucleus/Rubrospinal tract facilitates upper limb flexion."
+      }
+    ]
   }
 }
