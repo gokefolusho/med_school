@@ -440,6 +440,132 @@
     "c": 2,
     "l": "Parkinson’s disease is characterized by the 'TRAP' mnemonic: Tremor (resting), Rigidity, Akinesia/bradykinesia, and Postural instability, along with masked facies and micrographia.",
     "h": "Pill-rolling tremor + Shuffling gait + Masked facies = Parkinson’s"
+  },
+    {
+    "q": "A 70-year-old woman presents with the complaint of difficulty walking. The history reveals that the woman suddenly had problems while she was playing with her granddaughter at the local park. The examination reveals a slender, otherwise healthy woman who has ataxia and is unable to do the finger-to-nose and the heel-to-shin tests on the right, and has slurred, garbled speech. Which of the following specifically describes the pattern of movement in this woman?",
+    "a": [
+      "Apraxia",
+      "Dysarthria",
+      "Dyslexia",
+      "Dysmetria",
+      "Dysphagia"
+    ],
+    "c": 3,
+    "l": "Dysmetria is a cerebellar sign characterized by inability to accurately judge distance, leading to overshooting or undershooting during movements like finger-to-nose testing.",
+    "h": "Finger-to-nose error + ataxia = dysmetria"
+  },
+  {
+    "q": "A patient who suffers from chronic alcohol abuse, which affects neurons in the cerebellum, will most likely:",
+    "a": [
+      "Have a scanning dysarthria",
+      "Have a dysdiadochokinesia",
+      "Have an ataxic gait",
+      "Have a dysmetria"
+    ],
+    "c": 2,
+    "l": "Chronic alcohol abuse commonly damages the anterior vermis of the cerebellum, leading to gait ataxia (truncal instability).",
+    "h": "Alcohol → anterior vermis → gait ataxia"
+  },
+  {
+    "q": "Which cortical area is responsible for taste recognition?",
+    "a": [
+      "Brodmann’s areas 41, 42",
+      "Centre for defecation and micturition",
+      "Brodmann’s area 43",
+      "Anterior (motor) speech area",
+      "Primary motor cortex"
+    ],
+    "c": 2,
+    "l": "Brodmann area 43 corresponds to the gustatory cortex responsible for taste perception.",
+    "h": "Taste = BA 43"
+  },
+  {
+    "q": "Huntington’s disease is characterized by neuronal degeneration in which of the following structures?",
+    "a": [
+      "Striatum",
+      "Globus pallidus, internal segment",
+      "Globus pallidus, external segment",
+      "Substantia nigra",
+      "Thalamus"
+    ],
+    "c": 0,
+    "l": "Huntington’s disease involves degeneration of GABAergic neurons in the striatum (especially the caudate nucleus), leading to chorea.",
+    "h": "Huntington = caudate (striatum)"
+  },
+  {
+    "q": "Which of the following is an excitatory neuron within the cerebellar cortex?",
+    "a": [
+      "Basket cell",
+      "Golgi cell",
+      "Granule cell",
+      "Purkinje cell",
+      "Stellate cell"
+    ],
+    "c": 2,
+    "l": "Granule cells are the only excitatory neurons in the cerebellar cortex, while all others (Purkinje, basket, stellate, Golgi) are inhibitory.",
+    "h": "Only excitatory = granule cell"
+  },
+  {
+    "q": "A 35-year-old woman is brought to her family physician by her husband. The results of the examination reveal deficits that suggest the woman has had a precipitous vascular event. A CT is ordered, revealing a small stroke in the genu of the internal capsule. Which of the following fiber populations is most affected in this woman's stroke?",
+    "a": [
+      "Corticonigral",
+      "Corticopontine",
+      "Corticospinal",
+      "Corticostriatal",
+      "Corticonuclear"
+    ],
+    "c": 4,
+    "l": "The genu of the internal capsule contains corticonuclear (corticobulbar) fibers that control cranial nerve motor functions.",
+    "h": "Genu = corticonuclear"
+  },
+  {
+    "q": "The neural tract that connects Broca’s area (Brodmann’s 44) with Wernicke’s area (Brodmann’s 22) and regulates fluent speech is the:",
+    "a": [
+      "Fornix",
+      "Stria terminalis",
+      "Arcuate fasciculus",
+      "Corpus callosum",
+      "Superior longitudinal bundle"
+    ],
+    "c": 2,
+    "l": "The arcuate fasciculus connects Broca’s and Wernicke’s areas and is essential for coordinated speech; damage causes conduction aphasia.",
+    "h": "Broca ↔ Wernicke = arcuate fasciculus"
+  },
+  {
+    "q": "Which dopaminergic pathway projects mainly to the caudate nucleus?",
+    "a": [
+      "Nigrostriatal pathway",
+      "The medial longitudinal fasciculus",
+      "Both A and B",
+      "None of the above"
+    ],
+    "c": 0,
+    "l": "The nigrostriatal pathway carries dopamine from the substantia nigra to the striatum (caudate and putamen) and is essential for movement control.",
+    "h": "Nigrostriatal = movement"
+  },
+  {
+    "q": "A 63-year-old patient is seen in a clinic with the following symptoms: a resting tremor in the hand, a slow shuffling gait, and difficulty arising from a chair when seated. These symptoms could be caused by a lesion in the:",
+    "a": [
+      "Subthalamic nucleus",
+      "Cerebellar hemisphere",
+      "Corticospinal tract",
+      "Substantia nigra"
+    ],
+    "c": 3,
+    "l": "Degeneration of dopaminergic neurons in the substantia nigra causes Parkinson’s disease, characterized by tremor, rigidity, and bradykinesia.",
+    "h": "Parkinson = substantia nigra"
+  },
+  {
+    "q": "Gamma aminobutyric acid (GABA) is considered the predominant neurotransmitter in all of the following except?",
+    "a": [
+      "Strionigral fibers",
+      "Striopallidal fibers",
+      "Corticostriate fibers",
+      "Pallidonigral fibers"
+    ],
+    "c": 2,
+    "l": "Corticostriate fibers use glutamate (excitatory), whereas basal ganglia intrinsic pathways (striatal and pallidal) primarily use GABA (inhibitory).",
+    "h": "Cortex = glutamate, not GABA"
   }
 ],
 "neuro_batch3": [
