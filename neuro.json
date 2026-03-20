@@ -37,6 +37,48 @@
     }
   ],
   "quizzes": {
+
+    "neuro": [
+    { "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?", "a": ["Angular gyrus + supramarginal gyrus", "Anterior + posterior paracentral gyri", "Cuneus + lingual gyrus", "Pars opercularis + pars triangularis", "Uncus + parahippocampal gyrus"], "c": 3, "l": "Broca’s area (inferior frontal gyrus) lesion causes expressive aphasia with preserved comprehension." },
+
+    { "q": "Dysdiadochokinesia is an impairment of:", "a": ["Successive finger movements", "Heel-to-shin testing", "Rapid alternating movements", "Tremor suppression", "Conjugate eye movements"], "c": 2, "l": "Dysdiadochokinesia is inability to perform rapid alternating movements (cerebellar sign)." },
+
+    { "q": "The term lentiform nucleus refers to:", "a": ["Caudate and putamen", "Caudate and globus pallidus", "Putamen and globus pallidus", "Caudate only", "Putamen only"], "c": 2, "l": "Lentiform nucleus = putamen + globus pallidus." },
+
+    { "q": "A 59-year-old right-handed male presents with occipital headaches, diplopia, ptosis, contralateral pain loss, ipsilateral facial deficits, and cerebellar signs. What is the diagnosis?", "a": ["Wallenberg syndrome", "Dejerine syndrome", "Lateral pontine syndrome", "Benedict’s syndrome"], "c": 0, "l": "PICA lesion causes Wallenberg syndrome with crossed sensory loss and nucleus ambiguus deficits." },
+
+    { "q": "Which of the following statements about the globus pallidus is not true?", "a": ["It is located adjacent (lateral) to the internal capsule", "It receives excitatory axons from the caudate and putamen", "It is the major outflow nucleus of the corpus striatum", "It sends inhibitory axons to the thalamus"], "c": 1, "l": "Globus pallidus receives inhibitory (GABAergic), not excitatory, input from striatum." },
+
+    { "q": "A patient has contralateral motor weakness, facial weakness sparing forehead, INO, and sensory loss. Where is the lesion?", "a": ["Medulla", "Pons", "Midbrain", "Cerebral cortex"], "c": 1, "l": "Combination of corticospinal, medial lemniscus, and MLF signs localizes to the pons." },
+
+    { "q": "Which of the following is not correctly paired?", "a": ["Neostriatum – Caudate nucleus plus putamen", "Lentiform nucleus – Globus pallidus plus putamen", "Corpus striatum – Caudate nucleus plus lentiform nucleus", "Amygdaloid body – Claustrum plus amygdaloid nucleus"], "c": 3, "l": "Amygdaloid body refers only to the amygdala, not the claustrum." },
+
+    { "q": "The prefrontal cortex (areas 9, 10, 11 and 12) is essential for:", "a": ["Feeding", "Sexual thoughts", "Foresight", "Stereognosis", "Spatial organization"], "c": 2, "l": "Prefrontal cortex controls executive functions like planning and foresight." },
+
+    { "q": "Loss of ability to recognize objects by touch despite intact sensation is called:", "a": ["Alexia", "Agraphia", "Astereognosis", "Acalculia"], "c": 2, "l": "Parietal lobe lesions cause astereognosis." },
+
+    { "q": "A patient has nonfluent speech, preserved comprehension, and difficulty repeating sentences. What is the diagnosis?", "a": ["Dysarthria", "Wernicke’s aphasia", "Broca’s aphasia", "Alexia", "Word deafness"], "c": 2, "l": "Nonfluent speech with intact comprehension = Broca’s aphasia." },
+
+    { "q": "Cerebral dominance refers to:", "a": ["More tactual hemisphere", "Controls handedness", "Controls speech and language", "Receives corpus callosum fibers"], "c": 2, "l": "Dominant hemisphere is defined by language control." },
+
+    { "q": "A patient cannot adduct the eye (INO). Where is the lesion?", "a": ["Dorsal medulla", "Ventromedial medulla", "Dorsal pons", "Ventromedial pons", "Medial midbrain"], "c": 2, "l": "MLF lesion causing INO is located in the dorsal pons." },
+
+    { "q": "A patient has expressive aphasia with preserved comprehension. Where is the lesion?", "a": ["Angular gyrus + supramarginal gyrus", "Anterior + posterior paracentral gyri", "Lingual gyrus", "Inferior frontal gyrus", "Parahippocampal gyrus"], "c": 3, "l": "Inferior frontal gyrus (Broca’s area) controls speech production." },
+
+    { "q": "A patient has CN III palsy with contralateral tremor and ataxia. What syndrome?", "a": ["Horner’s syndrome", "Weber’s syndrome", "Benedict’s syndrome", "Wallenberg’s syndrome"], "c": 2, "l": "Benedict syndrome involves red nucleus, CN III, and medial lemniscus." },
+
+    { "q": "A patient has contralateral motor and sensory loss due to internal capsule lesion. Which part is affected?", "a": ["Anterior limb", "Genu", "Posterior limb", "Retrolenticular limb", "Sublenticular limb"], "c": 2, "l": "Posterior limb carries corticospinal and sensory fibers." },
+
+    { "q": "A patient has hemiballismus. Which nucleus is affected?", "a": ["Anterior", "Centromedian", "Subthalamic", "Ventral lateral", "Ventral posteromedial"], "c": 2, "l": "Subthalamic nucleus lesion causes hemiballismus." },
+
+    { "q": "A tumor causes contralateral motor deficits and difficulty with voluntary movement. Which region is affected?", "a": ["Prefrontal cortex", "Premotor region", "Precentral gyrus", "Basal ganglia"], "c": 2, "l": "Precentral gyrus is the primary motor cortex." },
+
+    { "q": "A lesion in the cerebellopontine angle produces:", "a": ["Facial palsy", "Loss of hearing", "Both A and B", "None"], "c": 2, "l": "CPA lesions affect CN VII and VIII causing facial palsy and hearing loss." },
+
+    { "q": "A tumor causes contralateral weakness and facial involvement. Which structure is affected?", "a": ["Internal capsule", "Caudate nucleus", "Globus pallidus"], "c": 0, "l": "Internal capsule contains major motor pathways." },
+
+    { "q": "A patient neglects the left side of the body and space after stroke. Which area is damaged?", "a": ["Parietal lobe", "Temporal lobe", "Occipital lobe", "Premotor cortex", "Orbitomedial cortex"], "c": 0, "l": "Right parietal lobe damage causes contralateral hemispatial neglect." }
+  ],
     "medulla": [
       { "q": "Between which two structures does CN XII emerge?", "a": ["Olive and Inferior Peduncle", "Pyramid and Olive", "Pons and Medulla", "Two Pyramids"], "c": 1, "l": "CN XII exits the ventrolateral sulcus between the pyramid and the olive." },
       { "q": "Occlusion of the ASA (Anterior Spinal Artery) results in:", "a": ["Wallenberg Syndrome", "Medial Medullary Syndrome", "Weber Syndrome", "Locked-in Syndrome"], "c": 1, "l": "ASA supplies the medial medulla; PICA supplies the lateral medulla." },
