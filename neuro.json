@@ -441,6 +441,188 @@
     "l": "Parkinson’s disease is characterized by the 'TRAP' mnemonic: Tremor (resting), Rigidity, Akinesia/bradykinesia, and Postural instability, along with masked facies and micrographia.",
     "h": "Pill-rolling tremor + Shuffling gait + Masked facies = Parkinson’s"
   }
+],
+"neuro_batch3": [
+  {
+    "q": "A lesion in the right paramedian pontine reticular formation (PPRF) would most likely result in:",
+    "a": [
+      "Inability of both eyes to look to the right",
+      "Inability of the right eye to adduct",
+      "Inability of the left eye to abduct",
+      "Loss of vertical gaze"
+    ],
+    "c": 0,
+    "l": "The PPRF is the horizontal gaze center. A lesion causes ipsilateral gaze palsy, meaning neither eye can look toward the side of the lesion.",
+    "h": "PPRF = horizontal gaze center → both eyes move together"
+  },
+  {
+    "q": "Which structure must be activated to initiate voluntary gaze to the left?",
+    "a": [
+      "Left frontal eye field",
+      "Right frontal eye field",
+      "Left abducens nucleus",
+      "Right oculomotor nucleus"
+    ],
+    "c": 1,
+    "l": "Frontal eye fields control contralateral gaze. The right frontal eye field activates the left PPRF to initiate leftward gaze.",
+    "h": "Frontal eye field → opposite direction gaze"
+  },
+  {
+    "q": "A destructive lesion of the left frontal eye field (Area 8) would cause the eyes to deviate:",
+    "a": [
+      "To the right",
+      "To the left",
+      "Upward",
+      "Downward"
+    ],
+    "c": 1,
+    "l": "A destructive lesion of the frontal eye field causes the eyes to deviate toward the side of the lesion due to unopposed activity of the opposite side.",
+    "h": "Destructive FEF lesion → eyes look toward lesion"
+  },
+  {
+  "q": "A lesion of the right medial longitudinal fasciculus (MLF) would most likely produce which of the following findings when attempting left gaze?",
+  "a": [
+    "Right eye fails to adduct and left eye shows nystagmus",
+    "Left eye fails to abduct",
+    "Both eyes fail to move",
+    "Right eye deviates downward and outward"
+  ],
+  "c": 0,
+  "l": "In internuclear ophthalmoplegia (INO), the eye on the side of the MLF lesion cannot adduct, and the contralateral abducting eye develops nystagmus.",
+  "h": "INO = ipsilateral adduction failure + contralateral nystagmus"
+},
+{
+  "q": "Which feature distinguishes internuclear ophthalmoplegia (INO) from an oculomotor nerve (CN III) palsy?",
+  "a": [
+    "Presence of ptosis",
+    "Impaired pupillary reflex",
+    "Preserved convergence",
+    "Eye deviated down and out"
+  ],
+  "c": 2,
+  "l": "In INO, convergence is preserved because it uses a pathway independent of the MLF, unlike CN III palsy where convergence is impaired.",
+  "h": "INO = convergence intact"
+},
+{
+  "q": "A young adult presents with bilateral internuclear ophthalmoplegia. What is the most likely underlying cause?",
+  "a": [
+    "Posterior communicating artery aneurysm",
+    "Multiple sclerosis",
+    "Basilar artery thrombosis",
+    "Diabetic neuropathy"
+  ],
+  "c": 1,
+  "l": "Bilateral INO is classically associated with multiple sclerosis, especially in younger patients.",
+  "h": "Young + bilateral INO = MS"
+},
+{
+  "q": "A lesion affecting both the right PPRF and right MLF would most likely result in which of the following findings?",
+  "a": [
+    "Neither eye can look right, and the right eye cannot adduct on left gaze",
+    "Both eyes cannot look left",
+    "Right eye cannot abduct and left eye cannot adduct",
+    "Only vertical gaze is impaired"
+  ],
+  "c": 0,
+  "l": "One-and-a-half syndrome combines ipsilateral gaze palsy (PPRF lesion) and INO (MLF lesion). Thus, neither eye looks toward the lesion, and the ipsilateral eye cannot adduct when looking away.",
+  "h": "One = gaze palsy, Half = INO"
+},
+{
+  "q": "In one-and-a-half syndrome, which eye movement is preserved?",
+  "a": [
+    "Adduction of the ipsilateral eye",
+    "Abduction of the contralateral eye",
+    "Adduction of the contralateral eye",
+    "All horizontal eye movements"
+  ],
+  "c": 1,
+  "l": "The only preserved movement is abduction of the contralateral eye, as the ipsilateral PPRF and MLF are both damaged.",
+  "h": "Only ONE eye moves ONE way"
+},
+{
+  "q": "A patient with one-and-a-half syndrome attempts to look away from the lesion side. What is observed?",
+  "a": [
+    "Ipsilateral eye fails to adduct, contralateral eye abducts with nystagmus",
+    "Both eyes fail to move",
+    "Ipsilateral eye abducts normally",
+    "Both eyes adduct normally"
+  ],
+  "c": 0,
+  "l": "When looking away from the lesion, the ipsilateral MLF lesion prevents adduction, while the contralateral eye abducts and often shows nystagmus (INO component).",
+  "h": "INO component = ipsilateral adduction failure"
+},
+{
+  "q": "A lesion in the facial colliculus region of the pons results in one-and-a-half syndrome plus ipsilateral facial paralysis. What is this condition called?",
+  "a": [
+    "Millard-Gubler syndrome",
+    "Eight-and-a-half syndrome",
+    "Wallenberg syndrome",
+    "Foville syndrome"
+  ],
+  "c": 1,
+  "l": "Eight-and-a-half syndrome is defined as one-and-a-half syndrome plus ipsilateral CN VII palsy due to involvement of the facial nerve fibers looping around the abducens nucleus.",
+  "h": "1½ + 7 = 8½ syndrome"
+},
+{
+  "q": "Which additional deficit distinguishes eight-and-a-half syndrome from one-and-a-half syndrome?",
+  "a": [
+    "Loss of vertical gaze",
+    "Ipsilateral lower motor neuron facial paralysis",
+    "Contralateral hemiplegia",
+    "Bilateral pupillary dilation"
+  ],
+  "c": 1,
+  "l": "Eight-and-a-half syndrome includes ipsilateral CN VII palsy, resulting in complete facial weakness on the same side.",
+  "h": "Add CN VII palsy"
+},
+{
+  "q": "A patient presents with inability to gaze toward the right, failure of the right eye to adduct on left gaze, and right-sided facial paralysis involving the forehead. Where is the lesion located?",
+  "a": [
+    "Left midbrain",
+    "Right pons",
+    "Left medulla",
+    "Right cerebellum"
+  ],
+  "c": 1,
+  "l": "This presentation is classic for eight-and-a-half syndrome, which localizes to the ipsilateral pons involving the PPRF, MLF, and CN VII fibers.",
+  "h": "One-and-a-half + facial palsy → pons"
+},
+{
+  "q": "Shining light in one eye normally causes constriction of both pupils. This is due to projections from the pretectal nucleus to:",
+  "a": [
+    "Only the ipsilateral Edinger-Westphal nucleus",
+    "Only the contralateral Edinger-Westphal nucleus",
+    "Bilateral Edinger-Westphal nuclei",
+    "The oculomotor nuclei only"
+  ],
+  "c": 2,
+  "l": "The pretectal nucleus sends bilateral projections to both Edinger-Westphal nuclei, producing both direct and consensual pupillary constriction.",
+  "h": "Pretectal → BOTH EW nuclei"
+},
+{
+  "q": "Which structure serves as the afferent limb of the pupillary light reflex?",
+  "a": [
+    "Oculomotor nerve (CN III)",
+    "Optic nerve (CN II)",
+    "Ciliary ganglion",
+    "Short ciliary nerves"
+  ],
+  "c": 1,
+  "l": "The afferent limb of the pupillary light reflex is carried by the optic nerve (CN II), which transmits light information to the pretectal nucleus.",
+  "h": "Afferent = CN II"
+},
+{
+  "q": "A lesion of the pretectal nucleus would most likely result in which of the following findings when light is shined in one eye?",
+  "a": [
+    "Only ipsilateral pupillary constriction",
+    "Only contralateral pupillary constriction",
+    "No direct or consensual pupillary constriction",
+    "Normal pupillary constriction in both eyes"
+  ],
+  "c": 2,
+  "l": "The pretectal nucleus is essential for relaying signals to both Edinger-Westphal nuclei. Damage results in loss of both direct and consensual light reflexes.",
+  "h": "Pretectal lesion → no light reflex at all"
+}
 ]
   }
 }
