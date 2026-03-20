@@ -293,6 +293,33 @@
         "l": "Damage to the right parietal lobe causes contralateral hemispatial neglect.",
         "h": "Neglect of left side = right parietal lobe"
       }
-    ]
+    ],
+    "neuro_batch2": [
+  {
+    "q": "The Purkinje cells of the cerebellar cortex:",
+    "a": [
+      "Provides the only output to the deep cerebellar nuclei",
+      "Receives inhibitory input from climbing fibers",
+      "Send axons to the thalamus",
+      "Are excited by the axons of the basket cells"
+    ],
+    "c": 0,
+    "l": "Purkinje cells are the sole output neurons of the cerebellar cortex and send inhibitory (GABAergic) signals to deep cerebellar nuclei.",
+    "h": "Only output of cerebellar cortex → Purkinje cells"
+  },
+  {
+    "q": "Lucy is a 55-year-old woman with a history of hypertension and diabetes for more than 15 years. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Her speech was slurred and unintelligible. She lay on the floor and waited for help to arrive. At the emergency room, she was found to follow commands well, and although her speech was very slurred, it was logical in organization. The lower two-thirds of her face pointed to the right side when asked to protrude her tongue. Her right arm and leg were severely but equally weak. The left side was normal. Where is the lesion most likely located?",
+    "a": [
+      "Left precentral gyrus",
+      "Right precentral gyrus",
+      "Left internal capsule",
+      "Right putamen or globus pallidus",
+      "Left thalamus"
+    ],
+    "c": 2,
+    "l": "Equal contralateral face, arm, and leg weakness with dysarthria indicates a lacunar stroke of the internal capsule due to small vessel disease from hypertension and diabetes.",
+    "h": "Equal face + arm + leg weakness → internal capsule (pure motor stroke)"
+  }
+]
   }
 }
