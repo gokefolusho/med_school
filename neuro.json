@@ -1124,7 +1124,9 @@
         "c": 1,
         "l": "The nucleus tractus solitarius carries taste sensation and is associated with facial nerve (CN VII) pathways.",
         "h": "Taste = NTS (nucleus tractus solitarius)"
-      },
+      }
+    ],
+    "neuro_batch4": [
       {
         "q": "The superior cerebellar peduncles carry.",
         "a": [
@@ -1565,7 +1567,7 @@
         "h": "BG → ipsilateral cortex → contralateral body"
       }
     ],
-    "neuro_batch4": [
+    "neuro_batch5": [
       {
         "q": "A lesion in the right paramedian pontine reticular formation (PPRF) would most likely result in:",
         "a": [
