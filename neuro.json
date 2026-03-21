@@ -566,7 +566,131 @@
         "c": 2,
         "l": "Corticostriate fibers use glutamate (excitatory), whereas basal ganglia intrinsic pathways (striatal and pallidal) primarily use GABA (inhibitory).",
         "h": "Cortex = glutamate, not GABA"
-      }
+      },
+       {
+    "q": "All of the following are the signs of lateral pontine syndrome EXCEPT?",
+    "a": [
+      "Ipsilateral limb ataxia",
+      "Ipsilateral pain and temperature loss from the face",
+      "Contralateral pain and temperature loss from the body",
+      "Contralateral loss of discriminative touch and vibration in the body"
+    ],
+    "c": 3,
+    "l": "Lateral pontine syndrome affects spinothalamic and trigeminal pathways but spares the medial lemniscus, so vibration and discriminative touch are preserved.",
+    "h": "Lateral = pain/temp, NOT vibration"
+  },
+  {
+    "q": "Lucy is a 55-year-old woman who has had high blood pressure and diabetes for more than 15 years. One day, as she was reaching for a switch to put on the light she collapsed. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Lucy attempted to cry for help because she was unable to reach the telephone; however, her speech was slurred and rather unintelligible. She lay on the floor and waited for help to arrive. Lucy’s son began to worry about his usually prompt mother when she didn’t arrive for his birthday. After several attempts to telephone her apartment without getting an answer, he drove there to find her lying on the floor. She attempted to tell him what had happened, but her speech was too slurred to comprehend. Assuming that his mother had had a stroke, the son called an ambulance to take her to the nearest emergency room (ER). A neurology resident was called to see Lucy in the emergency room because the physicians there likewise thought that she had a stroke. The resident noted that Lucy followed commands very well, and although her speech was very slurred, it was logical and organized. Also, the lower two-thirds of her face drooped on the right. Her tongue pointed to the right side when she was asked to protrude it. Her right arm and leg were severely, but equally weak; her left side had normal strength. Where did Lucy’s stroke most likely happen?",
+    "a": [
+      "Left precentral gyrus",
+      "Right precentral gyrus",
+      "Left internal capsule",
+      "Right putamen or globus pallidus",
+      "(Not fully visible in image)"
+    ],
+    "c": 2,
+    "l": "A lesion in the left internal capsule causes contralateral pure motor deficits (face, arm, leg) with dysarthria due to corticospinal and corticobulbar fiber involvement.",
+    "h": "Pure motor stroke = internal capsule"
+  },
+  {
+    "q": "A lesion of the genu of the internal capsule on the right side could result in all but which of the following?",
+    "a": [
+      "Inability to smile with the left side of the face on command",
+      "Deviation of the tongue to the left on protrusion",
+      "Hyperacusis on the left",
+      "All of the above could result"
+    ],
+    "c": 3,
+    "l": "The genu of the internal capsule contains corticonuclear fibers, so lesions can cause contralateral facial weakness, tongue deviation, and cranial nerve-related deficits like hyperacusis.",
+    "h": "Genu = cranial nerve motor fibers"
+  },
+  {
+    "q": "Which of the following thalamic nuclei receives important projections from the internal segment of the globus pallidus and from the contralateral cerebellar nuclei?",
+    "a": [
+      "Anterior nucleus",
+      "Lateral dorsal nucleus",
+      "Ventral lateral nucleus",
+      "Ventral posterolateral nucleus",
+      "Ventral posteromedial nucleus"
+    ],
+    "c": 2,
+    "l": "The ventral lateral (VL) nucleus of the thalamus receives input from the globus pallidus and cerebellum and relays motor information to the motor cortex.",
+    "h": "VL = motor relay"
+  },
+  {
+    "q": "Lesions of the superior parietal lobule interfere with the patient’s ability to combine touch, pressure, and proprioceptive impulses, so he or she is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
+    "a": [
+      "Alexia",
+      "Agraphia",
+      "Astereognosis",
+      "Acalculia"
+    ],
+    "c": 2,
+    "l": "Astereognosis is the inability to recognize objects by touch despite intact primary sensory modalities, due to parietal lobe damage.",
+    "h": "Parietal = sensory integration"
+  },
+  {
+    "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, with fasciculations present, and he had no vibratory sense on the right side of the body. These findings suggest?",
+    "a": [
+      "A lesion in the medial medulla",
+      "A lesion in the medial pons",
+      "A lesion in the lateral medulla",
+      "A lesion in the medial mid brain"
+    ],
+    "c": 0,
+    "l": "Medial medullary syndrome (ASA infarct) causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
+    "h": "Medial medulla = motor + vibration + tongue"
+  },
+  {
+    "q": "A 55-year-old man with a history of hypertension has been in excellent health until he notices that he has vertigo and unsteadiness lasting for a week. He then developed nausea, vomiting, dysphagia, hoarseness, ataxia, left facial pain, and right-sided sensory loss. There is no weakness. On examination, he is alert, with a normal mental status. There is left ptosis. He has loss of pain and temperature sensation on the right arm and leg and decreased joint position sensation in the left foot. He is unable to walk. The analgesia and thermal anesthesia on the left side of the face in this case most likely resulted from a lesion of which structure?",
+    "a": [
+      "The trigeminal nerve",
+      "The mesencephalic nucleus of trigeminal",
+      "The principal (chief) sensory nucleus of V",
+      "The spinal nucleus of V"
+    ],
+    "c": 3,
+    "l": "Lateral medullary (Wallenberg) syndrome damages the spinal nucleus of CN V, causing ipsilateral loss of pain and temperature sensation from the face.",
+    "h": "Wallenberg = spinal trigeminal"
+  },
+  {
+    "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the right side of the body. These findings suggest:",
+    "a": [
+      "A lesion in the left medial medulla",
+      "A lesion in the right medial pons",
+      "A lesion in the right medial medulla",
+      "A lesion in the lateral medulla",
+      "A lesion in the left medial pons"
+    ],
+    "c": 0,
+    "l": "Medial medullary syndrome causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
+    "h": "ASA stroke = medial medulla"
+  },
+  {
+    "q": "Descending projections from the midbrain participate in pathways that are directly involved in the inhibition of pain in the spinal trigeminal nucleus in the pars caudalis, and in the posterior horn of the spinal cord. This region of the midbrain contains many cells with opiate receptors. Which of the following is the most likely location of these cells?",
+    "a": [
+      "Midbrain reticular formation",
+      "Periaqueductal gray",
+      "Red nucleus, pars magnocellularis",
+      "Red nucleus, pars parvocellularis",
+      "Substantia nigra, pars reticulata"
+    ],
+    "c": 1,
+    "l": "The periaqueductal gray (PAG) in the midbrain contains opioid receptors and plays a key role in descending pain inhibition.",
+    "h": "PAG = pain control"
+  },
+  {
+    "q": "The inferior colliculi are considered to be:",
+    "a": [
+      "Directly involved in and a part of the visual pathway",
+      "Directly involved in and a part of the auditory pathway",
+      "Directly involved in and a part of the olfactory pathway",
+      "All of the above"
+    ],
+    "c": 1,
+    "l": "The inferior colliculi are midbrain structures that serve as major relay centers in the auditory pathway.",
+    "h": "Inferior colliculus = hearing"
+  }
     ],
     "neuro_batch3": [
       {
