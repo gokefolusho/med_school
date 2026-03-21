@@ -567,130 +567,439 @@
         "l": "Corticostriate fibers use glutamate (excitatory), whereas basal ganglia intrinsic pathways (striatal and pallidal) primarily use GABA (inhibitory).",
         "h": "Cortex = glutamate, not GABA"
       },
-       {
-    "q": "All of the following are the signs of lateral pontine syndrome EXCEPT?",
-    "a": [
-      "Ipsilateral limb ataxia",
-      "Ipsilateral pain and temperature loss from the face",
-      "Contralateral pain and temperature loss from the body",
-      "Contralateral loss of discriminative touch and vibration in the body"
+      {
+        "q": "All of the following are the signs of lateral pontine syndrome EXCEPT?",
+        "a": [
+          "Ipsilateral limb ataxia",
+          "Ipsilateral pain and temperature loss from the face",
+          "Contralateral pain and temperature loss from the body",
+          "Contralateral loss of discriminative touch and vibration in the body"
+        ],
+        "c": 3,
+        "l": "Lateral pontine syndrome affects spinothalamic and trigeminal pathways but spares the medial lemniscus, so vibration and discriminative touch are preserved.",
+        "h": "Lateral = pain/temp, NOT vibration"
+      },
+      {
+        "q": "Lucy is a 55-year-old woman who has had high blood pressure and diabetes for more than 15 years. One day, as she was reaching for a switch to put on the light she collapsed. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Lucy attempted to cry for help because she was unable to reach the telephone; however, her speech was slurred and rather unintelligible. She lay on the floor and waited for help to arrive. Lucy’s son began to worry about his usually prompt mother when she didn’t arrive for his birthday. After several attempts to telephone her apartment without getting an answer, he drove there to find her lying on the floor. She attempted to tell him what had happened, but her speech was too slurred to comprehend. Assuming that his mother had had a stroke, the son called an ambulance to take her to the nearest emergency room (ER). A neurology resident was called to see Lucy in the emergency room because the physicians there likewise thought that she had a stroke. The resident noted that Lucy followed commands very well, and although her speech was very slurred, it was logical and organized. Also, the lower two-thirds of her face drooped on the right. Her tongue pointed to the right side when she was asked to protrude it. Her right arm and leg were severely, but equally weak; her left side had normal strength. Where did Lucy’s stroke most likely happen?",
+        "a": [
+          "Left precentral gyrus",
+          "Right precentral gyrus",
+          "Left internal capsule",
+          "Right putamen or globus pallidus",
+          "(Not fully visible in image)"
+        ],
+        "c": 2,
+        "l": "A lesion in the left internal capsule causes contralateral pure motor deficits (face, arm, leg) with dysarthria due to corticospinal and corticobulbar fiber involvement.",
+        "h": "Pure motor stroke = internal capsule"
+      },
+      {
+        "q": "A lesion of the genu of the internal capsule on the right side could result in all but which of the following?",
+        "a": [
+          "Inability to smile with the left side of the face on command",
+          "Deviation of the tongue to the left on protrusion",
+          "Hyperacusis on the left",
+          "All of the above could result"
+        ],
+        "c": 3,
+        "l": "The genu of the internal capsule contains corticonuclear fibers, so lesions can cause contralateral facial weakness, tongue deviation, and cranial nerve-related deficits like hyperacusis.",
+        "h": "Genu = cranial nerve motor fibers"
+      },
+      {
+        "q": "Which of the following thalamic nuclei receives important projections from the internal segment of the globus pallidus and from the contralateral cerebellar nuclei?",
+        "a": [
+          "Anterior nucleus",
+          "Lateral dorsal nucleus",
+          "Ventral lateral nucleus",
+          "Ventral posterolateral nucleus",
+          "Ventral posteromedial nucleus"
+        ],
+        "c": 2,
+        "l": "The ventral lateral (VL) nucleus of the thalamus receives input from the globus pallidus and cerebellum and relays motor information to the motor cortex.",
+        "h": "VL = motor relay"
+      },
+      {
+        "q": "Lesions of the superior parietal lobule interfere with the patient’s ability to combine touch, pressure, and proprioceptive impulses, so he or she is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
+        "a": [
+          "Alexia",
+          "Agraphia",
+          "Astereognosis",
+          "Acalculia"
+        ],
+        "c": 2,
+        "l": "Astereognosis is the inability to recognize objects by touch despite intact primary sensory modalities, due to parietal lobe damage.",
+        "h": "Parietal = sensory integration"
+      },
+      {
+        "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, with fasciculations present, and he had no vibratory sense on the right side of the body. These findings suggest?",
+        "a": [
+          "A lesion in the medial medulla",
+          "A lesion in the medial pons",
+          "A lesion in the lateral medulla",
+          "A lesion in the medial mid brain"
+        ],
+        "c": 0,
+        "l": "Medial medullary syndrome (ASA infarct) causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
+        "h": "Medial medulla = motor + vibration + tongue"
+      },
+      {
+        "q": "A 55-year-old man with a history of hypertension has been in excellent health until he notices that he has vertigo and unsteadiness lasting for a week. He then developed nausea, vomiting, dysphagia, hoarseness, ataxia, left facial pain, and right-sided sensory loss. There is no weakness. On examination, he is alert, with a normal mental status. There is left ptosis. He has loss of pain and temperature sensation on the right arm and leg and decreased joint position sensation in the left foot. He is unable to walk. The analgesia and thermal anesthesia on the left side of the face in this case most likely resulted from a lesion of which structure?",
+        "a": [
+          "The trigeminal nerve",
+          "The mesencephalic nucleus of trigeminal",
+          "The principal (chief) sensory nucleus of V",
+          "The spinal nucleus of V"
+        ],
+        "c": 3,
+        "l": "Lateral medullary (Wallenberg) syndrome damages the spinal nucleus of CN V, causing ipsilateral loss of pain and temperature sensation from the face.",
+        "h": "Wallenberg = spinal trigeminal"
+      },
+      {
+        "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the right side of the body. These findings suggest:",
+        "a": [
+          "A lesion in the left medial medulla",
+          "A lesion in the right medial pons",
+          "A lesion in the right medial medulla",
+          "A lesion in the lateral medulla",
+          "A lesion in the left medial pons"
+        ],
+        "c": 0,
+        "l": "Medial medullary syndrome causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
+        "h": "ASA stroke = medial medulla"
+      },
+      {
+        "q": "Descending projections from the midbrain participate in pathways that are directly involved in the inhibition of pain in the spinal trigeminal nucleus in the pars caudalis, and in the posterior horn of the spinal cord. This region of the midbrain contains many cells with opiate receptors. Which of the following is the most likely location of these cells?",
+        "a": [
+          "Midbrain reticular formation",
+          "Periaqueductal gray",
+          "Red nucleus, pars magnocellularis",
+          "Red nucleus, pars parvocellularis",
+          "Substantia nigra, pars reticulata"
+        ],
+        "c": 1,
+        "l": "The periaqueductal gray (PAG) in the midbrain contains opioid receptors and plays a key role in descending pain inhibition.",
+        "h": "PAG = pain control"
+      },
+      {
+        "q": "The inferior colliculi are considered to be:",
+        "a": [
+          "Directly involved in and a part of the visual pathway",
+          "Directly involved in and a part of the auditory pathway",
+          "Directly involved in and a part of the olfactory pathway",
+          "All of the above"
+        ],
+        "c": 1,
+        "l": "The inferior colliculi are midbrain structures that serve as major relay centers in the auditory pathway.",
+        "h": "Inferior colliculus = hearing"
+      }
     ],
-    "c": 3,
-    "l": "Lateral pontine syndrome affects spinothalamic and trigeminal pathways but spares the medial lemniscus, so vibration and discriminative touch are preserved.",
-    "h": "Lateral = pain/temp, NOT vibration"
-  },
-  {
-    "q": "Lucy is a 55-year-old woman who has had high blood pressure and diabetes for more than 15 years. One day, as she was reaching for a switch to put on the light she collapsed. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Lucy attempted to cry for help because she was unable to reach the telephone; however, her speech was slurred and rather unintelligible. She lay on the floor and waited for help to arrive. Lucy’s son began to worry about his usually prompt mother when she didn’t arrive for his birthday. After several attempts to telephone her apartment without getting an answer, he drove there to find her lying on the floor. She attempted to tell him what had happened, but her speech was too slurred to comprehend. Assuming that his mother had had a stroke, the son called an ambulance to take her to the nearest emergency room (ER). A neurology resident was called to see Lucy in the emergency room because the physicians there likewise thought that she had a stroke. The resident noted that Lucy followed commands very well, and although her speech was very slurred, it was logical and organized. Also, the lower two-thirds of her face drooped on the right. Her tongue pointed to the right side when she was asked to protrude it. Her right arm and leg were severely, but equally weak; her left side had normal strength. Where did Lucy’s stroke most likely happen?",
-    "a": [
-      "Left precentral gyrus",
-      "Right precentral gyrus",
-      "Left internal capsule",
-      "Right putamen or globus pallidus",
-      "(Not fully visible in image)"
-    ],
-    "c": 2,
-    "l": "A lesion in the left internal capsule causes contralateral pure motor deficits (face, arm, leg) with dysarthria due to corticospinal and corticobulbar fiber involvement.",
-    "h": "Pure motor stroke = internal capsule"
-  },
-  {
-    "q": "A lesion of the genu of the internal capsule on the right side could result in all but which of the following?",
-    "a": [
-      "Inability to smile with the left side of the face on command",
-      "Deviation of the tongue to the left on protrusion",
-      "Hyperacusis on the left",
-      "All of the above could result"
-    ],
-    "c": 3,
-    "l": "The genu of the internal capsule contains corticonuclear fibers, so lesions can cause contralateral facial weakness, tongue deviation, and cranial nerve-related deficits like hyperacusis.",
-    "h": "Genu = cranial nerve motor fibers"
-  },
-  {
-    "q": "Which of the following thalamic nuclei receives important projections from the internal segment of the globus pallidus and from the contralateral cerebellar nuclei?",
-    "a": [
-      "Anterior nucleus",
-      "Lateral dorsal nucleus",
-      "Ventral lateral nucleus",
-      "Ventral posterolateral nucleus",
-      "Ventral posteromedial nucleus"
-    ],
-    "c": 2,
-    "l": "The ventral lateral (VL) nucleus of the thalamus receives input from the globus pallidus and cerebellum and relays motor information to the motor cortex.",
-    "h": "VL = motor relay"
-  },
-  {
-    "q": "Lesions of the superior parietal lobule interfere with the patient’s ability to combine touch, pressure, and proprioceptive impulses, so he or she is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
-    "a": [
-      "Alexia",
-      "Agraphia",
-      "Astereognosis",
-      "Acalculia"
-    ],
-    "c": 2,
-    "l": "Astereognosis is the inability to recognize objects by touch despite intact primary sensory modalities, due to parietal lobe damage.",
-    "h": "Parietal = sensory integration"
-  },
-  {
-    "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, with fasciculations present, and he had no vibratory sense on the right side of the body. These findings suggest?",
-    "a": [
-      "A lesion in the medial medulla",
-      "A lesion in the medial pons",
-      "A lesion in the lateral medulla",
-      "A lesion in the medial mid brain"
-    ],
-    "c": 0,
-    "l": "Medial medullary syndrome (ASA infarct) causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
-    "h": "Medial medulla = motor + vibration + tongue"
-  },
-  {
-    "q": "A 55-year-old man with a history of hypertension has been in excellent health until he notices that he has vertigo and unsteadiness lasting for a week. He then developed nausea, vomiting, dysphagia, hoarseness, ataxia, left facial pain, and right-sided sensory loss. There is no weakness. On examination, he is alert, with a normal mental status. There is left ptosis. He has loss of pain and temperature sensation on the right arm and leg and decreased joint position sensation in the left foot. He is unable to walk. The analgesia and thermal anesthesia on the left side of the face in this case most likely resulted from a lesion of which structure?",
-    "a": [
-      "The trigeminal nerve",
-      "The mesencephalic nucleus of trigeminal",
-      "The principal (chief) sensory nucleus of V",
-      "The spinal nucleus of V"
-    ],
-    "c": 3,
-    "l": "Lateral medullary (Wallenberg) syndrome damages the spinal nucleus of CN V, causing ipsilateral loss of pain and temperature sensation from the face.",
-    "h": "Wallenberg = spinal trigeminal"
-  },
-  {
-    "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the right side of the body. These findings suggest:",
-    "a": [
-      "A lesion in the left medial medulla",
-      "A lesion in the right medial pons",
-      "A lesion in the right medial medulla",
-      "A lesion in the lateral medulla",
-      "A lesion in the left medial pons"
-    ],
-    "c": 0,
-    "l": "Medial medullary syndrome causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
-    "h": "ASA stroke = medial medulla"
-  },
-  {
-    "q": "Descending projections from the midbrain participate in pathways that are directly involved in the inhibition of pain in the spinal trigeminal nucleus in the pars caudalis, and in the posterior horn of the spinal cord. This region of the midbrain contains many cells with opiate receptors. Which of the following is the most likely location of these cells?",
-    "a": [
-      "Midbrain reticular formation",
-      "Periaqueductal gray",
-      "Red nucleus, pars magnocellularis",
-      "Red nucleus, pars parvocellularis",
-      "Substantia nigra, pars reticulata"
-    ],
-    "c": 1,
-    "l": "The periaqueductal gray (PAG) in the midbrain contains opioid receptors and plays a key role in descending pain inhibition.",
-    "h": "PAG = pain control"
-  },
-  {
-    "q": "The inferior colliculi are considered to be:",
-    "a": [
-      "Directly involved in and a part of the visual pathway",
-      "Directly involved in and a part of the auditory pathway",
-      "Directly involved in and a part of the olfactory pathway",
-      "All of the above"
-    ],
-    "c": 1,
-    "l": "The inferior colliculi are midbrain structures that serve as major relay centers in the auditory pathway.",
-    "h": "Inferior colliculus = hearing"
-  }
+    "neuro_batch3": [
+      {
+        "q": "The Kluver-Bucy syndrome is characterized by docility, psychic blindness (compulsion to examine objects visually, tactually, and orally), bizarre sexual behavior and hyper sexuality. One would find this syndrome after lesions of which of the following structures:",
+        "a": [
+          "Hypothalamus.",
+          "Frontal cortex.",
+          "Temporal lobe.",
+          "Lateral geniculate body."
+        ],
+        "c": 2,
+        "l": "Kluver-Bucy syndrome occurs due to bilateral lesions of the temporal lobes (amygdala), leading to hyperorality, hypersexuality, and visual agnosia.",
+        "h": "Temporal lobe = amygdala = behavior changes"
+      },
+      {
+        "q": "A 3-month-old infant was admitted to the pediatric ward because of a large head. The infant stayed quietly in bed most of the day. The circumference of the head was 44 cm (normal value for this age is about 40 cm). The fontanelles protruded, and the cranial sutures were separated. The skull could be transilluminated with a flashlight. Magnetic resonance imaging showed enlarged lateral, third, and fourth ventricles. The closure of the vertebrae was defective in the lower back (spina bifida). Treatment was surgical implantation of a catheter into the lateral ventricle with drainage into the peritoneum. Is this a communicating or Noncommunicating type of hydrocephalus?",
+        "a": [
+          "Communicating; because the CSF drainage is impaired within the subarachnoid space or at the level of the arachnoid villi",
+          "Noncommunicating; the fluid communication between the ventricular system and the subarachnoid space is impaired",
+          "None of above"
+        ],
+        "c": 1,
+        "l": "Noncommunicating hydrocephalus results from obstruction within the ventricular system preventing CSF flow to the subarachnoid space.",
+        "h": "Obstruction = noncommunicating"
+      },
+      {
+        "q": "A lesion of the Para hippocampal uncus leads to?",
+        "a": [
+          "Auditory hallucinations",
+          "Visual hallucinations",
+          "Olfactory hallucinations",
+          "Tactile hallucinations",
+          "Gustatory hallucinations"
+        ],
+        "c": 2,
+        "l": "The uncus is part of the olfactory cortex; lesions cause olfactory hallucinations (uncinate fits).",
+        "h": "Uncus = smell"
+      },
+      {
+        "q": "A 45-year-old man is admitted to the emergency department with a worsening headache, nystagmus, and gait ataxia. An MRI of the brain demonstrates a large infarction involving cerebellum. During the neurologic examination, the doctor asks the patient to first touch his nose and then the examiner’s finger. Which of the following phenomena is most likely to be seen with this test?",
+        "a": [
+          "Hypotonia",
+          "Cerebellar intention tremor",
+          "Dysarthria (speech problem)",
+          "Hypertonia"
+        ],
+        "c": 1,
+        "l": "Finger-to-nose testing reveals intention tremor in cerebellar lesions due to impaired coordination.",
+        "h": "Cerebellum = intention tremor"
+      },
+      {
+        "q": "A 77-year-old right-handed man with a history of atrial fibrillation and diabetes mellitus is brought to the emergency department by his family. His son describes that when his father awoke that morning, he was unable to use words or sentences that made any sense. On examination, the patient has spontaneous, fluent speech, with normal grammatical constructs and prosody. However, the majority of what he says is meaningless. He is unable to follow commands, except to close his eyes. When asked to identify objects, he uses inappropriate substitutions of words. He also fails to repeat words and is unable to read. A lesion of which of the following areas would most likely account for his language deficits?",
+        "a": [
+          "Inferior frontal gyrus",
+          "Crus cerebri",
+          "Prefrontal cortex",
+          "Superior temporal gyrus"
+        ],
+        "c": 3,
+        "l": "Wernicke’s aphasia results from lesions in the superior temporal gyrus, causing fluent but meaningless speech with poor comprehension.",
+        "h": "Fluent nonsense = Wernicke"
+      },
+      {
+        "q": "A 59-year-old male suffered a stroke and later presented with a spastic paralysis. Which of the following structures was affected by the stroke that accounts for the spasticity?",
+        "a": [
+          "Ventral horn cells",
+          "Corpus callosum",
+          "Postcentral gyrus",
+          "Internal capsule",
+          "Substantia nigra"
+        ],
+        "c": 3,
+        "l": "Damage to the internal capsule affects corticospinal tracts leading to upper motor neuron signs such as spasticity.",
+        "h": "UMN lesion = internal capsule"
+      },
+      {
+        "q": "A patient who suffered a stroke presents with a paralysis of the right side of the lower face, right spastic paralysis of the limbs, deviation of the tongue to the right with no atrophy, and no loss of taste from any region of the tongue. Which of the following structures was most likely affected by the stroke?",
+        "a": [
+          "Internal capsule of the right side",
+          "Internal capsule of the left side",
+          "Right pontine tegmentum",
+          "Base of the medulla on the right side",
+          "Base of the medulla on the left side"
+        ],
+        "c": 1,
+        "l": "Contralateral UMN facial, limb, and tongue weakness without atrophy indicates a lesion in the opposite internal capsule.",
+        "h": "Contralateral weakness = opposite side lesion"
+      },
+      {
+        "q": "60 year old woman suddenly remarked that she was seeing double and felt a weakness in her left arm and leg. Her husband noticed that her right eyelid was drooping. At the hospital, she was awake, oriented, and articulate. Her visual fields were normal but here right eye deviated to the right. On attempted lateral gaze to the left only the left eye responded; only the left eye constructed in response to light. Upon smiling, there was a minor weakness on the left. The gag, corneal, and jaw jerk reflexes were normal as were the sensory examinations of the face and body. Motor strength was normal in the extremities on the right but reduced on the left especially in the arm where there was a heightened biceps reflex and resistance to passive stretch. Where is the site of lesion?",
+        "a": [
+          "Cerebellum",
+          "Substantia nigra",
+          "Mid brain",
+          "None of above."
+        ],
+        "c": 2,
+        "l": "Findings suggest midbrain lesion (Weber syndrome) with CN III involvement and contralateral weakness.",
+        "h": "CN III + weakness = midbrain"
+      },
+      {
+        "q": "In a particular case, one woman lost her concept of left, with regard to her body and surroundings. For example when applying lipstick, she completely neglects the left side of her face. When eating she complains that her portions are too small, because she only eats from the right side of her plate. Where is her lesion?",
+        "a": [
+          "in the right frontal lobe",
+          "in the left parietal cortex",
+          "in the right parietal cortex",
+          "in the left frontal lobe"
+        ],
+        "c": 2,
+        "l": "Right parietal lesions cause contralateral hemispatial neglect.",
+        "h": "Neglect = right parietal"
+      },
+      {
+        "q": "The main efferent fiber system exiting the Amygdaloid nucleus is the",
+        "a": [
+          "Stria terminalis",
+          "Stria medullaris",
+          "Terminal sulcus",
+          "Fornix (the fimbria)",
+          "Tail of the caudate nucleus"
+        ],
+        "c": 0,
+        "l": "The stria terminalis is the major output pathway of the amygdala.",
+        "h": "Amygdala → stria terminalis"
+      },
+      {
+        "q": "52 yr old man visits the clinic complaining of difficulty in tasting the food. He also has trouble smiling and not closing the eyes tightly. Through which of the following tracts or nuclei affected cranial nerve traverse.",
+        "a": [
+          "Dorsal nucleus of vagus",
+          "Nucleus Tractus Solitarius",
+          "Bothe A And B",
+          "None of above"
+        ],
+        "c": 1,
+        "l": "Taste sensation is carried to the nucleus tractus solitarius, which receives input from facial, glossopharyngeal, and vagus nerves.",
+        "h": "Taste → NTS"
+      },
+      {
+        "q": "During development the midbrain vesicle will become the midbrain (mesencephalon). The cavity of the midbrain is known as the:",
+        "a": [
+          "Cerebral aqueduct",
+          "Lateral ventricle",
+          "Third ventricle",
+          "Interventricular foramen"
+        ],
+        "c": 0,
+        "l": "The cavity of the midbrain is the cerebral aqueduct, connecting the third and fourth ventricles.",
+        "h": "Midbrain = aqueduct"
+      },
+      {
+        "q": "The foramen of megandie empties into which of the following cisterns",
+        "a": [
+          "Superior cistern",
+          "Cisterna magna or cerebello-medullary cistern",
+          "Interpeduncular cistern",
+          "Lumbar cistern",
+          "None of the above (a-d)"
+        ],
+        "c": 1,
+        "l": "The median aperture (foramen of Magendie) drains CSF into the cisterna magna.",
+        "h": "Magendie → cisterna magna"
+      },
+      {
+        "q": "An elderly female patient complains that she cannot taste the food she eats. A careful neurological examination reveals no evidence of peripheral damage of the taste receptors. The evidence suggests, instead, that here is selective damage to certain regions of the brainstem. Which of the following sites would include damage that could result in the selective loss of taste?",
+        "a": [
+          "Superior olivary nucleus",
+          "Inferior salivatory nucleus",
+          "Tractus Solitarius nucleus",
+          "Spinal nucleus of the trigeminal nerve",
+          "Reticular tegmental nucleus of the pons"
+        ],
+        "c": 2,
+        "l": "The nucleus tractus solitarius is the central relay for taste in the brainstem.",
+        "h": "Taste loss = NTS"
+      },
+      {
+        "q": "The inability to perform a movement or sequence of movements despite intact sensation, automatic motor output, and understanding of the task is a likely consequence of damage to what cortical area?",
+        "a": [
+          "the primary somatosensory cortex(area 1,2,3)",
+          "the somatosensory association cortex (area 5,7)",
+          "the primary motor cortex (area 4)",
+          "the premotor cortex (area 6)"
+        ],
+        "c": 3,
+        "l": "Damage to the premotor cortex causes apraxia—impaired motor planning despite intact strength and comprehension.",
+        "h": "Apraxia = premotor cortex"
+      },
+      {
+        "q": "Interruption of what central nervous system pathways explains the loss of vibratory and position sense in the right leg?",
+        "a": [
+          "Fasciculus cuneatus of the dorsal column-medial lemniscal pathway",
+          "Fasciculus gracilis of the dorsal column-medial lemniscal pathway",
+          "Anterolateral pathway",
+          "Lateral corticospinal pathway"
+        ],
+        "c": 1,
+        "l": "Fasciculus gracilis carries vibration and proprioception from the lower body (legs).",
+        "h": "Leg = gracilis"
+      },
+      {
+        "q": "Patients with basal ganglia lesions can have either hyperkinetic or hypokinetic movement disorders. Which of the following diseases cause hyperkinetic uncontrolled involuntary movements which produce a random pattern of jerks and twists?",
+        "a": [
+          "Parkinson’s disease",
+          "Huntington’s disease",
+          "Both A And B",
+          "None of above"
+        ],
+        "c": 1,
+        "l": "Huntington disease causes chorea—random, jerky hyperkinetic movements.",
+        "h": "Chorea = Huntington"
+      },
+      {
+        "q": "77-year-old man is finding that he has more difficulty moving about for the past year. He is annoyed by a tremor in his hands, but the tremor goes away when he performs routine tasks using his hands. His friends remark that he seems more sullen and doesn't smile at them, but only stares with a fixed expression on his face. He has not suffered any loss of mental ability. Which of the following diseases is he most likely to have?",
+        "a": [
+          "Alzheimer disease",
+          "Parkinson disease",
+          "Cerebellar Disease",
+          "None Of above"
+        ],
+        "c": 1,
+        "l": "Parkinson disease presents with resting tremor, masked facies, and bradykinesia.",
+        "h": "Rest tremor + mask face = Parkinson"
+      },
+      {
+        "q": "Neurotransmitter produced at the postganglionic parasympathetic synapses is ?",
+        "a": [
+          "Ach",
+          "Epinephrine",
+          "Norepinephrine",
+          "Dopamine",
+          "Serotonin"
+        ],
+        "c": 0,
+        "l": "Parasympathetic postganglionic neurons release acetylcholine.",
+        "h": "Parasympathetic = ACh"
+      },
+      {
+        "q": "Horner's Syndrome is characterized by?",
+        "a": [
+          "Ptosis",
+          "Myosis",
+          "Flushing",
+          "Hemianhidrosis",
+          "All of the above"
+        ],
+        "c": 4,
+        "l": "Horner syndrome includes ptosis, miosis, anhidrosis, and flushing due to sympathetic loss.",
+        "h": "PAM = Ptosis Anhidrosis Miosis"
+      },
+      {
+        "q": "Hyperkinetic syndromes such as ballism, Athetosis and chorea are related to a problem of thalamic disinhibition related to which of the following neurotransmitters.",
+        "a": [
+          "Dopamine",
+          "Gamma aminobutyric acid",
+          "Acetylcholine"
+        ],
+        "c": 1,
+        "l": "Loss of GABA inhibition leads to thalamic disinhibition and hyperkinetic movements.",
+        "h": "Less GABA = more movement"
+      },
+      {
+        "q": "A patient displays right paralysis of vocal cords, absence of the gag reflex on the right, and difficulty swallowing. A lesion at which location would explain these findings:",
+        "a": [
+          "Left corticobulbar fibers",
+          "Right hypoglossal nucleus",
+          "Right nucleus ambiguus",
+          "Left motor cortex"
+        ],
+        "c": 2,
+        "l": "Nucleus ambiguus controls CN IX and X functions including swallowing and gag reflex.",
+        "h": "Swallow + gag = nucleus ambiguus"
+      },
+      {
+        "q": "Which of the following statements about the cerebellar cortex is TRUE?",
+        "a": [
+          "It has 4 layers",
+          "Mossy fibers and climbing fibers are inhibitory",
+          "Climbing fibers arise from cell bodies in the superior olivary nuclei",
+          "Purkinje cells inhibit cells of the deep cerebellar nuclei"
+        ],
+        "c": 3,
+        "l": "Purkinje cells are inhibitory and regulate output of deep cerebellar nuclei.",
+        "h": "Purkinje = inhibitory"
+      },
+      {
+        "q": "MRI scan reveals that a newborn infant has a Noncommunicating hydrocephalus. Both the lateral ventricles and the third ventricle are enlarged, but the fourth ventricle is of normal size. What is the most likely explanation for the infant’s condition?",
+        "a": [
+          "A blockage of the foramen of Magendie",
+          "An occlusion of the central canal of spinal cord",
+          "A stenosis of the cerebral aqueduct",
+          "A tumor in the subarachnoid space"
+        ],
+        "c": 2,
+        "l": "Aqueductal stenosis blocks flow between the third and fourth ventricles causing upstream dilation.",
+        "h": "Big 3rd, normal 4th = aqueduct block"
+      },
+      {
+        "q": "A patient delays initiation of movement, displays an uneven trajectory in moving her hand from above her head to touch her nose, and is uneven in her attempts to demonstrate rapid alternation of pronating and supernating movements of the hand and forearm. Which of the following regions most likely contains the lesion?",
+        "a": [
+          "Flocculonodular lobe of the cerebellum",
+          "Vermal region of the anterior cerebellar lobe",
+          "Fastigial nucleus",
+          "Hemispheres of the posterior cerebellar lobe",
+          "Ventral spinocerebellar tract"
+        ],
+        "c": 0,
+        "l": "Flocculonodular lobe lesions affect balance and coordination, leading to movement irregularities.",
+        "h": "Cerebellum = coordination errors"
+      }
     ],
     "neuro_batch4": [
       {
