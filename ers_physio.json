@@ -841,7 +841,149 @@
     "c": 1,
     "l": "Prolactin stimulates milk production.",
     "h": "Prolactin = production"
-  }
+  }, {
+"q": "A nursing mother notes that her milk begins to flow just moments after she hears her infant cry in the next room, even before the baby begins to suckle. This milk ejection reflex is mediated by oxytocin causing the contraction of which of the following cells?",
+"a": [
+"Alveolar epithelial cells",
+"Myoepithelial cells",
+"Endometrial cells",
+"Smooth muscle of the lactiferous ducts"
+],
+"c": 1,
+"l": "Oxytocin causes contraction of myoepithelial cells to eject milk.",
+"h": "Milk let-down = myoepithelial contraction"
+},
+{
+"q": "A 68-year-old male is brought to the emergency department after three days of severe vomiting and diarrhea. On examination, he is lethargic and has a blood pressure of 80/45 mmHg and a heart rate of 125 bpm. Laboratory studies reveal that his plasma osmolarity is slightly lower than normal due to the ingestion of large amounts of plain water during his illness. Despite the low osmolarity, his plasma antidiuretic hormone (ADH) levels are found to be 40 times the normal reference range. Which of the following best explains why ADH remains elevated despite the patient's hypo-osmolar state?",
+"a": [
+"Activation of osmoreceptors in the organum vasculosum.",
+"Decreased stretch of baroreceptors overriding osmotic inhibition.",
+"Increased sensitivity of the V2 receptors in the collecting ducts.",
+"Direct stimulation of the supraoptic nuclei by atrial natriuretic peptide."
+],
+"c": 1,
+"l": "Severe hypovolemia activates baroreceptors which overrides osmotic control of ADH.",
+"h": "Volume > osmolarity for ADH control"
+},
+{
+"q": "A researcher is investigating the growth-promoting effects of growth hormone (GH) in a canine model. In one experimental group, the animals have undergone a total pancreatectomy. Despite receiving daily injections of high-dose recombinant growth hormone, these animals show no significant increase in lean body mass or bone growth. Based on the physiological requirements of GH, which of the following is most likely responsible for the lack of growth in these animals?",
+"a": [
+"Deficiency of the JAK2-STAT signaling pathway.",
+"Inadequate insulin and carbohydrate availability.",
+"Excessive mobilization of free fatty acids causing ketosis.",
+"Reduced half-life of growth hormone in the absence of pancreatic enzymes."
+],
+"c": 1,
+"l": "GH requires insulin for IGF-1 mediated growth; without insulin, growth is impaired.",
+"h": "GH needs insulin to work"
+},
+{
+"q": "A researcher is studying the development of the endocrine system. They identify a structure that invaginates from the pharyngeal epithelium and eventually loses its connection to the oral cavity. This structure, known as Rathke's pouch, will eventually give rise to which of the following?",
+"a": [
+"Neurohypophysis",
+"Adenohypophysis",
+"Supraoptic nucleus",
+"Pituicytes"
+],
+"c": 1,
+"l": "Rathke’s pouch forms the anterior pituitary (adenohypophysis).",
+"h": "Rathke → anterior pituitary"
+},
+{
+"q": "A 45-year-old patient suffers a traumatic injury to the median eminence of the hypothalamus. While the posterior pituitary function remains partially intact due to the proximity of neuronal cell bodies, the regulation of the anterior pituitary is severely compromised. Which of the following delivery mechanisms for hypothalamic factors is primarily impaired in this patient?",
+"a": [
+"Axoplasmic flow via the hypothalamic-hypophysial tract",
+"Systemic arterial circulation",
+"Hypothalamic-hypophysial portal vessels",
+"Direct neural stimulation of glandular cells"
+],
+"c": 2,
+"l": "Anterior pituitary hormones are regulated via hypothalamic-hypophyseal portal circulation.",
+"h": "Anterior pituitary = portal system"
+},
+{
+"q": "A 48-year-old male with an acidophilic adenoma of the anterior pituitary presents with fatigue and increased thirst. Laboratory tests reveal a fasting blood glucose of 145 mg/dL. Which of the following best describes the metabolic effect of his condition on glucose utilization?",
+"a": [
+"Increased insulin sensitivity",
+"Decreased gluconeogenesis in the liver",
+"Growth hormone-induced \"insulin resistance\"",
+"Increased glucose uptake in skeletal muscle"
+],
+"c": 2,
+"l": "Excess GH decreases glucose uptake and increases blood glucose → insulin resistance.",
+"h": "GH = anti-insulin"
+},
+{
+"q": "A clinical study investigates factors that inhibit the release of GH. It is found that a specific hypothalamic hormone exerts a powerful inhibitory effect on somatotropes. Which of the following substances primarily inhibits GH secretion by blocking the action of Growth Hormone-Releasing Hormone (GHRH)?",
+"a": [
+"Ghrelin",
+"Somatostatin",
+"Dopamine",
+"Arginine"
+],
+"c": 1,
+"l": "Somatostatin inhibits GH release from the anterior pituitary.",
+"h": "Somatostatin = GH inhibitor"
+},
+{
+"q": "A 52-year-old patient presents with a protruding lower jaw (prognathism), enlarged hands requiring size 14 gloves, and a hunched back (kyphosis). If these symptoms resulted from an acidophilic tumor, which of the following is most likely true regarding the onset of the excess hormone secretion?",
+"a": [
+"It began before the fusion of the long bone epiphyses.",
+"It began after the fusion of the long bone epiphyses.",
+"It was caused by a deficiency in IGF-1."
+],
+"c": 1,
+"l": "Acromegaly occurs after epiphyseal plate closure.",
+"h": "Acromegaly = after closure"
+},
+{
+"q": "A patient with central diabetes insipidus is administered a synthetic analog of antidiuretic hormone (ADH) to reduce their excessive urine output. This medication acts on V2 receptors to increase the water permeability of the collecting ducts by stimulating the insertion of which of the following?",
+"a": [
+"Sodium-potassium pumps",
+"Aquaporins",
+"Urea transporters",
+"Glucose transporters"
+],
+"c": 1,
+"l": "ADH inserts aquaporin-2 channels in collecting ducts to reabsorb water.",
+"h": "ADH → aquaporin-2"
+},
+{
+"q": "A patient is brought to the emergency room following a major motor vehicle accident with an estimated blood loss of 25% of their total volume. Which of the following is the most potent driver of the resulting high levels of ADH secretion in this patient?",
+"a": [
+"Increased extracellular fluid osmolarity",
+"Decreased blood volume and pressure",
+"Increased stretch of atrial receptors",
+"Hyperglycemia"
+],
+"c": 1,
+"l": "Hypovolemia is the strongest stimulus for ADH release.",
+"h": "Volume loss > osmolarity"
+},
+{
+"q": "A 32-year-old woman experienced severe circulatory shock due to massive hemorrhage during the delivery of her child. Several months later, she reports an inability to lactate, loss of libido, and significant lethargy. What is the most likely underlying cause of her panhypopituitarism?",
+"a": [
+"Craniopharyngioma",
+"Chromophobe tumor",
+"Pituitary vessel thrombosis",
+"Acidophilic adenoma"
+],
+"c": 2,
+"l": "Sheehan syndrome is caused by ischemic necrosis of the pituitary due to postpartum hemorrhage.",
+"h": "Postpartum hemorrhage → pituitary infarct"
+},
+{
+"q": "A group of children is found to have significantly short stature despite having normal or even elevated plasma concentrations of growth hormone. This condition, seen in Laron syndrome, is most likely due to which of the following?",
+"a": [
+"Generalized deficiency of anterior pituitary secretion",
+"Inability to form insulin-like growth factor-1 (IGF-1)",
+"Excessive secretion of somatostatin",
+"Lack of thyroid-stimulating hormone"
+],
+"c": 1,
+"l": "Laron syndrome is due to GH receptor defect leading to decreased IGF-1 production.",
+"h": "GH receptor defect → low IGF-1"
+}
     ]
   }
 }
