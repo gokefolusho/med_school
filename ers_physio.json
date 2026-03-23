@@ -14,12 +14,16 @@
       {
   "header": "Endocrine Physiology (High-Yield Summary)",
   "content": "<ul><li><b>Endocrine vs Exocrine:</b> Endocrine = hormones into blood (distant effect); Exocrine = ducts → local action (enzymes, sweat).</li><li><b>Hormone Types:</b> Peptides (water-soluble), Steroids (cholesterol-derived, lipid-soluble), Amines (mixed behavior).</li><li><b>Water-Soluble Hormones:</b> Stored in vesicles, circulate free, bind cell surface receptors → act via 2nd messengers (FAST).</li><li><b>Lipid-Soluble Hormones:</b> Synthesized on demand, travel bound to proteins, bind intracellular receptors → alter gene transcription (SLOW).</li><li><b>Peptide Hormone Synthesis:</b> Preprohormone → Prohormone (ER/Golgi) → Stored in vesicles → Released by exocytosis.</li><li><b>Steroid Hormones:</b> Derived from cholesterol (4-ring structure) → diffuse across membranes → no storage.</li><li><b>Transport:</b> Water-soluble = free in plasma; Steroids/thyroid = bound to carrier proteins (inactive reservoir, longer half-life).</li><li><b>Half-Life:</b> Peptides = short (minutes); Steroids/thyroid = long (hours–days).</li><li><b>Receptors:</b> Water-soluble = membrane receptors; Lipid-soluble = intracellular (cytoplasm/nucleus).</li><li><b>Negative Feedback:</b> Free hormone levels regulate secretion → maintains homeostasis.</li><li><b>Major Glands:</b> Hypothalamus, Pituitary (master), Thyroid, Parathyroid, Adrenal, Pancreas, Gonads.</li><li><b>Functions:</b> Regulates metabolism, growth, reproduction, blood pressure, electrolytes, behavior.</li></ul>"
+},
+        {
+  "header": "Pituitary & Hypothalamus (High-Yield Summary)",
+  "content": "<ul><li><b>Pituitary Location:</b> Lies in the sella turcica at the base of the brain and is connected to the hypothalamus via the infundibulum (pituitary stalk).</li><li><b>Divisions:</b> Anterior pituitary (adenohypophysis = glandular), Posterior pituitary (neurohypophysis = neural), Pars intermedia (minimal in humans).</li><li><b>Embryology:</b> Anterior pituitary develops from Rathke’s pouch (oral ectoderm); Posterior pituitary develops from neuroectoderm of the hypothalamus.</li><li><b>Posterior Pituitary:</b> Stores and releases ADH and Oxytocin (produced in hypothalamus) via axonal transport (magnocellular neurons).</li><li><b>ADH Function:</b> Increases water reabsorption in kidneys → concentrates urine.</li><li><b>Oxytocin Function:</b> Causes uterine contraction and milk ejection (let-down reflex).</li><li><b>Anterior Pituitary Control:</b> Regulated by hypothalamic releasing/inhibiting hormones via the hypothalamic–hypophyseal portal system.</li><li><b>Portal System:</b> Specialized vascular system connecting hypothalamus to anterior pituitary for rapid hormone delivery.</li><li><b>Hypothalamic Hormones:</b> TRH (↑TSH), CRH (↑ACTH), GHRH (↑GH), Somatostatin (↓GH), GnRH (↑FSH/LH), Dopamine (↓Prolactin).</li><li><b>Dopamine:</b> Key inhibitor of prolactin secretion (Prolactin-Inhibiting Hormone).</li><li><b>Anterior Pituitary Cells:</b> Somatotropes (GH), Corticotropes (ACTH), Thyrotropes (TSH), Gonadotropes (FSH/LH), Lactotropes (Prolactin).</li><li><b>Most Abundant Cells:</b> Somatotropes (~30–40% of anterior pituitary).</li><li><b>Growth Hormone (GH):</b> Acts via JAK-STAT pathway and through IGF-1 (somatomedin) to promote growth.</li><li><b>GH Effects:</b> Increases cell size, mitosis, protein synthesis, and bone growth.</li><li><b>GH Disorders:</b> Excess in children → Gigantism; Excess in adults → Acromegaly; Deficiency → Dwarfism.</li><li><b>Posterior vs Anterior:</b> Posterior = neural control & hormone storage; Anterior = endocrine gland regulated by blood-borne signals.</li><li><b>Median Eminence:</b> Interface where hypothalamic hormones enter portal circulation.</li><li><b>Key Concept:</b> Hypothalamus controls pituitary → pituitary controls peripheral endocrine glands (master regulator system).</li></ul>"
 }
       ]
     }
   ],
   "quizzes": {
-    "ers_physio1": [
+    "1_intro": [
      {
 "q": "Which of the following best describes an endocrine gland?",
 "a": [
@@ -410,7 +414,434 @@
 "h": "Endocrine = long distance"
 }
     ],
-    "neuro_batch2": [
+    "2_pituitary_gland":[
+  {
+    "q": "The pituitary gland is located in which anatomical structure?",
+    "a": [
+      "Sella turcica",
+      "Foramen magnum",
+      "Cranial vault",
+      "Hypothalamic sulcus"
+    ],
+    "c": 0,
+    "l": "The pituitary sits in the sella turcica at the base of the brain.",
+    "h": "Think: pituitary = seat → sella turcica"
+  },
+  {
+    "q": "The anterior pituitary develops from which embryologic structure?",
+    "a": [
+      "Neural crest",
+      "Rathke's pouch",
+      "Endoderm",
+      "Mesoderm"
+    ],
+    "c": 1,
+    "l": "Anterior pituitary arises from Rathke’s pouch (oral ectoderm).",
+    "h": "Rathke = Roof of mouth"
+  },
+  {
+    "q": "The posterior pituitary is derived from:",
+    "a": [
+      "Pharyngeal epithelium",
+      "Neural tissue of hypothalamus",
+      "Mesoderm",
+      "Neural crest"
+    ],
+    "c": 1,
+    "l": "Posterior pituitary originates as neural outgrowth from hypothalamus.",
+    "h": "Posterior = brain origin"
+  },
+  {
+    "q": "Which cell type is found in the posterior pituitary?",
+    "a": [
+      "Somatotropes",
+      "Pituicytes",
+      "Corticotropes",
+      "Lactotropes"
+    ],
+    "c": 1,
+    "l": "Posterior pituitary contains glial-like cells called pituicytes.",
+    "h": "Posterior = neuro → glial cells"
+  },
+  {
+    "q": "Which of the following hormones is produced in the hypothalamus but released from the posterior pituitary?",
+    "a": [
+      "GH",
+      "TSH",
+      "ADH",
+      "ACTH"
+    ],
+    "c": 2,
+    "l": "ADH is synthesized in hypothalamus and released from posterior pituitary.",
+    "h": "Posterior = storage, not production"
+  },
+  {
+    "q": "Oxytocin primarily acts on which organs?",
+    "a": [
+      "Kidneys",
+      "Heart",
+      "Uterus and mammary glands",
+      "Liver"
+    ],
+    "c": 2,
+    "l": "Oxytocin causes uterine contraction and milk ejection.",
+    "h": "Oxytocin = baby + milk"
+  },
+  {
+    "q": "ADH primarily affects which organ?",
+    "a": [
+      "Liver",
+      "Kidneys",
+      "Lungs",
+      "Pancreas"
+    ],
+    "c": 1,
+    "l": "ADH increases water reabsorption in kidneys.",
+    "h": "ADH = Anti-Diuresis"
+  },
+  {
+    "q": "Which neurons synthesize ADH and oxytocin?",
+    "a": [
+      "Parvocellular neurons",
+      "Magnocellular neurons",
+      "Interneurons",
+      "Motor neurons"
+    ],
+    "c": 1,
+    "l": "Magnocellular neurons synthesize ADH and oxytocin.",
+    "h": "MAGNO = big hormones"
+  },
+  {
+    "q": "Hormones of the posterior pituitary reach the gland via:",
+    "a": [
+      "Portal system",
+      "Axonal transport",
+      "Lymphatics",
+      "Venous drainage"
+    ],
+    "c": 1,
+    "l": "They travel via axons from hypothalamus.",
+    "h": "Posterior = nerve pathway"
+  },
+  {
+    "q": "Which system regulates the anterior pituitary?",
+    "a": [
+      "Direct neural input",
+      "Portal circulation",
+      "Lymphatic system",
+      "Cerebrospinal fluid"
+    ],
+    "c": 1,
+    "l": "Anterior pituitary is regulated by hypothalamic portal system.",
+    "h": "Anterior = blood control"
+  },
+
+  {
+    "q": "The hypothalamic–hypophyseal portal system connects:",
+    "a": [
+      "Hypothalamus to posterior pituitary",
+      "Hypothalamus to anterior pituitary",
+      "Pituitary to adrenal gland",
+      "Brain to spinal cord"
+    ],
+    "c": 1,
+    "l": "Portal system carries releasing hormones to anterior pituitary.",
+    "h": "Portal = anterior link"
+  },
+  {
+    "q": "Which hormone inhibits prolactin release?",
+    "a": [
+      "TRH",
+      "Dopamine",
+      "CRH",
+      "GnRH"
+    ],
+    "c": 1,
+    "l": "Dopamine acts as prolactin-inhibiting hormone (PIH).",
+    "h": "Dopamine ↓ prolactin"
+  },
+  {
+    "q": "GHRH stimulates secretion of:",
+    "a": [
+      "TSH",
+      "ACTH",
+      "GH",
+      "Prolactin"
+    ],
+    "c": 2,
+    "l": "Growth hormone releasing hormone stimulates GH release.",
+    "h": "GHRH → GH"
+  },
+  {
+    "q": "Somatostatin primarily inhibits:",
+    "a": [
+      "TSH only",
+      "GH",
+      "ACTH",
+      "Prolactin"
+    ],
+    "c": 1,
+    "l": "Somatostatin inhibits GH release.",
+    "h": "Somatostatin = GH off"
+  },
+  {
+    "q": "CRH stimulates release of:",
+    "a": [
+      "TSH",
+      "ACTH",
+      "GH",
+      "FSH"
+    ],
+    "c": 1,
+    "l": "CRH stimulates ACTH from anterior pituitary.",
+    "h": "CRH → Cortisol axis"
+  },
+  {
+    "q": "GnRH stimulates secretion of:",
+    "a": [
+      "GH",
+      "TSH",
+      "FSH and LH",
+      "ACTH"
+    ],
+    "c": 2,
+    "l": "GnRH stimulates FSH and LH.",
+    "h": "GnRH → gonads"
+  },
+  {
+    "q": "Which anterior pituitary cells secrete GH?",
+    "a": [
+      "Corticotropes",
+      "Somatotropes",
+      "Thyrotropes",
+      "Lactotropes"
+    ],
+    "c": 1,
+    "l": "Somatotropes secrete growth hormone.",
+    "h": "Soma = body growth"
+  },
+  {
+    "q": "ACTH is secreted by which cells?",
+    "a": [
+      "Lactotropes",
+      "Somatotropes",
+      "Corticotropes",
+      "Thyrotropes"
+    ],
+    "c": 2,
+    "l": "Corticotropes secrete ACTH.",
+    "h": "Cortico = cortisol"
+  },
+  {
+    "q": "TSH is secreted by:",
+    "a": [
+      "Somatotropes",
+      "Thyrotropes",
+      "Gonadotropes",
+      "Lactotropes"
+    ],
+    "c": 1,
+    "l": "Thyrotropes produce TSH.",
+    "h": "Thyro = thyroid"
+  },
+  {
+    "q": "FSH and LH are secreted by:",
+    "a": [
+      "Gonadotropes",
+      "Somatotropes",
+      "Corticotropes",
+      "Pituicytes"
+    ],
+    "c": 0,
+    "l": "Gonadotropes produce FSH and LH.",
+    "h": "Gonads = reproduction"
+  },
+
+  {
+    "q": "Prolactin is secreted by:",
+    "a": [
+      "Thyrotropes",
+      "Lactotropes",
+      "Somatotropes",
+      "Corticotropes"
+    ],
+    "c": 1,
+    "l": "Lactotropes produce prolactin.",
+    "h": "Lacto = milk"
+  },
+  {
+    "q": "Which anterior pituitary cells are most abundant?",
+    "a": [
+      "Somatotropes",
+      "Thyrotropes",
+      "Gonadotropes",
+      "Lactotropes"
+    ],
+    "c": 0,
+    "l": "Somatotropes make up ~30–40% of anterior pituitary.",
+    "h": "Most = GH cells"
+  },
+  {
+    "q": "Growth hormone acts primarily via:",
+    "a": [
+      "cAMP",
+      "JAK-STAT pathway",
+      "Calcium signaling",
+      "IP3 pathway"
+    ],
+    "c": 1,
+    "l": "GH signals via JAK2-STAT pathway.",
+    "h": "GH = JAK-STAT"
+  },
+  {
+    "q": "Which mediator carries out many effects of GH?",
+    "a": [
+      "cAMP",
+      "IGF-1",
+      "Dopamine",
+      "TSH"
+    ],
+    "c": 1,
+    "l": "IGF-1 mediates GH effects.",
+    "h": "GH → IGF-1"
+  },
+  {
+    "q": "Growth hormone primarily promotes:",
+    "a": [
+      "Apoptosis",
+      "Cell growth and division",
+      "Inflammation",
+      "Neurotransmission"
+    ],
+    "c": 1,
+    "l": "GH increases cell size, mitosis, and differentiation.",
+    "h": "Growth = size + number"
+  },
+
+  {
+    "q": "Which condition results from GH excess in childhood?",
+    "a": [
+      "Acromegaly",
+      "Gigantism",
+      "Dwarfism",
+      "Cushing syndrome"
+    ],
+    "c": 1,
+    "l": "GH excess before epiphyseal closure → gigantism.",
+    "h": "Child + GH = tall"
+  },
+  {
+    "q": "GH excess in adults leads to:",
+    "a": [
+      "Gigantism",
+      "Acromegaly",
+      "Dwarfism",
+      "Hyperthyroidism"
+    ],
+    "c": 1,
+    "l": "Acromegaly occurs after epiphyseal closure.",
+    "h": "Adult GH = big hands/face"
+  },
+  {
+    "q": "GH deficiency in childhood results in:",
+    "a": [
+      "Acromegaly",
+      "Gigantism",
+      "Dwarfism",
+      "Cushing disease"
+    ],
+    "c": 2,
+    "l": "Low GH → short stature (dwarfism).",
+    "h": "Low GH = small"
+  },
+  {
+    "q": "Which structure connects hypothalamus to pituitary?",
+    "a": [
+      "Infundibulum",
+      "Corpus callosum",
+      "Optic tract",
+      "Thalamus"
+    ],
+    "c": 0,
+    "l": "Infundibulum (pituitary stalk) connects them.",
+    "h": "Stalk = connection"
+  },
+  {
+    "q": "The median eminence is part of:",
+    "a": [
+      "Pituitary",
+      "Hypothalamus",
+      "Thalamus",
+      "Midbrain"
+    ],
+    "c": 1,
+    "l": "Median eminence links hypothalamus to pituitary portal system.",
+    "h": "Entry point to portal system"
+  },
+
+  {
+    "q": "Anterior pituitary secretion is controlled by:",
+    "a": [
+      "Direct nerve signals",
+      "Releasing/inhibiting hormones",
+      "CSF flow",
+      "Reflex arcs"
+    ],
+    "c": 1,
+    "l": "Controlled by hypothalamic hormones via portal system.",
+    "h": "Anterior = chemical control"
+  },
+  {
+    "q": "Posterior pituitary secretion is controlled by:",
+    "a": [
+      "Hormones only",
+      "Neural signals",
+      "Portal system",
+      "Lymphatics"
+    ],
+    "c": 1,
+    "l": "Posterior pituitary is controlled by nerve signals.",
+    "h": "Posterior = neural"
+  },
+
+  {
+    "q": "Which hormone increases water reabsorption in kidneys?",
+    "a": [
+      "Oxytocin",
+      "ADH",
+      "GH",
+      "TSH"
+    ],
+    "c": 1,
+    "l": "ADH increases water reabsorption in collecting ducts.",
+    "h": "ADH = water saver"
+  },
+
+  {
+    "q": "Which hormone causes milk ejection reflex?",
+    "a": [
+      "Prolactin",
+      "Oxytocin",
+      "GH",
+      "TSH"
+    ],
+    "c": 1,
+    "l": "Oxytocin causes milk ejection.",
+    "h": "Oxytocin = let-down"
+  },
+
+  {
+    "q": "Which hormone is responsible for milk production?",
+    "a": [
+      "Oxytocin",
+      "Prolactin",
+      "ADH",
+      "GH"
+    ],
+    "c": 1,
+    "l": "Prolactin stimulates milk production.",
+    "h": "Prolactin = production"
+  }
     ]
   }
 }
