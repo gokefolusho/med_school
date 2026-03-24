@@ -11,1453 +11,1904 @@
       "title": "",
       "hint": "Focus on Endocrine physiology functions.",
       "topics": [
-      {
-  "header": "Endocrine Physiology (High-Yield Summary)",
-  "content": "<ul><li><b>Endocrine vs Exocrine:</b> Endocrine = hormones into blood (distant effect); Exocrine = ducts → local action (enzymes, sweat).</li><li><b>Hormone Types:</b> Peptides (water-soluble), Steroids (cholesterol-derived, lipid-soluble), Amines (mixed behavior).</li><li><b>Water-Soluble Hormones:</b> Stored in vesicles, circulate free, bind cell surface receptors → act via 2nd messengers (FAST).</li><li><b>Lipid-Soluble Hormones:</b> Synthesized on demand, travel bound to proteins, bind intracellular receptors → alter gene transcription (SLOW).</li><li><b>Peptide Hormone Synthesis:</b> Preprohormone → Prohormone (ER/Golgi) → Stored in vesicles → Released by exocytosis.</li><li><b>Steroid Hormones:</b> Derived from cholesterol (4-ring structure) → diffuse across membranes → no storage.</li><li><b>Transport:</b> Water-soluble = free in plasma; Steroids/thyroid = bound to carrier proteins (inactive reservoir, longer half-life).</li><li><b>Half-Life:</b> Peptides = short (minutes); Steroids/thyroid = long (hours–days).</li><li><b>Receptors:</b> Water-soluble = membrane receptors; Lipid-soluble = intracellular (cytoplasm/nucleus).</li><li><b>Negative Feedback:</b> Free hormone levels regulate secretion → maintains homeostasis.</li><li><b>Major Glands:</b> Hypothalamus, Pituitary (master), Thyroid, Parathyroid, Adrenal, Pancreas, Gonads.</li><li><b>Functions:</b> Regulates metabolism, growth, reproduction, blood pressure, electrolytes, behavior.</li></ul>"
-},
         {
-  "header": "Pituitary & Hypothalamus (High-Yield Summary)",
-  "content": "<ul><li><b>Pituitary Location:</b> Lies in the sella turcica at the base of the brain and is connected to the hypothalamus via the infundibulum (pituitary stalk).</li><li><b>Divisions:</b> Anterior pituitary (adenohypophysis = glandular), Posterior pituitary (neurohypophysis = neural), Pars intermedia (minimal in humans).</li><li><b>Embryology:</b> Anterior pituitary develops from Rathke’s pouch (oral ectoderm); Posterior pituitary develops from neuroectoderm of the hypothalamus.</li><li><b>Posterior Pituitary:</b> Stores and releases ADH and Oxytocin (produced in hypothalamus) via axonal transport (magnocellular neurons).</li><li><b>ADH Function:</b> Increases water reabsorption in kidneys → concentrates urine.</li><li><b>Oxytocin Function:</b> Causes uterine contraction and milk ejection (let-down reflex).</li><li><b>Anterior Pituitary Control:</b> Regulated by hypothalamic releasing/inhibiting hormones via the hypothalamic–hypophyseal portal system.</li><li><b>Portal System:</b> Specialized vascular system connecting hypothalamus to anterior pituitary for rapid hormone delivery.</li><li><b>Hypothalamic Hormones:</b> TRH (↑TSH), CRH (↑ACTH), GHRH (↑GH), Somatostatin (↓GH), GnRH (↑FSH/LH), Dopamine (↓Prolactin).</li><li><b>Dopamine:</b> Key inhibitor of prolactin secretion (Prolactin-Inhibiting Hormone).</li><li><b>Anterior Pituitary Cells:</b> Somatotropes (GH), Corticotropes (ACTH), Thyrotropes (TSH), Gonadotropes (FSH/LH), Lactotropes (Prolactin).</li><li><b>Most Abundant Cells:</b> Somatotropes (~30–40% of anterior pituitary).</li><li><b>Growth Hormone (GH):</b> Acts via JAK-STAT pathway and through IGF-1 (somatomedin) to promote growth.</li><li><b>GH Effects:</b> Increases cell size, mitosis, protein synthesis, and bone growth.</li><li><b>GH Disorders:</b> Excess in children → Gigantism; Excess in adults → Acromegaly; Deficiency → Dwarfism.</li><li><b>Posterior vs Anterior:</b> Posterior = neural control & hormone storage; Anterior = endocrine gland regulated by blood-borne signals.</li><li><b>Median Eminence:</b> Interface where hypothalamic hormones enter portal circulation.</li><li><b>Key Concept:</b> Hypothalamus controls pituitary → pituitary controls peripheral endocrine glands (master regulator system).</li></ul>"
-},
+          "header": "Endocrine Physiology (High-Yield Summary)",
+          "content": "<ul><li><b>Endocrine vs Exocrine:</b> Endocrine = hormones into blood (distant effect); Exocrine = ducts → local action (enzymes, sweat).</li><li><b>Hormone Types:</b> Peptides (water-soluble), Steroids (cholesterol-derived, lipid-soluble), Amines (mixed behavior).</li><li><b>Water-Soluble Hormones:</b> Stored in vesicles, circulate free, bind cell surface receptors → act via 2nd messengers (FAST).</li><li><b>Lipid-Soluble Hormones:</b> Synthesized on demand, travel bound to proteins, bind intracellular receptors → alter gene transcription (SLOW).</li><li><b>Peptide Hormone Synthesis:</b> Preprohormone → Prohormone (ER/Golgi) → Stored in vesicles → Released by exocytosis.</li><li><b>Steroid Hormones:</b> Derived from cholesterol (4-ring structure) → diffuse across membranes → no storage.</li><li><b>Transport:</b> Water-soluble = free in plasma; Steroids/thyroid = bound to carrier proteins (inactive reservoir, longer half-life).</li><li><b>Half-Life:</b> Peptides = short (minutes); Steroids/thyroid = long (hours–days).</li><li><b>Receptors:</b> Water-soluble = membrane receptors; Lipid-soluble = intracellular (cytoplasm/nucleus).</li><li><b>Negative Feedback:</b> Free hormone levels regulate secretion → maintains homeostasis.</li><li><b>Major Glands:</b> Hypothalamus, Pituitary (master), Thyroid, Parathyroid, Adrenal, Pancreas, Gonads.</li><li><b>Functions:</b> Regulates metabolism, growth, reproduction, blood pressure, electrolytes, behavior.</li></ul>"
+        },
         {
-  "header": "Endocrine Pancreas (High-Yield Summary)",
-  "content": "<ul><li><b>Pancreatic Islets:</b> Clusters of endocrine cells (Islets of Langerhans) responsible for glucose homeostasis.</li><li><b>Cell Types:</b> Alpha (glucagon), Beta (insulin, amylin), Delta (somatostatin), PP cells (pancreatic polypeptide).</li><li><b>Distribution:</b> Beta cells (~60–80%) central; Alpha cells (~20–30%) peripheral.</li><li><b>Insulin Structure:</b> Peptide hormone with A and B chains connected by disulfide bonds; derived from proinsulin.</li><li><b>C-Peptide:</b> Released in equimolar amounts with insulin; used to assess endogenous insulin production.</li><li><b>Insulin Storage:</b> Stored in granules as a crystalline complex with zinc.</li><li><b>Insulin Secretion Trigger:</b> Increased blood glucose → ↑ ATP → closure of ATP-sensitive K+ channels → depolarization → Ca2+ influx → exocytosis.</li><li><b>Sulfonylureas:</b> Stimulate insulin release by blocking ATP-sensitive K+ channels.</li><li><b>Insulin Receptor:</b> Tyrosine kinase receptor with α (binding) and β (kinase) subunits.</li><li><b>Mechanism of Action:</b> Autophosphorylation → activation of IRS → metabolic and gene transcription effects.</li><li><b>Immediate Effects:</b> GLUT4 translocation → ↑ glucose uptake in muscle and adipose tissue.</li><li><b>Intermediate Effects:</b> Enzyme phosphorylation → metabolic changes.</li><li><b>Long-Term Effects:</b> Gene transcription → protein synthesis and growth.</li><li><b>GLUT Transporters:</b> GLUT4 (insulin-dependent), GLUT2 (pancreas/liver sensor), GLUT1/3 (brain/RBCs, insulin-independent).</li><li><b>Insulin Effects on Carbohydrates:</b> ↑ glucose uptake, ↑ glycogenesis, ↓ gluconeogenesis.</li><li><b>Insulin Effects on Lipids:</b> ↑ lipogenesis, ↓ lipolysis, ↓ ketogenesis.</li><li><b>Insulin Effects on Protein:</b> ↑ amino acid uptake, ↑ protein synthesis, ↓ proteolysis.</li><li><b>Electrolyte Effects:</b> ↑ K+, Mg2+, phosphate uptake into cells.</li><li><b>Hormone of Plenty:</b> Insulin is secreted in the fed state to promote storage of nutrients.</li><li><b>Regulation:</b> Stimulated by glucose, amino acids, incretins (GLP-1, GIP), parasympathetic activity; inhibited by sympathetic activity.</li><li><b>Glucagon:</b> Secreted by alpha cells; acts via cAMP to increase blood glucose.</li><li><b>Glucagon Effects:</b> ↑ glycogenolysis, ↑ gluconeogenesis, ↑ lipolysis.</li><li><b>Target Organ:</b> Liver is the primary target for glucagon.</li><li><b>Insulin vs Glucagon:</b> Insulin lowers blood glucose; glucagon raises it.</li><li><b>Fed State:</b> ↑ insulin, ↓ glucagon → storage of nutrients.</li><li><b>Fasting State:</b> ↓ insulin, ↑ glucagon → mobilization of energy stores.</li><li><b>Insulinoma:</b> High insulin + high C-peptide → endogenous overproduction.</li><li><b>Exogenous Insulin Use:</b> High insulin + low C-peptide.</li><li><b>Disulfide Bonds:</b> Essential for insulin activity; disruption leads to inactive hormone.</li><li><b>Growth Effects:</b> Insulin promotes IGF-1 production and works synergistically with GH.</li><li><b>Fetal Effects:</b> Insulin deficiency → low birth weight; excess → macrosomia.</li><li><b>Antagonistic Hormones:</b> GH and cortisol oppose insulin effects.</li><li><b>Key Concept:</b> Insulin is the main anabolic hormone that promotes storage, while glucagon is catabolic and mobilizes energy.</li></ul>"
-}
+          "header": "Pituitary & Hypothalamus (High-Yield Summary)",
+          "content": "<ul><li><b>Pituitary Location:</b> Lies in the sella turcica at the base of the brain and is connected to the hypothalamus via the infundibulum (pituitary stalk).</li><li><b>Divisions:</b> Anterior pituitary (adenohypophysis = glandular), Posterior pituitary (neurohypophysis = neural), Pars intermedia (minimal in humans).</li><li><b>Embryology:</b> Anterior pituitary develops from Rathke’s pouch (oral ectoderm); Posterior pituitary develops from neuroectoderm of the hypothalamus.</li><li><b>Posterior Pituitary:</b> Stores and releases ADH and Oxytocin (produced in hypothalamus) via axonal transport (magnocellular neurons).</li><li><b>ADH Function:</b> Increases water reabsorption in kidneys → concentrates urine.</li><li><b>Oxytocin Function:</b> Causes uterine contraction and milk ejection (let-down reflex).</li><li><b>Anterior Pituitary Control:</b> Regulated by hypothalamic releasing/inhibiting hormones via the hypothalamic–hypophyseal portal system.</li><li><b>Portal System:</b> Specialized vascular system connecting hypothalamus to anterior pituitary for rapid hormone delivery.</li><li><b>Hypothalamic Hormones:</b> TRH (↑TSH), CRH (↑ACTH), GHRH (↑GH), Somatostatin (↓GH), GnRH (↑FSH/LH), Dopamine (↓Prolactin).</li><li><b>Dopamine:</b> Key inhibitor of prolactin secretion (Prolactin-Inhibiting Hormone).</li><li><b>Anterior Pituitary Cells:</b> Somatotropes (GH), Corticotropes (ACTH), Thyrotropes (TSH), Gonadotropes (FSH/LH), Lactotropes (Prolactin).</li><li><b>Most Abundant Cells:</b> Somatotropes (~30–40% of anterior pituitary).</li><li><b>Growth Hormone (GH):</b> Acts via JAK-STAT pathway and through IGF-1 (somatomedin) to promote growth.</li><li><b>GH Effects:</b> Increases cell size, mitosis, protein synthesis, and bone growth.</li><li><b>GH Disorders:</b> Excess in children → Gigantism; Excess in adults → Acromegaly; Deficiency → Dwarfism.</li><li><b>Posterior vs Anterior:</b> Posterior = neural control & hormone storage; Anterior = endocrine gland regulated by blood-borne signals.</li><li><b>Median Eminence:</b> Interface where hypothalamic hormones enter portal circulation.</li><li><b>Key Concept:</b> Hypothalamus controls pituitary → pituitary controls peripheral endocrine glands (master regulator system).</li></ul>"
+        },
+        {
+          "header": "Endocrine Pancreas (High-Yield Summary)",
+          "content": "<ul><li><b>Pancreatic Islets:</b> Clusters of endocrine cells (Islets of Langerhans) responsible for glucose homeostasis.</li><li><b>Cell Types:</b> Alpha (glucagon), Beta (insulin, amylin), Delta (somatostatin), PP cells (pancreatic polypeptide).</li><li><b>Distribution:</b> Beta cells (~60–80%) central; Alpha cells (~20–30%) peripheral.</li><li><b>Insulin Structure:</b> Peptide hormone with A and B chains connected by disulfide bonds; derived from proinsulin.</li><li><b>C-Peptide:</b> Released in equimolar amounts with insulin; used to assess endogenous insulin production.</li><li><b>Insulin Storage:</b> Stored in granules as a crystalline complex with zinc.</li><li><b>Insulin Secretion Trigger:</b> Increased blood glucose → ↑ ATP → closure of ATP-sensitive K+ channels → depolarization → Ca2+ influx → exocytosis.</li><li><b>Sulfonylureas:</b> Stimulate insulin release by blocking ATP-sensitive K+ channels.</li><li><b>Insulin Receptor:</b> Tyrosine kinase receptor with α (binding) and β (kinase) subunits.</li><li><b>Mechanism of Action:</b> Autophosphorylation → activation of IRS → metabolic and gene transcription effects.</li><li><b>Immediate Effects:</b> GLUT4 translocation → ↑ glucose uptake in muscle and adipose tissue.</li><li><b>Intermediate Effects:</b> Enzyme phosphorylation → metabolic changes.</li><li><b>Long-Term Effects:</b> Gene transcription → protein synthesis and growth.</li><li><b>GLUT Transporters:</b> GLUT4 (insulin-dependent), GLUT2 (pancreas/liver sensor), GLUT1/3 (brain/RBCs, insulin-independent).</li><li><b>Insulin Effects on Carbohydrates:</b> ↑ glucose uptake, ↑ glycogenesis, ↓ gluconeogenesis.</li><li><b>Insulin Effects on Lipids:</b> ↑ lipogenesis, ↓ lipolysis, ↓ ketogenesis.</li><li><b>Insulin Effects on Protein:</b> ↑ amino acid uptake, ↑ protein synthesis, ↓ proteolysis.</li><li><b>Electrolyte Effects:</b> ↑ K+, Mg2+, phosphate uptake into cells.</li><li><b>Hormone of Plenty:</b> Insulin is secreted in the fed state to promote storage of nutrients.</li><li><b>Regulation:</b> Stimulated by glucose, amino acids, incretins (GLP-1, GIP), parasympathetic activity; inhibited by sympathetic activity.</li><li><b>Glucagon:</b> Secreted by alpha cells; acts via cAMP to increase blood glucose.</li><li><b>Glucagon Effects:</b> ↑ glycogenolysis, ↑ gluconeogenesis, ↑ lipolysis.</li><li><b>Target Organ:</b> Liver is the primary target for glucagon.</li><li><b>Insulin vs Glucagon:</b> Insulin lowers blood glucose; glucagon raises it.</li><li><b>Fed State:</b> ↑ insulin, ↓ glucagon → storage of nutrients.</li><li><b>Fasting State:</b> ↓ insulin, ↑ glucagon → mobilization of energy stores.</li><li><b>Insulinoma:</b> High insulin + high C-peptide → endogenous overproduction.</li><li><b>Exogenous Insulin Use:</b> High insulin + low C-peptide.</li><li><b>Disulfide Bonds:</b> Essential for insulin activity; disruption leads to inactive hormone.</li><li><b>Growth Effects:</b> Insulin promotes IGF-1 production and works synergistically with GH.</li><li><b>Fetal Effects:</b> Insulin deficiency → low birth weight; excess → macrosomia.</li><li><b>Antagonistic Hormones:</b> GH and cortisol oppose insulin effects.</li><li><b>Key Concept:</b> Insulin is the main anabolic hormone that promotes storage, while glucagon is catabolic and mobilizes energy.</li></ul>"
+        },
+        {
+          "header": "Adrenal Gland (High-Yield Summary)",
+          "content": "<ul><li><b>Structure:</b> Adrenal gland has two main parts: cortex (outer, steroid hormones) and medulla (inner, catecholamines).</li><li><b>Cortical Zones (GFR):</b> Zona Glomerulosa (mineralocorticoids), Zona Fasciculata (glucocorticoids), Zona Reticularis (androgens).</li><li><b>Zona Glomerulosa:</b> Secretes aldosterone → regulates Na+, K+, and water balance.</li><li><b>Zona Fasciculata:</b> Secretes cortisol → regulates metabolism, stress response.</li><li><b>Zona Reticularis:</b> Produces adrenal androgens (DHEA, androstenedione).</li><li><b>Medulla:</b> Secretes catecholamines (epinephrine, norepinephrine) for fight-or-flight response.</li><li><b>Steroid Hormone Origin:</b> All adrenal steroids are derived from cholesterol.</li><li><b>Steroid Classes:</b> C21 (glucocorticoids, mineralocorticoids), C19 (androgens), C18 (estrogens).</li><li><b>Rate-Limiting Step:</b> Conversion of cholesterol → pregnenolone (stimulated by ACTH).</li><li><b>ACTH Role:</b> Stimulates cortisol and androgen secretion from adrenal cortex.</li><li><b>RAAS System:</b> Regulates aldosterone via angiotensin II and plasma potassium.</li><li><b>Aldosterone Stimuli:</b> ↑ K+, ↓ Na+, ↓ blood volume → ↑ aldosterone secretion.</li><li><b>Aldosterone Action:</b> ↑ Na+ reabsorption, ↑ K+ and H+ secretion → metabolic alkalosis.</li><li><b>Angiotensin II Mechanism:</b> Acts via Gq receptors → IP3/Ca2+ pathway.</li><li><b>ANP Effect:</b> Inhibits aldosterone secretion.</li><li><b>Cortisol Transport:</b> Mostly bound to cortisol-binding globulin (transcortin) and albumin.</li><li><b>Aldosterone Transport:</b> Less protein-bound → more free hormone.</li><li><b>Diurnal Rhythm:</b> Cortisol peaks in morning (~8 AM), lowest at midnight.</li><li><b>Pulsatile Secretion:</b> ACTH and cortisol released in bursts every 2–3 hours.</li><li><b>Cortisol Functions:</b> ↑ gluconeogenesis, ↑ blood glucose, promotes survival in fasting.</li><li><b>Carbohydrate Effects:</b> Maintains glucose levels, increases glycogen stores.</li><li><b>Lipid Effects:</b> ↑ lipolysis → ↑ free fatty acids.</li><li><b>Protein Effects:</b> ↑ protein breakdown → muscle wasting in excess.</li><li><b>Permissive Effects:</b> Cortisol enhances actions of glucagon and catecholamines.</li><li><b>Anti-inflammatory:</b> Cortisol suppresses immune and inflammatory responses.</li><li><b>Immunosuppressive:</b> Prevents excessive immune activation.</li><li><b>Bone Effects:</b> ↓ bone formation, ↑ bone resorption → osteoporosis.</li><li><b>Connective Tissue:</b> ↓ fibroblast activity → thin skin, fragile vessels.</li><li><b>GI Effects:</b> ↑ gastric acid and pepsin → risk of ulcers.</li><li><b>Renal Effects:</b> ↑ renal blood flow and GFR; weak mineralocorticoid effect.</li><li><b>Neuro Effects:</b> Alters mood, memory, and sleep (excess → insomnia).</li><li><b>Electrolyte Effect:</b> Cortisol has weak Na+ retention via mineralocorticoid receptors.</li><li><b>11β-HSD Function:</b> Converts cortisol → cortisone to protect mineralocorticoid receptors.</li><li><b>17-OH Steroids:</b> Urinary marker of cortisol secretion.</li><li><b>17-Ketosteroids:</b> Reflect androgen production.</li><li><b>Stress Response:</b> Cortisol increases during trauma, infection, hypoglycemia, and exercise.</li><li><b>Hypothalamic Control:</b> CRH → ACTH → adrenal cortex (HPA axis).</li><li><b>Negative Feedback:</b> Cortisol inhibits CRH and ACTH release.</li><li><b>Mineralocorticoid Potency:</b> Aldosterone accounts for ~90% of activity.</li><li><b>Key Concept:</b> Adrenal cortex hormones regulate metabolism, electrolytes, and stress, while medulla controls acute stress responses.</li></ul>"
+        }
       ]
     }
   ],
   "quizzes": {
     "1_intro": [
-     {
-"q": "Which of the following best describes an endocrine gland?",
-"a": [
-"Secretes substances through ducts to a surface",
-"Releases hormones directly into the bloodstream",
-"Produces enzymes for digestion",
-"Acts only locally at site of release"
-],
-"c": 1,
-"l": "Endocrine glands release hormones directly into the bloodstream to act on distant targets.",
-"h": "Endocrine = no ducts"
-},
-
-{
-"q": "Which of the following is an example of an exocrine function of the pancreas?",
-"a": [
-"Insulin secretion",
-"Glucagon secretion",
-"Digestive enzyme secretion",
-"Hormone transport"
-],
-"c": 2,
-"l": "The exocrine pancreas secretes digestive enzymes into ducts leading to the intestine.",
-"h": "Exocrine = ducts → digestion"
-},
-
-{
-"q": "Which hormone type is most likely stored in secretory vesicles?",
-"a": [
-"Steroid hormones",
-"Thyroid hormones",
-"Peptide hormones",
-"Lipid-soluble hormones"
-],
-"c": 2,
-"l": "Water-soluble peptide hormones are synthesized and stored in vesicles for rapid release.",
-"h": "Peptides = stored ready"
-},
-
-{
-"q": "Which hormone type is synthesized on demand rather than stored?",
-"a": [
-"Peptide hormones",
-"Protein hormones",
-"Steroid hormones",
-"Catecholamines"
-],
-"c": 2,
-"l": "Steroid hormones are lipid-soluble and synthesized when needed from cholesterol.",
-"h": "Steroids = made when needed"
-},
-
-{
-"q": "Which of the following is TRUE about water-soluble hormones?",
-"a": [
-"They bind intracellular receptors",
-"They require carrier proteins",
-"They act via second messengers",
-"They have long half-lives"
-],
-"c": 2,
-"l": "Water-soluble hormones bind surface receptors and act via second messenger systems.",
-"h": "Water = fast + 2nd messenger"
-},
-
-{
-"q": "Which of the following is TRUE about lipid-soluble hormones?",
-"a": [
-"They act via cell surface receptors",
-"They are stored in vesicles",
-"They stimulate protein synthesis",
-"They have very short half-life"
-],
-"c": 2,
-"l": "Lipid-soluble hormones enter cells and alter gene transcription, leading to protein synthesis.",
-"h": "Fat = slow gene effect"
-},
-
-{
-"q": "Which hormone class includes thyroid hormones?",
-"a": [
-"Peptides",
-"Amines (lipid-soluble)",
-"Steroids",
-"Proteins"
-],
-"c": 1,
-"l": "Thyroid hormones are amines but behave like lipid-soluble hormones.",
-"h": "Thyroid = special amine"
-},
-
-{
-"q": "Where are peptide hormones synthesized?",
-"a": [
-"Smooth ER",
-"Golgi apparatus",
-"Rough ER",
-"Nucleus only"
-],
-"c": 2,
-"l": "Peptide hormones are synthesized in the rough ER as preprohormones.",
-"h": "Proteins = RER"
-},
-
-{
-"q": "What is the first step in peptide hormone synthesis?",
-"a": [
-"Formation of prohormone",
-"Formation of active hormone",
-"Formation of preprohormone",
-"Secretion"
-],
-"c": 2,
-"l": "Peptide hormones begin as preprohormones before being processed into prohormones.",
-"h": "Pre → Pro → Active"
-},
-
-{
-"q": "Which organelle converts preprohormone to prohormone?",
-"a": [
-"Golgi apparatus",
-"Endoplasmic reticulum",
-"Mitochondria",
-"Lysosome"
-],
-"c": 1,
-"l": "The ER cleaves preprohormone into prohormone.",
-"h": "ER = first processing"
-},
-
-{
-"q": "Where is prohormone packaged into vesicles?",
-"a": [
-"Nucleus",
-"Rough ER",
-"Golgi apparatus",
-"Ribosome"
-],
-"c": 2,
-"l": "The Golgi apparatus packages prohormones into secretory vesicles.",
-"h": "Golgi = packaging center"
-},
-
-{
-"q": "What triggers peptide hormone release?",
-"a": [
-"Diffusion",
-"Exocytosis",
-"Active transport",
-"Pinocytosis"
-],
-"c": 1,
-"l": "Peptide hormones are released via exocytosis when vesicles fuse with the membrane.",
-"h": "Vesicle → fuse → release"
-},
-
-{
-"q": "Which of the following hormones is derived from cholesterol?",
-"a": [
-"Insulin",
-"Epinephrine",
-"Cortisol",
-"ADH"
-],
-"c": 2,
-"l": "Steroid hormones like cortisol are synthesized from cholesterol.",
-"h": "Steroids = cholesterol"
-},
-
-{
-"q": "Which gland produces cortisol?",
-"a": [
-"Thyroid",
-"Pancreas",
-"Adrenal cortex",
-"Pituitary"
-],
-"c": 2,
-"l": "Cortisol is produced by the adrenal cortex.",
-"h": "Cortex = steroids"
-},
-
-{
-"q": "Which structure is part of steroid hormone backbone?",
-"a": [
-"Peptide chain",
-"Four-ring structure",
-"Double helix",
-"Triglyceride chain"
-],
-"c": 1,
-"l": "Steroid hormones share a four-ring cholesterol backbone.",
-"h": "4 rings = steroid"
-},
-
-{
-"q": "Which hormone travels mostly bound in plasma?",
-"a": [
-"Insulin",
-"ADH",
-"Thyroid hormone",
-"Glucagon"
-],
-"c": 2,
-"l": "Thyroid hormone is mostly bound to carrier proteins in blood.",
-"h": "Thyroid = 99% bound"
-},
-
-{
-"q": "What is the function of carrier proteins?",
-"a": [
-"Activate hormones",
-"Transport hormones and prolong half-life",
-"Destroy hormones",
-"Produce hormones"
-],
-"c": 1,
-"l": "Carrier proteins increase hormone stability and prolong half-life.",
-"h": "Binding = longer life"
-},
-
-{
-"q": "Which hormone has the shortest half-life?",
-"a": [
-"Steroid hormones",
-"Thyroid hormones",
-"Peptide hormones",
-"Lipid hormones"
-],
-"c": 2,
-"l": "Peptide hormones have short half-lives (minutes).",
-"h": "Water = short life"
-},
-
-{
-"q": "Where do lipid-soluble hormones bind receptors?",
-"a": [
-"Cell membrane",
-"Cytoplasm or nucleus",
-"Golgi",
-"Extracellular space"
-],
-"c": 1,
-"l": "Lipid-soluble hormones bind intracellular receptors.",
-"h": "Fat → inside cell"
-},
-
-{
-"q": "Which system works with endocrine system to maintain homeostasis?",
-"a": [
-"Digestive system",
-"Nervous system",
-"Respiratory system",
-"Musculoskeletal system"
-],
-"c": 1,
-"l": "Endocrine and nervous systems coordinate to regulate homeostasis.",
-"h": "Neuro + endocrine"
-},
-
-{
-"q": "Which of the following is regulated by hormones?",
-"a": [
-"Only metabolism",
-"Only reproduction",
-"Only blood pressure",
-"All of the above"
-],
-"c": 3,
-"l": "Hormones regulate metabolism, reproduction, blood pressure, and more.",
-"h": "Hormones = everything"
-},
-
-{
-"q": "Which gland is considered the master endocrine gland?",
-"a": [
-"Thyroid",
-"Adrenal",
-"Pituitary",
-"Pancreas"
-],
-"c": 2,
-"l": "The pituitary gland controls other endocrine glands.",
-"h": "Pituitary = boss"
-},
-
-{
-"q": "Which hormone is produced in the pancreas?",
-"a": [
-"Cortisol",
-"Insulin",
-"Thyroxine",
-"Aldosterone"
-],
-"c": 1,
-"l": "The pancreas produces insulin from beta cells.",
-"h": "Pancreas = insulin"
-},
-
-{
-"q": "What is C-peptide?",
-"a": [
-"Active insulin",
-"Inactive hormone",
-"Byproduct of insulin formation",
-"Transport protein"
-],
-"c": 2,
-"l": "C-peptide is released when proinsulin is converted into insulin.",
-"h": "Proinsulin → insulin + C"
-},
-
-{
-"q": "What maintains hormone levels in the body?",
-"a": [
-"Positive feedback",
-"Negative feedback",
-"Diffusion",
-"Active transport"
-],
-"c": 1,
-"l": "Negative feedback regulates hormone levels to maintain balance.",
-"h": "Feedback = control"
-},
-
-{
-"q": "Which form of hormone provides negative feedback?",
-"a": [
-"Bound hormone",
-"Inactive hormone",
-"Free hormone",
-"Stored hormone"
-],
-"c": 2,
-"l": "The free (active) hormone level controls feedback mechanisms.",
-"h": "Free = active control"
-},
-
-{
-"q": "Which of the following describes hormone action speed?",
-"a": [
-"Peptide = slow, Steroid = fast",
-"Peptide = fast, Steroid = slow",
-"Both same speed",
-"Neither acts quickly"
-],
-"c": 1,
-"l": "Peptides act fast via second messengers; steroids act slowly via gene transcription.",
-"h": "Water fast, fat slow"
-},
-
-{
-"q": "Which gland produces aldosterone?",
-"a": [
-"Pituitary",
-"Adrenal cortex",
-"Pancreas",
-"Thyroid"
-],
-"c": 1,
-"l": "Aldosterone is a steroid hormone produced by the adrenal cortex.",
-"h": "Aldosterone = adrenal"
-},
-
-{
-"q": "Which of the following hormones can diffuse through cell membranes?",
-"a": [
-"Peptides",
-"Proteins",
-"Steroids",
-"Insulin"
-],
-"c": 2,
-"l": "Steroid hormones are lipid-soluble and diffuse through membranes.",
-"h": "Fat crosses membrane"
-},
-
-{
-"q": "Which of the following best describes endocrine signaling?",
-"a": [
-"Local signaling",
-"Neural signaling",
-"Distant signaling via bloodstream",
-"Direct cell contact"
-],
-"c": 2,
-"l": "Endocrine hormones travel through blood to distant target organs.",
-"h": "Endocrine = long distance"
-}
+      {
+        "q": "Which of the following best describes an endocrine gland?",
+        "a": [
+          "Secretes substances through ducts to a surface",
+          "Releases hormones directly into the bloodstream",
+          "Produces enzymes for digestion",
+          "Acts only locally at site of release"
+        ],
+        "c": 1,
+        "l": "Endocrine glands release hormones directly into the bloodstream to act on distant targets.",
+        "h": "Endocrine = no ducts"
+      },
+      {
+        "q": "Which of the following is an example of an exocrine function of the pancreas?",
+        "a": [
+          "Insulin secretion",
+          "Glucagon secretion",
+          "Digestive enzyme secretion",
+          "Hormone transport"
+        ],
+        "c": 2,
+        "l": "The exocrine pancreas secretes digestive enzymes into ducts leading to the intestine.",
+        "h": "Exocrine = ducts → digestion"
+      },
+      {
+        "q": "Which hormone type is most likely stored in secretory vesicles?",
+        "a": [
+          "Steroid hormones",
+          "Thyroid hormones",
+          "Peptide hormones",
+          "Lipid-soluble hormones"
+        ],
+        "c": 2,
+        "l": "Water-soluble peptide hormones are synthesized and stored in vesicles for rapid release.",
+        "h": "Peptides = stored ready"
+      },
+      {
+        "q": "Which hormone type is synthesized on demand rather than stored?",
+        "a": [
+          "Peptide hormones",
+          "Protein hormones",
+          "Steroid hormones",
+          "Catecholamines"
+        ],
+        "c": 2,
+        "l": "Steroid hormones are lipid-soluble and synthesized when needed from cholesterol.",
+        "h": "Steroids = made when needed"
+      },
+      {
+        "q": "Which of the following is TRUE about water-soluble hormones?",
+        "a": [
+          "They bind intracellular receptors",
+          "They require carrier proteins",
+          "They act via second messengers",
+          "They have long half-lives"
+        ],
+        "c": 2,
+        "l": "Water-soluble hormones bind surface receptors and act via second messenger systems.",
+        "h": "Water = fast + 2nd messenger"
+      },
+      {
+        "q": "Which of the following is TRUE about lipid-soluble hormones?",
+        "a": [
+          "They act via cell surface receptors",
+          "They are stored in vesicles",
+          "They stimulate protein synthesis",
+          "They have very short half-life"
+        ],
+        "c": 2,
+        "l": "Lipid-soluble hormones enter cells and alter gene transcription, leading to protein synthesis.",
+        "h": "Fat = slow gene effect"
+      },
+      {
+        "q": "Which hormone class includes thyroid hormones?",
+        "a": [
+          "Peptides",
+          "Amines (lipid-soluble)",
+          "Steroids",
+          "Proteins"
+        ],
+        "c": 1,
+        "l": "Thyroid hormones are amines but behave like lipid-soluble hormones.",
+        "h": "Thyroid = special amine"
+      },
+      {
+        "q": "Where are peptide hormones synthesized?",
+        "a": [
+          "Smooth ER",
+          "Golgi apparatus",
+          "Rough ER",
+          "Nucleus only"
+        ],
+        "c": 2,
+        "l": "Peptide hormones are synthesized in the rough ER as preprohormones.",
+        "h": "Proteins = RER"
+      },
+      {
+        "q": "What is the first step in peptide hormone synthesis?",
+        "a": [
+          "Formation of prohormone",
+          "Formation of active hormone",
+          "Formation of preprohormone",
+          "Secretion"
+        ],
+        "c": 2,
+        "l": "Peptide hormones begin as preprohormones before being processed into prohormones.",
+        "h": "Pre → Pro → Active"
+      },
+      {
+        "q": "Which organelle converts preprohormone to prohormone?",
+        "a": [
+          "Golgi apparatus",
+          "Endoplasmic reticulum",
+          "Mitochondria",
+          "Lysosome"
+        ],
+        "c": 1,
+        "l": "The ER cleaves preprohormone into prohormone.",
+        "h": "ER = first processing"
+      },
+      {
+        "q": "Where is prohormone packaged into vesicles?",
+        "a": [
+          "Nucleus",
+          "Rough ER",
+          "Golgi apparatus",
+          "Ribosome"
+        ],
+        "c": 2,
+        "l": "The Golgi apparatus packages prohormones into secretory vesicles.",
+        "h": "Golgi = packaging center"
+      },
+      {
+        "q": "What triggers peptide hormone release?",
+        "a": [
+          "Diffusion",
+          "Exocytosis",
+          "Active transport",
+          "Pinocytosis"
+        ],
+        "c": 1,
+        "l": "Peptide hormones are released via exocytosis when vesicles fuse with the membrane.",
+        "h": "Vesicle → fuse → release"
+      },
+      {
+        "q": "Which of the following hormones is derived from cholesterol?",
+        "a": [
+          "Insulin",
+          "Epinephrine",
+          "Cortisol",
+          "ADH"
+        ],
+        "c": 2,
+        "l": "Steroid hormones like cortisol are synthesized from cholesterol.",
+        "h": "Steroids = cholesterol"
+      },
+      {
+        "q": "Which gland produces cortisol?",
+        "a": [
+          "Thyroid",
+          "Pancreas",
+          "Adrenal cortex",
+          "Pituitary"
+        ],
+        "c": 2,
+        "l": "Cortisol is produced by the adrenal cortex.",
+        "h": "Cortex = steroids"
+      },
+      {
+        "q": "Which structure is part of steroid hormone backbone?",
+        "a": [
+          "Peptide chain",
+          "Four-ring structure",
+          "Double helix",
+          "Triglyceride chain"
+        ],
+        "c": 1,
+        "l": "Steroid hormones share a four-ring cholesterol backbone.",
+        "h": "4 rings = steroid"
+      },
+      {
+        "q": "Which hormone travels mostly bound in plasma?",
+        "a": [
+          "Insulin",
+          "ADH",
+          "Thyroid hormone",
+          "Glucagon"
+        ],
+        "c": 2,
+        "l": "Thyroid hormone is mostly bound to carrier proteins in blood.",
+        "h": "Thyroid = 99% bound"
+      },
+      {
+        "q": "What is the function of carrier proteins?",
+        "a": [
+          "Activate hormones",
+          "Transport hormones and prolong half-life",
+          "Destroy hormones",
+          "Produce hormones"
+        ],
+        "c": 1,
+        "l": "Carrier proteins increase hormone stability and prolong half-life.",
+        "h": "Binding = longer life"
+      },
+      {
+        "q": "Which hormone has the shortest half-life?",
+        "a": [
+          "Steroid hormones",
+          "Thyroid hormones",
+          "Peptide hormones",
+          "Lipid hormones"
+        ],
+        "c": 2,
+        "l": "Peptide hormones have short half-lives (minutes).",
+        "h": "Water = short life"
+      },
+      {
+        "q": "Where do lipid-soluble hormones bind receptors?",
+        "a": [
+          "Cell membrane",
+          "Cytoplasm or nucleus",
+          "Golgi",
+          "Extracellular space"
+        ],
+        "c": 1,
+        "l": "Lipid-soluble hormones bind intracellular receptors.",
+        "h": "Fat → inside cell"
+      },
+      {
+        "q": "Which system works with endocrine system to maintain homeostasis?",
+        "a": [
+          "Digestive system",
+          "Nervous system",
+          "Respiratory system",
+          "Musculoskeletal system"
+        ],
+        "c": 1,
+        "l": "Endocrine and nervous systems coordinate to regulate homeostasis.",
+        "h": "Neuro + endocrine"
+      },
+      {
+        "q": "Which of the following is regulated by hormones?",
+        "a": [
+          "Only metabolism",
+          "Only reproduction",
+          "Only blood pressure",
+          "All of the above"
+        ],
+        "c": 3,
+        "l": "Hormones regulate metabolism, reproduction, blood pressure, and more.",
+        "h": "Hormones = everything"
+      },
+      {
+        "q": "Which gland is considered the master endocrine gland?",
+        "a": [
+          "Thyroid",
+          "Adrenal",
+          "Pituitary",
+          "Pancreas"
+        ],
+        "c": 2,
+        "l": "The pituitary gland controls other endocrine glands.",
+        "h": "Pituitary = boss"
+      },
+      {
+        "q": "Which hormone is produced in the pancreas?",
+        "a": [
+          "Cortisol",
+          "Insulin",
+          "Thyroxine",
+          "Aldosterone"
+        ],
+        "c": 1,
+        "l": "The pancreas produces insulin from beta cells.",
+        "h": "Pancreas = insulin"
+      },
+      {
+        "q": "What is C-peptide?",
+        "a": [
+          "Active insulin",
+          "Inactive hormone",
+          "Byproduct of insulin formation",
+          "Transport protein"
+        ],
+        "c": 2,
+        "l": "C-peptide is released when proinsulin is converted into insulin.",
+        "h": "Proinsulin → insulin + C"
+      },
+      {
+        "q": "What maintains hormone levels in the body?",
+        "a": [
+          "Positive feedback",
+          "Negative feedback",
+          "Diffusion",
+          "Active transport"
+        ],
+        "c": 1,
+        "l": "Negative feedback regulates hormone levels to maintain balance.",
+        "h": "Feedback = control"
+      },
+      {
+        "q": "Which form of hormone provides negative feedback?",
+        "a": [
+          "Bound hormone",
+          "Inactive hormone",
+          "Free hormone",
+          "Stored hormone"
+        ],
+        "c": 2,
+        "l": "The free (active) hormone level controls feedback mechanisms.",
+        "h": "Free = active control"
+      },
+      {
+        "q": "Which of the following describes hormone action speed?",
+        "a": [
+          "Peptide = slow, Steroid = fast",
+          "Peptide = fast, Steroid = slow",
+          "Both same speed",
+          "Neither acts quickly"
+        ],
+        "c": 1,
+        "l": "Peptides act fast via second messengers; steroids act slowly via gene transcription.",
+        "h": "Water fast, fat slow"
+      },
+      {
+        "q": "Which gland produces aldosterone?",
+        "a": [
+          "Pituitary",
+          "Adrenal cortex",
+          "Pancreas",
+          "Thyroid"
+        ],
+        "c": 1,
+        "l": "Aldosterone is a steroid hormone produced by the adrenal cortex.",
+        "h": "Aldosterone = adrenal"
+      },
+      {
+        "q": "Which of the following hormones can diffuse through cell membranes?",
+        "a": [
+          "Peptides",
+          "Proteins",
+          "Steroids",
+          "Insulin"
+        ],
+        "c": 2,
+        "l": "Steroid hormones are lipid-soluble and diffuse through membranes.",
+        "h": "Fat crosses membrane"
+      },
+      {
+        "q": "Which of the following best describes endocrine signaling?",
+        "a": [
+          "Local signaling",
+          "Neural signaling",
+          "Distant signaling via bloodstream",
+          "Direct cell contact"
+        ],
+        "c": 2,
+        "l": "Endocrine hormones travel through blood to distant target organs.",
+        "h": "Endocrine = long distance"
+      }
     ],
-    "2_pituitary_gland":[
-  {
-    "q": "The pituitary gland is located in which anatomical structure?",
-    "a": [
-      "Sella turcica",
-      "Foramen magnum",
-      "Cranial vault",
-      "Hypothalamic sulcus"
+    "2_pituitary_gland": [
+      {
+        "q": "The pituitary gland is located in which anatomical structure?",
+        "a": [
+          "Sella turcica",
+          "Foramen magnum",
+          "Cranial vault",
+          "Hypothalamic sulcus"
+        ],
+        "c": 0,
+        "l": "The pituitary sits in the sella turcica at the base of the brain.",
+        "h": "Think: pituitary = seat → sella turcica"
+      },
+      {
+        "q": "The anterior pituitary develops from which embryologic structure?",
+        "a": [
+          "Neural crest",
+          "Rathke's pouch",
+          "Endoderm",
+          "Mesoderm"
+        ],
+        "c": 1,
+        "l": "Anterior pituitary arises from Rathke’s pouch (oral ectoderm).",
+        "h": "Rathke = Roof of mouth"
+      },
+      {
+        "q": "The posterior pituitary is derived from:",
+        "a": [
+          "Pharyngeal epithelium",
+          "Neural tissue of hypothalamus",
+          "Mesoderm",
+          "Neural crest"
+        ],
+        "c": 1,
+        "l": "Posterior pituitary originates as neural outgrowth from hypothalamus.",
+        "h": "Posterior = brain origin"
+      },
+      {
+        "q": "Which cell type is found in the posterior pituitary?",
+        "a": [
+          "Somatotropes",
+          "Pituicytes",
+          "Corticotropes",
+          "Lactotropes"
+        ],
+        "c": 1,
+        "l": "Posterior pituitary contains glial-like cells called pituicytes.",
+        "h": "Posterior = neuro → glial cells"
+      },
+      {
+        "q": "Which of the following hormones is produced in the hypothalamus but released from the posterior pituitary?",
+        "a": [
+          "GH",
+          "TSH",
+          "ADH",
+          "ACTH"
+        ],
+        "c": 2,
+        "l": "ADH is synthesized in hypothalamus and released from posterior pituitary.",
+        "h": "Posterior = storage, not production"
+      },
+      {
+        "q": "Oxytocin primarily acts on which organs?",
+        "a": [
+          "Kidneys",
+          "Heart",
+          "Uterus and mammary glands",
+          "Liver"
+        ],
+        "c": 2,
+        "l": "Oxytocin causes uterine contraction and milk ejection.",
+        "h": "Oxytocin = baby + milk"
+      },
+      {
+        "q": "ADH primarily affects which organ?",
+        "a": [
+          "Liver",
+          "Kidneys",
+          "Lungs",
+          "Pancreas"
+        ],
+        "c": 1,
+        "l": "ADH increases water reabsorption in kidneys.",
+        "h": "ADH = Anti-Diuresis"
+      },
+      {
+        "q": "Which neurons synthesize ADH and oxytocin?",
+        "a": [
+          "Parvocellular neurons",
+          "Magnocellular neurons",
+          "Interneurons",
+          "Motor neurons"
+        ],
+        "c": 1,
+        "l": "Magnocellular neurons synthesize ADH and oxytocin.",
+        "h": "MAGNO = big hormones"
+      },
+      {
+        "q": "Hormones of the posterior pituitary reach the gland via:",
+        "a": [
+          "Portal system",
+          "Axonal transport",
+          "Lymphatics",
+          "Venous drainage"
+        ],
+        "c": 1,
+        "l": "They travel via axons from hypothalamus.",
+        "h": "Posterior = nerve pathway"
+      },
+      {
+        "q": "Which system regulates the anterior pituitary?",
+        "a": [
+          "Direct neural input",
+          "Portal circulation",
+          "Lymphatic system",
+          "Cerebrospinal fluid"
+        ],
+        "c": 1,
+        "l": "Anterior pituitary is regulated by hypothalamic portal system.",
+        "h": "Anterior = blood control"
+      },
+      {
+        "q": "The hypothalamic–hypophyseal portal system connects:",
+        "a": [
+          "Hypothalamus to posterior pituitary",
+          "Hypothalamus to anterior pituitary",
+          "Pituitary to adrenal gland",
+          "Brain to spinal cord"
+        ],
+        "c": 1,
+        "l": "Portal system carries releasing hormones to anterior pituitary.",
+        "h": "Portal = anterior link"
+      },
+      {
+        "q": "Which hormone inhibits prolactin release?",
+        "a": [
+          "TRH",
+          "Dopamine",
+          "CRH",
+          "GnRH"
+        ],
+        "c": 1,
+        "l": "Dopamine acts as prolactin-inhibiting hormone (PIH).",
+        "h": "Dopamine ↓ prolactin"
+      },
+      {
+        "q": "GHRH stimulates secretion of:",
+        "a": [
+          "TSH",
+          "ACTH",
+          "GH",
+          "Prolactin"
+        ],
+        "c": 2,
+        "l": "Growth hormone releasing hormone stimulates GH release.",
+        "h": "GHRH → GH"
+      },
+      {
+        "q": "Somatostatin primarily inhibits:",
+        "a": [
+          "TSH only",
+          "GH",
+          "ACTH",
+          "Prolactin"
+        ],
+        "c": 1,
+        "l": "Somatostatin inhibits GH release.",
+        "h": "Somatostatin = GH off"
+      },
+      {
+        "q": "CRH stimulates release of:",
+        "a": [
+          "TSH",
+          "ACTH",
+          "GH",
+          "FSH"
+        ],
+        "c": 1,
+        "l": "CRH stimulates ACTH from anterior pituitary.",
+        "h": "CRH → Cortisol axis"
+      },
+      {
+        "q": "GnRH stimulates secretion of:",
+        "a": [
+          "GH",
+          "TSH",
+          "FSH and LH",
+          "ACTH"
+        ],
+        "c": 2,
+        "l": "GnRH stimulates FSH and LH.",
+        "h": "GnRH → gonads"
+      },
+      {
+        "q": "Which anterior pituitary cells secrete GH?",
+        "a": [
+          "Corticotropes",
+          "Somatotropes",
+          "Thyrotropes",
+          "Lactotropes"
+        ],
+        "c": 1,
+        "l": "Somatotropes secrete growth hormone.",
+        "h": "Soma = body growth"
+      },
+      {
+        "q": "ACTH is secreted by which cells?",
+        "a": [
+          "Lactotropes",
+          "Somatotropes",
+          "Corticotropes",
+          "Thyrotropes"
+        ],
+        "c": 2,
+        "l": "Corticotropes secrete ACTH.",
+        "h": "Cortico = cortisol"
+      },
+      {
+        "q": "TSH is secreted by:",
+        "a": [
+          "Somatotropes",
+          "Thyrotropes",
+          "Gonadotropes",
+          "Lactotropes"
+        ],
+        "c": 1,
+        "l": "Thyrotropes produce TSH.",
+        "h": "Thyro = thyroid"
+      },
+      {
+        "q": "FSH and LH are secreted by:",
+        "a": [
+          "Gonadotropes",
+          "Somatotropes",
+          "Corticotropes",
+          "Pituicytes"
+        ],
+        "c": 0,
+        "l": "Gonadotropes produce FSH and LH.",
+        "h": "Gonads = reproduction"
+      },
+      {
+        "q": "Prolactin is secreted by:",
+        "a": [
+          "Thyrotropes",
+          "Lactotropes",
+          "Somatotropes",
+          "Corticotropes"
+        ],
+        "c": 1,
+        "l": "Lactotropes produce prolactin.",
+        "h": "Lacto = milk"
+      },
+      {
+        "q": "Which anterior pituitary cells are most abundant?",
+        "a": [
+          "Somatotropes",
+          "Thyrotropes",
+          "Gonadotropes",
+          "Lactotropes"
+        ],
+        "c": 0,
+        "l": "Somatotropes make up ~30–40% of anterior pituitary.",
+        "h": "Most = GH cells"
+      },
+      {
+        "q": "Growth hormone acts primarily via:",
+        "a": [
+          "cAMP",
+          "JAK-STAT pathway",
+          "Calcium signaling",
+          "IP3 pathway"
+        ],
+        "c": 1,
+        "l": "GH signals via JAK2-STAT pathway.",
+        "h": "GH = JAK-STAT"
+      },
+      {
+        "q": "Which mediator carries out many effects of GH?",
+        "a": [
+          "cAMP",
+          "IGF-1",
+          "Dopamine",
+          "TSH"
+        ],
+        "c": 1,
+        "l": "IGF-1 mediates GH effects.",
+        "h": "GH → IGF-1"
+      },
+      {
+        "q": "Growth hormone primarily promotes:",
+        "a": [
+          "Apoptosis",
+          "Cell growth and division",
+          "Inflammation",
+          "Neurotransmission"
+        ],
+        "c": 1,
+        "l": "GH increases cell size, mitosis, and differentiation.",
+        "h": "Growth = size + number"
+      },
+      {
+        "q": "Which condition results from GH excess in childhood?",
+        "a": [
+          "Acromegaly",
+          "Gigantism",
+          "Dwarfism",
+          "Cushing syndrome"
+        ],
+        "c": 1,
+        "l": "GH excess before epiphyseal closure → gigantism.",
+        "h": "Child + GH = tall"
+      },
+      {
+        "q": "GH excess in adults leads to:",
+        "a": [
+          "Gigantism",
+          "Acromegaly",
+          "Dwarfism",
+          "Hyperthyroidism"
+        ],
+        "c": 1,
+        "l": "Acromegaly occurs after epiphyseal closure.",
+        "h": "Adult GH = big hands/face"
+      },
+      {
+        "q": "GH deficiency in childhood results in:",
+        "a": [
+          "Acromegaly",
+          "Gigantism",
+          "Dwarfism",
+          "Cushing disease"
+        ],
+        "c": 2,
+        "l": "Low GH → short stature (dwarfism).",
+        "h": "Low GH = small"
+      },
+      {
+        "q": "Which structure connects hypothalamus to pituitary?",
+        "a": [
+          "Infundibulum",
+          "Corpus callosum",
+          "Optic tract",
+          "Thalamus"
+        ],
+        "c": 0,
+        "l": "Infundibulum (pituitary stalk) connects them.",
+        "h": "Stalk = connection"
+      },
+      {
+        "q": "The median eminence is part of:",
+        "a": [
+          "Pituitary",
+          "Hypothalamus",
+          "Thalamus",
+          "Midbrain"
+        ],
+        "c": 1,
+        "l": "Median eminence links hypothalamus to pituitary portal system.",
+        "h": "Entry point to portal system"
+      },
+      {
+        "q": "Anterior pituitary secretion is controlled by:",
+        "a": [
+          "Direct nerve signals",
+          "Releasing/inhibiting hormones",
+          "CSF flow",
+          "Reflex arcs"
+        ],
+        "c": 1,
+        "l": "Controlled by hypothalamic hormones via portal system.",
+        "h": "Anterior = chemical control"
+      },
+      {
+        "q": "Posterior pituitary secretion is controlled by:",
+        "a": [
+          "Hormones only",
+          "Neural signals",
+          "Portal system",
+          "Lymphatics"
+        ],
+        "c": 1,
+        "l": "Posterior pituitary is controlled by nerve signals.",
+        "h": "Posterior = neural"
+      },
+      {
+        "q": "Which hormone increases water reabsorption in kidneys?",
+        "a": [
+          "Oxytocin",
+          "ADH",
+          "GH",
+          "TSH"
+        ],
+        "c": 1,
+        "l": "ADH increases water reabsorption in collecting ducts.",
+        "h": "ADH = water saver"
+      },
+      {
+        "q": "Which hormone causes milk ejection reflex?",
+        "a": [
+          "Prolactin",
+          "Oxytocin",
+          "GH",
+          "TSH"
+        ],
+        "c": 1,
+        "l": "Oxytocin causes milk ejection.",
+        "h": "Oxytocin = let-down"
+      },
+      {
+        "q": "Which hormone is responsible for milk production?",
+        "a": [
+          "Oxytocin",
+          "Prolactin",
+          "ADH",
+          "GH"
+        ],
+        "c": 1,
+        "l": "Prolactin stimulates milk production.",
+        "h": "Prolactin = production"
+      },
+      {
+        "q": "A nursing mother notes that her milk begins to flow just moments after she hears her infant cry in the next room, even before the baby begins to suckle. This milk ejection reflex is mediated by oxytocin causing the contraction of which of the following cells?",
+        "a": [
+          "Alveolar epithelial cells",
+          "Myoepithelial cells",
+          "Endometrial cells",
+          "Smooth muscle of the lactiferous ducts"
+        ],
+        "c": 1,
+        "l": "Oxytocin causes contraction of myoepithelial cells to eject milk.",
+        "h": "Milk let-down = myoepithelial contraction"
+      },
+      {
+        "q": "A 68-year-old male is brought to the emergency department after three days of severe vomiting and diarrhea. On examination, he is lethargic and has a blood pressure of 80/45 mmHg and a heart rate of 125 bpm. Laboratory studies reveal that his plasma osmolarity is slightly lower than normal due to the ingestion of large amounts of plain water during his illness. Despite the low osmolarity, his plasma antidiuretic hormone (ADH) levels are found to be 40 times the normal reference range. Which of the following best explains why ADH remains elevated despite the patient's hypo-osmolar state?",
+        "a": [
+          "Activation of osmoreceptors in the organum vasculosum.",
+          "Decreased stretch of baroreceptors overriding osmotic inhibition.",
+          "Increased sensitivity of the V2 receptors in the collecting ducts.",
+          "Direct stimulation of the supraoptic nuclei by atrial natriuretic peptide."
+        ],
+        "c": 1,
+        "l": "Severe hypovolemia activates baroreceptors which overrides osmotic control of ADH.",
+        "h": "Volume > osmolarity for ADH control"
+      },
+      {
+        "q": "A researcher is investigating the growth-promoting effects of growth hormone (GH) in a canine model. In one experimental group, the animals have undergone a total pancreatectomy. Despite receiving daily injections of high-dose recombinant growth hormone, these animals show no significant increase in lean body mass or bone growth. Based on the physiological requirements of GH, which of the following is most likely responsible for the lack of growth in these animals?",
+        "a": [
+          "Deficiency of the JAK2-STAT signaling pathway.",
+          "Inadequate insulin and carbohydrate availability.",
+          "Excessive mobilization of free fatty acids causing ketosis.",
+          "Reduced half-life of growth hormone in the absence of pancreatic enzymes."
+        ],
+        "c": 1,
+        "l": "GH requires insulin for IGF-1 mediated growth; without insulin, growth is impaired.",
+        "h": "GH needs insulin to work"
+      },
+      {
+        "q": "A researcher is studying the development of the endocrine system. They identify a structure that invaginates from the pharyngeal epithelium and eventually loses its connection to the oral cavity. This structure, known as Rathke's pouch, will eventually give rise to which of the following?",
+        "a": [
+          "Neurohypophysis",
+          "Adenohypophysis",
+          "Supraoptic nucleus",
+          "Pituicytes"
+        ],
+        "c": 1,
+        "l": "Rathke’s pouch forms the anterior pituitary (adenohypophysis).",
+        "h": "Rathke → anterior pituitary"
+      },
+      {
+        "q": "A 45-year-old patient suffers a traumatic injury to the median eminence of the hypothalamus. While the posterior pituitary function remains partially intact due to the proximity of neuronal cell bodies, the regulation of the anterior pituitary is severely compromised. Which of the following delivery mechanisms for hypothalamic factors is primarily impaired in this patient?",
+        "a": [
+          "Axoplasmic flow via the hypothalamic-hypophysial tract",
+          "Systemic arterial circulation",
+          "Hypothalamic-hypophysial portal vessels",
+          "Direct neural stimulation of glandular cells"
+        ],
+        "c": 2,
+        "l": "Anterior pituitary hormones are regulated via hypothalamic-hypophyseal portal circulation.",
+        "h": "Anterior pituitary = portal system"
+      },
+      {
+        "q": "A 48-year-old male with an acidophilic adenoma of the anterior pituitary presents with fatigue and increased thirst. Laboratory tests reveal a fasting blood glucose of 145 mg/dL. Which of the following best describes the metabolic effect of his condition on glucose utilization?",
+        "a": [
+          "Increased insulin sensitivity",
+          "Decreased gluconeogenesis in the liver",
+          "Growth hormone-induced \"insulin resistance\"",
+          "Increased glucose uptake in skeletal muscle"
+        ],
+        "c": 2,
+        "l": "Excess GH decreases glucose uptake and increases blood glucose → insulin resistance.",
+        "h": "GH = anti-insulin"
+      },
+      {
+        "q": "A clinical study investigates factors that inhibit the release of GH. It is found that a specific hypothalamic hormone exerts a powerful inhibitory effect on somatotropes. Which of the following substances primarily inhibits GH secretion by blocking the action of Growth Hormone-Releasing Hormone (GHRH)?",
+        "a": [
+          "Ghrelin",
+          "Somatostatin",
+          "Dopamine",
+          "Arginine"
+        ],
+        "c": 1,
+        "l": "Somatostatin inhibits GH release from the anterior pituitary.",
+        "h": "Somatostatin = GH inhibitor"
+      },
+      {
+        "q": "A 52-year-old patient presents with a protruding lower jaw (prognathism), enlarged hands requiring size 14 gloves, and a hunched back (kyphosis). If these symptoms resulted from an acidophilic tumor, which of the following is most likely true regarding the onset of the excess hormone secretion?",
+        "a": [
+          "It began before the fusion of the long bone epiphyses.",
+          "It began after the fusion of the long bone epiphyses.",
+          "It was caused by a deficiency in IGF-1."
+        ],
+        "c": 1,
+        "l": "Acromegaly occurs after epiphyseal plate closure.",
+        "h": "Acromegaly = after closure"
+      },
+      {
+        "q": "A patient with central diabetes insipidus is administered a synthetic analog of antidiuretic hormone (ADH) to reduce their excessive urine output. This medication acts on V2 receptors to increase the water permeability of the collecting ducts by stimulating the insertion of which of the following?",
+        "a": [
+          "Sodium-potassium pumps",
+          "Aquaporins",
+          "Urea transporters",
+          "Glucose transporters"
+        ],
+        "c": 1,
+        "l": "ADH inserts aquaporin-2 channels in collecting ducts to reabsorb water.",
+        "h": "ADH → aquaporin-2"
+      },
+      {
+        "q": "A patient is brought to the emergency room following a major motor vehicle accident with an estimated blood loss of 25% of their total volume. Which of the following is the most potent driver of the resulting high levels of ADH secretion in this patient?",
+        "a": [
+          "Increased extracellular fluid osmolarity",
+          "Decreased blood volume and pressure",
+          "Increased stretch of atrial receptors",
+          "Hyperglycemia"
+        ],
+        "c": 1,
+        "l": "Hypovolemia is the strongest stimulus for ADH release.",
+        "h": "Volume loss > osmolarity"
+      },
+      {
+        "q": "A 32-year-old woman experienced severe circulatory shock due to massive hemorrhage during the delivery of her child. Several months later, she reports an inability to lactate, loss of libido, and significant lethargy. What is the most likely underlying cause of her panhypopituitarism?",
+        "a": [
+          "Craniopharyngioma",
+          "Chromophobe tumor",
+          "Pituitary vessel thrombosis",
+          "Acidophilic adenoma"
+        ],
+        "c": 2,
+        "l": "Sheehan syndrome is caused by ischemic necrosis of the pituitary due to postpartum hemorrhage.",
+        "h": "Postpartum hemorrhage → pituitary infarct"
+      },
+      {
+        "q": "A group of children is found to have significantly short stature despite having normal or even elevated plasma concentrations of growth hormone. This condition, seen in Laron syndrome, is most likely due to which of the following?",
+        "a": [
+          "Generalized deficiency of anterior pituitary secretion",
+          "Inability to form insulin-like growth factor-1 (IGF-1)",
+          "Excessive secretion of somatostatin",
+          "Lack of thyroid-stimulating hormone"
+        ],
+        "c": 1,
+        "l": "Laron syndrome is due to GH receptor defect leading to decreased IGF-1 production.",
+        "h": "GH receptor defect → low IGF-1"
+      }
     ],
-    "c": 0,
-    "l": "The pituitary sits in the sella turcica at the base of the brain.",
-    "h": "Think: pituitary = seat → sella turcica"
-  },
-  {
-    "q": "The anterior pituitary develops from which embryologic structure?",
-    "a": [
-      "Neural crest",
-      "Rathke's pouch",
-      "Endoderm",
-      "Mesoderm"
+    "3_endocrine_pancreas": [
+      {
+        "q": "Which of the following cell types in the pancreatic islets primarily secretes insulin?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 1,
+        "l": "Beta cells of the pancreatic islets secrete insulin.",
+        "h": "Beta = insulin"
+      },
+      {
+        "q": "Which of the following hormones is secreted by alpha cells of the pancreas?",
+        "a": [
+          "Insulin",
+          "Somatostatin",
+          "Glucagon",
+          "Amylin"
+        ],
+        "c": 2,
+        "l": "Alpha cells secrete glucagon.",
+        "h": "Alpha = glucagon"
+      },
+      {
+        "q": "Which of the following pancreatic cells secretes somatostatin?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 2,
+        "l": "Delta cells secrete somatostatin.",
+        "h": "Delta = somatostatin"
+      },
+      {
+        "q": "C-peptide is clinically useful because it reflects which of the following?",
+        "a": [
+          "Exogenous insulin levels",
+          "Endogenous insulin secretion",
+          "Glucose levels",
+          "Glucagon secretion"
+        ],
+        "c": 1,
+        "l": "C-peptide is released in equimolar amounts with insulin and reflects endogenous insulin production.",
+        "h": "C-peptide = endogenous insulin"
+      },
+      {
+        "q": "A patient presents with hypoglycemia. Labs show high insulin and low C-peptide. What is the most likely cause?",
+        "a": [
+          "Insulinoma",
+          "Sulfonylurea use",
+          "Exogenous insulin administration",
+          "Type 1 diabetes"
+        ],
+        "c": 2,
+        "l": "Low C-peptide with high insulin indicates exogenous insulin use.",
+        "h": "Low C-peptide = injected insulin"
+      },
+      {
+        "q": "A patient has high insulin and high C-peptide levels during hypoglycemia. What is the most likely diagnosis?",
+        "a": [
+          "Exogenous insulin use",
+          "Insulinoma",
+          "Addison disease",
+          "Type 2 diabetes"
+        ],
+        "c": 1,
+        "l": "High insulin and C-peptide suggests endogenous overproduction (insulinoma).",
+        "h": "High C-peptide = internal source"
+      },
+      {
+        "q": "Reduction of disulfide bonds in insulin would result in which of the following?",
+        "a": [
+          "Increased glucose uptake",
+          "Enhanced receptor binding",
+          "Loss of insulin activity",
+          "Increased half-life"
+        ],
+        "c": 2,
+        "l": "Disulfide bonds are essential for insulin structure and activity.",
+        "h": "Break bonds = inactive insulin"
+      },
+      {
+        "q": "Which glucose transporter is used by pancreatic beta cells to sense glucose levels?",
+        "a": [
+          "GLUT1",
+          "GLUT2",
+          "GLUT3",
+          "GLUT4"
+        ],
+        "c": 1,
+        "l": "GLUT2 is a low-affinity, high-capacity transporter used in beta cells.",
+        "h": "GLUT2 = glucose sensor"
+      },
+      {
+        "q": "Which of the following transporters is insulin-dependent?",
+        "a": [
+          "GLUT1",
+          "GLUT2",
+          "GLUT3",
+          "GLUT4"
+        ],
+        "c": 3,
+        "l": "GLUT4 is insulin-dependent and found in muscle and adipose tissue.",
+        "h": "GLUT4 = insulin dependent"
+      },
+      {
+        "q": "Which of the following tissues does NOT require insulin for glucose uptake?",
+        "a": [
+          "Adipose tissue",
+          "Skeletal muscle",
+          "Brain",
+          "Liver"
+        ],
+        "c": 2,
+        "l": "Brain uses GLUT1/3 and is insulin-independent.",
+        "h": "Brain = no insulin needed"
+      },
+      {
+        "q": "What is the primary intracellular event that triggers insulin secretion?",
+        "a": [
+          "Increased cAMP",
+          "Increased ATP closing K+ channels",
+          "Opening Na+ channels",
+          "Decreased calcium influx"
+        ],
+        "c": 1,
+        "l": "ATP closes K+ channels leading to depolarization and insulin release.",
+        "h": "ATP closes K+ → insulin release"
+      },
+      {
+        "q": "Sulfonylurea drugs stimulate insulin secretion by acting on which channel?",
+        "a": [
+          "Calcium channels",
+          "Sodium channels",
+          "ATP-sensitive potassium channels",
+          "Chloride channels"
+        ],
+        "c": 2,
+        "l": "Sulfonylureas close ATP-sensitive K+ channels, increasing insulin release.",
+        "h": "Sulfonylurea → K+ channel block"
+      },
+      {
+        "q": "Which ion influx directly triggers insulin exocytosis?",
+        "a": [
+          "Sodium",
+          "Calcium",
+          "Potassium",
+          "Chloride"
+        ],
+        "c": 1,
+        "l": "Calcium influx triggers vesicle exocytosis of insulin.",
+        "h": "Ca2+ = release signal"
+      },
+      {
+        "q": "Which receptor type does insulin bind to?",
+        "a": [
+          "G-protein coupled receptor",
+          "Tyrosine kinase receptor",
+          "Ion channel receptor",
+          "Nuclear receptor"
+        ],
+        "c": 1,
+        "l": "Insulin binds to a receptor with intrinsic tyrosine kinase activity.",
+        "h": "Insulin = TK receptor"
+      },
+      {
+        "q": "Which subunit of the insulin receptor has tyrosine kinase activity?",
+        "a": [
+          "Alpha subunit",
+          "Beta subunit",
+          "Gamma subunit",
+          "Delta subunit"
+        ],
+        "c": 1,
+        "l": "Beta subunit has intrinsic tyrosine kinase activity.",
+        "h": "Beta = kinase"
+      },
+      {
+        "q": "Binding of insulin to its receptor leads to which immediate intracellular event?",
+        "a": [
+          "cAMP activation",
+          "Autophosphorylation",
+          "DNA transcription",
+          "Protein degradation"
+        ],
+        "c": 1,
+        "l": "Insulin binding triggers receptor autophosphorylation.",
+        "h": "First step = autophosphorylation"
+      },
+      {
+        "q": "Insulin promotes glucose uptake in muscle cells by increasing which transporter?",
+        "a": [
+          "GLUT1",
+          "GLUT2",
+          "GLUT3",
+          "GLUT4"
+        ],
+        "c": 3,
+        "l": "Insulin increases GLUT4 translocation to the membrane.",
+        "h": "GLUT4 moves to membrane"
+      },
+      {
+        "q": "Which of the following is a major metabolic effect of insulin on the liver?",
+        "a": [
+          "Increased gluconeogenesis",
+          "Increased glycogenesis",
+          "Increased lipolysis",
+          "Increased ketogenesis"
+        ],
+        "c": 1,
+        "l": "Insulin promotes glycogen synthesis in the liver.",
+        "h": "Insulin = storage hormone"
+      },
+      {
+        "q": "Which of the following best describes insulin’s effect on fat metabolism?",
+        "a": [
+          "Increases lipolysis",
+          "Decreases lipogenesis",
+          "Inhibits lipolysis",
+          "Increases ketone production"
+        ],
+        "c": 2,
+        "l": "Insulin inhibits lipolysis and promotes fat storage.",
+        "h": "Insulin = anti-lipolysis"
+      },
+      {
+        "q": "Which of the following is a major protein metabolism effect of insulin?",
+        "a": [
+          "Increased proteolysis",
+          "Increased protein synthesis",
+          "Increased amino acid breakdown",
+          "Inhibition of translation"
+        ],
+        "c": 1,
+        "l": "Insulin promotes protein synthesis and inhibits breakdown.",
+        "h": "Insulin = anabolic"
+      },
+      {
+        "q": "Which electrolyte is driven into cells by insulin?",
+        "a": [
+          "Sodium",
+          "Calcium",
+          "Potassium",
+          "Chloride"
+        ],
+        "c": 2,
+        "l": "Insulin promotes potassium uptake into cells.",
+        "h": "Insulin lowers K+"
+      },
+      {
+        "q": "Which hormone has effects antagonistic to insulin?",
+        "a": [
+          "Growth hormone",
+          "Insulin-like growth factor",
+          "Amylin",
+          "GLP-1"
+        ],
+        "c": 0,
+        "l": "Growth hormone antagonizes insulin effects.",
+        "h": "GH opposes insulin"
+      },
+      {
+        "q": "Which state is characterized by increased insulin secretion?",
+        "a": [
+          "Fasting state",
+          "Fed state",
+          "Starvation",
+          "Exercise"
+        ],
+        "c": 1,
+        "l": "Insulin increases after meals (fed state).",
+        "h": "Fed = insulin high"
+      },
+      {
+        "q": "Which incretin hormone enhances insulin secretion?",
+        "a": [
+          "GLP-1",
+          "Somatostatin",
+          "Glucagon",
+          "Cortisol"
+        ],
+        "c": 0,
+        "l": "GLP-1 increases insulin secretion.",
+        "h": "GLP-1 boosts insulin"
+      },
+      {
+        "q": "Which nervous system input increases insulin secretion?",
+        "a": [
+          "Sympathetic",
+          "Parasympathetic",
+          "Somatic",
+          "Central inhibition"
+        ],
+        "c": 1,
+        "l": "Parasympathetic stimulation increases insulin secretion.",
+        "h": "Vagus → insulin ↑"
+      },
+      {
+        "q": "Which condition inhibits insulin secretion?",
+        "a": [
+          "High glucose",
+          "Epinephrine",
+          "Amino acids",
+          "GIP"
+        ],
+        "c": 1,
+        "l": "Sympathetic stimulation via epinephrine inhibits insulin.",
+        "h": "Stress ↓ insulin"
+      },
+      {
+        "q": "Which hormone is secreted during hypoglycemia?",
+        "a": [
+          "Insulin",
+          "Glucagon",
+          "Somatostatin",
+          "Leptin"
+        ],
+        "c": 1,
+        "l": "Glucagon increases during hypoglycemia.",
+        "h": "Low sugar → glucagon"
+      },
+      {
+        "q": "What is the main target organ of glucagon?",
+        "a": [
+          "Muscle",
+          "Adipose tissue",
+          "Liver",
+          "Brain"
+        ],
+        "c": 2,
+        "l": "Glucagon primarily acts on the liver.",
+        "h": "Glucagon → liver"
+      },
+      {
+        "q": "Glucagon exerts its effects via which signaling pathway?",
+        "a": [
+          "Tyrosine kinase",
+          "cAMP",
+          "IP3/DAG",
+          "Nuclear receptor"
+        ],
+        "c": 1,
+        "l": "Glucagon acts via Gs → cAMP pathway.",
+        "h": "Glucagon = cAMP"
+      },
+      {
+        "q": "Which hormone is known as a \"hormone of plenty\"?",
+        "a": [
+          "Glucagon",
+          "Insulin",
+          "Cortisol",
+          "GH"
+        ],
+        "c": 1,
+        "l": "Insulin is released when nutrients are abundant.",
+        "h": "Insulin = fed hormone"
+      },
+      {
+        "q": "Which effect occurs within seconds of insulin binding?",
+        "a": [
+          "Gene transcription",
+          "Protein synthesis",
+          "Glucose transporter insertion",
+          "DNA replication"
+        ],
+        "c": 2,
+        "l": "Insulin rapidly inserts GLUT4 transporters into membranes.",
+        "h": "Fast effect = GLUT4"
+      },
+      {
+        "q": "Which effect of insulin occurs over hours to days?",
+        "a": [
+          "Glucose uptake",
+          "Enzyme phosphorylation",
+          "Gene transcription",
+          "Calcium influx"
+        ],
+        "c": 2,
+        "l": "Long-term insulin effects include gene transcription.",
+        "h": "Slow = gene expression"
+      },
+      {
+        "q": "Which condition results from insulin deficiency in fetus?",
+        "a": [
+          "Macrosomia",
+          "Low birth weight",
+          "Obesity",
+          "Hyperglycemia"
+        ],
+        "c": 1,
+        "l": "Insulin deficiency leads to low birth weight.",
+        "h": "No insulin = small baby"
+      },
+      {
+        "q": "Which condition results from hyperinsulinemia in fetus?",
+        "a": [
+          "Low birth weight",
+          "Macrosomia",
+          "Ketosis",
+          "Hypoglycemia"
+        ],
+        "c": 1,
+        "l": "Excess insulin causes fetal overgrowth (macrosomia).",
+        "h": "High insulin = big baby"
+      },
+      {
+        "q": "Which enzyme activity is inhibited by insulin?",
+        "a": [
+          "Glycogen synthase",
+          "Hormone-sensitive lipase",
+          "Hexokinase",
+          "Glucokinase"
+        ],
+        "c": 1,
+        "l": "Insulin inhibits hormone-sensitive lipase, reducing lipolysis.",
+        "h": "Insulin blocks fat breakdown"
+      },
+      {
+        "q": "Which process is stimulated by insulin in adipose tissue?",
+        "a": [
+          "Lipolysis",
+          "Gluconeogenesis",
+          "Lipogenesis",
+          "Ketogenesis"
+        ],
+        "c": 2,
+        "l": "Insulin promotes fat storage (lipogenesis).",
+        "h": "Insulin = fat storage"
+      },
+      {
+        "q": "Which transporter is found in RBCs?",
+        "a": [
+          "GLUT1",
+          "GLUT2",
+          "GLUT4",
+          "SGLT1"
+        ],
+        "c": 0,
+        "l": "RBCs use GLUT1 for glucose uptake.",
+        "h": "RBC = GLUT1"
+      },
+      {
+        "q": "Which transporter is high affinity and found in brain?",
+        "a": [
+          "GLUT2",
+          "GLUT3",
+          "GLUT4",
+          "SGLT2"
+        ],
+        "c": 1,
+        "l": "GLUT3 is high-affinity and used in brain tissue.",
+        "h": "Brain = GLUT3"
+      },
+      {
+        "q": "Which of the following increases insulin secretion?",
+        "a": [
+          "Hypoglycemia",
+          "Epinephrine",
+          "Amino acids",
+          "Leptin"
+        ],
+        "c": 2,
+        "l": "Amino acids stimulate insulin secretion.",
+        "h": "AA ↑ insulin"
+      }
     ],
-    "c": 1,
-    "l": "Anterior pituitary arises from Rathke’s pouch (oral ectoderm).",
-    "h": "Rathke = Roof of mouth"
-  },
-  {
-    "q": "The posterior pituitary is derived from:",
-    "a": [
-      "Pharyngeal epithelium",
-      "Neural tissue of hypothalamus",
-      "Mesoderm",
-      "Neural crest"
-    ],
-    "c": 1,
-    "l": "Posterior pituitary originates as neural outgrowth from hypothalamus.",
-    "h": "Posterior = brain origin"
-  },
-  {
-    "q": "Which cell type is found in the posterior pituitary?",
-    "a": [
-      "Somatotropes",
-      "Pituicytes",
-      "Corticotropes",
-      "Lactotropes"
-    ],
-    "c": 1,
-    "l": "Posterior pituitary contains glial-like cells called pituicytes.",
-    "h": "Posterior = neuro → glial cells"
-  },
-  {
-    "q": "Which of the following hormones is produced in the hypothalamus but released from the posterior pituitary?",
-    "a": [
-      "GH",
-      "TSH",
-      "ADH",
-      "ACTH"
-    ],
-    "c": 2,
-    "l": "ADH is synthesized in hypothalamus and released from posterior pituitary.",
-    "h": "Posterior = storage, not production"
-  },
-  {
-    "q": "Oxytocin primarily acts on which organs?",
-    "a": [
-      "Kidneys",
-      "Heart",
-      "Uterus and mammary glands",
-      "Liver"
-    ],
-    "c": 2,
-    "l": "Oxytocin causes uterine contraction and milk ejection.",
-    "h": "Oxytocin = baby + milk"
-  },
-  {
-    "q": "ADH primarily affects which organ?",
-    "a": [
-      "Liver",
-      "Kidneys",
-      "Lungs",
-      "Pancreas"
-    ],
-    "c": 1,
-    "l": "ADH increases water reabsorption in kidneys.",
-    "h": "ADH = Anti-Diuresis"
-  },
-  {
-    "q": "Which neurons synthesize ADH and oxytocin?",
-    "a": [
-      "Parvocellular neurons",
-      "Magnocellular neurons",
-      "Interneurons",
-      "Motor neurons"
-    ],
-    "c": 1,
-    "l": "Magnocellular neurons synthesize ADH and oxytocin.",
-    "h": "MAGNO = big hormones"
-  },
-  {
-    "q": "Hormones of the posterior pituitary reach the gland via:",
-    "a": [
-      "Portal system",
-      "Axonal transport",
-      "Lymphatics",
-      "Venous drainage"
-    ],
-    "c": 1,
-    "l": "They travel via axons from hypothalamus.",
-    "h": "Posterior = nerve pathway"
-  },
-  {
-    "q": "Which system regulates the anterior pituitary?",
-    "a": [
-      "Direct neural input",
-      "Portal circulation",
-      "Lymphatic system",
-      "Cerebrospinal fluid"
-    ],
-    "c": 1,
-    "l": "Anterior pituitary is regulated by hypothalamic portal system.",
-    "h": "Anterior = blood control"
-  },
-
-  {
-    "q": "The hypothalamic–hypophyseal portal system connects:",
-    "a": [
-      "Hypothalamus to posterior pituitary",
-      "Hypothalamus to anterior pituitary",
-      "Pituitary to adrenal gland",
-      "Brain to spinal cord"
-    ],
-    "c": 1,
-    "l": "Portal system carries releasing hormones to anterior pituitary.",
-    "h": "Portal = anterior link"
-  },
-  {
-    "q": "Which hormone inhibits prolactin release?",
-    "a": [
-      "TRH",
-      "Dopamine",
-      "CRH",
-      "GnRH"
-    ],
-    "c": 1,
-    "l": "Dopamine acts as prolactin-inhibiting hormone (PIH).",
-    "h": "Dopamine ↓ prolactin"
-  },
-  {
-    "q": "GHRH stimulates secretion of:",
-    "a": [
-      "TSH",
-      "ACTH",
-      "GH",
-      "Prolactin"
-    ],
-    "c": 2,
-    "l": "Growth hormone releasing hormone stimulates GH release.",
-    "h": "GHRH → GH"
-  },
-  {
-    "q": "Somatostatin primarily inhibits:",
-    "a": [
-      "TSH only",
-      "GH",
-      "ACTH",
-      "Prolactin"
-    ],
-    "c": 1,
-    "l": "Somatostatin inhibits GH release.",
-    "h": "Somatostatin = GH off"
-  },
-  {
-    "q": "CRH stimulates release of:",
-    "a": [
-      "TSH",
-      "ACTH",
-      "GH",
-      "FSH"
-    ],
-    "c": 1,
-    "l": "CRH stimulates ACTH from anterior pituitary.",
-    "h": "CRH → Cortisol axis"
-  },
-  {
-    "q": "GnRH stimulates secretion of:",
-    "a": [
-      "GH",
-      "TSH",
-      "FSH and LH",
-      "ACTH"
-    ],
-    "c": 2,
-    "l": "GnRH stimulates FSH and LH.",
-    "h": "GnRH → gonads"
-  },
-  {
-    "q": "Which anterior pituitary cells secrete GH?",
-    "a": [
-      "Corticotropes",
-      "Somatotropes",
-      "Thyrotropes",
-      "Lactotropes"
-    ],
-    "c": 1,
-    "l": "Somatotropes secrete growth hormone.",
-    "h": "Soma = body growth"
-  },
-  {
-    "q": "ACTH is secreted by which cells?",
-    "a": [
-      "Lactotropes",
-      "Somatotropes",
-      "Corticotropes",
-      "Thyrotropes"
-    ],
-    "c": 2,
-    "l": "Corticotropes secrete ACTH.",
-    "h": "Cortico = cortisol"
-  },
-  {
-    "q": "TSH is secreted by:",
-    "a": [
-      "Somatotropes",
-      "Thyrotropes",
-      "Gonadotropes",
-      "Lactotropes"
-    ],
-    "c": 1,
-    "l": "Thyrotropes produce TSH.",
-    "h": "Thyro = thyroid"
-  },
-  {
-    "q": "FSH and LH are secreted by:",
-    "a": [
-      "Gonadotropes",
-      "Somatotropes",
-      "Corticotropes",
-      "Pituicytes"
-    ],
-    "c": 0,
-    "l": "Gonadotropes produce FSH and LH.",
-    "h": "Gonads = reproduction"
-  },
-
-  {
-    "q": "Prolactin is secreted by:",
-    "a": [
-      "Thyrotropes",
-      "Lactotropes",
-      "Somatotropes",
-      "Corticotropes"
-    ],
-    "c": 1,
-    "l": "Lactotropes produce prolactin.",
-    "h": "Lacto = milk"
-  },
-  {
-    "q": "Which anterior pituitary cells are most abundant?",
-    "a": [
-      "Somatotropes",
-      "Thyrotropes",
-      "Gonadotropes",
-      "Lactotropes"
-    ],
-    "c": 0,
-    "l": "Somatotropes make up ~30–40% of anterior pituitary.",
-    "h": "Most = GH cells"
-  },
-  {
-    "q": "Growth hormone acts primarily via:",
-    "a": [
-      "cAMP",
-      "JAK-STAT pathway",
-      "Calcium signaling",
-      "IP3 pathway"
-    ],
-    "c": 1,
-    "l": "GH signals via JAK2-STAT pathway.",
-    "h": "GH = JAK-STAT"
-  },
-  {
-    "q": "Which mediator carries out many effects of GH?",
-    "a": [
-      "cAMP",
-      "IGF-1",
-      "Dopamine",
-      "TSH"
-    ],
-    "c": 1,
-    "l": "IGF-1 mediates GH effects.",
-    "h": "GH → IGF-1"
-  },
-  {
-    "q": "Growth hormone primarily promotes:",
-    "a": [
-      "Apoptosis",
-      "Cell growth and division",
-      "Inflammation",
-      "Neurotransmission"
-    ],
-    "c": 1,
-    "l": "GH increases cell size, mitosis, and differentiation.",
-    "h": "Growth = size + number"
-  },
-
-  {
-    "q": "Which condition results from GH excess in childhood?",
-    "a": [
-      "Acromegaly",
-      "Gigantism",
-      "Dwarfism",
-      "Cushing syndrome"
-    ],
-    "c": 1,
-    "l": "GH excess before epiphyseal closure → gigantism.",
-    "h": "Child + GH = tall"
-  },
-  {
-    "q": "GH excess in adults leads to:",
-    "a": [
-      "Gigantism",
-      "Acromegaly",
-      "Dwarfism",
-      "Hyperthyroidism"
-    ],
-    "c": 1,
-    "l": "Acromegaly occurs after epiphyseal closure.",
-    "h": "Adult GH = big hands/face"
-  },
-  {
-    "q": "GH deficiency in childhood results in:",
-    "a": [
-      "Acromegaly",
-      "Gigantism",
-      "Dwarfism",
-      "Cushing disease"
-    ],
-    "c": 2,
-    "l": "Low GH → short stature (dwarfism).",
-    "h": "Low GH = small"
-  },
-  {
-    "q": "Which structure connects hypothalamus to pituitary?",
-    "a": [
-      "Infundibulum",
-      "Corpus callosum",
-      "Optic tract",
-      "Thalamus"
-    ],
-    "c": 0,
-    "l": "Infundibulum (pituitary stalk) connects them.",
-    "h": "Stalk = connection"
-  },
-  {
-    "q": "The median eminence is part of:",
-    "a": [
-      "Pituitary",
-      "Hypothalamus",
-      "Thalamus",
-      "Midbrain"
-    ],
-    "c": 1,
-    "l": "Median eminence links hypothalamus to pituitary portal system.",
-    "h": "Entry point to portal system"
-  },
-
-  {
-    "q": "Anterior pituitary secretion is controlled by:",
-    "a": [
-      "Direct nerve signals",
-      "Releasing/inhibiting hormones",
-      "CSF flow",
-      "Reflex arcs"
-    ],
-    "c": 1,
-    "l": "Controlled by hypothalamic hormones via portal system.",
-    "h": "Anterior = chemical control"
-  },
-  {
-    "q": "Posterior pituitary secretion is controlled by:",
-    "a": [
-      "Hormones only",
-      "Neural signals",
-      "Portal system",
-      "Lymphatics"
-    ],
-    "c": 1,
-    "l": "Posterior pituitary is controlled by nerve signals.",
-    "h": "Posterior = neural"
-  },
-
-  {
-    "q": "Which hormone increases water reabsorption in kidneys?",
-    "a": [
-      "Oxytocin",
-      "ADH",
-      "GH",
-      "TSH"
-    ],
-    "c": 1,
-    "l": "ADH increases water reabsorption in collecting ducts.",
-    "h": "ADH = water saver"
-  },
-
-  {
-    "q": "Which hormone causes milk ejection reflex?",
-    "a": [
-      "Prolactin",
-      "Oxytocin",
-      "GH",
-      "TSH"
-    ],
-    "c": 1,
-    "l": "Oxytocin causes milk ejection.",
-    "h": "Oxytocin = let-down"
-  },
-
-  {
-    "q": "Which hormone is responsible for milk production?",
-    "a": [
-      "Oxytocin",
-      "Prolactin",
-      "ADH",
-      "GH"
-    ],
-    "c": 1,
-    "l": "Prolactin stimulates milk production.",
-    "h": "Prolactin = production"
-  }, {
-"q": "A nursing mother notes that her milk begins to flow just moments after she hears her infant cry in the next room, even before the baby begins to suckle. This milk ejection reflex is mediated by oxytocin causing the contraction of which of the following cells?",
-"a": [
-"Alveolar epithelial cells",
-"Myoepithelial cells",
-"Endometrial cells",
-"Smooth muscle of the lactiferous ducts"
-],
-"c": 1,
-"l": "Oxytocin causes contraction of myoepithelial cells to eject milk.",
-"h": "Milk let-down = myoepithelial contraction"
-},
-{
-"q": "A 68-year-old male is brought to the emergency department after three days of severe vomiting and diarrhea. On examination, he is lethargic and has a blood pressure of 80/45 mmHg and a heart rate of 125 bpm. Laboratory studies reveal that his plasma osmolarity is slightly lower than normal due to the ingestion of large amounts of plain water during his illness. Despite the low osmolarity, his plasma antidiuretic hormone (ADH) levels are found to be 40 times the normal reference range. Which of the following best explains why ADH remains elevated despite the patient's hypo-osmolar state?",
-"a": [
-"Activation of osmoreceptors in the organum vasculosum.",
-"Decreased stretch of baroreceptors overriding osmotic inhibition.",
-"Increased sensitivity of the V2 receptors in the collecting ducts.",
-"Direct stimulation of the supraoptic nuclei by atrial natriuretic peptide."
-],
-"c": 1,
-"l": "Severe hypovolemia activates baroreceptors which overrides osmotic control of ADH.",
-"h": "Volume > osmolarity for ADH control"
-},
-{
-"q": "A researcher is investigating the growth-promoting effects of growth hormone (GH) in a canine model. In one experimental group, the animals have undergone a total pancreatectomy. Despite receiving daily injections of high-dose recombinant growth hormone, these animals show no significant increase in lean body mass or bone growth. Based on the physiological requirements of GH, which of the following is most likely responsible for the lack of growth in these animals?",
-"a": [
-"Deficiency of the JAK2-STAT signaling pathway.",
-"Inadequate insulin and carbohydrate availability.",
-"Excessive mobilization of free fatty acids causing ketosis.",
-"Reduced half-life of growth hormone in the absence of pancreatic enzymes."
-],
-"c": 1,
-"l": "GH requires insulin for IGF-1 mediated growth; without insulin, growth is impaired.",
-"h": "GH needs insulin to work"
-},
-{
-"q": "A researcher is studying the development of the endocrine system. They identify a structure that invaginates from the pharyngeal epithelium and eventually loses its connection to the oral cavity. This structure, known as Rathke's pouch, will eventually give rise to which of the following?",
-"a": [
-"Neurohypophysis",
-"Adenohypophysis",
-"Supraoptic nucleus",
-"Pituicytes"
-],
-"c": 1,
-"l": "Rathke’s pouch forms the anterior pituitary (adenohypophysis).",
-"h": "Rathke → anterior pituitary"
-},
-{
-"q": "A 45-year-old patient suffers a traumatic injury to the median eminence of the hypothalamus. While the posterior pituitary function remains partially intact due to the proximity of neuronal cell bodies, the regulation of the anterior pituitary is severely compromised. Which of the following delivery mechanisms for hypothalamic factors is primarily impaired in this patient?",
-"a": [
-"Axoplasmic flow via the hypothalamic-hypophysial tract",
-"Systemic arterial circulation",
-"Hypothalamic-hypophysial portal vessels",
-"Direct neural stimulation of glandular cells"
-],
-"c": 2,
-"l": "Anterior pituitary hormones are regulated via hypothalamic-hypophyseal portal circulation.",
-"h": "Anterior pituitary = portal system"
-},
-{
-"q": "A 48-year-old male with an acidophilic adenoma of the anterior pituitary presents with fatigue and increased thirst. Laboratory tests reveal a fasting blood glucose of 145 mg/dL. Which of the following best describes the metabolic effect of his condition on glucose utilization?",
-"a": [
-"Increased insulin sensitivity",
-"Decreased gluconeogenesis in the liver",
-"Growth hormone-induced \"insulin resistance\"",
-"Increased glucose uptake in skeletal muscle"
-],
-"c": 2,
-"l": "Excess GH decreases glucose uptake and increases blood glucose → insulin resistance.",
-"h": "GH = anti-insulin"
-},
-{
-"q": "A clinical study investigates factors that inhibit the release of GH. It is found that a specific hypothalamic hormone exerts a powerful inhibitory effect on somatotropes. Which of the following substances primarily inhibits GH secretion by blocking the action of Growth Hormone-Releasing Hormone (GHRH)?",
-"a": [
-"Ghrelin",
-"Somatostatin",
-"Dopamine",
-"Arginine"
-],
-"c": 1,
-"l": "Somatostatin inhibits GH release from the anterior pituitary.",
-"h": "Somatostatin = GH inhibitor"
-},
-{
-"q": "A 52-year-old patient presents with a protruding lower jaw (prognathism), enlarged hands requiring size 14 gloves, and a hunched back (kyphosis). If these symptoms resulted from an acidophilic tumor, which of the following is most likely true regarding the onset of the excess hormone secretion?",
-"a": [
-"It began before the fusion of the long bone epiphyses.",
-"It began after the fusion of the long bone epiphyses.",
-"It was caused by a deficiency in IGF-1."
-],
-"c": 1,
-"l": "Acromegaly occurs after epiphyseal plate closure.",
-"h": "Acromegaly = after closure"
-},
-{
-"q": "A patient with central diabetes insipidus is administered a synthetic analog of antidiuretic hormone (ADH) to reduce their excessive urine output. This medication acts on V2 receptors to increase the water permeability of the collecting ducts by stimulating the insertion of which of the following?",
-"a": [
-"Sodium-potassium pumps",
-"Aquaporins",
-"Urea transporters",
-"Glucose transporters"
-],
-"c": 1,
-"l": "ADH inserts aquaporin-2 channels in collecting ducts to reabsorb water.",
-"h": "ADH → aquaporin-2"
-},
-{
-"q": "A patient is brought to the emergency room following a major motor vehicle accident with an estimated blood loss of 25% of their total volume. Which of the following is the most potent driver of the resulting high levels of ADH secretion in this patient?",
-"a": [
-"Increased extracellular fluid osmolarity",
-"Decreased blood volume and pressure",
-"Increased stretch of atrial receptors",
-"Hyperglycemia"
-],
-"c": 1,
-"l": "Hypovolemia is the strongest stimulus for ADH release.",
-"h": "Volume loss > osmolarity"
-},
-{
-"q": "A 32-year-old woman experienced severe circulatory shock due to massive hemorrhage during the delivery of her child. Several months later, she reports an inability to lactate, loss of libido, and significant lethargy. What is the most likely underlying cause of her panhypopituitarism?",
-"a": [
-"Craniopharyngioma",
-"Chromophobe tumor",
-"Pituitary vessel thrombosis",
-"Acidophilic adenoma"
-],
-"c": 2,
-"l": "Sheehan syndrome is caused by ischemic necrosis of the pituitary due to postpartum hemorrhage.",
-"h": "Postpartum hemorrhage → pituitary infarct"
-},
-{
-"q": "A group of children is found to have significantly short stature despite having normal or even elevated plasma concentrations of growth hormone. This condition, seen in Laron syndrome, is most likely due to which of the following?",
-"a": [
-"Generalized deficiency of anterior pituitary secretion",
-"Inability to form insulin-like growth factor-1 (IGF-1)",
-"Excessive secretion of somatostatin",
-"Lack of thyroid-stimulating hormone"
-],
-"c": 1,
-"l": "Laron syndrome is due to GH receptor defect leading to decreased IGF-1 production.",
-"h": "GH receptor defect → low IGF-1"
-}
-    ],     "3_endocrine_pancreas": [
-
-{
-"q": "Which of the following cell types in the pancreatic islets primarily secretes insulin?",
-"a": [
-"Alpha cells",
-"Beta cells",
-"Delta cells",
-"PP cells"
-],
-"c": 1,
-"l": "Beta cells of the pancreatic islets secrete insulin.",
-"h": "Beta = insulin"
-},
-{
-"q": "Which of the following hormones is secreted by alpha cells of the pancreas?",
-"a": [
-"Insulin",
-"Somatostatin",
-"Glucagon",
-"Amylin"
-],
-"c": 2,
-"l": "Alpha cells secrete glucagon.",
-"h": "Alpha = glucagon"
-},
-{
-"q": "Which of the following pancreatic cells secretes somatostatin?",
-"a": [
-"Alpha cells",
-"Beta cells",
-"Delta cells",
-"PP cells"
-],
-"c": 2,
-"l": "Delta cells secrete somatostatin.",
-"h": "Delta = somatostatin"
-},
-{
-"q": "C-peptide is clinically useful because it reflects which of the following?",
-"a": [
-"Exogenous insulin levels",
-"Endogenous insulin secretion",
-"Glucose levels",
-"Glucagon secretion"
-],
-"c": 1,
-"l": "C-peptide is released in equimolar amounts with insulin and reflects endogenous insulin production.",
-"h": "C-peptide = endogenous insulin"
-},
-{
-"q": "A patient presents with hypoglycemia. Labs show high insulin and low C-peptide. What is the most likely cause?",
-"a": [
-"Insulinoma",
-"Sulfonylurea use",
-"Exogenous insulin administration",
-"Type 1 diabetes"
-],
-"c": 2,
-"l": "Low C-peptide with high insulin indicates exogenous insulin use.",
-"h": "Low C-peptide = injected insulin"
-},
-{
-"q": "A patient has high insulin and high C-peptide levels during hypoglycemia. What is the most likely diagnosis?",
-"a": [
-"Exogenous insulin use",
-"Insulinoma",
-"Addison disease",
-"Type 2 diabetes"
-],
-"c": 1,
-"l": "High insulin and C-peptide suggests endogenous overproduction (insulinoma).",
-"h": "High C-peptide = internal source"
-},
-{
-"q": "Reduction of disulfide bonds in insulin would result in which of the following?",
-"a": [
-"Increased glucose uptake",
-"Enhanced receptor binding",
-"Loss of insulin activity",
-"Increased half-life"
-],
-"c": 2,
-"l": "Disulfide bonds are essential for insulin structure and activity.",
-"h": "Break bonds = inactive insulin"
-},
-{
-"q": "Which glucose transporter is used by pancreatic beta cells to sense glucose levels?",
-"a": [
-"GLUT1",
-"GLUT2",
-"GLUT3",
-"GLUT4"
-],
-"c": 1,
-"l": "GLUT2 is a low-affinity, high-capacity transporter used in beta cells.",
-"h": "GLUT2 = glucose sensor"
-},
-{
-"q": "Which of the following transporters is insulin-dependent?",
-"a": [
-"GLUT1",
-"GLUT2",
-"GLUT3",
-"GLUT4"
-],
-"c": 3,
-"l": "GLUT4 is insulin-dependent and found in muscle and adipose tissue.",
-"h": "GLUT4 = insulin dependent"
-},
-{
-"q": "Which of the following tissues does NOT require insulin for glucose uptake?",
-"a": [
-"Adipose tissue",
-"Skeletal muscle",
-"Brain",
-"Liver"
-],
-"c": 2,
-"l": "Brain uses GLUT1/3 and is insulin-independent.",
-"h": "Brain = no insulin needed"
-},
-{
-"q": "What is the primary intracellular event that triggers insulin secretion?",
-"a": [
-"Increased cAMP",
-"Increased ATP closing K+ channels",
-"Opening Na+ channels",
-"Decreased calcium influx"
-],
-"c": 1,
-"l": "ATP closes K+ channels leading to depolarization and insulin release.",
-"h": "ATP closes K+ → insulin release"
-},
-{
-"q": "Sulfonylurea drugs stimulate insulin secretion by acting on which channel?",
-"a": [
-"Calcium channels",
-"Sodium channels",
-"ATP-sensitive potassium channels",
-"Chloride channels"
-],
-"c": 2,
-"l": "Sulfonylureas close ATP-sensitive K+ channels, increasing insulin release.",
-"h": "Sulfonylurea → K+ channel block"
-},
-{
-"q": "Which ion influx directly triggers insulin exocytosis?",
-"a": [
-"Sodium",
-"Calcium",
-"Potassium",
-"Chloride"
-],
-"c": 1,
-"l": "Calcium influx triggers vesicle exocytosis of insulin.",
-"h": "Ca2+ = release signal"
-},
-{
-"q": "Which receptor type does insulin bind to?",
-"a": [
-"G-protein coupled receptor",
-"Tyrosine kinase receptor",
-"Ion channel receptor",
-"Nuclear receptor"
-],
-"c": 1,
-"l": "Insulin binds to a receptor with intrinsic tyrosine kinase activity.",
-"h": "Insulin = TK receptor"
-},
-{
-"q": "Which subunit of the insulin receptor has tyrosine kinase activity?",
-"a": [
-"Alpha subunit",
-"Beta subunit",
-"Gamma subunit",
-"Delta subunit"
-],
-"c": 1,
-"l": "Beta subunit has intrinsic tyrosine kinase activity.",
-"h": "Beta = kinase"
-},
-{
-"q": "Binding of insulin to its receptor leads to which immediate intracellular event?",
-"a": [
-"cAMP activation",
-"Autophosphorylation",
-"DNA transcription",
-"Protein degradation"
-],
-"c": 1,
-"l": "Insulin binding triggers receptor autophosphorylation.",
-"h": "First step = autophosphorylation"
-},
-{
-"q": "Insulin promotes glucose uptake in muscle cells by increasing which transporter?",
-"a": [
-"GLUT1",
-"GLUT2",
-"GLUT3",
-"GLUT4"
-],
-"c": 3,
-"l": "Insulin increases GLUT4 translocation to the membrane.",
-"h": "GLUT4 moves to membrane"
-},
-{
-"q": "Which of the following is a major metabolic effect of insulin on the liver?",
-"a": [
-"Increased gluconeogenesis",
-"Increased glycogenesis",
-"Increased lipolysis",
-"Increased ketogenesis"
-],
-"c": 1,
-"l": "Insulin promotes glycogen synthesis in the liver.",
-"h": "Insulin = storage hormone"
-},
-{
-"q": "Which of the following best describes insulin’s effect on fat metabolism?",
-"a": [
-"Increases lipolysis",
-"Decreases lipogenesis",
-"Inhibits lipolysis",
-"Increases ketone production"
-],
-"c": 2,
-"l": "Insulin inhibits lipolysis and promotes fat storage.",
-"h": "Insulin = anti-lipolysis"
-},
-{
-"q": "Which of the following is a major protein metabolism effect of insulin?",
-"a": [
-"Increased proteolysis",
-"Increased protein synthesis",
-"Increased amino acid breakdown",
-"Inhibition of translation"
-],
-"c": 1,
-"l": "Insulin promotes protein synthesis and inhibits breakdown.",
-"h": "Insulin = anabolic"
-},
-{
-"q": "Which electrolyte is driven into cells by insulin?",
-"a": [
-"Sodium",
-"Calcium",
-"Potassium",
-"Chloride"
-],
-"c": 2,
-"l": "Insulin promotes potassium uptake into cells.",
-"h": "Insulin lowers K+"
-},
-{
-"q": "Which hormone has effects antagonistic to insulin?",
-"a": [
-"Growth hormone",
-"Insulin-like growth factor",
-"Amylin",
-"GLP-1"
-],
-"c": 0,
-"l": "Growth hormone antagonizes insulin effects.",
-"h": "GH opposes insulin"
-},
-{
-"q": "Which state is characterized by increased insulin secretion?",
-"a": [
-"Fasting state",
-"Fed state",
-"Starvation",
-"Exercise"
-],
-"c": 1,
-"l": "Insulin increases after meals (fed state).",
-"h": "Fed = insulin high"
-},
-{
-"q": "Which incretin hormone enhances insulin secretion?",
-"a": [
-"GLP-1",
-"Somatostatin",
-"Glucagon",
-"Cortisol"
-],
-"c": 0,
-"l": "GLP-1 increases insulin secretion.",
-"h": "GLP-1 boosts insulin"
-},
-{
-"q": "Which nervous system input increases insulin secretion?",
-"a": [
-"Sympathetic",
-"Parasympathetic",
-"Somatic",
-"Central inhibition"
-],
-"c": 1,
-"l": "Parasympathetic stimulation increases insulin secretion.",
-"h": "Vagus → insulin ↑"
-},
-{
-"q": "Which condition inhibits insulin secretion?",
-"a": [
-"High glucose",
-"Epinephrine",
-"Amino acids",
-"GIP"
-],
-"c": 1,
-"l": "Sympathetic stimulation via epinephrine inhibits insulin.",
-"h": "Stress ↓ insulin"
-},
-{
-"q": "Which hormone is secreted during hypoglycemia?",
-"a": [
-"Insulin",
-"Glucagon",
-"Somatostatin",
-"Leptin"
-],
-"c": 1,
-"l": "Glucagon increases during hypoglycemia.",
-"h": "Low sugar → glucagon"
-},
-{
-"q": "What is the main target organ of glucagon?",
-"a": [
-"Muscle",
-"Adipose tissue",
-"Liver",
-"Brain"
-],
-"c": 2,
-"l": "Glucagon primarily acts on the liver.",
-"h": "Glucagon → liver"
-},
-{
-"q": "Glucagon exerts its effects via which signaling pathway?",
-"a": [
-"Tyrosine kinase",
-"cAMP",
-"IP3/DAG",
-"Nuclear receptor"
-],
-"c": 1,
-"l": "Glucagon acts via Gs → cAMP pathway.",
-"h": "Glucagon = cAMP"
-},
-{
-"q": "Which hormone is known as a \"hormone of plenty\"?",
-"a": [
-"Glucagon",
-"Insulin",
-"Cortisol",
-"GH"
-],
-"c": 1,
-"l": "Insulin is released when nutrients are abundant.",
-"h": "Insulin = fed hormone"
-},
-{
-"q": "Which effect occurs within seconds of insulin binding?",
-"a": [
-"Gene transcription",
-"Protein synthesis",
-"Glucose transporter insertion",
-"DNA replication"
-],
-"c": 2,
-"l": "Insulin rapidly inserts GLUT4 transporters into membranes.",
-"h": "Fast effect = GLUT4"
-},
-{
-"q": "Which effect of insulin occurs over hours to days?",
-"a": [
-"Glucose uptake",
-"Enzyme phosphorylation",
-"Gene transcription",
-"Calcium influx"
-],
-"c": 2,
-"l": "Long-term insulin effects include gene transcription.",
-"h": "Slow = gene expression"
-},
-{
-"q": "Which condition results from insulin deficiency in fetus?",
-"a": [
-"Macrosomia",
-"Low birth weight",
-"Obesity",
-"Hyperglycemia"
-],
-"c": 1,
-"l": "Insulin deficiency leads to low birth weight.",
-"h": "No insulin = small baby"
-},
-{
-"q": "Which condition results from hyperinsulinemia in fetus?",
-"a": [
-"Low birth weight",
-"Macrosomia",
-"Ketosis",
-"Hypoglycemia"
-],
-"c": 1,
-"l": "Excess insulin causes fetal overgrowth (macrosomia).",
-"h": "High insulin = big baby"
-},
-{
-"q": "Which enzyme activity is inhibited by insulin?",
-"a": [
-"Glycogen synthase",
-"Hormone-sensitive lipase",
-"Hexokinase",
-"Glucokinase"
-],
-"c": 1,
-"l": "Insulin inhibits hormone-sensitive lipase, reducing lipolysis.",
-"h": "Insulin blocks fat breakdown"
-},
-{
-"q": "Which process is stimulated by insulin in adipose tissue?",
-"a": [
-"Lipolysis",
-"Gluconeogenesis",
-"Lipogenesis",
-"Ketogenesis"
-],
-"c": 2,
-"l": "Insulin promotes fat storage (lipogenesis).",
-"h": "Insulin = fat storage"
-},
-{
-"q": "Which transporter is found in RBCs?",
-"a": [
-"GLUT1",
-"GLUT2",
-"GLUT4",
-"SGLT1"
-],
-"c": 0,
-"l": "RBCs use GLUT1 for glucose uptake.",
-"h": "RBC = GLUT1"
-},
-{
-"q": "Which transporter is high affinity and found in brain?",
-"a": [
-"GLUT2",
-"GLUT3",
-"GLUT4",
-"SGLT2"
-],
-"c": 1,
-"l": "GLUT3 is high-affinity and used in brain tissue.",
-"h": "Brain = GLUT3"
-},
-{
-"q": "Which of the following increases insulin secretion?",
-"a": [
-"Hypoglycemia",
-"Epinephrine",
-"Amino acids",
-"Leptin"
-],
-"c": 2,
-"l": "Amino acids stimulate insulin secretion.",
-"h": "AA ↑ insulin"
-}
-]
+    "4_adrenal_gland": [
+      {
+        "q": "Which zone of the adrenal cortex primarily secretes mineralocorticoids?",
+        "a": [
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Zona glomerulosa",
+          "Adrenal medulla"
+        ],
+        "c": 2,
+        "l": "Zona glomerulosa secretes mineralocorticoids such as aldosterone.",
+        "h": "GFR → Glomerulosa = Salt"
+      },
+      {
+        "q": "Which adrenal cortical zone is responsible for glucocorticoid secretion?",
+        "a": [
+          "Zona glomerulosa",
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Medulla"
+        ],
+        "c": 1,
+        "l": "Zona fasciculata secretes glucocorticoids like cortisol.",
+        "h": "Fasciculata = sugar"
+      },
+      {
+        "q": "Which adrenal cortical zone produces androgens?",
+        "a": [
+          "Zona glomerulosa",
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Capsule"
+        ],
+        "c": 2,
+        "l": "Zona reticularis produces androgens.",
+        "h": "Reticularis = sex"
+      },
+      {
+        "q": "Which hormone primarily regulates cortisol secretion?",
+        "a": [
+          "Angiotensin II",
+          "ACTH",
+          "Renin",
+          "Aldosterone"
+        ],
+        "c": 1,
+        "l": "ACTH controls cortisol and adrenal androgen secretion.",
+        "h": "ACTH → cortisol"
+      },
+      {
+        "q": "Which hormone primarily regulates aldosterone secretion?",
+        "a": [
+          "ACTH",
+          "Angiotensin II",
+          "TSH",
+          "GH"
+        ],
+        "c": 1,
+        "l": "Angiotensin II is the main regulator of aldosterone.",
+        "h": "RAAS controls aldosterone"
+      },
+      {
+        "q": "Which condition directly stimulates aldosterone secretion?",
+        "a": [
+          "Hypokalemia",
+          "Hyperkalemia",
+          "Hypernatremia",
+          "Hypocalcemia"
+        ],
+        "c": 1,
+        "l": "Hyperkalemia stimulates aldosterone secretion.",
+        "h": "High K+ → aldosterone"
+      },
+      {
+        "q": "What is the rate-limiting step in steroid hormone synthesis?",
+        "a": [
+          "Cholesterol to pregnenolone",
+          "Progesterone to cortisol",
+          "Testosterone synthesis",
+          "Cortisol metabolism"
+        ],
+        "c": 0,
+        "l": "Conversion of cholesterol to pregnenolone is rate-limiting.",
+        "h": "Cholesterol → pregnenolone"
+      },
+      {
+        "q": "Which enzyme converts cortisol to cortisone in mineralocorticoid target tissues?",
+        "a": [
+          "21-hydroxylase",
+          "11β-HSD",
+          "17α-hydroxylase",
+          "Aromatase"
+        ],
+        "c": 1,
+        "l": "11β-HSD protects mineralocorticoid receptors from cortisol.",
+        "h": "Cortisol → cortisone"
+      },
+      {
+        "q": "Which type of receptor does cortisol bind to?",
+        "a": [
+          "GPCR",
+          "Tyrosine kinase",
+          "Intracellular receptor",
+          "Ion channel"
+        ],
+        "c": 2,
+        "l": "Steroid hormones bind intracellular receptors.",
+        "h": "Steroid = intracellular"
+      },
+      {
+        "q": "What is the primary effect of aldosterone on the kidney?",
+        "a": [
+          "Decrease Na+ reabsorption",
+          "Increase K+ reabsorption",
+          "Increase Na+ reabsorption",
+          "Decrease H+ secretion"
+        ],
+        "c": 2,
+        "l": "Aldosterone increases Na+ reabsorption.",
+        "h": "Aldosterone = salt retention"
+      },
+      {
+        "q": "Which electrolyte is secreted in response to aldosterone?",
+        "a": [
+          "Na+",
+          "Ca2+",
+          "K+",
+          "Cl-"
+        ],
+        "c": 2,
+        "l": "Aldosterone increases K+ secretion.",
+        "h": "Na in, K out"
+      },
+      {
+        "q": "Which acid-base effect is associated with aldosterone?",
+        "a": [
+          "Acidosis",
+          "Alkalosis",
+          "No effect",
+          "Respiratory acidosis"
+        ],
+        "c": 1,
+        "l": "Aldosterone promotes H+ secretion → alkalosis.",
+        "h": "Aldosterone → alkalosis"
+      },
+      {
+        "q": "Which steroid class has 21 carbons?",
+        "a": [
+          "Androgens",
+          "Estrogens",
+          "Glucocorticoids",
+          "Catecholamines"
+        ],
+        "c": 2,
+        "l": "C21 steroids include glucocorticoids and mineralocorticoids.",
+        "h": "C21 = cortisol/aldosterone"
+      },
+      {
+        "q": "Which steroid class is derived from C19 structure?",
+        "a": [
+          "Glucocorticoids",
+          "Mineralocorticoids",
+          "Androgens",
+          "Estrogens"
+        ],
+        "c": 2,
+        "l": "Androgens are C19 steroids.",
+        "h": "C19 = androgens"
+      },
+      {
+        "q": "Which steroid class is derived from C18 structure?",
+        "a": [
+          "Androgens",
+          "Estrogens",
+          "Cortisol",
+          "Progesterone"
+        ],
+        "c": 1,
+        "l": "Estrogens are C18 steroids.",
+        "h": "C18 = estrogen"
+      },
+      {
+        "q": "Which urinary marker reflects cortisol secretion?",
+        "a": [
+          "17-ketosteroids",
+          "17-hydroxysteroids",
+          "Creatinine",
+          "Urea"
+        ],
+        "c": 1,
+        "l": "17-OH steroids indicate cortisol secretion.",
+        "h": "17-OH = cortisol"
+      },
+      {
+        "q": "Which urinary marker reflects androgen secretion?",
+        "a": [
+          "17-OH steroids",
+          "17-ketosteroids",
+          "ACTH",
+          "Renin"
+        ],
+        "c": 1,
+        "l": "17-ketosteroids reflect androgen levels.",
+        "h": "17-keto = androgens"
+      },
+      {
+        "q": "Which hormone shows diurnal variation with peak in the morning?",
+        "a": [
+          "TSH",
+          "Cortisol",
+          "Insulin",
+          "Prolactin"
+        ],
+        "c": 1,
+        "l": "Cortisol peaks around 8 AM.",
+        "h": "Morning cortisol high"
+      },
+      {
+        "q": "What is the effect of cortisol on glucose metabolism?",
+        "a": [
+          "Decreases glucose",
+          "Increases gluconeogenesis",
+          "Decreases insulin",
+          "Inhibits glycogen"
+        ],
+        "c": 1,
+        "l": "Cortisol increases gluconeogenesis.",
+        "h": "Cortisol raises glucose"
+      },
+      {
+        "q": "Which condition is associated with prolonged cortisol elevation?",
+        "a": [
+          "Hypoglycemia",
+          "Hyperglycemia",
+          "Hypokalemia",
+          "Hyponatremia"
+        ],
+        "c": 1,
+        "l": "Cortisol increases blood glucose.",
+        "h": "Cortisol → diabetes-like"
+      },
+      {
+        "q": "Which adrenal hormone has anti-inflammatory effects?",
+        "a": [
+          "Aldosterone",
+          "Cortisol",
+          "Testosterone",
+          "Epinephrine"
+        ],
+        "c": 1,
+        "l": "Cortisol has anti-inflammatory properties.",
+        "h": "Cortisol = anti-inflammatory"
+      },
+      {
+        "q": "Which adrenal hormone suppresses immune response?",
+        "a": [
+          "Glucagon",
+          "Cortisol",
+          "Insulin",
+          "ADH"
+        ],
+        "c": 1,
+        "l": "Cortisol suppresses immune function.",
+        "h": "Cortisol = immunosuppressive"
+      },
+      {
+        "q": "Which effect is seen with excess cortisol?",
+        "a": [
+          "Bone formation increase",
+          "Bone resorption increase",
+          "Muscle growth",
+          "Fat loss"
+        ],
+        "c": 1,
+        "l": "Cortisol increases bone resorption.",
+        "h": "Cortisol → osteoporosis"
+      },
+      {
+        "q": "Which effect is seen in connective tissue with excess cortisol?",
+        "a": [
+          "Increased fibroblast activity",
+          "Decreased fibroblast growth",
+          "Increased collagen",
+          "None"
+        ],
+        "c": 1,
+        "l": "Cortisol reduces fibroblast activity.",
+        "h": "Cortisol weakens tissue"
+      },
+      {
+        "q": "Which GI effect is associated with cortisol?",
+        "a": [
+          "Decreased acid",
+          "Increased acid secretion",
+          "Decreased pepsin",
+          "None"
+        ],
+        "c": 1,
+        "l": "Cortisol increases gastric acid.",
+        "h": "Cortisol → ulcers"
+      },
+      {
+        "q": "Which hormone increases GFR via vasodilation?",
+        "a": [
+          "Aldosterone",
+          "Cortisol",
+          "ADH",
+          "TSH"
+        ],
+        "c": 1,
+        "l": "Cortisol increases renal blood flow and GFR.",
+        "h": "Cortisol → ↑ GFR"
+      },
+      {
+        "q": "Which neurotransmitter system is affected by cortisol?",
+        "a": [
+          "Dopamine only",
+          "Neuron excitability",
+          "GABA only",
+          "None"
+        ],
+        "c": 1,
+        "l": "Cortisol affects neuronal excitability.",
+        "h": "Cortisol affects brain"
+      },
+      {
+        "q": "Which sleep pattern is associated with excess cortisol?",
+        "a": [
+          "Increased REM",
+          "Insomnia",
+          "Deep sleep",
+          "No change"
+        ],
+        "c": 1,
+        "l": "Excess cortisol causes insomnia.",
+        "h": "Cortisol → insomnia"
+      },
+      {
+        "q": "Which hormone is secreted in response to stress?",
+        "a": [
+          "TSH",
+          "Cortisol",
+          "Prolactin",
+          "Insulin"
+        ],
+        "c": 1,
+        "l": "Cortisol is a stress hormone.",
+        "h": "Stress → cortisol"
+      },
+      {
+        "q": "Which hormone is increased in hypoglycemia?",
+        "a": [
+          "Insulin",
+          "Cortisol",
+          "Aldosterone",
+          "Estrogen"
+        ],
+        "c": 1,
+        "l": "Hypoglycemia stimulates cortisol.",
+        "h": "Low glucose → cortisol"
+      },
+      {
+        "q": "Which adrenal hormone increases appetite?",
+        "a": [
+          "Aldosterone",
+          "Cortisol",
+          "GH",
+          "ADH"
+        ],
+        "c": 1,
+        "l": "Cortisol increases appetite.",
+        "h": "Cortisol → hunger"
+      },
+      {
+        "q": "Which pathway mediates angiotensin II action?",
+        "a": [
+          "cAMP",
+          "IP3/Ca2+",
+          "Tyrosine kinase",
+          "Na+ channel"
+        ],
+        "c": 1,
+        "l": "Angiotensin II uses IP3/Ca2+ pathway.",
+        "h": "ATII = Gq"
+      },
+      {
+        "q": "Which receptor type does angiotensin II use?",
+        "a": [
+          "Gs",
+          "Gi",
+          "Gq",
+          "Nuclear"
+        ],
+        "c": 2,
+        "l": "Angiotensin II uses Gq receptors.",
+        "h": "ATII = Gq"
+      },
+      {
+        "q": "Which condition increases renin release?",
+        "a": [
+          "Hypervolemia",
+          "Hypovolemia",
+          "Hyperkalemia",
+          "Hyperglycemia"
+        ],
+        "c": 1,
+        "l": "Low volume increases renin.",
+        "h": "Low volume → renin"
+      },
+      {
+        "q": "Which hormone inhibits aldosterone?",
+        "a": [
+          "ANP",
+          "ACTH",
+          "Angiotensin II",
+          "Renin"
+        ],
+        "c": 0,
+        "l": "ANP inhibits aldosterone secretion.",
+        "h": "ANP = anti-aldosterone"
+      },
+      {
+        "q": "Which condition stimulates aldosterone via volume change?",
+        "a": [
+          "Hypervolemia",
+          "Hypovolemia",
+          "Hyperglycemia",
+          "Hypercalcemia"
+        ],
+        "c": 1,
+        "l": "Low volume increases aldosterone.",
+        "h": "Low volume → aldosterone"
+      },
+      {
+        "q": "Which hormone is released in pulsatile fashion?",
+        "a": [
+          "Insulin",
+          "ACTH",
+          "TSH",
+          "ADH"
+        ],
+        "c": 1,
+        "l": "ACTH is released in pulses.",
+        "h": "ACTH pulses"
+      },
+      {
+        "q": "Which hormone is highest at midnight?",
+        "a": [
+          "Cortisol",
+          "ACTH",
+          "Melatonin",
+          "TSH"
+        ],
+        "c": 2,
+        "l": "Melatonin peaks at night, cortisol lowest.",
+        "h": "Midnight → low cortisol"
+      },
+      {
+        "q": "Which hormone binds mostly to transcortin?",
+        "a": [
+          "Aldosterone",
+          "Cortisol",
+          "Testosterone",
+          "Estrogen"
+        ],
+        "c": 1,
+        "l": "Cortisol binds to cortisol-binding globulin.",
+        "h": "Cortisol bound"
+      },
+      {
+        "q": "Which hormone has lower protein binding affinity?",
+        "a": [
+          "Cortisol",
+          "Aldosterone",
+          "Estrogen",
+          "Progesterone"
+        ],
+        "c": 1,
+        "l": "Aldosterone has lower protein binding.",
+        "h": "Aldosterone free"
+      }
+    ]
   }
 }
