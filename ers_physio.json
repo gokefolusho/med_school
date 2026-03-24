@@ -9,7 +9,7 @@
     {
       "id": "neuro-high-yield",
       "title": "",
-      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+      "hint": "Focus on Endocrine physiology functions.",
       "topics": [
       {
   "header": "Endocrine Physiology (High-Yield Summary)",
@@ -18,6 +18,10 @@
         {
   "header": "Pituitary & Hypothalamus (High-Yield Summary)",
   "content": "<ul><li><b>Pituitary Location:</b> Lies in the sella turcica at the base of the brain and is connected to the hypothalamus via the infundibulum (pituitary stalk).</li><li><b>Divisions:</b> Anterior pituitary (adenohypophysis = glandular), Posterior pituitary (neurohypophysis = neural), Pars intermedia (minimal in humans).</li><li><b>Embryology:</b> Anterior pituitary develops from Rathke’s pouch (oral ectoderm); Posterior pituitary develops from neuroectoderm of the hypothalamus.</li><li><b>Posterior Pituitary:</b> Stores and releases ADH and Oxytocin (produced in hypothalamus) via axonal transport (magnocellular neurons).</li><li><b>ADH Function:</b> Increases water reabsorption in kidneys → concentrates urine.</li><li><b>Oxytocin Function:</b> Causes uterine contraction and milk ejection (let-down reflex).</li><li><b>Anterior Pituitary Control:</b> Regulated by hypothalamic releasing/inhibiting hormones via the hypothalamic–hypophyseal portal system.</li><li><b>Portal System:</b> Specialized vascular system connecting hypothalamus to anterior pituitary for rapid hormone delivery.</li><li><b>Hypothalamic Hormones:</b> TRH (↑TSH), CRH (↑ACTH), GHRH (↑GH), Somatostatin (↓GH), GnRH (↑FSH/LH), Dopamine (↓Prolactin).</li><li><b>Dopamine:</b> Key inhibitor of prolactin secretion (Prolactin-Inhibiting Hormone).</li><li><b>Anterior Pituitary Cells:</b> Somatotropes (GH), Corticotropes (ACTH), Thyrotropes (TSH), Gonadotropes (FSH/LH), Lactotropes (Prolactin).</li><li><b>Most Abundant Cells:</b> Somatotropes (~30–40% of anterior pituitary).</li><li><b>Growth Hormone (GH):</b> Acts via JAK-STAT pathway and through IGF-1 (somatomedin) to promote growth.</li><li><b>GH Effects:</b> Increases cell size, mitosis, protein synthesis, and bone growth.</li><li><b>GH Disorders:</b> Excess in children → Gigantism; Excess in adults → Acromegaly; Deficiency → Dwarfism.</li><li><b>Posterior vs Anterior:</b> Posterior = neural control & hormone storage; Anterior = endocrine gland regulated by blood-borne signals.</li><li><b>Median Eminence:</b> Interface where hypothalamic hormones enter portal circulation.</li><li><b>Key Concept:</b> Hypothalamus controls pituitary → pituitary controls peripheral endocrine glands (master regulator system).</li></ul>"
+},
+        {
+  "header": "Endocrine Pancreas (High-Yield Summary)",
+  "content": "<ul><li><b>Pancreatic Islets:</b> Clusters of endocrine cells (Islets of Langerhans) responsible for glucose homeostasis.</li><li><b>Cell Types:</b> Alpha (glucagon), Beta (insulin, amylin), Delta (somatostatin), PP cells (pancreatic polypeptide).</li><li><b>Distribution:</b> Beta cells (~60–80%) central; Alpha cells (~20–30%) peripheral.</li><li><b>Insulin Structure:</b> Peptide hormone with A and B chains connected by disulfide bonds; derived from proinsulin.</li><li><b>C-Peptide:</b> Released in equimolar amounts with insulin; used to assess endogenous insulin production.</li><li><b>Insulin Storage:</b> Stored in granules as a crystalline complex with zinc.</li><li><b>Insulin Secretion Trigger:</b> Increased blood glucose → ↑ ATP → closure of ATP-sensitive K+ channels → depolarization → Ca2+ influx → exocytosis.</li><li><b>Sulfonylureas:</b> Stimulate insulin release by blocking ATP-sensitive K+ channels.</li><li><b>Insulin Receptor:</b> Tyrosine kinase receptor with α (binding) and β (kinase) subunits.</li><li><b>Mechanism of Action:</b> Autophosphorylation → activation of IRS → metabolic and gene transcription effects.</li><li><b>Immediate Effects:</b> GLUT4 translocation → ↑ glucose uptake in muscle and adipose tissue.</li><li><b>Intermediate Effects:</b> Enzyme phosphorylation → metabolic changes.</li><li><b>Long-Term Effects:</b> Gene transcription → protein synthesis and growth.</li><li><b>GLUT Transporters:</b> GLUT4 (insulin-dependent), GLUT2 (pancreas/liver sensor), GLUT1/3 (brain/RBCs, insulin-independent).</li><li><b>Insulin Effects on Carbohydrates:</b> ↑ glucose uptake, ↑ glycogenesis, ↓ gluconeogenesis.</li><li><b>Insulin Effects on Lipids:</b> ↑ lipogenesis, ↓ lipolysis, ↓ ketogenesis.</li><li><b>Insulin Effects on Protein:</b> ↑ amino acid uptake, ↑ protein synthesis, ↓ proteolysis.</li><li><b>Electrolyte Effects:</b> ↑ K+, Mg2+, phosphate uptake into cells.</li><li><b>Hormone of Plenty:</b> Insulin is secreted in the fed state to promote storage of nutrients.</li><li><b>Regulation:</b> Stimulated by glucose, amino acids, incretins (GLP-1, GIP), parasympathetic activity; inhibited by sympathetic activity.</li><li><b>Glucagon:</b> Secreted by alpha cells; acts via cAMP to increase blood glucose.</li><li><b>Glucagon Effects:</b> ↑ glycogenolysis, ↑ gluconeogenesis, ↑ lipolysis.</li><li><b>Target Organ:</b> Liver is the primary target for glucagon.</li><li><b>Insulin vs Glucagon:</b> Insulin lowers blood glucose; glucagon raises it.</li><li><b>Fed State:</b> ↑ insulin, ↓ glucagon → storage of nutrients.</li><li><b>Fasting State:</b> ↓ insulin, ↑ glucagon → mobilization of energy stores.</li><li><b>Insulinoma:</b> High insulin + high C-peptide → endogenous overproduction.</li><li><b>Exogenous Insulin Use:</b> High insulin + low C-peptide.</li><li><b>Disulfide Bonds:</b> Essential for insulin activity; disruption leads to inactive hormone.</li><li><b>Growth Effects:</b> Insulin promotes IGF-1 production and works synergistically with GH.</li><li><b>Fetal Effects:</b> Insulin deficiency → low birth weight; excess → macrosomia.</li><li><b>Antagonistic Hormones:</b> GH and cortisol oppose insulin effects.</li><li><b>Key Concept:</b> Insulin is the main anabolic hormone that promotes storage, while glucagon is catabolic and mobilizes energy.</li></ul>"
 }
       ]
     }
@@ -984,6 +988,476 @@
 "l": "Laron syndrome is due to GH receptor defect leading to decreased IGF-1 production.",
 "h": "GH receptor defect → low IGF-1"
 }
-    ]
+    ],     "3_endocrine_pancreas": [
+
+{
+"q": "Which of the following cell types in the pancreatic islets primarily secretes insulin?",
+"a": [
+"Alpha cells",
+"Beta cells",
+"Delta cells",
+"PP cells"
+],
+"c": 1,
+"l": "Beta cells of the pancreatic islets secrete insulin.",
+"h": "Beta = insulin"
+},
+{
+"q": "Which of the following hormones is secreted by alpha cells of the pancreas?",
+"a": [
+"Insulin",
+"Somatostatin",
+"Glucagon",
+"Amylin"
+],
+"c": 2,
+"l": "Alpha cells secrete glucagon.",
+"h": "Alpha = glucagon"
+},
+{
+"q": "Which of the following pancreatic cells secretes somatostatin?",
+"a": [
+"Alpha cells",
+"Beta cells",
+"Delta cells",
+"PP cells"
+],
+"c": 2,
+"l": "Delta cells secrete somatostatin.",
+"h": "Delta = somatostatin"
+},
+{
+"q": "C-peptide is clinically useful because it reflects which of the following?",
+"a": [
+"Exogenous insulin levels",
+"Endogenous insulin secretion",
+"Glucose levels",
+"Glucagon secretion"
+],
+"c": 1,
+"l": "C-peptide is released in equimolar amounts with insulin and reflects endogenous insulin production.",
+"h": "C-peptide = endogenous insulin"
+},
+{
+"q": "A patient presents with hypoglycemia. Labs show high insulin and low C-peptide. What is the most likely cause?",
+"a": [
+"Insulinoma",
+"Sulfonylurea use",
+"Exogenous insulin administration",
+"Type 1 diabetes"
+],
+"c": 2,
+"l": "Low C-peptide with high insulin indicates exogenous insulin use.",
+"h": "Low C-peptide = injected insulin"
+},
+{
+"q": "A patient has high insulin and high C-peptide levels during hypoglycemia. What is the most likely diagnosis?",
+"a": [
+"Exogenous insulin use",
+"Insulinoma",
+"Addison disease",
+"Type 2 diabetes"
+],
+"c": 1,
+"l": "High insulin and C-peptide suggests endogenous overproduction (insulinoma).",
+"h": "High C-peptide = internal source"
+},
+{
+"q": "Reduction of disulfide bonds in insulin would result in which of the following?",
+"a": [
+"Increased glucose uptake",
+"Enhanced receptor binding",
+"Loss of insulin activity",
+"Increased half-life"
+],
+"c": 2,
+"l": "Disulfide bonds are essential for insulin structure and activity.",
+"h": "Break bonds = inactive insulin"
+},
+{
+"q": "Which glucose transporter is used by pancreatic beta cells to sense glucose levels?",
+"a": [
+"GLUT1",
+"GLUT2",
+"GLUT3",
+"GLUT4"
+],
+"c": 1,
+"l": "GLUT2 is a low-affinity, high-capacity transporter used in beta cells.",
+"h": "GLUT2 = glucose sensor"
+},
+{
+"q": "Which of the following transporters is insulin-dependent?",
+"a": [
+"GLUT1",
+"GLUT2",
+"GLUT3",
+"GLUT4"
+],
+"c": 3,
+"l": "GLUT4 is insulin-dependent and found in muscle and adipose tissue.",
+"h": "GLUT4 = insulin dependent"
+},
+{
+"q": "Which of the following tissues does NOT require insulin for glucose uptake?",
+"a": [
+"Adipose tissue",
+"Skeletal muscle",
+"Brain",
+"Liver"
+],
+"c": 2,
+"l": "Brain uses GLUT1/3 and is insulin-independent.",
+"h": "Brain = no insulin needed"
+},
+{
+"q": "What is the primary intracellular event that triggers insulin secretion?",
+"a": [
+"Increased cAMP",
+"Increased ATP closing K+ channels",
+"Opening Na+ channels",
+"Decreased calcium influx"
+],
+"c": 1,
+"l": "ATP closes K+ channels leading to depolarization and insulin release.",
+"h": "ATP closes K+ → insulin release"
+},
+{
+"q": "Sulfonylurea drugs stimulate insulin secretion by acting on which channel?",
+"a": [
+"Calcium channels",
+"Sodium channels",
+"ATP-sensitive potassium channels",
+"Chloride channels"
+],
+"c": 2,
+"l": "Sulfonylureas close ATP-sensitive K+ channels, increasing insulin release.",
+"h": "Sulfonylurea → K+ channel block"
+},
+{
+"q": "Which ion influx directly triggers insulin exocytosis?",
+"a": [
+"Sodium",
+"Calcium",
+"Potassium",
+"Chloride"
+],
+"c": 1,
+"l": "Calcium influx triggers vesicle exocytosis of insulin.",
+"h": "Ca2+ = release signal"
+},
+{
+"q": "Which receptor type does insulin bind to?",
+"a": [
+"G-protein coupled receptor",
+"Tyrosine kinase receptor",
+"Ion channel receptor",
+"Nuclear receptor"
+],
+"c": 1,
+"l": "Insulin binds to a receptor with intrinsic tyrosine kinase activity.",
+"h": "Insulin = TK receptor"
+},
+{
+"q": "Which subunit of the insulin receptor has tyrosine kinase activity?",
+"a": [
+"Alpha subunit",
+"Beta subunit",
+"Gamma subunit",
+"Delta subunit"
+],
+"c": 1,
+"l": "Beta subunit has intrinsic tyrosine kinase activity.",
+"h": "Beta = kinase"
+},
+{
+"q": "Binding of insulin to its receptor leads to which immediate intracellular event?",
+"a": [
+"cAMP activation",
+"Autophosphorylation",
+"DNA transcription",
+"Protein degradation"
+],
+"c": 1,
+"l": "Insulin binding triggers receptor autophosphorylation.",
+"h": "First step = autophosphorylation"
+},
+{
+"q": "Insulin promotes glucose uptake in muscle cells by increasing which transporter?",
+"a": [
+"GLUT1",
+"GLUT2",
+"GLUT3",
+"GLUT4"
+],
+"c": 3,
+"l": "Insulin increases GLUT4 translocation to the membrane.",
+"h": "GLUT4 moves to membrane"
+},
+{
+"q": "Which of the following is a major metabolic effect of insulin on the liver?",
+"a": [
+"Increased gluconeogenesis",
+"Increased glycogenesis",
+"Increased lipolysis",
+"Increased ketogenesis"
+],
+"c": 1,
+"l": "Insulin promotes glycogen synthesis in the liver.",
+"h": "Insulin = storage hormone"
+},
+{
+"q": "Which of the following best describes insulin’s effect on fat metabolism?",
+"a": [
+"Increases lipolysis",
+"Decreases lipogenesis",
+"Inhibits lipolysis",
+"Increases ketone production"
+],
+"c": 2,
+"l": "Insulin inhibits lipolysis and promotes fat storage.",
+"h": "Insulin = anti-lipolysis"
+},
+{
+"q": "Which of the following is a major protein metabolism effect of insulin?",
+"a": [
+"Increased proteolysis",
+"Increased protein synthesis",
+"Increased amino acid breakdown",
+"Inhibition of translation"
+],
+"c": 1,
+"l": "Insulin promotes protein synthesis and inhibits breakdown.",
+"h": "Insulin = anabolic"
+},
+{
+"q": "Which electrolyte is driven into cells by insulin?",
+"a": [
+"Sodium",
+"Calcium",
+"Potassium",
+"Chloride"
+],
+"c": 2,
+"l": "Insulin promotes potassium uptake into cells.",
+"h": "Insulin lowers K+"
+},
+{
+"q": "Which hormone has effects antagonistic to insulin?",
+"a": [
+"Growth hormone",
+"Insulin-like growth factor",
+"Amylin",
+"GLP-1"
+],
+"c": 0,
+"l": "Growth hormone antagonizes insulin effects.",
+"h": "GH opposes insulin"
+},
+{
+"q": "Which state is characterized by increased insulin secretion?",
+"a": [
+"Fasting state",
+"Fed state",
+"Starvation",
+"Exercise"
+],
+"c": 1,
+"l": "Insulin increases after meals (fed state).",
+"h": "Fed = insulin high"
+},
+{
+"q": "Which incretin hormone enhances insulin secretion?",
+"a": [
+"GLP-1",
+"Somatostatin",
+"Glucagon",
+"Cortisol"
+],
+"c": 0,
+"l": "GLP-1 increases insulin secretion.",
+"h": "GLP-1 boosts insulin"
+},
+{
+"q": "Which nervous system input increases insulin secretion?",
+"a": [
+"Sympathetic",
+"Parasympathetic",
+"Somatic",
+"Central inhibition"
+],
+"c": 1,
+"l": "Parasympathetic stimulation increases insulin secretion.",
+"h": "Vagus → insulin ↑"
+},
+{
+"q": "Which condition inhibits insulin secretion?",
+"a": [
+"High glucose",
+"Epinephrine",
+"Amino acids",
+"GIP"
+],
+"c": 1,
+"l": "Sympathetic stimulation via epinephrine inhibits insulin.",
+"h": "Stress ↓ insulin"
+},
+{
+"q": "Which hormone is secreted during hypoglycemia?",
+"a": [
+"Insulin",
+"Glucagon",
+"Somatostatin",
+"Leptin"
+],
+"c": 1,
+"l": "Glucagon increases during hypoglycemia.",
+"h": "Low sugar → glucagon"
+},
+{
+"q": "What is the main target organ of glucagon?",
+"a": [
+"Muscle",
+"Adipose tissue",
+"Liver",
+"Brain"
+],
+"c": 2,
+"l": "Glucagon primarily acts on the liver.",
+"h": "Glucagon → liver"
+},
+{
+"q": "Glucagon exerts its effects via which signaling pathway?",
+"a": [
+"Tyrosine kinase",
+"cAMP",
+"IP3/DAG",
+"Nuclear receptor"
+],
+"c": 1,
+"l": "Glucagon acts via Gs → cAMP pathway.",
+"h": "Glucagon = cAMP"
+},
+{
+"q": "Which hormone is known as a \"hormone of plenty\"?",
+"a": [
+"Glucagon",
+"Insulin",
+"Cortisol",
+"GH"
+],
+"c": 1,
+"l": "Insulin is released when nutrients are abundant.",
+"h": "Insulin = fed hormone"
+},
+{
+"q": "Which effect occurs within seconds of insulin binding?",
+"a": [
+"Gene transcription",
+"Protein synthesis",
+"Glucose transporter insertion",
+"DNA replication"
+],
+"c": 2,
+"l": "Insulin rapidly inserts GLUT4 transporters into membranes.",
+"h": "Fast effect = GLUT4"
+},
+{
+"q": "Which effect of insulin occurs over hours to days?",
+"a": [
+"Glucose uptake",
+"Enzyme phosphorylation",
+"Gene transcription",
+"Calcium influx"
+],
+"c": 2,
+"l": "Long-term insulin effects include gene transcription.",
+"h": "Slow = gene expression"
+},
+{
+"q": "Which condition results from insulin deficiency in fetus?",
+"a": [
+"Macrosomia",
+"Low birth weight",
+"Obesity",
+"Hyperglycemia"
+],
+"c": 1,
+"l": "Insulin deficiency leads to low birth weight.",
+"h": "No insulin = small baby"
+},
+{
+"q": "Which condition results from hyperinsulinemia in fetus?",
+"a": [
+"Low birth weight",
+"Macrosomia",
+"Ketosis",
+"Hypoglycemia"
+],
+"c": 1,
+"l": "Excess insulin causes fetal overgrowth (macrosomia).",
+"h": "High insulin = big baby"
+},
+{
+"q": "Which enzyme activity is inhibited by insulin?",
+"a": [
+"Glycogen synthase",
+"Hormone-sensitive lipase",
+"Hexokinase",
+"Glucokinase"
+],
+"c": 1,
+"l": "Insulin inhibits hormone-sensitive lipase, reducing lipolysis.",
+"h": "Insulin blocks fat breakdown"
+},
+{
+"q": "Which process is stimulated by insulin in adipose tissue?",
+"a": [
+"Lipolysis",
+"Gluconeogenesis",
+"Lipogenesis",
+"Ketogenesis"
+],
+"c": 2,
+"l": "Insulin promotes fat storage (lipogenesis).",
+"h": "Insulin = fat storage"
+},
+{
+"q": "Which transporter is found in RBCs?",
+"a": [
+"GLUT1",
+"GLUT2",
+"GLUT4",
+"SGLT1"
+],
+"c": 0,
+"l": "RBCs use GLUT1 for glucose uptake.",
+"h": "RBC = GLUT1"
+},
+{
+"q": "Which transporter is high affinity and found in brain?",
+"a": [
+"GLUT2",
+"GLUT3",
+"GLUT4",
+"SGLT2"
+],
+"c": 1,
+"l": "GLUT3 is high-affinity and used in brain tissue.",
+"h": "Brain = GLUT3"
+},
+{
+"q": "Which of the following increases insulin secretion?",
+"a": [
+"Hypoglycemia",
+"Epinephrine",
+"Amino acids",
+"Leptin"
+],
+"c": 2,
+"l": "Amino acids stimulate insulin secretion.",
+"h": "AA ↑ insulin"
+}
+]
   }
 }
