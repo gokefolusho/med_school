@@ -1,0 +1,457 @@
+{
+  "moduleTitle": "Endocrine and Reproductive System [ERS]",
+  "hero": {
+    "badge": "MD2 ERS Histology",
+    "title": "🧠 Histology",
+    "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
+  },
+  "sections": [
+    {
+      "id": "neuro-high-yield",
+      "title": "",
+      "hint": "Focus on Adrenal, Pancreas, Pituitary, Thyroid and Parathyroid Glands.",
+      "topics": [
+        {
+          "header": "Adrenal & Endocrine Pancreas (High-Yield Summary)",
+          "content": "<ul><li><b>Adrenal Cortex Layers (GFR):</b> Zona Glomerulosa (aldosterone), Zona Fasciculata (cortisol), Zona Reticularis (androgens).</li><li><b>Embryology:</b> Cortex = mesoderm; Medulla = neural crest (sympathetic origin).</li><li><b>Aldosterone:</b> ↑ Na+ reabsorption, ↑ K+ & H+ secretion → metabolic alkalosis.</li><li><b>Regulation of Aldosterone:</b> RAAS (angiotensin II) + hyperkalemia (NOT primarily ACTH).</li><li><b>Cortisol:</b> Stress hormone → ↑ gluconeogenesis, ↑ glucose, ↑ lipolysis, ↑ protein breakdown.</li><li><b>Cortisol Effects:</b> Anti-inflammatory, immunosuppressive, ↓ fibroblasts → thin skin, ↑ gastric acid.</li><li><b>Diurnal Rhythm:</b> Cortisol peaks in morning (8 AM), lowest at midnight.</li><li><b>Medulla:</b> Chromaffin cells → secrete epinephrine & norepinephrine via sympathetic stimulation.</li><li><b>Addison Disease:</b> ↓ cortisol + ↓ aldosterone → hypotension, hyperkalemia.</li><li><b>Cushing Syndrome:</b> ↑ cortisol → hyperglycemia, muscle wasting, central obesity.</li><li><b>Islets of Langerhans:</b> Endocrine pancreas clusters within exocrine pancreas.</li><li><b>Cell Types:</b> Alpha (glucagon), Beta (insulin), Delta (somatostatin), PP cells (pancreatic polypeptide).</li><li><b>Cell Distribution:</b> Beta cells central; Alpha cells peripheral.</li><li><b>Insulin:</b> ↓ blood glucose → ↑ uptake in muscle/adipose (GLUT4), ↑ glycogenesis.</li><li><b>Glucagon:</b> ↑ blood glucose → ↑ glycogenolysis & gluconeogenesis (liver).</li><li><b>Somatostatin:</b> Inhibits both insulin and glucagon.</li><li><b>Key Concept:</b> Insulin = storage (fed state); Glucagon = mobilization (fasting state).</li></ul>"
+        }
+      ]
+    }
+  ],
+  "quizzes": {
+    "1_adrenal_pancreas_glands": [
+      {
+        "q": "From which embryological origin is the adrenal cortex derived?",
+        "a": [
+          "Ectoderm",
+          "Mesoderm",
+          "Endoderm",
+          "Neural crest"
+        ],
+        "c": 1,
+        "l": "The adrenal cortex is derived from mesoderm.",
+        "h": "Cortex = mesoderm"
+      },
+      {
+        "q": "From which embryological origin is the adrenal medulla derived?",
+        "a": [
+          "Mesoderm",
+          "Endoderm",
+          "Neural crest",
+          "Ectoderm surface"
+        ],
+        "c": 2,
+        "l": "The adrenal medulla is derived from neural crest cells.",
+        "h": "Medulla = neural crest"
+      },
+      {
+        "q": "Which adrenal cortical zone lies immediately beneath the capsule?",
+        "a": [
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Zona glomerulosa",
+          "Medulla"
+        ],
+        "c": 2,
+        "l": "Zona glomerulosa is located just beneath the capsule.",
+        "h": "Outer layer = glomerulosa"
+      },
+      {
+        "q": "Which adrenal cortical zone is the thickest?",
+        "a": [
+          "Zona glomerulosa",
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Capsule"
+        ],
+        "c": 1,
+        "l": "Zona fasciculata is the thickest layer.",
+        "h": "Fasciculata = biggest"
+      },
+      {
+        "q": "Which zone of the adrenal cortex secretes aldosterone?",
+        "a": [
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Zona glomerulosa",
+          "Medulla"
+        ],
+        "c": 2,
+        "l": "Zona glomerulosa secretes aldosterone.",
+        "h": "G = salt"
+      },
+      {
+        "q": "Which hormone is secreted by the zona fasciculata?",
+        "a": [
+          "Aldosterone",
+          "Cortisol",
+          "Epinephrine",
+          "Glucagon"
+        ],
+        "c": 1,
+        "l": "Zona fasciculata secretes cortisol.",
+        "h": "F = sugar"
+      },
+      {
+        "q": "Which adrenal cortical zone produces androgens?",
+        "a": [
+          "Zona glomerulosa",
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Capsule"
+        ],
+        "c": 2,
+        "l": "Zona reticularis produces weak androgens.",
+        "h": "R = sex"
+      },
+      {
+        "q": "Which cells in the adrenal medulla secrete catecholamines?",
+        "a": [
+          "Spongiocytes",
+          "Chromaffin cells",
+          "Fibroblasts",
+          "Endothelial cells"
+        ],
+        "c": 1,
+        "l": "Chromaffin cells secrete epinephrine and norepinephrine.",
+        "h": "Chromaffin = catecholamines"
+      },
+      {
+        "q": "Which neurotransmitter input stimulates adrenal medulla secretion?",
+        "a": [
+          "Parasympathetic fibers",
+          "Preganglionic sympathetic fibers",
+          "Postganglionic fibers",
+          "Somatic nerves"
+        ],
+        "c": 1,
+        "l": "Preganglionic sympathetic fibers stimulate chromaffin cells.",
+        "h": "Medulla = sympathetic"
+      },
+      {
+        "q": "Which hormone is primarily released during acute stress from the adrenal medulla?",
+        "a": [
+          "Cortisol",
+          "Aldosterone",
+          "Epinephrine",
+          "Insulin"
+        ],
+        "c": 2,
+        "l": "Epinephrine is released during stress.",
+        "h": "Fight-or-flight"
+      },
+      {
+        "q": "Which condition is characterized by deficiency of cortisol and aldosterone?",
+        "a": [
+          "Cushing syndrome",
+          "Addison disease",
+          "Hyperthyroidism",
+          "Diabetes"
+        ],
+        "c": 1,
+        "l": "Addison disease involves deficiency of both cortisol and aldosterone.",
+        "h": "Addison = low cortisol"
+      },
+      {
+        "q": "Which condition results from excess cortisol?",
+        "a": [
+          "Addison disease",
+          "Cushing syndrome",
+          "Hypothyroidism",
+          "SIADH"
+        ],
+        "c": 1,
+        "l": "Cushing syndrome results from excess cortisol.",
+        "h": "Cushing = high cortisol"
+      },
+      {
+        "q": "Which pancreatic cell type secretes insulin?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 1,
+        "l": "Beta cells secrete insulin.",
+        "h": "Beta = insulin"
+      },
+      {
+        "q": "Which pancreatic cell type secretes glucagon?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 0,
+        "l": "Alpha cells secrete glucagon.",
+        "h": "Alpha = glucagon"
+      },
+      {
+        "q": "Which pancreatic cell secretes somatostatin?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 2,
+        "l": "Delta cells secrete somatostatin.",
+        "h": "Delta = somatostatin"
+      },
+      {
+        "q": "Which pancreatic cells produce pancreatic polypeptide?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 3,
+        "l": "PP cells produce pancreatic polypeptide.",
+        "h": "PP = polypeptide"
+      },
+      {
+        "q": "Where are alpha cells located in the islets?",
+        "a": [
+          "Central",
+          "Peripheral",
+          "Uniform",
+          "Capsular"
+        ],
+        "c": 1,
+        "l": "Alpha cells are located peripherally.",
+        "h": "Alpha = outside"
+      },
+      {
+        "q": "Where are beta cells located in the islets?",
+        "a": [
+          "Peripheral",
+          "Central",
+          "Capsule",
+          "Ducts"
+        ],
+        "c": 1,
+        "l": "Beta cells are centrally located.",
+        "h": "Beta = center"
+      },
+      {
+        "q": "What is the primary function of glucagon?",
+        "a": [
+          "Decrease glucose",
+          "Increase glycogen synthesis",
+          "Increase blood glucose",
+          "Decrease lipolysis"
+        ],
+        "c": 2,
+        "l": "Glucagon increases blood glucose.",
+        "h": "Glucagon raises sugar"
+      },
+      {
+        "q": "Which process is stimulated by glucagon?",
+        "a": [
+          "Glycogenesis",
+          "Glycolysis",
+          "Glycogenolysis",
+          "Lipogenesis"
+        ],
+        "c": 2,
+        "l": "Glucagon stimulates glycogen breakdown.",
+        "h": "Break glycogen"
+      },
+      {
+        "q": "Which islets are highly vascularized?",
+        "a": [
+          "Acini",
+          "Islets of Langerhans",
+          "Ducts",
+          "Capsule"
+        ],
+        "c": 1,
+        "l": "Islets are richly vascularized endocrine clusters.",
+        "h": "Islets = endocrine"
+      },
+      {
+        "q": "Which stain highlights pancreatic islet cells?",
+        "a": [
+          "PAS stain",
+          "Gomori stain",
+          "H&E",
+          "Gram stain"
+        ],
+        "c": 1,
+        "l": "Gomori stain differentiates islet cells.",
+        "h": "Gomori stain"
+      },
+      {
+        "q": "Which hormone decreases blood glucose levels?",
+        "a": [
+          "Glucagon",
+          "Insulin",
+          "Cortisol",
+          "Epinephrine"
+        ],
+        "c": 1,
+        "l": "Insulin lowers blood glucose.",
+        "h": "Insulin ↓ sugar"
+      },
+      {
+        "q": "Which hormone increases glucose uptake into muscle?",
+        "a": [
+          "Glucagon",
+          "Insulin",
+          "Cortisol",
+          "Aldosterone"
+        ],
+        "c": 1,
+        "l": "Insulin promotes glucose uptake.",
+        "h": "Insulin uptake"
+      },
+      {
+        "q": "Which pancreatic cells appear blue on Gomori stain?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 1,
+        "l": "Beta cells stain blue.",
+        "h": "Beta = blue"
+      },
+      {
+        "q": "Which pancreatic cells appear pink on Gomori stain?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells"
+        ],
+        "c": 0,
+        "l": "Alpha cells stain pink.",
+        "h": "Alpha = pink"
+      },
+      {
+        "q": "Which adrenal layer is closest to the medulla?",
+        "a": [
+          "Zona glomerulosa",
+          "Zona fasciculata",
+          "Zona reticularis",
+          "Capsule"
+        ],
+        "c": 2,
+        "l": "Zona reticularis lies adjacent to the medulla.",
+        "h": "Inner cortex"
+      },
+      {
+        "q": "Which adrenal cells contain lipid droplets giving foamy appearance?",
+        "a": [
+          "Chromaffin cells",
+          "Spongiocytes",
+          "Fibroblasts",
+          "Neurons"
+        ],
+        "c": 1,
+        "l": "Spongiocytes in zona fasciculata contain lipid droplets.",
+        "h": "Foamy cells"
+      },
+      {
+        "q": "Which adrenal medulla cells stain with chromium salts?",
+        "a": [
+          "Spongiocytes",
+          "Chromaffin cells",
+          "Endothelial cells",
+          "Fibroblasts"
+        ],
+        "c": 1,
+        "l": "Chromaffin cells stain with chromium.",
+        "h": "Chromaffin stain"
+      },
+      {
+        "q": "Which gland produces melatonin?",
+        "a": [
+          "Pituitary",
+          "Thyroid",
+          "Pineal gland",
+          "Adrenal"
+        ],
+        "c": 2,
+        "l": "Pineal gland secretes melatonin.",
+        "h": "Pineal = melatonin"
+      },
+      {
+        "q": "Which pineal cells secrete melatonin?",
+        "a": [
+          "Neurons",
+          "Pinealocytes",
+          "Astrocytes",
+          "Fibroblasts"
+        ],
+        "c": 1,
+        "l": "Pinealocytes produce melatonin.",
+        "h": "Pinealocytes"
+      },
+      {
+        "q": "Which structure regulates circadian rhythm?",
+        "a": [
+          "Thalamus",
+          "Hypothalamus",
+          "Suprachiasmatic nucleus",
+          "Pons"
+        ],
+        "c": 2,
+        "l": "SCN regulates circadian rhythm.",
+        "h": "SCN clock"
+      },
+      {
+        "q": "Which phenomenon increases with age in pineal gland?",
+        "a": [
+          "Cell division",
+          "Calcification",
+          "Hormone secretion",
+          "Vascularity"
+        ],
+        "c": 1,
+        "l": "Pineal calcification increases with age.",
+        "h": "Pineal sand"
+      },
+      {
+        "q": "Which structure connects pineal gland to brain?",
+        "a": [
+          "Diencephalon",
+          "Midbrain",
+          "Pons",
+          "Cerebellum"
+        ],
+        "c": 0,
+        "l": "Pineal gland arises from diencephalon.",
+        "h": "Roof of diencephalon"
+      },
+      {
+        "q": "Which hormone secretion is influenced by light-dark cycle?",
+        "a": [
+          "Cortisol",
+          "Melatonin",
+          "Insulin",
+          "Glucagon"
+        ],
+        "c": 1,
+        "l": "Melatonin follows circadian rhythm.",
+        "h": "Dark = melatonin"
+      },
+      {
+        "q": "Which endocrine gland decreases in size after puberty?",
+        "a": [
+          "Adrenal",
+          "Thyroid",
+          "Pineal",
+          "Pancreas"
+        ],
+        "c": 2,
+        "l": "Pineal gland shrinks after puberty.",
+        "h": "Pineal shrinks"
+      }
+    ]
+  }
+}
