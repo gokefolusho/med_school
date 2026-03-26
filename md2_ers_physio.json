@@ -2357,6 +2357,268 @@
         "h": "AA ↑ insulin"
       }
     ],
+    "3_endocrine_pancreas_v2": [
+      {
+        "q": "Which of the following pancreatic islet cells is primarily responsible for insulin secretion?",
+        "a": [
+          "Alpha cells",
+          "Beta cells",
+          "Delta cells",
+          "PP cells",
+          "Acinar cells"
+        ],
+        "c": 1,
+        "l": "Beta cells of the pancreatic islets secrete insulin, which is the dominant hormone regulating glucose metabolism.",
+        "h": "Think beta = insulin"
+      },
+      {
+        "q": "Which of the following pancreatic islet cells secretes glucagon?",
+        "a": [
+          "Beta cells",
+          "Delta cells",
+          "Alpha cells",
+          "PP cells",
+          "Acinar cells"
+        ],
+        "c": 2,
+        "l": "Alpha cells secrete glucagon, which raises blood glucose levels and acts antagonistically to insulin.",
+        "h": "Alpha = glucagon"
+      },
+      {
+        "q": "C-peptide is clinically useful because it:",
+        "a": [
+          "Has strong hypoglycemic effects",
+          "Is secreted only with exogenous insulin",
+          "Is secreted in equimolar amounts with insulin",
+          "Inhibits glucagon release",
+          "Enhances insulin receptor binding"
+        ],
+        "c": 2,
+        "l": "C-peptide is secreted in equimolar amounts with insulin during endogenous production and is a useful marker of insulin secretion.",
+        "h": "Marker of endogenous insulin"
+      },
+      {
+        "q": "Which of the following best explains why disruption of insulin disulfide bonds leads to loss of function?",
+        "a": [
+          "Prevents insulin secretion",
+          "Alters insulin gene transcription",
+          "Destroys insulin 3D structure required for receptor binding",
+          "Blocks insulin degradation",
+          "Prevents glucose uptake via GLUT4"
+        ],
+        "c": 2,
+        "l": "Disulfide bonds maintain insulin’s structural integrity. Their disruption leads to loss of biological activity due to improper receptor binding.",
+        "h": "Structure = function"
+      },
+      {
+        "q": "Which glucose transporter is used by pancreatic beta cells to sense blood glucose levels?",
+        "a": [
+          "GLUT1",
+          "GLUT2",
+          "GLUT3",
+          "GLUT4",
+          "SGLT1"
+        ],
+        "c": 1,
+        "l": "GLUT2 is a low-affinity, high-capacity transporter that allows glucose entry proportional to blood levels, making it ideal for glucose sensing.",
+        "h": "Low affinity = sensor"
+      },
+      {
+        "q": "Which of the following is the first step in insulin secretion in response to hyperglycemia?",
+        "a": [
+          "Opening of calcium channels",
+          "ATP production",
+          "Facilitated diffusion of glucose into beta cells",
+          "Closure of potassium channels",
+          "Insulin exocytosis"
+        ],
+        "c": 2,
+        "l": "The first step is glucose entry into beta cells via facilitated diffusion, primarily through GLUT2 transporters.",
+        "h": "Glucose must enter first"
+      },
+      {
+        "q": "Increased ATP production in pancreatic beta cells leads to which of the following?",
+        "a": [
+          "Opening of potassium channels",
+          "Closure of ATP-sensitive potassium channels",
+          "Decreased calcium influx",
+          "Inhibition of insulin release",
+          "Activation of glucagon secretion"
+        ],
+        "c": 1,
+        "l": "Increased ATP closes ATP-sensitive potassium channels, leading to membrane depolarization.",
+        "h": "ATP closes K+ channels"
+      },
+      {
+        "q": "Closure of ATP-sensitive potassium channels in beta cells results in:",
+        "a": [
+          "Hyperpolarization",
+          "Depolarization",
+          "Decreased calcium entry",
+          "Reduced insulin secretion",
+          "Activation of glucagon release"
+        ],
+        "c": 1,
+        "l": "Closure of potassium channels decreases K+ efflux, causing depolarization of the membrane.",
+        "h": "Less K+ out = depolarization"
+      },
+      {
+        "q": "Depolarization of pancreatic beta cells leads to insulin secretion through:",
+        "a": [
+          "Opening of sodium channels",
+          "Opening of voltage-gated calcium channels",
+          "Closure of chloride channels",
+          "Activation of cAMP pathway",
+          "Inhibition of glucagon release"
+        ],
+        "c": 1,
+        "l": "Depolarization opens voltage-gated calcium channels, allowing calcium influx, which triggers insulin exocytosis.",
+        "h": "Ca2+ triggers release"
+      },
+      {
+        "q": "Sulfonylurea drugs stimulate insulin secretion by:",
+        "a": [
+          "Increasing calcium influx directly",
+          "Opening potassium channels",
+          "Blocking ATP-sensitive potassium channels",
+          "Stimulating glucagon release",
+          "Increasing glucose transport"
+        ],
+        "c": 2,
+        "l": "Sulfonylureas bind to and block ATP-sensitive potassium channels, mimicking ATP effects and promoting insulin release.",
+        "h": "Drug closes K+ channels"
+      },
+      {
+        "q": "Which of the following best describes insulin receptors?",
+        "a": [
+          "G-protein coupled receptors",
+          "Ligand-gated ion channels",
+          "Receptor tyrosine kinases",
+          "Nuclear receptors",
+          "Second messenger receptors"
+        ],
+        "c": 2,
+        "l": "Insulin receptors are receptor tyrosine kinases that activate intracellular signaling via phosphorylation cascades.",
+        "h": "RTK receptor"
+      },
+      {
+        "q": "Which subunit of the insulin receptor is responsible for insulin binding?",
+        "a": [
+          "Alpha subunit",
+          "Beta subunit",
+          "Gamma subunit",
+          "Delta subunit",
+          "Sigma subunit"
+        ],
+        "c": 0,
+        "l": "Alpha subunits of the insulin receptor bind insulin extracellularly.",
+        "h": "Alpha = binding"
+      },
+      {
+        "q": "Which subunit of the insulin receptor contains intrinsic tyrosine kinase activity?",
+        "a": [
+          "Alpha subunit",
+          "Beta subunit",
+          "Gamma subunit",
+          "Delta subunit",
+          "Sigma subunit"
+        ],
+        "c": 1,
+        "l": "Beta subunits have intracellular tyrosine kinase activity responsible for signal transduction.",
+        "h": "Beta = signaling"
+      },
+      {
+        "q": "Which of the following occurs immediately after insulin binds to its receptor?",
+        "a": [
+          "Glucose enters the cell",
+          "Autophosphorylation of the receptor",
+          "Insulin degradation",
+          "ATP depletion",
+          "Glucagon release"
+        ],
+        "c": 1,
+        "l": "Binding of insulin activates tyrosine kinase activity, leading to autophosphorylation of the receptor.",
+        "h": "First intracellular step"
+      },
+      {
+        "q": "Insulin promotes glucose uptake into muscle and adipose tissue primarily by:",
+        "a": [
+          "Increasing GLUT1 expression",
+          "Activating GLUT2 transporters",
+          "Translocating GLUT4 to the membrane",
+          "Opening sodium channels",
+          "Stimulating SGLT transporters"
+        ],
+        "c": 2,
+        "l": "Insulin causes translocation of GLUT4 transporters to the cell membrane, increasing glucose uptake.",
+        "h": "GLUT4 is insulin-dependent"
+      },
+      {
+        "q": "Which of the following tissues does NOT require insulin for glucose uptake?",
+        "a": [
+          "Muscle",
+          "Adipose tissue",
+          "Brain",
+          "Heart",
+          "Skeletal muscle"
+        ],
+        "c": 2,
+        "l": "The brain uses insulin-independent transporters (GLUT1/3) and does not require insulin for glucose uptake.",
+        "h": "Brain is insulin-independent"
+      },
+      {
+        "q": "Which of the following is a major effect of insulin on carbohydrate metabolism?",
+        "a": [
+          "Increases gluconeogenesis",
+          "Decreases glycogen synthesis",
+          "Increases glycogenesis",
+          "Increases glycogenolysis",
+          "Decreases glucose uptake"
+        ],
+        "c": 2,
+        "l": "Insulin promotes glycogenesis and reduces blood glucose levels.",
+        "h": "Storage hormone"
+      },
+      {
+        "q": "Which of the following best describes insulin’s effect on lipid metabolism?",
+        "a": [
+          "Increases lipolysis",
+          "Decreases fat storage",
+          "Increases lipogenesis",
+          "Increases ketone production",
+          "Increases fatty acid oxidation"
+        ],
+        "c": 2,
+        "l": "Insulin promotes lipogenesis and inhibits lipolysis, favoring fat storage.",
+        "h": "Fat storage hormone"
+      },
+      {
+        "q": "Which of the following is a key feature of insulin secretion after a meal?",
+        "a": [
+          "Decreases immediately",
+          "Occurs in two phases",
+          "Occurs only after several hours",
+          "Remains constant",
+          "Is independent of glucose"
+        ],
+        "c": 1,
+        "l": "Insulin secretion has an immediate phase (stored insulin) and a delayed phase (new synthesis).",
+        "h": "Biphasic release"
+      },
+      {
+        "q": "Which of the following hormones acts antagonistically to insulin?",
+        "a": [
+          "Somatostatin",
+          "Glucagon",
+          "Oxytocin",
+          "ADH",
+          "Prolactin"
+        ],
+        "c": 1,
+        "l": "Glucagon opposes insulin by increasing blood glucose through glycogenolysis and gluconeogenesis.",
+        "h": "Raises glucose"
+      }
+    ],
     "4_adrenal_gland": [
       {
         "q": "Which zone of the adrenal cortex primarily secretes mineralocorticoids?",
