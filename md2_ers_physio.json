@@ -1850,6 +1850,45 @@
     ],
     "3_endocrine_pancreas": [
       {
+        "q": "A 24-year-old medical student is brought to the ER with episodes of sweating, tremors, and confusion. Laboratory results during hypoglycemia show: Serum insulin: High; C-peptide: Low. What is the most likely cause of this patient’s condition?",
+        "a": [
+          "Insulinoma",
+          "Sulfonylurea use",
+          "Exogenous insulin administration",
+          "Type 1 Diabetes",
+          "Type 2 Diabetes"
+        ],
+        "c": 2,
+        "l": "Exogenous insulin administration leads to high insulin levels but low C-peptide because C-peptide is only produced during endogenous insulin synthesis from proinsulin. Injected insulin does not produce C-peptide.",
+        "h": "Compare insulin vs C-peptide levels"
+      },
+      {
+        "q": "A 52-year-old woman presents with recurrent hypoglycemia. Labs show: Serum insulin: High; C-peptide: High. Which of the following is the most likely diagnosis?",
+        "a": [
+          "Exogenous insulin use",
+          "Insulinoma",
+          "Factitious hypoglycemia due to insulin injection",
+          "Type 1 Diabetes",
+          "Addison disease"
+        ],
+        "c": 1,
+        "l": "Both insulin and C-peptide are elevated, indicating endogenous insulin production. This is most consistent with an insulinoma, a tumor of pancreatic beta cells producing excess insulin.",
+        "h": "Both high = endogenous source"
+      },
+      {
+        "q": "A researcher chemically reduces the disulfide bonds of insulin before administering it to an experimental subject. Which of the following is the most likely outcome?",
+        "a": [
+          "Increased glucose uptake in muscle cells",
+          "Decreased degradation of insulin",
+          "Loss of insulin biological activity",
+          "Enhanced binding to insulin receptor",
+          "Increased half-life of insulin"
+        ],
+        "c": 2,
+        "l": "Insulin requires intact disulfide bonds between its A and B chains to maintain its functional 3D structure. Breaking these bonds leads to loss of biological activity and inability to bind its receptor.",
+        "h": "Structure determines function"
+      },
+      {
         "q": "Which of the following cell types in the pancreatic islets primarily secretes insulin?",
         "a": [
           "Alpha cells",
