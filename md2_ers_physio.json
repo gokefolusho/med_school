@@ -393,7 +393,7 @@
         "h": "Endocrine = long distance"
       }
     ],
-    "2_pituitary_gland": [
+    "2_pituitary_gland_v1": [
       {
         "q": "The pituitary gland is located in which anatomical structure?",
         "a": [
@@ -956,6 +956,896 @@
         "c": 1,
         "l": "Laron syndrome is due to GH receptor defect leading to decreased IGF-1 production.",
         "h": "GH receptor defect → low IGF-1"
+      }
+    ],
+    "2_pituitary_gland_v2": [
+      {
+        "q": "Which of the following best describes the pituitary gland?",
+        "a": [
+          "A peripheral endocrine gland located in the thyroid bed",
+          "The master gland located at the base of the brain",
+          "A part of the adrenal medulla that regulates stress hormones",
+          "A duct-containing gland located in the oral cavity"
+        ],
+        "c": 1,
+        "l": "The pituitary gland is described as the master gland and is located at the base of the brain.",
+        "h": "Think: master endocrine regulator"
+      },
+      {
+        "q": "The pituitary gland sits in which of the following structures?",
+        "a": [
+          "Foramen magnum",
+          "Sella turcica",
+          "Cribriform plate",
+          "Optic canal"
+        ],
+        "c": 1,
+        "l": "The pituitary gland is located in the sella turcica, a small cavity in the sphenoid bone.",
+        "h": "Sphenoid bone cavity"
+      },
+      {
+        "q": "Which structure is located directly above the pituitary gland?",
+        "a": [
+          "Mammillary body",
+          "Pineal gland",
+          "Optic chiasm",
+          "Medulla oblongata"
+        ],
+        "c": 2,
+        "l": "The optic chiasm lies above the pituitary gland.",
+        "h": "Visual pathway relationship"
+      },
+      {
+        "q": "The pituitary gland is connected to the hypothalamus by the:",
+        "a": [
+          "Infundibular recess",
+          "Pituitary stalk",
+          "Falx cerebri",
+          "Tentorium cerebelli"
+        ],
+        "c": 1,
+        "l": "The pituitary stalk connects the pituitary gland to the hypothalamus.",
+        "h": "Connection between hypo and pituitary"
+      },
+      {
+        "q": "The pituitary gland connects to which specific hypothalamic region?",
+        "a": [
+          "Mammillary body",
+          "Median eminence",
+          "Suprachiasmatic nucleus",
+          "Arcuate ligament"
+        ],
+        "c": 1,
+        "l": "The pituitary connects to the median eminence of the hypothalamus.",
+        "h": "Lowermost hypothalamic region"
+      },
+      {
+        "q": "The pituitary gland is considered one of the circumventricular organs because it:",
+        "a": [
+          "Contains a thick blood-brain barrier",
+          "Does not contain the blood-brain barrier",
+          "Lacks all vascular supply",
+          "Contains only cerebrospinal fluid"
+        ],
+        "c": 1,
+        "l": "The pituitary is one of the circumventricular organs that does not contain the blood-brain barrier.",
+        "h": "Key feature of circumventricular organs"
+      },
+      {
+        "q": "The posterior pituitary is also known as the:",
+        "a": [
+          "Adenohypophysis",
+          "Pars distalis",
+          "Neurohypophysis",
+          "Rathke body"
+        ],
+        "c": 2,
+        "l": "The posterior pituitary is called the neurohypophysis.",
+        "h": "Posterior = neural"
+      },
+      {
+        "q": "Which hormones are released from the posterior pituitary?",
+        "a": [
+          "TSH and ACTH",
+          "ADH and oxytocin",
+          "LH and FSH",
+          "GH and prolactin"
+        ],
+        "c": 1,
+        "l": "The posterior pituitary releases ADH (vasopressin) and oxytocin.",
+        "h": "Two main posterior pituitary hormones"
+      },
+      {
+        "q": "The posterior pituitary is embryologically derived from:",
+        "a": [
+          "Surface ectoderm of Rathke's pouch",
+          "Endoderm of the pharynx",
+          "Neural ectoderm from the floor of the forebrain",
+          "Mesoderm of the sphenoid"
+        ],
+        "c": 2,
+        "l": "The posterior pituitary is derived from neural ectoderm in the floor of the forebrain.",
+        "h": "Posterior pituitary = neural origin"
+      },
+      {
+        "q": "Which of the following best describes the tissue composition of the posterior pituitary?",
+        "a": [
+          "Mainly endocrine follicles",
+          "Contains axons and nerve terminals",
+          "Contains only glandular acini",
+          "Contains chondrocytes and fibroblasts"
+        ],
+        "c": 1,
+        "l": "The posterior pituitary contains axons and nerve terminals from hypothalamic neurons.",
+        "h": "Think neural tissue"
+      },
+      {
+        "q": "The neurons that release posterior pituitary hormones originate in the:",
+        "a": [
+          "Thalamus",
+          "Hypothalamus",
+          "Cerebral cortex",
+          "Pons"
+        ],
+        "c": 1,
+        "l": "Posterior pituitary hormones are synthesized by neurons that originate in the hypothalamus.",
+        "h": "Hormones made in hypothalamus"
+      },
+      {
+        "q": "Which hypothalamic nucleus is most associated with oxytocin production?",
+        "a": [
+          "Supraoptic nucleus",
+          "Paraventricular nucleus",
+          "Arcuate nucleus",
+          "Ventromedial nucleus"
+        ],
+        "c": 1,
+        "l": "The paraventricular nucleus is associated with oxytocin production.",
+        "h": "PV = oxytocin"
+      },
+      {
+        "q": "Which hypothalamic nucleus is most associated with ADH production?",
+        "a": [
+          "Supraoptic nucleus",
+          "Paraventricular nucleus",
+          "Lateral geniculate nucleus",
+          "Subthalamic nucleus"
+        ],
+        "c": 0,
+        "l": "The supraoptic nucleus is associated with ADH production.",
+        "h": "SO = ADH"
+      },
+      {
+        "q": "The anterior pituitary is also called the:",
+        "a": [
+          "Neurohypophysis",
+          "Adenohypophysis",
+          "Infundibulum",
+          "Pars nervosa"
+        ],
+        "c": 1,
+        "l": "The anterior pituitary is called the adenohypophysis.",
+        "h": "Anterior = glandular"
+      },
+      {
+        "q": "The anterior pituitary develops from:",
+        "a": [
+          "Neural crest",
+          "Rathke's pouch",
+          "Mesonephric duct",
+          "Notochord"
+        ],
+        "c": 1,
+        "l": "The anterior pituitary is derived from Rathke's pouch, an outgrowth of the oral cavity.",
+        "h": "Embryology of anterior pituitary"
+      },
+      {
+        "q": "Rathke's pouch is an outgrowth of the:",
+        "a": [
+          "Oral cavity",
+          "Forebrain floor",
+          "Neural tube",
+          "Third ventricle"
+        ],
+        "c": 0,
+        "l": "Rathke's pouch is an outgrowth of the oral cavity.",
+        "h": "Surface ectoderm derivative"
+      },
+      {
+        "q": "Which anterior pituitary cell type secretes ACTH?",
+        "a": [
+          "Somatotroph",
+          "Gonadotroph",
+          "Corticotroph",
+          "Lactotroph"
+        ],
+        "c": 2,
+        "l": "Corticotrophs secrete ACTH.",
+        "h": "ACTH source"
+      },
+      {
+        "q": "Which anterior pituitary cell type secretes TSH?",
+        "a": [
+          "Thyrotroph",
+          "Corticotroph",
+          "Somatotroph",
+          "Pituicyte"
+        ],
+        "c": 0,
+        "l": "Thyrotrophs secrete TSH.",
+        "h": "TSH source"
+      },
+      {
+        "q": "Which anterior pituitary cell type secretes LH and FSH?",
+        "a": [
+          "Gonadotroph",
+          "Lactotroph",
+          "Chromophobe",
+          "Pituicyte"
+        ],
+        "c": 0,
+        "l": "Gonadotrophs secrete LH and FSH.",
+        "h": "Gonadal hormones"
+      },
+      {
+        "q": "Which anterior pituitary cell type secretes growth hormone?",
+        "a": [
+          "Thyrotroph",
+          "Somatotroph",
+          "Lactotroph",
+          "Corticotroph"
+        ],
+        "c": 1,
+        "l": "Somatotrophs secrete growth hormone.",
+        "h": "GH source"
+      },
+      {
+        "q": "Which anterior pituitary cell type secretes prolactin?",
+        "a": [
+          "Lactotroph",
+          "Somatotroph",
+          "Gonadotroph",
+          "Thyrotroph"
+        ],
+        "c": 0,
+        "l": "Lactotrophs secrete prolactin.",
+        "h": "Milk hormone cell"
+      },
+      {
+        "q": "The main blood supply delivering hypothalamic releasing and inhibiting hormones to the anterior pituitary is the:",
+        "a": [
+          "Circle of Willis",
+          "Hypothalamic portal system",
+          "Cavernous sinus",
+          "Middle meningeal artery"
+        ],
+        "c": 1,
+        "l": "The hypothalamic portal system is the main blood supply to the anterior pituitary and carries regulatory hormones.",
+        "h": "Portal link to anterior pituitary"
+      },
+      {
+        "q": "Which hypothalamic hormone inhibits prolactin release?",
+        "a": [
+          "GnRH",
+          "Dopamine",
+          "CRH",
+          "GHRH"
+        ],
+        "c": 1,
+        "l": "Dopamine inhibits prolactin release.",
+        "h": "Prolactin is under tonic inhibition"
+      },
+      {
+        "q": "Somatostatin released from the hypothalamus inhibits which of the following pituitary hormones?",
+        "a": [
+          "GH and TSH",
+          "ACTH and prolactin",
+          "LH and FSH",
+          "ADH and oxytocin"
+        ],
+        "c": 0,
+        "l": "Somatostatin inhibits GH and TSH.",
+        "h": "GHIH effects"
+      },
+      {
+        "q": "CRH from the hypothalamus stimulates release of:",
+        "a": [
+          "TSH",
+          "ACTH",
+          "GH",
+          "Prolactin"
+        ],
+        "c": 1,
+        "l": "CRH stimulates ACTH release.",
+        "h": "Stress axis"
+      },
+      {
+        "q": "TRH from the hypothalamus stimulates release of:",
+        "a": [
+          "TSH",
+          "ACTH",
+          "ADH",
+          "Oxytocin"
+        ],
+        "c": 0,
+        "l": "TRH stimulates TSH release.",
+        "h": "Thyroid axis"
+      },
+      {
+        "q": "GnRH stimulates release of which pituitary hormones?",
+        "a": [
+          "GH and prolactin",
+          "LH and FSH",
+          "TSH and ACTH",
+          "ADH and oxytocin"
+        ],
+        "c": 1,
+        "l": "GnRH stimulates LH and FSH release.",
+        "h": "Reproductive axis"
+      },
+      {
+        "q": "GHRH stimulates the release of:",
+        "a": [
+          "Prolactin",
+          "Growth hormone",
+          "ACTH",
+          "TSH"
+        ],
+        "c": 1,
+        "l": "GHRH stimulates growth hormone release.",
+        "h": "GH releasing hormone"
+      },
+      {
+        "q": "Which of the following best describes prolactin?",
+        "a": [
+          "A steroid hormone",
+          "A catecholamine",
+          "A protein hormone",
+          "A thyroid hormone"
+        ],
+        "c": 2,
+        "l": "Prolactin is a protein hormone.",
+        "h": "Chemical class"
+      },
+      {
+        "q": "Prolactin is primarily under what type of hypothalamic control?",
+        "a": [
+          "Stimulatory control",
+          "Inhibitory control",
+          "No hypothalamic control",
+          "Only circadian control"
+        ],
+        "c": 1,
+        "l": "Prolactin is under inhibitory control from the hypothalamus, mainly by dopamine.",
+        "h": "Unlike many others, it is mainly inhibited"
+      },
+      {
+        "q": "An increase in dopamine release would most likely cause which of the following?",
+        "a": [
+          "Increase prolactin release",
+          "Decrease prolactin release",
+          "Increase oxytocin release",
+          "Increase ADH release"
+        ],
+        "c": 1,
+        "l": "Increased dopamine reduces prolactin release.",
+        "h": "Dopamine brakes prolactin"
+      },
+      {
+        "q": "Which of the following can stimulate prolactin release?",
+        "a": [
+          "Dopamine",
+          "Somatostatin",
+          "TRH",
+          "GHIH"
+        ],
+        "c": 2,
+        "l": "TRH can stimulate prolactin release.",
+        "h": "TRH affects more than TSH"
+      },
+      {
+        "q": "Which endocrine disorder predisposes to hyperprolactinemia?",
+        "a": [
+          "Hyperthyroidism",
+          "Hypothyroidism",
+          "Hyperparathyroidism",
+          "Primary hyperaldosteronism"
+        ],
+        "c": 1,
+        "l": "Hypothyroidism predisposes to hyperprolactinemia.",
+        "h": "Think elevated TRH"
+      },
+      {
+        "q": "Hypothyroidism should be considered in the differential diagnosis of:",
+        "a": [
+          "Hypernatremia only",
+          "Pituitary enlargement and hyperprolactinemia",
+          "Diabetes insipidus only",
+          "Adrenal crisis only"
+        ],
+        "c": 1,
+        "l": "Hypothyroidism is part of the differential for pituitary enlargement and hyperprolactinemia.",
+        "h": "Secondary pituitary changes"
+      },
+      {
+        "q": "Which hormone stimulates prolactin release and contributes to lactotroph hyperplasia in pregnancy?",
+        "a": [
+          "Estrogen",
+          "Progesterone",
+          "Aldosterone",
+          "Cortisol"
+        ],
+        "c": 0,
+        "l": "Estrogen stimulates prolactin release and there is a marked increase in lactotrophs during pregnancy.",
+        "h": "Pregnancy-related pituitary change"
+      },
+      {
+        "q": "During pregnancy, prolactin inhibits the release of:",
+        "a": [
+          "CRH",
+          "GnRH",
+          "TRH",
+          "GHRH"
+        ],
+        "c": 1,
+        "l": "Prolactin inhibits GnRH release during pregnancy.",
+        "h": "Fertility suppression effect"
+      },
+      {
+        "q": "One major physiologic action of prolactin is to:",
+        "a": [
+          "Stimulate uterine contraction at term",
+          "Stimulate growth of mammary glands",
+          "Increase renal water reabsorption",
+          "Cause vasoconstriction"
+        ],
+        "c": 1,
+        "l": "Prolactin stimulates growth of mammary glands.",
+        "h": "Milk production support"
+      },
+      {
+        "q": "The most common secreting tumor of the anterior pituitary is a:",
+        "a": [
+          "Somatotroph adenoma",
+          "Corticotroph adenoma",
+          "Prolactinoma",
+          "Thyrotroph adenoma"
+        ],
+        "c": 2,
+        "l": "A prolactinoma is the most common secreting tumor in the anterior pituitary.",
+        "h": "Most common functioning pituitary adenoma"
+      },
+      {
+        "q": "An adenoma of lactotrophs leads to:",
+        "a": [
+          "Hypoprolactinemia",
+          "Hyperlactinemia",
+          "Diabetes insipidus",
+          "Hypothyroidism"
+        ],
+        "c": 1,
+        "l": "Adenoma of lactotrophs causes hyperlactinemia.",
+        "h": "Lactotroph tumor effect"
+      },
+      {
+        "q": "An adenoma of corticotrophs leads to:",
+        "a": [
+          "Addison disease",
+          "Cushing's disease",
+          "Acromegaly",
+          "Myxedema"
+        ],
+        "c": 1,
+        "l": "Adenoma of corticotrophs leads to Cushing's disease.",
+        "h": "ACTH excess"
+      },
+      {
+        "q": "Which of the following best describes hormone flow to the posterior pituitary?",
+        "a": [
+          "Hormones are synthesized in hypothalamic magnocellular neurons and transported down axons to be released into the bloodstream",
+          "Hormones are made in the posterior pituitary and sent to the hypothalamus",
+          "Hormones are secreted into the portal system and then modified by the posterior pituitary",
+          "Hormones are produced in pituicytes and stored in the thalamus"
+        ],
+        "c": 0,
+        "l": "Posterior pituitary hormones are synthesized in hypothalamic magnocellular neurons, transported via axons, and released into blood.",
+        "h": "Posterior pituitary stores and releases, does not synthesize"
+      },
+      {
+        "q": "Which of the following best describes hormone flow to the anterior pituitary?",
+        "a": [
+          "Hormones travel by axons directly into blood",
+          "Hypothalamic releasing and inhibiting hormones enter the hypophyseal portal system and regulate anterior pituitary cells",
+          "The anterior pituitary sends hormones back to the hypothalamus for activation",
+          "Hormones are secreted only through cerebrospinal fluid"
+        ],
+        "c": 1,
+        "l": "Parvocellular hypothalamic neurons release regulatory hormones into the hypophyseal portal system to control anterior pituitary secretion.",
+        "h": "Portal blood, not axons"
+      },
+      {
+        "q": "The median eminence is best described as:",
+        "a": [
+          "The highest part of the cerebellum",
+          "The lowermost region of the hypothalamus related to the anterior pituitary portal system",
+          "A venous sinus behind the pituitary",
+          "The site of ADH synthesis"
+        ],
+        "c": 1,
+        "l": "The median eminence is the lowermost region of the hypothalamus and is linked to the anterior pituitary portal system.",
+        "h": "Portal entry region"
+      },
+      {
+        "q": "Growth hormone is also known as:",
+        "a": [
+          "Thyrotropin",
+          "Somatotropin",
+          "Corticotropin",
+          "Lutropin"
+        ],
+        "c": 1,
+        "l": "Growth hormone is also called somatotropic hormone or somatotropin.",
+        "h": "Alternate name"
+      },
+      {
+        "q": "Growth hormone acts primarily through which intracellular signaling pathway?",
+        "a": [
+          "cAMP-PKA pathway",
+          "IP3-DAG pathway",
+          "JAK2-STAT pathway",
+          "Tyrosine hydroxylase pathway"
+        ],
+        "c": 2,
+        "l": "Growth hormone acts through activation of the JAK2-STAT pathway.",
+        "h": "Classic GH signaling"
+      },
+      {
+        "q": "A key gene product activated by growth hormone is:",
+        "a": [
+          "Calcitonin",
+          "IGF-1",
+          "Renin",
+          "Neurophysin"
+        ],
+        "c": 1,
+        "l": "IGF-1 is a key gene activated by growth hormone.",
+        "h": "Main mediator of growth effects"
+      },
+      {
+        "q": "Which of the following metabolic effects is associated with growth hormone?",
+        "a": [
+          "Decreases fatty acid levels in blood",
+          "Increases fatty acid levels in blood",
+          "Blocks amino acid transport into cells",
+          "Inhibits all hepatic metabolism"
+        ],
+        "c": 1,
+        "l": "Growth hormone increases fatty acid levels in the blood and promotes their use for energy.",
+        "h": "Lipolytic effect"
+      },
+      {
+        "q": "Growth hormone promotes which of the following?",
+        "a": [
+          "Movement of amino acids out of cells",
+          "Transfer of amino acids from the cell membrane to the interior",
+          "Suppression of protein synthesis",
+          "Immediate glycogen depletion only"
+        ],
+        "c": 1,
+        "l": "Growth hormone promotes transfer of amino acids into cells, supporting growth.",
+        "h": "Anabolic action"
+      },
+      {
+        "q": "Growth hormone stimulates adipose tissue metabolism such that free fatty acids are converted to:",
+        "a": [
+          "Pyruvate",
+          "Lactate",
+          "Acetyl CoA for energy",
+          "Urea"
+        ],
+        "c": 2,
+        "l": "Growth hormone promotes conversion of free fatty acids from adipose tissue into acetyl CoA for energy.",
+        "h": "Fat used as fuel"
+      },
+      {
+        "q": "Excess growth hormone before epiphyseal fusion results in:",
+        "a": [
+          "Acromegaly",
+          "Gigantism",
+          "Myxedema",
+          "Cretinism"
+        ],
+        "c": 1,
+        "l": "Growth hormone excess before epiphyseal closure causes gigantism.",
+        "h": "Before plates close"
+      },
+      {
+        "q": "Excess growth hormone after epiphyseal fusion results in:",
+        "a": [
+          "Gigantism",
+          "Acromegaly",
+          "Dwarfism",
+          "Diabetes insipidus"
+        ],
+        "c": 1,
+        "l": "Growth hormone excess after epiphyseal fusion causes acromegaly.",
+        "h": "After plates close"
+      },
+      {
+        "q": "Growth hormone causes the liver to produce:",
+        "a": [
+          "Neurophysins",
+          "Somatomedins",
+          "Catecholamines",
+          "Thyroxine"
+        ],
+        "c": 1,
+        "l": "Growth hormone stimulates the liver to produce somatomedins, also called insulin-like growth factors.",
+        "h": "Liver mediator"
+      },
+      {
+        "q": "High levels of IGF-1 are perceived by the hypothalamus to:",
+        "a": [
+          "Stimulate GH release",
+          "Inhibit GH release",
+          "Stimulate prolactin release",
+          "Increase ADH release"
+        ],
+        "c": 1,
+        "l": "High IGF-1 levels inhibit growth hormone release through negative feedback.",
+        "h": "Feedback inhibition"
+      },
+      {
+        "q": "A patient with adequate growth hormone levels but inability to produce somatomedin C would most likely develop:",
+        "a": [
+          "Acromegaly",
+          "Dwarfism",
+          "Cushing's disease",
+          "Hyperprolactinemia"
+        ],
+        "c": 1,
+        "l": "Inability to produce somatomedin C can result in dwarfism despite adequate GH levels.",
+        "h": "Problem is mediator, not GH"
+      },
+      {
+        "q": "Somatostatin inhibits growth hormone mainly by:",
+        "a": [
+          "Stimulating dopamine release",
+          "Blocking the action of GHRH",
+          "Destroying somatotrophs",
+          "Increasing IGF-1 production"
+        ],
+        "c": 1,
+        "l": "Somatostatin acts by blocking the action of GHRH.",
+        "h": "Mechanism of GHIH"
+      },
+      {
+        "q": "Which of the following is a potent stimulator of growth hormone release?",
+        "a": [
+          "Hyperglycemia and obesity",
+          "Hypoglycemia and protein deficiency",
+          "Excess cortisol and alkalosis",
+          "High IGF-1 and hyperlipidemia"
+        ],
+        "c": 1,
+        "l": "Hypoglycemia and protein deficiency are potent stimulators of GH release.",
+        "h": "Think fasting and growth needs"
+      },
+      {
+        "q": "Panhypopituitarism in infants commonly presents as:",
+        "a": [
+          "Acromegaly",
+          "Dwarfism",
+          "Cushingoid habitus",
+          "Hyperaldosteronism"
+        ],
+        "c": 1,
+        "l": "In infants, panhypopituitarism causes dwarfism due to generalized deficiency of anterior pituitary hormones.",
+        "h": "Global anterior pituitary failure"
+      },
+      {
+        "q": "Which of the following is listed as a common cause of adult-onset panhypopituitarism?",
+        "a": [
+          "Craniopharyngioma",
+          "Pheochromocytoma",
+          "Medullary thyroid carcinoma",
+          "Thymoma"
+        ],
+        "c": 0,
+        "l": "Craniopharyngioma is one of the common causes of adult-onset panhypopituitarism.",
+        "h": "Suprasellar/pituitary pathology"
+      },
+      {
+        "q": "Which tumor type is listed among the common causes of adult-onset panhypopituitarism?",
+        "a": [
+          "Chromophobe tumors",
+          "Insulinoma",
+          "Prolactinoma only",
+          "Astrocytoma"
+        ],
+        "c": 0,
+        "l": "Chromophobe tumors are listed as a common cause of adult-onset panhypopituitarism.",
+        "h": "Pituitary tumor cause"
+      },
+      {
+        "q": "Postpartum thrombosis of the pituitary blood vessels is a recognized cause of:",
+        "a": [
+          "Hyperthyroidism",
+          "Adult-onset panhypopituitarism",
+          "SIADH",
+          "Pheochromocytoma"
+        ],
+        "c": 1,
+        "l": "Postpartum thrombosis of pituitary blood vessels is a listed cause of adult-onset panhypopituitarism.",
+        "h": "Think postpartum pituitary infarction"
+      },
+      {
+        "q": "The posterior pituitary contains many glial-like cells called:",
+        "a": [
+          "Chromaffin cells",
+          "Pituicytes",
+          "Oligodendrocytes",
+          "Astroblasts"
+        ],
+        "c": 1,
+        "l": "The posterior pituitary contains glial-like cells called pituicytes.",
+        "h": "Posterior support cells"
+      },
+      {
+        "q": "The posterior pituitary contains the:",
+        "a": [
+          "Corticospinal tract",
+          "Hypothalamic-hypophyseal tract",
+          "Spinothalamic tract",
+          "Mammillothalamic tract"
+        ],
+        "c": 1,
+        "l": "The posterior pituitary contains the hypothalamic-hypophyseal tract.",
+        "h": "Axonal pathway from hypothalamus"
+      },
+      {
+        "q": "ADH is secreted from which precursor in the hypothalamus?",
+        "a": [
+          "Prepropressophysin",
+          "Proopiomelanocortin",
+          "Preproinsulin",
+          "Thyroglobulin"
+        ],
+        "c": 0,
+        "l": "ADH is secreted from prepropressophysin in the hypothalamus.",
+        "h": "ADH precursor"
+      },
+      {
+        "q": "ADH is secreted together with which carrier protein?",
+        "a": [
+          "Albumin",
+          "Transcortin",
+          "Neurophysin",
+          "Ceruloplasmin"
+        ],
+        "c": 2,
+        "l": "ADH is secreted with a carrier protein called neurophysin.",
+        "h": "Posterior pituitary transport protein"
+      },
+      {
+        "q": "Most cases of hereditary hypothalamic diabetes insipidus are linked to a point mutation in:",
+        "a": [
+          "IGF-1",
+          "Neurophysin II",
+          "POMC",
+          "TRH receptor"
+        ],
+        "c": 1,
+        "l": "A point mutation in neurophysin II underlies most cases of hereditary hypothalamic diabetes insipidus.",
+        "h": "Inherited central DI clue"
+      },
+      {
+        "q": "ADH binding to renal tubular cells primarily activates which intracellular messenger?",
+        "a": [
+          "cAMP",
+          "cGMP",
+          "IP3 only",
+          "Tyrosine kinase"
+        ],
+        "c": 0,
+        "l": "ADH binds to surface receptors on renal tubular cells and activates cAMP.",
+        "h": "V2 receptor signaling"
+      },
+      {
+        "q": "ADH increases water reabsorption by causing phosphorylation of preformed:",
+        "a": [
+          "Na+/K+ ATPase molecules",
+          "Aquaporin structures",
+          "Calcium channels",
+          "Renin granules"
+        ],
+        "c": 1,
+        "l": "ADH causes phosphorylation of preformed aquaporin structures.",
+        "h": "Water channels"
+      },
+      {
+        "q": "ADH causes vasoconstriction by acting on which receptor?",
+        "a": [
+          "V1 receptor",
+          "V2 receptor",
+          "M3 receptor",
+          "Alpha-2 receptor"
+        ],
+        "c": 0,
+        "l": "ADH causes vasoconstriction through V1 receptors.",
+        "h": "Vascular action of ADH"
+      },
+      {
+        "q": "Oxytocin has which of the following physiologic effects?",
+        "a": [
+          "Stimulates renal water reabsorption",
+          "Causes contraction of the pregnant uterus at term",
+          "Inhibits milk ejection",
+          "Stimulates cortisol release"
+        ],
+        "c": 1,
+        "l": "Oxytocin causes contraction of the pregnant uterus at term.",
+        "h": "Labor hormone"
+      },
+      {
+        "q": "Milk letdown or milk ejection is primarily mediated by:",
+        "a": [
+          "Prolactin",
+          "Oxytocin",
+          "FSH",
+          "ACTH"
+        ],
+        "c": 1,
+        "l": "Oxytocin mediates milk letdown by causing contraction of myoepithelial tissue.",
+        "h": "Production vs ejection"
+      },
+      {
+        "q": "Which of the following inhibits oxytocin release or action according to the notes?",
+        "a": [
+          "Suckling",
+          "Cervical dilation",
+          "Opioids (endorphins)",
+          "Orgasm"
+        ],
+        "c": 2,
+        "l": "Opioids such as endorphins are listed as inhibitory factors for oxytocin.",
+        "h": "Opposes oxytocin reflexes"
+      },
+      {
+        "q": "Which of the following stimulates oxytocin release?",
+        "a": [
+          "Hyperkalemia",
+          "Suckling",
+          "Dopamine excess",
+          "Somatostatin"
+        ],
+        "c": 1,
+        "l": "Suckling is one of the stimulatory factors for oxytocin release.",
+        "h": "Breastfeeding reflex"
+      },
+      {
+        "q": "Which of the following is another physiologic stimulus for oxytocin release?",
+        "a": [
+          "Dilation of the cervix",
+          "Hypoglycemia",
+          "Cold exposure",
+          "Hypernatremia"
+        ],
+        "c": 0,
+        "l": "Dilation of the cervix stimulates oxytocin release.",
+        "h": "Ferguson reflex"
+      },
+      {
+        "q": "Which of the following is listed as a stimulatory factor for oxytocin release?",
+        "a": [
+          "Orgasm",
+          "Dopamine",
+          "Neurophysin II mutation",
+          "Hypothyroidism"
+        ],
+        "c": 0,
+        "l": "Orgasm is listed among the stimulatory factors for oxytocin release.",
+        "h": "Another oxytocin trigger"
       }
     ],
     "3_endocrine_pancreas": [
