@@ -324,6 +324,237 @@
         "l": "Nitric oxide increases cGMP, leading to smooth muscle relaxation and erection.",
         "h": "NO → cGMP"
       }
-    ]
+    ],
+    "2. Formative": [
+  {
+    "q": "A trauma surgeon in the emergency department at a local center examines a 14-year-old boy with extensive pelvic injuries after a hit and run accident. The surgeon inspects the ischiorectal fossa because it:",
+    "a": [
+      "Accumulates urine leaking from rupture of the bulb of the penis",
+      "Contains the inferior rectal vessels",
+      "Has a pudendal canal along its medial wall",
+      "Is bounded anteriorly by the sacrotuberous ligament",
+      "Contains a perineal branch of the fifth lumbar nerve"
+    ],
+    "c": 1,
+    "l": "The ischiorectal fossa contains fat, the inferior rectal nerve and vessels, and perineal branches of the posterior femoral cutaneous nerve. The pudendal canal runs along its lateral wall.",
+    "h": "Know contents of ischiorectal fossa"
+  },
+  {
+    "q": "A general surgeon is giving a lecture to a team of surgery residents. She describes characteristics of structures above the pectinate line of the anal canal, which include:",
+    "a": [
+      "Stratified squamous epithelium",
+      "Venous drainage into the caval system",
+      "Lymphatic drainage into the superficial inguinal nodes",
+      "Visceral sensory innervations",
+      "External hemorrhoids"
+    ],
+    "c": 3,
+    "l": "Above the pectinate line has columnar epithelium, portal drainage, internal iliac lymphatics, visceral sensory innervation, and internal hemorrhoids.",
+    "h": "Above line = visceral"
+  },
+  {
+    "q": "An obstetrician is about to perform a pudendal block so a woman can experience less pain when she delivers her child. He recalls what he learned in medical school about this nerve. Which of the following statements is correct?",
+    "a": [
+      "It passes superficial to the sacrotuberous ligament.",
+      "It innervates the testis and epididymis in a male.",
+      "It provides motor fibers to the coccygeus.",
+      "It can be blocked by injecting an anesthetic near the inferior margin of the ischial spine.",
+      "It arises from the lumbar plexus."
+    ],
+    "c": 3,
+    "l": "The pudendal nerve is blocked near the ischial spine during a pudendal block.",
+    "h": "Landmark = ischial spine"
+  },
+  {
+    "q": "A 6 month-old male infant is admitted to the children’s hospital because he has no testis in his scrotum. During physical examination, the pediatrician palpated the testis in the inguinal canal. What is the diagnosis of this condition?",
+    "a": [
+      "Male pseudohermaphroditism",
+      "Hypospadias",
+      "Epispadias",
+      "Cryptorchid testis",
+      "Chordee"
+    ],
+    "c": 3,
+    "l": "Cryptorchid testis is an undescended testis located in the inguinal region.",
+    "h": "Undescended testis"
+  },
+  {
+    "q": "A 21-year-old man is involved in a highspeed motor vehicle accident. As a result, he has extensive damage to his sphincter urethrae. Which of the following best describes the injured sphincter urethrae?",
+    "a": [
+      "Smooth muscle",
+      "Innervated by the perineal nerve",
+      "Lying between the perineal membrane and Colles’s fascia",
+      "Enclosed in the pelvic fascia",
+      "Part of the pelvic diaphragm"
+    ],
+    "c": 1,
+    "l": "The sphincter urethrae is striated muscle in the deep perineal space and is innervated by the perineal nerve.",
+    "h": "Deep perineal muscle"
+  },
+  {
+    "q": "A 26-year-old man comes to a hospital with fever, nausea, pain, and itching in the perineal region. On examination by a urologist, he is diagnosed as having infected bulbourethral (Cowper’s) glands. Which of the following structures is/are affected by this infection?",
+    "a": [
+      "Superficial perineal space",
+      "Sphincter urethrae",
+      "Production of sperm",
+      "Testis",
+      "Seminal vesicles"
+    ],
+    "c": 1,
+    "l": "Bulbourethral glands lie within the sphincter urethrae in the deep perineal space.",
+    "h": "Location = deep space"
+  },
+  {
+    "q": "A 49-year-old woman has a large mass on the pelvic brim. Which of the following structures is most likely compressed by this mass when crossing the pelvic brim?",
+    "a": [
+      "Deep dorsal vein of the penis",
+      "Uterine tube",
+      "Ovarian ligament",
+      "Uterine artery",
+      "Lumbosacral trunk"
+    ],
+    "c": 4,
+    "l": "The lumbosacral trunk crosses the pelvic brim and is susceptible to compression.",
+    "h": "Only one crossing brim"
+  },
+  {
+    "q": "After repair of a ruptured diverticulum, a 31-year-old patient begins to spike with fever and complains of abdominal pain. An infection in the deep perineal space would most likely damage which of the following structures?",
+    "a": [
+      "Ischiocavernosus muscles",
+      "Superficial transverse perineal muscles",
+      "Levator ani",
+      "Sphincter urethrae",
+      "Bulbospongiosus"
+    ],
+    "c": 3,
+    "l": "The sphincter urethrae is located in the deep perineal space.",
+    "h": "Deep vs superficial"
+  },
+  {
+    "q": "A 37-year-old woman complains of a bearing-down sensation in her womb and an increased frequency of and burning sensation on urination. On examination by her gynecologist, she is diagnosed with a uterine prolapse. Which of the following structures provides the primary support for the cervix of the uterus?",
+    "a": [
+      "External anal sphincter",
+      "Broad ligament of the uterus",
+      "Cardinal (transverse cervical) ligament",
+      "Round ligament of the uterus",
+      "Suspensory ligament of the ovary"
+    ],
+    "c": 2,
+    "l": "The cardinal ligament provides the main support for the cervix.",
+    "h": "Main uterine support"
+  },
+
+  {
+    "q": "A woman is delivering a breech baby. The obstetrician decides that it is best to perform a mediolateral episiotomy. Which of the following structures should the obstetrician avoid incising?",
+    "a": [
+      "Vaginal wall",
+      "Superficial transverse perineal muscle",
+      "Bulbospongiosus",
+      "Levator ani",
+      "Perineal membrane"
+    ],
+    "c": 3,
+    "l": "Levator ani should be preserved during episiotomy.",
+    "h": "Pelvic floor muscle"
+  },
+
+  {
+    "q": "During pelvic surgery, a surgeon notices severe bleeding from the artery that remains within the true pelvis. Which of the following arteries is most likely to be injured?",
+    "a": [
+      "Iliolumbar artery",
+      "Obturator artery",
+      "Uterine artery",
+      "Internal pudendal artery",
+      "Inferior gluteal artery"
+    ],
+    "c": 2,
+    "l": "The uterine artery remains within the pelvis.",
+    "h": "Pelvic artery"
+  },
+
+  {
+    "q": "A neurosurgeon performs surgical resection of a rare meningeal tumor in the sacral region. He tries to avoid an injury of the nerve that arises from the lumbosacral plexus and remains within the abdominal or pelvic cavity. To which of the following nerves should he pay particular attention?",
+    "a": [
+      "Ilioinguinal nerve",
+      "Genitofemoral nerve",
+      "Lumbosacral trunk",
+      "Femoral nerve",
+      "Lateral femoral cutaneous nerve"
+    ],
+    "c": 2,
+    "l": "The lumbosacral trunk contributes to the sacral plexus.",
+    "h": "Important trunk"
+  },
+
+  {
+    "q": "A 16-year-old boy presents to the emergency department with rupture of the penile urethra. Extravasated urine from this injury can spread into which of the following structures?",
+    "a": [
+      "Scrotum",
+      "Ischiorectal fossa",
+      "Pelvic cavity",
+      "Testis",
+      "Thigh"
+    ],
+    "c": 0,
+    "l": "Urine spreads to superficial perineal space including scrotum.",
+    "h": "Think fascia limits"
+  },
+
+  {
+    "q": "A 48-year-old college football coach undergoes a radical prostatectomy for a malignant tumor in his prostate. Following surgery, he is incapable of achieving an erection. Which of the following nerves is most likely damaged during the surgery?",
+    "a": [
+      "Sacral splanchnic nerve",
+      "Pelvic splanchnic nerve",
+      "Pudendal nerve",
+      "Dorsal nerve of the penis",
+      "Posterior scrotal nerve"
+    ],
+    "c": 1,
+    "l": "Pelvic splanchnic nerves mediate erection.",
+    "h": "Parasympathetic erection"
+  },
+
+  {
+    "q": "A 58-year-old man is diagnosed as having a slowly growing tumor in the deep perineal space. Which of the following structures would most likely be injured?",
+    "a": [
+      "Bulbourethral glands",
+      "Crus of penis",
+      "Bulb of vestibule",
+      "Spongy urethra",
+      "Great vestibular gland"
+    ],
+    "c": 0,
+    "l": "Bulbourethral glands are located in deep perineal space.",
+    "h": "Deep space content"
+  },
+
+  {
+    "q": "A 37-year-old small business manager receives a gunshot wound in the pelvic cavity, resulting in a lesion of the sacral splanchnic nerves. Which of the following nerve fibers would primarily be damaged?",
+    "a": [
+      "Postganglionic parasympathetic fibers",
+      "Postganglionic sympathetic fibers",
+      "Preganglionic sympathetic fibers",
+      "Preganglionic parasympathetic fibers",
+      "Postganglionic sympathetic and parasympathetic fibers"
+    ],
+    "c": 2,
+    "l": "Sacral splanchnic nerves carry preganglionic sympathetic fibers.",
+    "h": "Sympathetic fibers"
+  },
+
+  {
+    "q": "A 29-year-old woman is admitted to a hospital because the birth of her child is several days overdue. Tearing of the pelvic diaphragm during childbirth leads to paralysis of which of the following muscles?",
+    "a": [
+      "Piriformis",
+      "Sphincter urethrae",
+      "Obturator internus",
+      "Levator ani",
+      "Sphincter ani externus"
+    ],
+    "c": 3,
+    "l": "Levator ani forms pelvic diaphragm.",
+    "h": "Pelvic floor muscle"
+  }
+]
   }
 }
