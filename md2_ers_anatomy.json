@@ -336,8 +336,8 @@
           "Contains a perineal branch of the fifth lumbar nerve"
         ],
         "c": 1,
-        "l": "The ischiorectal fossa contains fat, inferior rectal vessels and nerve, and perineal branches of the posterior femoral cutaneous nerve.",
-        "h": "Contents of ischiorectal fossa"
+        "l": "The ischiorectal fossa contains fat, inferior rectal nerve and vessels, and perineal branches of the posterior femoral cutaneous nerve.",
+        "h": "Ischiorectal contents"
       },
       {
         "q": "A general surgeon is giving a lecture to a team of surgery residents. She describes characteristics of structures above the pectinate line of the anal canal, which include:",
@@ -349,7 +349,7 @@
           "External hemorrhoids"
         ],
         "c": 3,
-        "l": "Above the pectinate line has visceral innervation, portal drainage, and internal hemorrhoids.",
+        "l": "Above the pectinate line = visceral innervation, portal drainage, internal hemorrhoids.",
         "h": "Above = visceral"
       },
       {
@@ -362,8 +362,8 @@
           "It arises from the lumbar plexus."
         ],
         "c": 3,
-        "l": "Pudendal nerve is blocked near the ischial spine.",
-        "h": "Ischial spine landmark"
+        "l": "Pudendal nerve is blocked at ischial spine.",
+        "h": "Key landmark"
       },
       {
         "q": "A 6 month-old male infant is admitted to the children’s hospital because he has no testis in his scrotum. During physical examination, the pediatrician palpated the testis in the inguinal canal. What is the diagnosis of this condition?",
@@ -376,7 +376,7 @@
         ],
         "c": 3,
         "l": "Undescended testis = cryptorchidism.",
-        "h": "Testis in canal"
+        "h": "Inguinal testis"
       },
       {
         "q": "A 21-year-old man is involved in a highspeed motor vehicle accident. As a result, he has extensive damage to his sphincter urethrae. Which of the following best describes the injured sphincter urethrae?",
@@ -388,7 +388,7 @@
           "Part of the pelvic diaphragm"
         ],
         "c": 1,
-        "l": "Sphincter urethrae is striated muscle innervated by perineal nerve.",
+        "l": "Striated muscle innervated by perineal nerve.",
         "h": "Deep perineal"
       },
       {
@@ -401,8 +401,8 @@
           "Seminal vesicles"
         ],
         "c": 1,
-        "l": "Bulbourethral glands lie within sphincter urethrae.",
-        "h": "Deep location"
+        "l": "Cowper glands lie in sphincter urethrae.",
+        "h": "Deep space"
       },
       {
         "q": "A 49-year-old woman has a large mass on the pelvic brim. Which of the following structures is most likely compressed by this mass when crossing the pelvic brim?",
@@ -414,8 +414,8 @@
           "Lumbosacral trunk"
         ],
         "c": 4,
-        "l": "Lumbosacral trunk crosses pelvic brim.",
-        "h": "Only one crossing brim"
+        "l": "Lumbosacral trunk crosses brim.",
+        "h": "Crossing structure"
       },
       {
         "q": "After repair of a ruptured diverticulum, a 31-year-old patient begins to spike with fever and complains of abdominal pain. An infection in the deep perineal space would most likely damage which of the following structures?",
@@ -427,7 +427,7 @@
           "Bulbospongiosus"
         ],
         "c": 3,
-        "l": "Deep perineal space contains sphincter urethrae.",
+        "l": "Deep = sphincter urethrae.",
         "h": "Deep vs superficial"
       },
       {
@@ -466,8 +466,8 @@
           "Inferior gluteal artery"
         ],
         "c": 2,
-        "l": "Uterine artery remains in pelvis.",
-        "h": "Pelvic artery"
+        "l": "Uterine artery stays in pelvis.",
+        "h": "Pelvic vessel"
       },
       {
         "q": "A neurosurgeon performs surgical resection of a rare meningeal tumor in the sacral region. He tries to avoid an injury of the nerve that arises from the lumbosacral plexus and remains within the abdominal or pelvic cavity. To which of the following nerves should he pay particular attention?",
@@ -479,8 +479,8 @@
           "Lateral femoral cutaneous nerve"
         ],
         "c": 2,
-        "l": "Lumbosacral trunk contributes to sacral plexus.",
-        "h": "Key trunk"
+        "l": "Lumbosacral trunk.",
+        "h": "Important trunk"
       },
       {
         "q": "A 16-year-old boy presents to the emergency department with rupture of the penile urethra. Extravasated urine from this injury can spread into which of the following structures?",
@@ -492,8 +492,8 @@
           "Thigh"
         ],
         "c": 0,
-        "l": "Urine spreads to superficial perineal space including scrotum.",
-        "h": "Fascia boundaries"
+        "l": "Urine spreads to scrotum.",
+        "h": "Superficial space"
       },
       {
         "q": "A 48-year-old college football coach undergoes a radical prostatectomy for a malignant tumor in his prostate. Following surgery, he is incapable of achieving an erection. Which of the following nerves is most likely damaged during the surgery?",
@@ -505,8 +505,8 @@
           "Posterior scrotal nerve"
         ],
         "c": 1,
-        "l": "Pelvic splanchnic nerves mediate erection.",
-        "h": "Parasympathetic erection"
+        "l": "Pelvic splanchnic = erection.",
+        "h": "Parasympathetic"
       },
       {
         "q": "A 58-year-old man is diagnosed as having a slowly growing tumor in the deep perineal space. Which of the following structures would most likely be injured?",
@@ -518,8 +518,8 @@
           "Great vestibular gland"
         ],
         "c": 0,
-        "l": "Deep perineal space contains bulbourethral glands.",
-        "h": "Deep contents"
+        "l": "Deep = bulbourethral glands.",
+        "h": "Deep space"
       },
       {
         "q": "A 37-year-old small business manager receives a gunshot wound in the pelvic cavity, resulting in a lesion of the sacral splanchnic nerves. Which of the following nerve fibers would primarily be damaged?",
@@ -531,8 +531,8 @@
           "Postganglionic sympathetic and parasympathetic fibers"
         ],
         "c": 2,
-        "l": "Sacral splanchnic nerves carry preganglionic sympathetic fibers.",
-        "h": "Sympathetic fibers"
+        "l": "Preganglionic sympathetic.",
+        "h": "Sacral splanchnic"
       },
       {
         "q": "A 29-year-old woman is admitted to a hospital because the birth of her child is several days overdue. Tearing of the pelvic diaphragm during childbirth leads to paralysis of which of the following muscles?",
@@ -544,8 +544,8 @@
           "Sphincter ani externus"
         ],
         "c": 3,
-        "l": "Levator ani forms pelvic diaphragm.",
-        "h": "Pelvic floor"
+        "l": "Levator ani.",
+        "h": "Pelvic diaphragm"
       },
       {
         "q": "A 29-year-old carpenter sustains severe injuries of the pelvic splanchnic nerve by a deep puncture wound, which has become contaminated. The injured parasympathetic preganglionic fibers in the splanchnic nerve are most likely to synapse in which of the following ganglia?",
@@ -557,8 +557,8 @@
           "Ganglion imparment"
         ],
         "c": 0,
-        "l": "Pelvic splanchnic nerves synapse in pelvic plexus or target organs.",
-        "h": "Parasympathetic pathway"
+        "l": "Pelvic plexus ganglia.",
+        "h": "Parasympathetic"
       },
       {
         "q": "On a busy Saturday night in Chicago, a 16-year-old boy presents to the emergency department with a stab wound from a knife that entered the pelvis above the piriformis muscle. Which of the following structures is most likely to be damaged?",
@@ -570,7 +570,7 @@
           "Posterior femoral cutaneous nerve"
         ],
         "c": 2,
-        "l": "Superior gluteal nerve exits above piriformis.",
+        "l": "Above piriformis = superior gluteal nerve.",
         "h": "Above piriformis"
       }
     ]
