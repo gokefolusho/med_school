@@ -65,264 +65,238 @@
   "quizzes": {
     "1. Pelvic Wall": [
       {
-        "q": "A first-year medical student is reviewing pelvic anatomy and notes that the pelvis is divided into two main regions. Which of the following correctly describes this division?",
-        "a": [
-          "True pelvis and perineum",
-          "False pelvis and lesser pelvis",
-          "Greater pelvis and perineum",
-          "Abdominal pelvis and pelvic outlet",
-          "Visceral pelvis and parietal pelvis"
-        ],
-        "c": 1,
-        "l": "The pelvis is divided into the false pelvis (superior, part of abdomen) and the lesser (true) pelvis (inferior region containing pelvic organs).",
-        "h": "False (superior) vs true (inferior)"
-      },
-      {
-        "q": "A patient undergoes imaging of the pelvis. The superior portion of the pelvis that is continuous with the abdominal cavity is best described as which of the following?",
+        "q": "A 28-year-old pregnant woman is explained the anatomy of the birth canal. The physician describes the division of the pelvis. The superior region, which is actually considered part of the abdominal cavity, is known as the:",
         "a": [
           "True pelvis",
           "Lesser pelvis",
           "False pelvis",
           "Pelvic outlet",
-          "Perineal space"
+          "Ischiorectal fossa"
         ],
         "c": 2,
-        "l": "The false pelvis is the superior region and is considered part of the abdominal cavity.",
-        "h": "Superior = abdominal"
+        "l": "The pelvis is divided into two regions: the superior 'false' (greater) pelvis, which is part of the abdomen, and the inferior 'true' (lesser) pelvis.",
+        "h": "Distinguish between the greater and lesser pelvis."
       },
       {
-        "q": "Which structure separates the false pelvis from the true pelvis?",
+        "q": "During a pelvic examination, a resident is asked to identify the landmark that separates the false pelvis from the true pelvis. This boundary is defined as the:",
         "a": [
           "Pelvic outlet",
           "Pelvic inlet",
-          "Sacral hiatus",
-          "Ischial spine",
-          "Obturator foramen"
+          "Pectinate line",
+          "Pubic symphysis",
+          "Ischial spine"
         ],
         "c": 1,
-        "l": "The pelvic inlet separates the false pelvis (above) from the true pelvis (below).",
-        "h": "Key boundary"
+        "l": "The pelvic inlet (superior pelvic aperture) separates the false and true pelvis.",
+        "h": "Identify the transition point between pelvic regions."
       },
       {
-        "q": "The pelvic inlet is formed by which of the following anatomical structures?",
+        "q": "A surgeon is performing an emergency laparoscopy and identifies the pelvic brim. This structure, which forms the pelvic inlet, runs from the superior margin of the pubic symphysis to which posterior landmark?",
         "a": [
-          "Pelvic outlet and ischial tuberosities",
-          "Pelvic brim from sacral promontory to pubic symphysis",
-          "Sacral hiatus to coccyx",
-          "Ischial spines and pubic crest",
-          "Greater sciatic notch"
+          "Ischial tuberosity",
+          "Coccyx",
+          "Sacral promontory",
+          "Iliac crest",
+          "Obturator internus"
         ],
-        "c": 1,
-        "l": "The pelvic inlet is formed by the pelvic brim, which extends from the sacral promontory to the superior margin of the pubic symphysis.",
-        "h": "Brim defines inlet"
+        "c": 2,
+        "l": "The pelvic inlet is formed by the pelvic brim, extending from the posterior sacral promontory to the superior margin of the pubic symphysis.",
+        "h": "Recall the boundaries of the pelvic inlet."
       },
       {
-        "q": "A gynecologic exam identifies the vaginal fornix. Which part of the fornix is deepest and clinically most important?",
+        "q": "A medical student is performing a pelvic exam and palpates the recess around the cervix. Which part of the vaginal fornix is the deepest and directly related to the rectouterine pouch (Pouch of Douglas)?",
         "a": [
           "Anterior fornix",
-          "Posterior fornix",
           "Lateral fornix",
-          "Inferior fornix",
-          "Central fornix"
-        ],
-        "c": 1,
-        "l": "The posterior vaginal fornix is the deepest and is related to the rectouterine pouch (pouch of Douglas).",
-        "h": "Deepest = posterior"
-      },
-      {
-        "q": "Fluid accumulation in the most dependent part of the female peritoneal cavity is most likely to be found in which location?",
-        "a": [
+          "Posterior fornix",
           "Uterovesical pouch",
-          "Rectouterine pouch (pouch of Douglas)",
-          "Broad ligament",
-          "Mesosalpinx",
-          "Ovarian fossa"
+          "Vaginal vestibule"
+        ],
+        "c": 2,
+        "l": "The posterior vaginal fornix is the deepest part and is clinically significant due to its close relationship with the rectouterine pouch (Pouch of Douglas).",
+        "h": "Relate vaginal anatomy to the Pouch of Douglas."
+      },
+      {
+        "q": "During a hysterectomy, the surgeon identifies the structures lateral to the vaginal fornix. Which of the following is located in this lateral relation?",
+        "a": [
+          "Bladder",
+          "Uterine artery and vein",
+          "Rectum",
+          "Uterovesical pouch",
+          "Urethra"
         ],
         "c": 1,
-        "l": "The rectouterine pouch (pouch of Douglas) is the lowest point and is accessed via the posterior vaginal fornix.",
-        "h": "Lowest point"
-      },
-      {
-        "q": "Which structure is related anteriorly to the vaginal fornix?",
-        "a": [
-          "Rectouterine pouch",
-          "Broad ligament",
-          "Uterovesical pouch and bladder",
-          "Ovarian vessels",
-          "Sigmoid colon"
-        ],
-        "c": 2,
-        "l": "The anterior fornix is related to the uterovesical pouch and superior surface of the bladder.",
-        "h": "Anterior = bladder"
-      },
-      {
-        "q": "The lateral vaginal fornix is closely related to which of the following?",
-        "a": [
-          "Rectum",
-          "Bladder",
-          "Broad ligament and uterine vessels",
-          "Ovary only",
-          "Sigmoid colon"
-        ],
-        "c": 2,
         "l": "The lateral fornix is related to the broad ligament and the uterine artery and vein.",
-        "h": "Think uterine vessels"
+        "h": "Understand the lateral relations of the cervix."
       },
       {
-        "q": "A ligament connects the uterine fundus to the labia majora. Which ligament is this?",
+        "q": "A patient presents with acute pelvic pain, and ultrasound suggests torsion of the ovary. A decrease in blood flow is noted in the ligament that connects the ovary to the lateral pelvic wall. This ligament is the:",
         "a": [
+          "Round ligament",
           "Ovarian ligament",
+          "Suspensory ligament of the ovary",
+          "Cardinal ligament",
+          "Broad ligament"
+        ],
+        "c": 2,
+        "l": "The suspensory ligament of the ovary (infundibulopelvic ligament) connects the ovary to the lateral pelvic wall and contains the ovarian vessels.",
+        "h": "Identify the ligament containing the ovarian artery."
+      },
+      {
+        "q": "During an oophorectomy, the surgeon must be extremely careful when ligating the suspensory ligament of the ovary because of its close proximity to which structure passing posterior and inferior to it?",
+        "a": [
+          "Uterine artery",
+          "Ureter",
+          "Obturator nerve",
+          "External iliac vein",
+          "Inferior vena cava"
+        ],
+        "c": 1,
+        "l": "The suspensory ligament is close to the ureter, which passes posterior and inferior to the ovarian vessels ('water under the bridge' concept also applies to uterine artery/ureter).",
+        "h": "Recall the surgical danger zone near the ovary."
+      },
+      {
+        "q": "A 22-year-old female presents with pain in the labia majora. The physician explains that a ligament originating from the uterine horn fundus terminates here. This is the:",
+        "a": [
+          "Cardinal ligament",
+          "Broad ligament",
           "Round ligament of the uterus",
           "Suspensory ligament",
-          "Broad ligament",
-          "Cardinal ligament"
-        ],
-        "c": 1,
-        "l": "The round ligament extends from the uterine fundus to the labia majora.",
-        "h": "Round = to labia"
-      },
-      {
-        "q": "Which ligament connects the ovary to the lateral pelvic wall and contains ovarian vessels?",
-        "a": [
-          "Ovarian ligament",
-          "Broad ligament",
-          "Suspensory ligament of ovary",
-          "Round ligament",
-          "Cardinal ligament"
+          "Mesovarium"
         ],
         "c": 2,
-        "l": "The suspensory ligament of the ovary connects it to the lateral pelvic wall and carries ovarian vessels.",
-        "h": "Contains vessels"
+        "l": "The round ligament of the uterus connects the uterine fundus/horn to the labia majora, passing through the inguinal canal.",
+        "h": "Trace the path of the round ligament."
       },
       {
-        "q": "During pelvic surgery, which structure is most at risk of injury due to its close relationship with the suspensory ligament of the ovary?",
+        "q": "A pathology report mentions inflammation of the mesosalpinx. This structure is a specific part of which larger peritoneal fold?",
         "a": [
-          "Bladder",
-          "Rectum",
-          "Ureter",
-          "Appendix",
-          "Sigmoid colon"
-        ],
-        "c": 2,
-        "l": "The ureter passes posterior and inferior to the suspensory ligament and is at risk during procedures.",
-        "h": "Water under the bridge"
-      },
-      {
-        "q": "Which ligament connects the ovary to the uterus?",
-        "a": [
-          "Round ligament",
-          "Broad ligament",
-          "Ovarian ligament",
-          "Suspensory ligament",
-          "Cardinal ligament"
-        ],
-        "c": 2,
-        "l": "The ovarian ligament connects the ovary to the lateral uterus.",
-        "h": "Ovary → uterus"
-      },
-      {
-        "q": "Which ligament provides major support by connecting the cervix to the lateral pelvic wall?",
-        "a": [
-          "Round ligament",
-          "Suspensory ligament",
           "Cardinal ligament",
           "Broad ligament",
+          "Round ligament",
+          "Suspensory ligament",
           "Ovarian ligament"
         ],
-        "c": 2,
-        "l": "The cardinal (transverse cervical) ligament connects the cervix to the pelvic side wall and provides support.",
-        "h": "Cervix support"
+        "c": 1,
+        "l": "The broad ligament is composed of the mesosalpinx (tube), mesovarium (ovary), and mesometrium (uterus).",
+        "h": "Identify components of the broad ligament."
       },
       {
-        "q": "Which structure is formed by peritoneum and supports the uterus, ovaries, and uterine tubes?",
+        "q": "Which ligament is considered the primary support of the uterus, connecting the cervix to the lateral pelvic wall?",
         "a": [
-          "Ovarian ligament",
-          "Broad ligament",
           "Round ligament",
-          "Cardinal ligament",
-          "Suspensory ligament"
-        ],
-        "c": 1,
-        "l": "The broad ligament supports pelvic organs and includes mesosalpinx, mesovarium, and mesometrium.",
-        "h": "Peritoneal fold"
-      },
-      {
-        "q": "A patient presents with acute pelvic pain due to ovarian torsion. What is the primary complication?",
-        "a": [
-          "Hemorrhage",
-          "Infection",
-          "Ovarian ischemia",
-          "Uterine rupture",
-          "Bladder compression"
+          "Ovarian ligament",
+          "Cardinal (Transverse cervical) ligament",
+          "Suspensory ligament",
+          "Mesometrium"
         ],
         "c": 2,
-        "l": "Ovarian torsion compromises blood flow, leading to ovarian ischemia.",
-        "h": "Twisting cuts blood"
+        "l": "The Cardinal (Transverse cervical) ligament connects the cervix to the pelvic side wall and provides major uterine support.",
+        "h": "Identify the cardinal ligament's function."
       },
       {
-        "q": "Which of the following structures is NOT part of the male reproductive system?",
+        "q": "A student is asked to trace the pathway of sperm during ejaculation. After leaving the epididymis, sperm enter which structure?",
         "a": [
-          "Vas deferens",
+          "Ejaculatory duct",
           "Seminal vesicles",
-          "Ejaculatory duct",
-          "Ovary",
-          "Prostate"
-        ],
-        "c": 3,
-        "l": "The ovary is a female reproductive organ, not part of the male system.",
-        "h": "Male vs female"
-      },
-      {
-        "q": "A student recalls the sperm pathway using SEVEN UP. Which structure comes immediately after the epididymis?",
-        "a": [
-          "Seminiferous tubules",
           "Vas deferens",
-          "Ejaculatory duct",
-          "Urethra",
-          "Penis"
+          "Seminiferous tubules",
+          "Urethra"
         ],
-        "c": 1,
-        "l": "Sperm flows: seminiferous tubules → epididymis → vas deferens → ejaculatory duct → urethra → penis.",
-        "h": "Next step"
+        "c": 2,
+        "l": "The pathway (SEVEN UP) is: Seminiferous tubules, Epididymis, Vas deferens, Ejaculatory duct, (Nothing), Urethra, Penis.",
+        "h": "Memorize the SEVEN UP mnemonic."
       },
       {
-        "q": "Which of the following correctly describes venous drainage of the left testis?",
+        "q": "A 65-year-old male undergoes a Digital Rectal Examination (DRE) for prostate screening. The physician is palpating the prostate through the rectum. Which lobe of the prostate is most easily assessed this way?",
         "a": [
-          "Directly into IVC",
-          "Into left renal vein then IVC",
-          "Into portal vein",
-          "Into hepatic vein",
-          "Into splenic vein"
+          "Anterior lobe",
+          "Middle lobe",
+          "Posterior lobe",
+          "Right lateral lobe",
+          "Left lateral lobe"
         ],
-        "c": 1,
-        "l": "The left gonadal vein drains into the left renal vein before reaching the IVC.",
-        "h": "Left → renal → IVC"
+        "c": 2,
+        "l": "The prostate is divided into 5 lobes; the posterior lobe is easily palpated during a rectal examination.",
+        "h": "Understand the clinical anatomy of the prostate."
       },
       {
-        "q": "Which anatomical landmark divides the upper and lower parts of the anal canal?",
+        "q": "A patient is found to have a tumor in the left ovary that has spread via the venous system. Blood from the left gonadal vein drains directly into the:",
+        "a": [
+          "Inferior Vena Cava (IVC)",
+          "Left renal vein",
+          "Internal iliac vein",
+          "Hepatic portal vein",
+          "Splenic vein"
+        ],
+        "c": 1,
+        "l": "The left gonadal vein drains into the left renal vein, whereas the right gonadal vein drains directly into the IVC.",
+        "h": "Contrast left and right gonadal venous drainage."
+      },
+      {
+        "q": "A patient presents with internal hemorrhoids. These are located above the pectinate line. What is the embryonic origin and epithelial lining of this upper region?",
+        "a": [
+          "Ectoderm; Stratified squamous",
+          "Endoderm; Columnar epithelium",
+          "Mesoderm; Simple squamous",
+          "Endoderm; Stratified squamous",
+          "Ectoderm; Columnar epithelium"
+        ],
+        "c": 1,
+        "l": "Above the pectinate line, the canal is derived from endoderm and lined by columnar epithelium.",
+        "h": "Recall the embryology of the anal canal."
+      },
+      {
+        "q": "A physician is managing a patient with painful external hemorrhoids located below the pectinate line. Which nerve provides sensory innervation to this area?",
+        "a": [
+          "Autonomic hypogastric plexus",
+          "Inferior rectal nerve",
+          "Superior mesenteric nerve",
+          "Vagus nerve",
+          "Pelvic splanchnic nerves"
+        ],
+        "c": 1,
+        "l": "The area below the pectinate line is innervated by the somatic inferior rectal nerve (a branch of the pudendal nerve).",
+        "h": "Distinguish between autonomic and somatic anal innervation."
+      },
+      {
+        "q": "A 30-year-old male is being treated for erectile dysfunction. Erection is primarily a parasympathetic response mediated by which chemical messenger?",
+        "a": [
+          "Norepinephrine",
+          "Acetylcholine",
+          "Nitric Oxide (NO)",
+          "Serotonin",
+          "Dopamine"
+        ],
+        "c": 2,
+        "l": "Erection is caused by an increase in Nitric Oxide (NO), which leads to increased cGMP and vasodilation.",
+        "h": "Understand the physiology of erection."
+      },
+      {
+        "q": "A patient has an infection in the distal 1/3 of the vagina. Which lymph nodes would you expect to be the first to show lymphadenopathy?",
+        "a": [
+          "External iliac nodes",
+          "Inferior mesenteric nodes",
+          "Superficial inguinal nodes",
+          "Hypogastric nodes",
+          "Para-aortic nodes"
+        ],
+        "c": 2,
+        "l": "The distal 1/3 of the vagina, vulva, and scrotum drain to the superficial inguinal nodes.",
+        "h": "Recall pelvic lymphatic drainage patterns."
+      },
+      {
+        "q": "An obstetrician performs a pudendal nerve block to provide anesthesia for an episiotomy. To correctly locate the pudendal (Alcock's) canal, the physician palpates for which bony landmark?",
         "a": [
           "Ischial spine",
+          "Pubic tubercle",
           "Sacral promontory",
-          "Pectinate line",
-          "Obturator foramen",
-          "Perineal body"
+          "Ischial tuberosity",
+          "Iliac crest"
         ],
-        "c": 2,
-        "l": "The pectinate (dentate) line divides the anal canal into upper and lower parts with different embryologic origins.",
-        "h": "Important line"
-      },
-      {
-        "q": "A patient has erectile dysfunction due to impaired nitric oxide signaling. Which second messenger is directly increased by nitric oxide to cause erection?",
-        "a": [
-          "cAMP",
-          "cGMP",
-          "IP3",
-          "DAG",
-          "ATP"
-        ],
-        "c": 1,
-        "l": "Nitric oxide increases cGMP, leading to smooth muscle relaxation and erection.",
-        "h": "NO → cGMP"
+        "c": 3,
+        "l": "For a pudendal nerve block, the finger is placed at the tip of the ischial spine (often near the tuberosity/sacrospinous ligament) to identify the nerve as it exits the canal.",
+        "h": "Locate the landmark for a pudendal block."
       }
     ],
     "2. Formative": [
