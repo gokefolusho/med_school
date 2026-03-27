@@ -336,8 +336,8 @@
           "Contains a perineal branch of the fifth lumbar nerve"
         ],
         "c": 1,
-        "l": "The ischiorectal fossa contains fat, inferior rectal nerve and vessels, and perineal branches of the posterior femoral cutaneous nerve.",
-        "h": "Ischiorectal contents"
+        "l": "The ischiorectal fossa is bounded posteriorly by the gluteus maximus and the sacrotuberous ligament. It contains fat, the inferior rectal nerve and vessels, and perineal branches of the posterior femoral cutaneous nerve. The pudendal canal runs along its lateral wall. Urine leaking from a ruptured bulb of the penis does not spread into the ischiorectal fossa because Scarpa’s fascia ends by firm attachment to the fascia lata of the thigh.",
+        "h": "Know the contents and boundaries of the ischiorectal fossa."
       },
       {
         "q": "A general surgeon is giving a lecture to a team of surgery residents. She describes characteristics of structures above the pectinate line of the anal canal, which include:",
@@ -349,8 +349,8 @@
           "External hemorrhoids"
         ],
         "c": 3,
-        "l": "Above the pectinate line = visceral innervation, portal drainage, internal hemorrhoids.",
-        "h": "Above = visceral"
+        "l": "The pectinate line is a point of demarcation between visceral and somatic portions of the anal canal. Characteristics above the pectinate line include columnar epithelium, venous drainage into the portal system, lymphatic drainage into the internal iliac nodes, visceral sensory innervation, and internal hemorrhoids.",
+        "h": "Above the pectinate line = visceral."
       },
       {
         "q": "An obstetrician is about to perform a pudendal block so a woman can experience less pain when she delivers her child. He recalls what he learned in medical school about this nerve. Which of the following statements is correct?",
@@ -362,8 +362,8 @@
           "It arises from the lumbar plexus."
         ],
         "c": 3,
-        "l": "Pudendal nerve is blocked at ischial spine.",
-        "h": "Key landmark"
+        "l": "Pudendal block: A finger is placed on the ischial spine and the needle is inserted in the direction of the tip of the finger on the spine.",
+        "h": "The pudendal nerve is blocked near the ischial spine."
       },
       {
         "q": "A 6 month-old male infant is admitted to the children’s hospital because he has no testis in his scrotum. During physical examination, the pediatrician palpated the testis in the inguinal canal. What is the diagnosis of this condition?",
@@ -375,8 +375,8 @@
           "Chordee"
         ],
         "c": 3,
-        "l": "Undescended testis = cryptorchidism.",
-        "h": "Inguinal testis"
+        "l": "Cryptorchid testis is called an undescended testis, which is located in the inguinal region. Male pseudohermaphroditism is a condition in which the affected individual is a genetic and gonadal male with genital anomalies. Hypospadias occurs when the spongy urethra opens on the underside of the penis, frequently associated with the chordee, which is a ventral curvature of the penis. Epispadias occurs when the urethra opens on the dorsal surface of the penis.",
+        "h": "Testis in inguinal canal = undescended testis."
       },
       {
         "q": "A 21-year-old man is involved in a highspeed motor vehicle accident. As a result, he has extensive damage to his sphincter urethrae. Which of the following best describes the injured sphincter urethrae?",
@@ -388,8 +388,8 @@
           "Part of the pelvic diaphragm"
         ],
         "c": 1,
-        "l": "Striated muscle innervated by perineal nerve.",
-        "h": "Deep perineal"
+        "l": "The sphincter urethrae is striated muscle that lies in the deep perineal space and forms a part of the urogenital diaphragm but not the pelvic diaphragm. It is not enclosed in the pelvic fascia. It is innervated by a deep (muscular) branch of the perineal nerve.",
+        "h": "Sphincter urethrae is striated and in the deep perineal space."
       },
       {
         "q": "A 26-year-old man comes to a hospital with fever, nausea, pain, and itching in the perineal region. On examination by a urologist, he is diagnosed as having infected bulbourethral (Cowper’s) glands. Which of the following structures is/are affected by this infection?",
@@ -401,8 +401,8 @@
           "Seminal vesicles"
         ],
         "c": 1,
-        "l": "Cowper glands lie in sphincter urethrae.",
-        "h": "Deep space"
+        "l": "The bulbourethral glands lie on either side of the membranous urethra, embedded in the sphincter urethrae.",
+        "h": "Cowper’s glands are embedded in sphincter urethrae."
       },
       {
         "q": "A 49-year-old woman has a large mass on the pelvic brim. Which of the following structures is most likely compressed by this mass when crossing the pelvic brim?",
@@ -414,8 +414,8 @@
           "Lumbosacral trunk"
         ],
         "c": 4,
-        "l": "Lumbosacral trunk crosses brim.",
-        "h": "Crossing structure"
+        "l": "All of the listed structures do not cross the pelvic brim except the lumbosacral trunk, which arises from L4 and L5, enters the true pelvis by crossing the pelvic brim, and contributes to the formation of the sacral plexus. The deep dorsal vein of the penis enters the pelvic cavity by passing under the symphysis pubis between the arcuate and transverse perineal ligaments.",
+        "h": "The lumbosacral trunk crosses the pelvic brim."
       },
       {
         "q": "After repair of a ruptured diverticulum, a 31-year-old patient begins to spike with fever and complains of abdominal pain. An infection in the deep perineal space would most likely damage which of the following structures?",
@@ -427,8 +427,8 @@
           "Bulbospongiosus"
         ],
         "c": 3,
-        "l": "Deep = sphincter urethrae.",
-        "h": "Deep vs superficial"
+        "l": "The sphincter urethrae is found in the deep perineal space, whereas the other structures are located in the superficial perineal space.",
+        "h": "Deep perineal space contains sphincter urethrae."
       },
       {
         "q": "A 37-year-old woman complains of a bearing-down sensation in her womb and an increased frequency of and burning sensation on urination. On examination by her gynecologist, she is diagnosed with a uterine prolapse. Which of the following structures provides the primary support for the cervix of the uterus?",
@@ -440,8 +440,8 @@
           "Suspensory ligament of the ovary"
         ],
         "c": 2,
-        "l": "Cardinal ligament supports cervix.",
-        "h": "Main support"
+        "l": "The cardinal (transverse cervical) ligament provides the major ligamentous support for the uterus.",
+        "h": "Main support of the cervix = cardinal ligament."
       },
       {
         "q": "A woman is delivering a breech baby. The obstetrician decides that it is best to perform a mediolateral episiotomy. Which of the following structures should the obstetrician avoid incising?",
@@ -453,8 +453,8 @@
           "Perineal membrane"
         ],
         "c": 3,
-        "l": "Avoid levator ani.",
-        "h": "Pelvic floor"
+        "l": "An obstetrician should avoid incising the levator ani and the external anal sphincter.",
+        "h": "Avoid the pelvic floor."
       },
       {
         "q": "During pelvic surgery, a surgeon notices severe bleeding from the artery that remains within the true pelvis. Which of the following arteries is most likely to be injured?",
@@ -466,8 +466,8 @@
           "Inferior gluteal artery"
         ],
         "c": 2,
-        "l": "Uterine artery stays in pelvis.",
-        "h": "Pelvic vessel"
+        "l": "Of all the arteries listed, the uterine artery remains within the pelvic cavity.",
+        "h": "Uterine artery stays within the true pelvis."
       },
       {
         "q": "A neurosurgeon performs surgical resection of a rare meningeal tumor in the sacral region. He tries to avoid an injury of the nerve that arises from the lumbosacral plexus and remains within the abdominal or pelvic cavity. To which of the following nerves should he pay particular attention?",
@@ -479,8 +479,8 @@
           "Lateral femoral cutaneous nerve"
         ],
         "c": 2,
-        "l": "Lumbosacral trunk.",
-        "h": "Important trunk"
+        "l": "The lumbosacral trunk is formed by part of the ventral ramus of the fourth lumbar nerve and the ventral ramus of the fifth lumbar nerve.",
+        "h": "The lumbosacral trunk remains in the pelvis."
       },
       {
         "q": "A 16-year-old boy presents to the emergency department with rupture of the penile urethra. Extravasated urine from this injury can spread into which of the following structures?",
@@ -492,8 +492,8 @@
           "Thigh"
         ],
         "c": 0,
-        "l": "Urine spreads to scrotum.",
-        "h": "Superficial space"
+        "l": "Extravasated urine from the penile urethra below the perineal membrane spreads into the superficial perineal space, scrotum, penis, and anterior abdominal wall. However, it does not spread into the testis, ischiorectal fossa, pelvic cavity, and thigh because Scarpa’s fascia ends by firm attachment to the fascia lata of the thigh.",
+        "h": "Penile urethral rupture spreads into the superficial perineal space."
       },
       {
         "q": "A 48-year-old college football coach undergoes a radical prostatectomy for a malignant tumor in his prostate. Following surgery, he is incapable of achieving an erection. Which of the following nerves is most likely damaged during the surgery?",
@@ -505,8 +505,138 @@
           "Posterior scrotal nerve"
         ],
         "c": 1,
-        "l": "Pelvic splanchnic = erection.",
-        "h": "Parasympathetic"
+        "l": "Parasympathetic preganglionic fibers in the pelvic splanchnic nerve are responsible for erection of the penis. Sympathetic preganglionic fibers in the sacral splanchnic nerve are responsible for ejaculation. The pudendal nerve supplies the external anal sphincter and perineal muscles and supplies GSA fibers to the perineal region. The dorsal nerve of the penis is a terminal branch of the pudendal nerve and supplies sensation of the penis. The posterior scrotal nerves are superficial branches of the perineal nerve and supply sensory fibers to the scrotum.",
+        "h": "Erection = pelvic splanchnic nerve."
+      },
+      {
+        "q": "While performing a pelvic exenteration, the surgical oncologist notices a fractured or ruptured boundary of the pelvic inlet. Which of the following structures is most likely damaged?",
+        "a": [
+          "Promontory of the sacrum",
+          "Anterior–inferior iliac spine",
+          "Inguinal ligament",
+          "Iliac crest",
+          "Arcuate pubic ligament"
+        ],
+        "c": 0,
+        "l": "The pelvic inlet (pelvic brim) is bounded by the promontory and the anterior border of the ala of the sacrum, the arcuate line of the ilium, the pectineal line, the pubic crest, and the superior margin of the pubic symphysis.",
+        "h": "Promontory of sacrum is part of the pelvic inlet."
+      },
+      {
+        "q": "A 32-year-old patient with multiple fractures of the pelvis has no cutaneous sensation in the urogenital triangle. The function of which of the following nerves is most likely to be spared?",
+        "a": [
+          "Ilioinguinal nerve",
+          "Iliohypogastric nerve",
+          "Posterior cutaneous nerve of the thigh",
+          "Pudendal nerve",
+          "Genitofemoral nerve"
+        ],
+        "c": 1,
+        "l": "The iliohypogastric nerve innervates the skin above the pubis. The skin of the urogenital triangle is innervated by the pudendal nerve, perineal branches of the posterior femoral cutaneous nerve, anterior scrotal or labial branches of the ilioinguinal nerve, and the genital branch of the genitofemoral nerve.",
+        "h": "Iliohypogastric supplies skin above the pubis, not the urogenital triangle."
+      },
+      {
+        "q": "A 22-year-old victim of an automobile accident has received destructive damage to structures that form the boundary of the perineum. Which of the following structures is spared?",
+        "a": [
+          "Pubic arcuate ligament",
+          "Tip of the coccyx",
+          "Ischial tuberosities",
+          "Sacrospinous ligament",
+          "Sacrotuberous ligament"
+        ],
+        "c": 3,
+        "l": "The sacrospinous ligament forms a boundary of the lesser sciatic foramen.",
+        "h": "Know the boundaries of the perineum."
+      },
+      {
+        "q": "A 32-year-old man undergoes vasectomy as a means of permanent birth control. A physician performing the vasectomy by making an incision on each side of the scrotum should remember which of the following statements most applicable to the scrotum?",
+        "a": [
+          "It is innervated by the ilioinguinal and genitofemoral nerves.",
+          "It receives blood primarily from the testicular artery.",
+          "Its venous blood drains primarily into the renal vein on the left.",
+          "Its lymphatic drainage is primarily into upper lumbar nodes.",
+          "Its dartos tunic is continuous with the perineal membrane."
+        ],
+        "c": 0,
+        "l": "The scrotum is innervated by branches of the ilioinguinal, genitofemoral, pudendal, and posterior femoral cutaneous nerves.",
+        "h": "Scrotal sensory innervation includes ilioinguinal and genitofemoral."
+      },
+      {
+        "q": "A sexually active adolescent presents with an infection within the ischiorectal fossa. Which of the following structures is most likely injured?",
+        "a": [
+          "Vestibular bulb",
+          "Seminal vesicle",
+          "Greater vestibular gland",
+          "Inferior rectal nerve",
+          "Internal pudendal artery"
+        ],
+        "c": 3,
+        "l": "The ischiorectal fossa contains the inferior rectal nerves and vessels and adipose tissue.",
+        "h": "The inferior rectal nerve runs in the ischiorectal fossa."
+      },
+      {
+        "q": "A 62-year-old man is incapable of penile erection after rectal surgery with prostatectomy. The patient most likely has a lesion of which of the following nerves?",
+        "a": [
+          "Dorsal nerve of the penis",
+          "Perineal nerve",
+          "Hypogastric nerve",
+          "Sacral splanchnic nerve",
+          "Pelvic splanchnic nerve"
+        ],
+        "c": 4,
+        "l": "The pelvic splanchnic nerve contains preganglionic parasympathetic fibers, whereas the sacral splanchnic nerve contains preganglionic sympathetic fibers. Parasympathetic fibers are responsible for erection.",
+        "h": "Erection = parasympathetic = pelvic splanchnic."
+      },
+      {
+        "q": "A 39-year-old man is unable to expel the last drops of urine from the urethra at the end of micturition because of paralysis of the external urethral sphincter and bulbospongiosus muscles. This condition may occur as a result of injury to which of the following nervous structures?",
+        "a": [
+          "Pelvic plexus",
+          "Prostatic plexus",
+          "Pudendal nerve",
+          "Pelvic splanchnic nerve",
+          "Sacral splanchnic nerve"
+        ],
+        "c": 2,
+        "l": "The perineal branch of the pudendal nerve supplies the external urethral sphincter and bulbospongiosus muscles in the male.",
+        "h": "Perineal muscles are supplied by the pudendal nerve."
+      },
+      {
+        "q": "A 22-year-old man has a gonorrheal infection that has infiltrated the space between the inferior fascia of the urogenital diaphragm and the superficial perineal fascia. Which of the following structures might be inflamed?",
+        "a": [
+          "Bulb of the penis",
+          "Bulbourethral gland",
+          "Membranous part of the male urethra",
+          "Deep transverse perineal muscle",
+          "Sphincter urethrae"
+        ],
+        "c": 0,
+        "l": "The bulb of the penis is located in the superficial perineal space between the inferior fascia of the urogenital diaphragm and the membranous layer of the superficial perineal fascia (Colles’s fascia). All of the other structures are found in the deep perineal pouch.",
+        "h": "Between Colles’ fascia and the inferior fascia = superficial perineal space."
+      },
+      {
+        "q": "An obstetrician performs a median episiotomy on a woman before parturition to prevent uncontrolled tearing. If the perineal body is damaged, the function of which of the following muscles might be impaired?",
+        "a": [
+          "Ischiocavernosus and sphincter urethrae",
+          "Deep transverse perineal and obturator internus",
+          "Bulbospongiosus and superficial transverse perineal",
+          "External anal sphincter and sphincter urethrae",
+          "Bulbospongiosus and ischiocavernosus"
+        ],
+        "c": 2,
+        "l": "The perineal body (central tendon of the perineum) is a fibromuscular node at the center of the perineum.",
+        "h": "Perineal body is attached to bulbospongiosus and superficial transverse perineal."
+      },
+      {
+        "q": "A 42-year-old woman who has had six children develops a weakness of the urogenital diaphragm. Paralysis of which of the following muscles would cause such a symptom?",
+        "a": [
+          "Sphincter urethrae",
+          "Coccygeus",
+          "Superficial transversus perinei",
+          "Levator ani",
+          "Obturator internus"
+        ],
+        "c": 0,
+        "l": "The urogenital diaphragm consists of the sphincter urethrae and deep transverse perineal muscles.",
+        "h": "Urogenital diaphragm includes sphincter urethrae."
       },
       {
         "q": "A 58-year-old man is diagnosed as having a slowly growing tumor in the deep perineal space. Which of the following structures would most likely be injured?",
@@ -518,8 +648,21 @@
           "Great vestibular gland"
         ],
         "c": 0,
-        "l": "Deep = bulbourethral glands.",
-        "h": "Deep space"
+        "l": "The deep perineal space contains the bulbourethral (Cowper’s) glands. The crus of the penis, bulb of the vestibule, spongy urethra, and great vestibular gland are found in the superficial perineal space.",
+        "h": "Deep perineal space contains bulbourethral glands."
+      },
+      {
+        "q": "A 46-year-old woman has a history of infection in her perineal region. A comprehensive examination reveals a tear of the superior boundary of the superficial perineal space. Which of the following structures would most likely be injured?",
+        "a": [
+          "Pelvic diaphragm",
+          "Colles’s fascia",
+          "Superficial perineal fascia",
+          "Deep perineal fascia",
+          "Perineal membrane"
+        ],
+        "c": 4,
+        "l": "The superior boundary of the superficial perineal space is the perineal membrane.",
+        "h": "Superior boundary of the superficial perineal space = perineal membrane."
       },
       {
         "q": "A 37-year-old small business manager receives a gunshot wound in the pelvic cavity, resulting in a lesion of the sacral splanchnic nerves. Which of the following nerve fibers would primarily be damaged?",
@@ -531,8 +674,8 @@
           "Postganglionic sympathetic and parasympathetic fibers"
         ],
         "c": 2,
-        "l": "Preganglionic sympathetic.",
-        "h": "Sacral splanchnic"
+        "l": "The sacral splanchnic nerves consist primarily of preganglionic sympathetic neurons and also contain GVA fibers. None of the other fibers listed are contained in these nerves.",
+        "h": "Sacral splanchnic nerves carry sympathetic fibers."
       },
       {
         "q": "A 29-year-old woman is admitted to a hospital because the birth of her child is several days overdue. Tearing of the pelvic diaphragm during childbirth leads to paralysis of which of the following muscles?",
@@ -544,8 +687,8 @@
           "Sphincter ani externus"
         ],
         "c": 3,
-        "l": "Levator ani.",
-        "h": "Pelvic diaphragm"
+        "l": "The pelvic diaphragm is formed by the levator ani and coccygeus, whereas the urogenital diaphragm consists of the sphincter urethrae and deep transverse perinei muscles.",
+        "h": "Pelvic diaphragm = levator ani + coccygeus."
       },
       {
         "q": "A 29-year-old carpenter sustains severe injuries of the pelvic splanchnic nerve by a deep puncture wound, which has become contaminated. The injured parasympathetic preganglionic fibers in the splanchnic nerve are most likely to synapse in which of the following ganglia?",
@@ -557,8 +700,8 @@
           "Ganglion imparment"
         ],
         "c": 0,
-        "l": "Pelvic plexus ganglia.",
-        "h": "Parasympathetic"
+        "l": "The pelvic splanchnic nerves carry preganglionic parasympathetic general visceral efferent fibers that synapse in the ganglia of the inferior hypogastric plexus and in terminal ganglia in the muscular walls of the pelvic organs.",
+        "h": "Pelvic splanchnic nerves synapse in pelvic plexus or terminal ganglia."
       },
       {
         "q": "On a busy Saturday night in Chicago, a 16-year-old boy presents to the emergency department with a stab wound from a knife that entered the pelvis above the piriformis muscle. Which of the following structures is most likely to be damaged?",
@@ -570,8 +713,8 @@
           "Posterior femoral cutaneous nerve"
         ],
         "c": 2,
-        "l": "Above piriformis = superior gluteal nerve.",
-        "h": "Above piriformis"
+        "l": "The superior gluteal nerve leaves the pelvis through the greater sciatic foramen, above the piriformis.",
+        "h": "Above piriformis = superior gluteal nerve."
       }
     ]
   }
