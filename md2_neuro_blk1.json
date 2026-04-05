@@ -1,0 +1,676 @@
+{
+  "moduleTitle": "Neuroscience: Block 2",
+  "hero": {
+    "badge": "MD2 Neuroscience",
+    "title": "🧠 Neuro Block 2",
+    "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
+  },
+  "sections": [
+    {
+      "id": "neuro-high-yield",
+      "title": "",
+      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+      "topics": [
+        {
+          "header": "Eye Movement & Gaze Control",
+          "content": "<ul><li><b>PPRF (Pons):</b> Horizontal gaze center → coordinates CN VI + CN III via MLF.</li><li><b>Frontal Eye Field (Area 8):</b> Drives contralateral gaze.</li><li><b>MLF:</b> Connects CN III & VI → lesion = INO (adduction failure + nystagmus).</li><li><b>INO:</b> Convergence intact (NOT CN III palsy).</li><li><b>One-and-a-half:</b> PPRF + MLF lesion → only one eye abducts.</li><li><b>Eight-and-a-half:</b> + CN VII palsy → facial weakness.</li></ul>"
+        },
+        {
+          "header": "Pupillary Reflex & Midbrain",
+          "content": "<ul><li><b>CN II → Pretectal → bilateral EW nuclei → CN III:</b> Pupillary constriction.</li><li><b>Pretectal lesion:</b> Loss of direct + consensual reflex.</li><li><b>CN III:</b> Eye down & out + ptosis + dilated pupil.</li><li><b>Nucleus of Cajal:</b> Vertical gaze holding.</li><li><b>Superior colliculus:</b> Visual reflex + head/eye movement (tectospinal/tectobulbar).</li></ul>"
+        },
+        {
+          "header": "Brainstem Localization (Rule Focus)",
+          "content": "<ul><li><b>Medial (3 M's):</b> Motor (corticospinal), Medial lemniscus, Motor CN (III, VI, XII).</li><li><b>Lateral:</b> Spinothalamic, CN V sensory, Sympathetic (Horner), Cerebellum.</li><li><b>Key:</b> Ipsilateral CN signs + contralateral body deficits.</li></ul>"
+        },
+        {
+          "header": "High-Yield Brainstem Syndromes",
+          "content": "<ul><li><b>Medial Medullary (ASA):</b> Contralateral paralysis + vibration loss + tongue deviation (toward lesion).</li><li><b>Wallenberg (PICA):</b> Dysphagia + hoarseness + ipsi face pain + contra body pain + Horner.</li><li><b>Medial Pontine:</b> CN VI palsy + contralateral hemiplegia.</li><li><b>Lateral Pontine (AICA):</b> Facial paralysis + hearing loss.</li><li><b>Weber (Midbrain):</b> CN III palsy + contralateral hemiplegia.</li><li><b>Benedict/Claude:</b> CN III + tremor/ataxia (tegmentum).</li><li><b>Parinaud:</b> Upward gaze palsy + light-near dissociation.</li></ul>"
+        },
+        {
+          "header": "Blood Supply (Ultra High Yield)",
+          "content": "<ul><li><b>PICA:</b> Lateral medulla → Wallenberg.</li><li><b>ASA:</b> Medial medulla.</li><li><b>AICA:</b> Lateral pons → facial + auditory.</li><li><b>Basilar:</b> Pons → locked-in.</li><li><b>PCA:</b> Midbrain syndromes.</li></ul>"
+        },
+        {
+          "header": "Cerebellum",
+          "content": "<ul><li><b>Function:</b> Coordination (NOT strength).</li><li><b>Vermis lesion:</b> Truncal ataxia.</li><li><b>Hemisphere lesion:</b> Ipsilateral limb ataxia.</li><li><b>Signs:</b> Dysmetria, intention tremor, dysdiadochokinesia.</li><li><b>Purkinje cells:</b> Only output (inhibitory).</li></ul>"
+        },
+        {
+          "header": "Cerebellopontine Angle",
+          "content": "<ul><li><b>CN VII + VIII:</b> Facial paralysis + hearing loss.</li><li><b>Cause:</b> Vestibular schwannoma.</li><li><b>Key clue:</b> Facial + auditory symptoms together.</li></ul>"
+        },
+        {
+          "header": "Inferior Olive & Guillain-Mollaret",
+          "content": "<ul><li><b>Pathway:</b> Dentate → Red nucleus → Inferior olive.</li><li><b>Lesion:</b> Hypertrophy (unique).</li><li><b>Signs:</b> Palatal myoclonus + ocular oscillations.</li></ul>"
+        },
+        {
+          "header": "Basal Ganglia Pathways",
+          "content": "<ul><li><b>Direct:</b> Facilitates movement (D1 ↑).</li><li><b>Indirect:</b> Inhibits movement (D2 ↓).</li><li><b>Dopamine:</b> Promotes movement (↑ direct, ↓ indirect).</li><li><b>Thalamus (VA/VL):</b> Output to cortex.</li></ul>"
+        },
+        {
+          "header": "Basal Ganglia Diseases",
+          "content": "<ul><li><b>Parkinson:</b> Dopamine ↓ → TRAP (tremor, rigidity, akinesia, postural instability).</li><li><b>Huntington:</b> AD, CAG repeat → chorea + dementia.</li><li><b>Wilson:</b> Copper → KF rings + movement + liver.</li><li><b>Hemiballismus:</b> STN lesion → flinging movements.</li><li><b>Sydenham:</b> Post-strep chorea (kids).</li><li><b>Tourette:</b> Motor + vocal tics.</li></ul>"
+        },
+        {
+          "header": "Pons (Exam Favorite)",
+          "content": "<ul><li><b>CN:</b> V, VI, VII, VIII.</li><li><b>PPRF:</b> Horizontal gaze.</li><li><b>Middle cerebellar peduncle:</b> Largest → coordination.</li><li><b>Lesions:</b> Facial + eye movement + motor signs.</li></ul>"
+        },
+        {
+          "header": "Exam Strategy",
+          "content": "<ul><li><b>Always localize:</b> Medial vs lateral + level (medulla, pons, midbrain).</li><li><b>Eye signs:</b> INO → MLF, gaze palsy → PPRF.</li><li><b>Facial weakness:</b> LMN = whole face, UMN = forehead spared.</li><li><b>CN combos:</b> VII + VIII = CP angle.</li><li><b>Movement disorder:</b> Think basal ganglia pathways.</li></ul>"
+        }
+      ]
+    }
+  ],
+  "quizzes": {
+    "neuro_batch1": [
+      {
+        "q": "All of the following tracts can be found in the anterior funiculus except.",
+        "a": [
+          "Dorsal spinocerebellar tract.",
+          "Tectospinal tract.",
+          "Anterior corticospinal tract.",
+          "Vestibulospinal tract."
+        ],
+        "c": 0,
+        "l": "The dorsal spinocerebellar tract is located in the lateral funiculus, not the anterior funiculus. The anterior funiculus contains tracts such as the tectospinal, anterior corticospinal, and vestibulospinal tracts.",
+        "h": "Think: which tract is NOT in the anterior column → spinocerebellar tracts run laterally"
+      },
+      {
+        "q": "A 55-year-old man injured his thoracic spine in a motor vehicle accident 2 years ago. Initially he had a bilateral spastic paraparesis and urinary urgency, but this has improved. He still has pain and thermal sensation loss on part of his left body and proprioception loss in his right foot. There is still a paralysis of the right lower extremity as well. In this patient, where would you expect the pain and temperature abnormalities to begin?",
+        "a": [
+          "Exactly at the level of the lesion",
+          "Four or five segments above the lesion",
+          "Four or five segments below the lesion",
+          "One or two segments above the lesion",
+          "One or two segments below the lesion"
+        ],
+        "c": 4,
+        "l": "Pain and temperature fibers (spinothalamic tract) ascend 1–2 spinal segments in Lissauer’s tract before crossing to the opposite side. Therefore, deficits begin one or two segments below the level of the lesion.",
+        "h": "Spinothalamic rule → enter → go up 1–2 levels → then cross"
+      },
+      {
+        "q": "In testing for motor dysfunctions, a neurologist identified an upward movement of the patient's toe when the plantar surface of his foot was scratched. This response is indicative of a lesion of a part of the nervous system. Which of the following is linked to this response?",
+        "a": [
+          "UMNs",
+          "LMNs",
+          "Peripheral nerves",
+          "Skeletal muscles",
+          "Autonomic nerves"
+        ],
+        "c": 0,
+        "l": "An upward movement of the toe (Babinski sign) indicates an upper motor neuron (UMN) lesion due to loss of corticospinal tract inhibition.",
+        "h": "Babinski = UMN lesion (corticospinal damage)"
+      },
+      {
+        "q": "The MRI of a 71-year-old woman reveals a defect in the territory served by the Anterior Spinal Artery. Which of the following combinations of structures is located within the territory of this vessel?",
+        "a": [
+          "Anterolateral system + medial lemniscus",
+          "Hypoglossal nerve root + Pyramids",
+          "Nucleus + anterolateral system",
+          "Spinothalamic tract + nucleus ambiguus",
+          "Vestibular nuclei + medial longitudinal fasciculus"
+        ],
+        "c": 1,
+        "l": "The anterior spinal artery supplies the medial medulla, including the pyramids (corticospinal tract) and hypoglossal nerve root. This is seen in medial medullary syndrome.",
+        "h": "ASA = medial medulla → pyramids + CN XII"
+      },
+      {
+        "q": "One week after birth of her first son, a mother brings the newborn to the hospital because he is having difficulty maintaining posture. On examination the infant has generalized muscle atrophy and diminished deep tendon reflexes. The patient condition can most likely be localized to which area of system?",
+        "a": [
+          "Dorsal root ganglion",
+          "Dorsal column of spinal cord",
+          "Anterior horn of spinal cord",
+          "Spinal ganglion"
+        ],
+        "c": 2,
+        "l": "Generalized muscle atrophy and diminished deep tendon reflexes indicate a lower motor neuron lesion. Lower motor neurons are located in the anterior horn of the spinal cord.",
+        "h": "LMN signs = atrophy + ↓ reflexes → anterior horn"
+      },
+      {
+        "q": "\"Phantom limb\" is an example of",
+        "a": [
+          "sensory projection",
+          "referred pain",
+          "pain modulation",
+          "psychological hallucination"
+        ],
+        "c": 0,
+        "l": "Phantom limb sensation occurs when a person perceives sensations in a limb that has been amputated. This is due to sensory projection, where the brain continues to interpret signals as coming from the missing limb based on cortical representation.",
+        "h": "Brain still maps the missing limb → sensation is projected"
+      },
+      {
+        "q": "You place your hand on a hot cake Pan and rapidly jerk it away. The sensory information responsible for this response was conveyed through a (an):",
+        "a": [
+          "Monosynaptic reflex.",
+          "Polysynaptic reflex.",
+          "Spinocerebellar pathway.",
+          "None of above"
+        ],
+        "c": 1,
+        "l": "Withdrawal from a painful stimulus (flexor withdrawal reflex) is a polysynaptic reflex because it involves interneurons between the sensory and motor neurons.",
+        "h": "Pain withdrawal = NOT knee jerk → multiple synapses"
+      },
+      {
+        "q": "The subarachnoid cistern extends up to which of these following levels?",
+        "a": [
+          "Coccyx",
+          "Lower border of 1st lumbar vertebra",
+          "Upper border of 1st lumbar vertebra",
+          "Lower border of 2nd sacral vertebra",
+          "5th sacral vertebra"
+        ],
+        "c": 3,
+        "l": "The subarachnoid space (lumbar cistern) extends from L2 to S2, ending at the lower border of the second sacral vertebra.",
+        "h": "Lumbar puncture region → ends at S2"
+      },
+      {
+        "q": "A 25 year old man who runs a coffee bar came to you because he has been burning his left and right fingers on the steam pressurizer when he makes coffee. He says that he never notices the pain. He doesn’t realize that he has hurt his fingers until a few hours after it has happened. On examination you find the following signs: touch sensation was normal over the entire right and left sides of body and face ; position sense was normal for his upper and lower limbs ; vibratory sense was normal when tested with a tuning fork on the bony prominences of the right and left arms and legs ; when tested with a pin, pain sensation was normal on both sides of the face ; pain sensation was absent on all fingers of both right and left hands ; pain sensation was normal on the arms and rest of the body and face. Which one of the following would be your answer choice?",
+        "a": [
+          "Damage to ventral white commissure of spinal cord C4-C8",
+          "Damage to dorsal column",
+          "Damage to ALS"
+        ],
+        "c": 0,
+        "l": "Selective loss of pain in the hands bilaterally with preserved vibration and proprioception suggests central cord syndrome affecting the crossing spinothalamic fibers at the ventral white commissure (classically seen in syringomyelia) at cervical levels.",
+        "h": "Bilateral pain loss in hands ONLY → think central cord (syringomyelia)"
+      },
+      {
+        "q": "A 17-year-old male was involved in a drive by shooting. He was found to have a left hemisection of the spinal cord at the level of T10. He will have all of the following symptoms except",
+        "a": [
+          "Loss of vibration sense in the left leg",
+          "Loss of pain and temperature in the right leg",
+          "Loss of vibration sense in the right leg",
+          "Loss of Pain and temperatures on the right thigh."
+        ],
+        "c": 2,
+        "l": "Brown-Sequard syndrome (hemisection) causes ipsilateral loss of vibration and proprioception (dorsal columns) and contralateral loss of pain and temperature (spinothalamic). Therefore, vibration loss would be on the left (same side), not the right.",
+        "h": "Hemisection rule → same side vibration, opposite side pain"
+      },
+      {
+        "q": "A 34 - year old female was admitted to the hospital with a chief complaint of headaches, dysarthria and weakness in her right arm and leg. The headaches began 3 weeks ago, and two weeks ago she noticed the onset of limb weakness and slurred speech. Currently, the headaches have abated, but the weakness and dysarthria remain. Her family physician then referred her for neurologic consultation. The neurologist noticed that the patient was well nourished, oriented in time and place, with intact comprehension. Her blood pressure was 150/90, normal pulse and respiration. Her tongue deviated to the left on protrusion. The surface of the tongue on the left side was wrinkled and fasciculations were present. All other cranial nerves were intact. Based on the above symptoms, if you feel there was a vascular accident, what vessels are most likely involved?",
+        "a": [
+          "Anterior spinal artery",
+          "basilar artery",
+          "posterior inferior cerebellar artery",
+          "Anterior cerebral artery",
+          "labyrinthine artery"
+        ],
+        "c": 0,
+        "l": "Findings suggest medial medullary syndrome: contralateral body weakness (corticospinal), ipsilateral hypoglossal nerve dysfunction (tongue deviation, fasciculations). This is caused by anterior spinal artery infarction.",
+        "h": "Tongue deviates to lesion side + contralateral weakness → medial medulla → ASA"
+      },
+      {
+        "q": "Inhibition of the Renshaw cell by strychnine results in death due to.",
+        "a": [
+          "Muscle paralysis.",
+          "Hyperreflexia.",
+          "Bladder infection.",
+          "Cardiac arrhythmia.",
+          "Convulsions."
+        ],
+        "c": 4,
+        "l": "Renshaw cells are inhibitory interneurons that use glycine. Strychnine blocks glycine receptors, removing inhibition and causing uncontrolled motor neuron firing leading to severe muscle spasms and convulsions.",
+        "h": "Block inhibition → unchecked firing → seizures"
+      },
+      {
+        "q": "A neurologist is performing a lumbar puncture on his patient. Immediately after the needle passes through the interlaminar space between the 4th and 5th lumbar vertebrae, which space does it enter?",
+        "a": [
+          "Epidural",
+          "Intramuscular",
+          "Subarachnoid",
+          "Subcutaneous",
+          "Subdural"
+        ],
+        "c": 0,
+        "l": "After passing through the interlaminar space, the needle first enters the epidural space before traversing dura and arachnoid to reach the subarachnoid space.",
+        "h": "Order: skin → epidural → subdural → subarachnoid"
+      },
+      {
+        "q": "Which of the following cranial nerve emerges from the anterolateral sulcus of the medulla?",
+        "a": [
+          "12th cranial nerve",
+          "11th cranial nerve",
+          "9th cranial nerve",
+          "10th cranial nerve"
+        ],
+        "c": 0,
+        "l": "The hypoglossal nerve (CN XII) emerges from the anterolateral sulcus (between pyramid and olive). CN IX, X, XI emerge from the posterolateral sulcus.",
+        "h": "Between pyramid & olive → CN XII"
+      },
+      {
+        "q": "Pharmaceutical company making efforts to develop a drug that reduces or eliminates pain. The approach was to utilize a neurotransmitter receptor blocker against the neurotransmitter released by the first-order pain pathway. The drug under development is an antagonist against which of the following neurotransmitters?",
+        "a": [
+          "Enkephalins",
+          "Acetylcholine (ACh)",
+          "Substance P",
+          "γ-aminobutyric acid (GABA)",
+          "Serotonin"
+        ],
+        "c": 2,
+        "l": "First-order pain neurons release Substance P in the dorsal horn to transmit pain signals. Blocking Substance P reduces pain transmission.",
+        "h": "Primary pain neurotransmitter → Substance P"
+      },
+      {
+        "q": "A 60-year-old woman is being evaluated for gait difficulties. On examination it is found that joint proprioception is absent in his toes. People with impaired position sense will usually fall if they stand with their feet together and do which of the following?",
+        "a": [
+          "Flex the neck",
+          "Extend their arms in front of them",
+          "Flex the knees",
+          "Turn the head",
+          "Close their eyes"
+        ],
+        "c": 4,
+        "l": "Loss of proprioception leads to a positive Romberg sign. Patients rely on vision to compensate, so when they close their eyes, they lose balance and fall.",
+        "h": "Romberg test → remove vision → patient falls"
+      },
+      {
+        "q": "A 52-year-old woman presents to her physician's office with the complaint that her \"right leg feels funny\". The examination reveals a loss of vibratory sense and discriminative touch on her left lower extremity, pain and thermal sense are intact, and the woman's leg is not weak. The upper extremities have normal sensation and strength. CT reveals a small vascular defect. Damage to which of the following would explain this defect in this patient?",
+        "a": [
+          "Accessory nucleus",
+          "Accessory cuneate nucleus",
+          "Cuneate nucleus",
+          "Gracile nucleus",
+          "Spinal trigeminal nucleus"
+        ],
+        "c": 3,
+        "l": "Loss of vibration and fine touch in the lower extremity with intact pain suggests dorsal column involvement. The gracile nucleus carries information from the lower body (below T6), so its damage explains the findings.",
+        "h": "Lower limb → gracile; Upper limb → cuneate"
+      },
+      {
+        "q": "Horner's Syndrome is characterized by?",
+        "a": [
+          "Partial Ptosis",
+          "Myosis",
+          "Enophthalmos",
+          "Anhydrosis",
+          "All of the above"
+        ],
+        "c": 4,
+        "l": "Horner syndrome results from disruption of sympathetic pathways and includes ptosis, miosis, anhidrosis, and apparent enophthalmos.",
+        "h": "Horner triad → ptosis + miosis + anhidrosis (+ enophthalmos)"
+      },
+      {
+        "q": "A 52-year-old woman presents to her physician's office with the complaint that her \"right leg feels funny\". The examination reveals a loss of vibratory sense and discriminative touch on her left lower extremity, pain and thermal sense are intact, and the woman's leg is not weak. The upper extremities have normal sensation and strength. CT reveals a small vascular defect. Damage to which of the following would explain this defect in this patient?",
+        "a": [
+          "Accessory nucleus",
+          "Accessory cuneate nucleus",
+          "Cuneate nucleus",
+          "Gracile nucleus",
+          "Spinal trigeminal nucleus"
+        ],
+        "c": 3,
+        "l": "This question again describes selective dorsal column dysfunction affecting the lower extremity. The gracile nucleus is responsible for lower body proprioception and vibration, making it the correct answer.",
+        "h": "Repeat concept → dorsal column → lower limb → gracile"
+      },
+      {
+        "q": "A 22- year old college student is brought to the emergency room after being stabbed in the neck. Physical Examination in the emergency shows the following signs and symptoms Loss of pain and temperature sensation below C7 on right side. Loss of left finger and toe joint position sense left ptosis and myosis. Weakness of the left upper and lower extremities, absent left biceps stretch reflex other left sided muscle stretch reflexes were diminished. Where is the site of the lesion located?",
+        "a": [
+          "C4 segment of Spinal cord",
+          "C5 Segment of Spinal Cord",
+          "C6 Segment of Spinal Cord",
+          "C7 Segment of Spinal Cord"
+        ],
+        "c": 1,
+        "l": "This is Brown-Sequard syndrome with ipsilateral motor weakness and dorsal column loss, contralateral pain loss, and ipsilateral Horner syndrome. The absent biceps reflex (C5-C6) localizes the lesion to the C5 level.",
+        "h": "Use reflex → biceps = C5-C6 → localize lesion"
+      },
+      {
+        "q": "A 43-year-old man sustains a wound to the lateral neck. This results in weakness of elevation and retraction of the shoulder on the ipsilateral side and difficulty turning the head up and toward the contralateral side. No sensory changes are present. Which of the following nerves most likely has been injured?",
+        "a": [
+          "Axillary",
+          "Lateral cord of the brachial plexus",
+          "Phrenic",
+          "Spinal accessory",
+          "Suprascapular"
+        ],
+        "c": 3,
+        "l": "The spinal accessory nerve (CN XI) innervates the trapezius and sternocleidomastoid. Injury causes difficulty shrugging the shoulder (trapezius) and turning the head to the opposite side (SCM).",
+        "h": "Shoulder shrug + head turn → CN XI"
+      },
+      {
+        "q": "A 65-year-old man has loss of pain and temperature sensation on the right side of the face and on the left side of the body. Examination shows partial paralysis of the soft palate, larynx, and pharynx, and ataxia, all on the right. The most likely cause of these findings is thrombosis to which of the following arteries?",
+        "a": [
+          "Basilar",
+          "Right posterior inferior cerebellar",
+          "Left posterior inferior cerebellar",
+          "Right superior cerebellar",
+          "Left superior cerebellar"
+        ],
+        "c": 1,
+        "l": "This describes lateral medullary (Wallenberg) syndrome: ipsilateral facial pain loss, contralateral body pain loss, nucleus ambiguus deficits, and ataxia. This is caused by PICA infarction on the affected side.",
+        "h": "Face/body crossed pain + nucleus ambiguus → PICA"
+      },
+      {
+        "q": "A car door was accidentally closed on the hand of a teenage boy. As a result, he experienced significant pain that persisted for a while. In terms of the neurochemical events that took place at the afferent terminals of the first-order pathway that conveyed the pain sensation to the spinal cord, which of the following transmitters would be released onto dorsal horn neurons of the spinal cord from these primary afferent fibers?",
+        "a": [
+          "Enkephalins alone",
+          "Glutamate alone",
+          "Substance P alone",
+          "Glutamate and substance P",
+          "Enkephalins, substance P, and glutamate"
+        ],
+        "c": 3,
+        "l": "Primary afferent pain fibers release both glutamate (fast transmission) and substance P (slow, prolonged pain transmission) onto dorsal horn neurons.",
+        "h": "Pain transmission = fast + slow → glutamate + substance P"
+      },
+      {
+        "q": "As a result of a hemisection of the spinal cord, a patient has loss of vibration and position sense in the right leg. Which of the following pathways was affected by the lesion?",
+        "a": [
+          "Right fasciculus cuneatus",
+          "Right fasciculus gracilis",
+          "Left fasciculus cuneatus",
+          "Left fasciculus gracilis",
+          "Right Lissauer's tract"
+        ],
+        "c": 1,
+        "l": "Vibration and proprioception from the lower limb travel in the fasciculus gracilis on the same side. A right-sided deficit indicates damage to the right fasciculus gracilis.",
+        "h": "Lower limb → gracilis; same side loss"
+      },
+      {
+        "q": "Which of the following sensation is not carried in the dorsal columns?",
+        "a": [
+          "Cold",
+          "Joint sensation",
+          "Discriminative touch",
+          "Vibration",
+          "Muscle spindle sensations"
+        ],
+        "c": 0,
+        "l": "The dorsal columns carry vibration, proprioception (joint sense), and fine touch. Pain and temperature (including cold) are carried by the spinothalamic tract.",
+        "h": "Dorsal column = vibration + position + fine touch (NOT temperature)"
+      },
+      {
+        "q": "A Pharmaceutical company makes efforts to develop a drug that reduces or eliminates pain. The approach was to utilize a neurotransmitter receptor blocker against the neurotransmitter released by the first-order pain pathway. The drug under development is an antagonist against which of the following neurotransmitters?",
+        "a": [
+          "Enkephalins",
+          "Acetylcholine (ACh)",
+          "Substance P",
+          "γ-aminobutyric acid (GABA)",
+          "Serotonin"
+        ],
+        "c": 2,
+        "l": "First-order nociceptive neurons release Substance P in the dorsal horn to transmit pain signals. Blocking Substance P reduces pain transmission.",
+        "h": "Pain neurotransmitter → Substance P"
+      },
+      {
+        "q": "A radiologist discussed a case with you in which a patient had a stroke involving the brainstem. The imaging showed a lesion area including the trigeminothalamic tract at the level of the midbrain on one side. What symptoms would this patient show?",
+        "a": [
+          "loss of only pain and temperature sensation on the ipsilateral face",
+          "loss of pain, temperature, and touch sensation on the ipsilateral face",
+          "loss of pain, temperature, and touch sensation on the contralateral face",
+          "paralysis of jaw muscles on the contralateral side",
+          "loss of only touch sensation on the contralateral face"
+        ],
+        "c": 2,
+        "l": "The trigeminothalamic tract carries sensory information from the contralateral face after crossing. A lesion in the midbrain affects already crossed fibers, causing contralateral loss of facial sensation.",
+        "h": "Trigeminal pathway crosses → lesion = opposite face loss"
+      },
+      {
+        "q": "The term linea splendens refers to?",
+        "a": [
+          "The Filum terminale pia attachment to the coccyx vertebrae.",
+          "Conus medullaris.",
+          "Thickened pia in the region of the anterior median fissure.",
+          "The epidural space.",
+          "The pia attachment's lateral extensions to the vertebral spinal canal."
+        ],
+        "c": 2,
+        "l": "Linea splendens is the thickened pia mater along the anterior median fissure of the spinal cord.",
+        "h": "Linea splendens = pia thickening anteriorly"
+      },
+      {
+        "q": "Muscle spindles",
+        "a": [
+          "Are composed of two types of intrafusal fibers, nuclear bag and nuclear chain fibers.",
+          "Are the receptors for muscle pain?",
+          "Are found in flexors but not extensors.",
+          "All of above are correct"
+        ],
+        "c": 0,
+        "l": "Muscle spindles contain intrafusal fibers (nuclear bag and nuclear chain) and detect stretch, not pain. They are present in both flexors and extensors.",
+        "h": "Spindles = stretch receptors (NOT pain)"
+      },
+      {
+        "q": "A 69-year old man is brought to the Emergency Department from his farm at the request of his wife. The history of the current event, as provided by the man, indicates that he was repairing the siding on his barn and kept repeatedly looking up (extending his neck) to assess his progress. His complaint is that the right side of his face suddenly became numb and he became unsteady, the examination confirms these symptoms and also reveals that he has a loss of pain and thermal sense on his left upper and lower extremities. MRI reveals an infarct. Damage to which of the following structures would explain this man's facial deficit?",
+        "a": [
+          "Anterolateral system",
+          "Nucleus ambiguus",
+          "Solitary tract",
+          "Spinal trigeminal tract",
+          "Trigeminal mesencephalic tract"
+        ],
+        "c": 3,
+        "l": "Ipsilateral facial pain and temperature loss with contralateral body pain loss suggests lateral medullary involvement. The spinal trigeminal tract carries facial pain and temperature.",
+        "h": "Face pain/temp → spinal trigeminal tract"
+      },
+      {
+        "q": "A neurologist is performing a lumbar puncture on his patient. Immediately after the needle passes through the interlaminar space between the 4th and 5th lumbar vertebra, which space does it enter?",
+        "a": [
+          "Epidural",
+          "Intramuscular",
+          "Subarachnoid",
+          "Subcutaneous",
+          "Subdural"
+        ],
+        "c": 0,
+        "l": "After passing the interlaminar space, the needle first enters the epidural space before progressing deeper to the subarachnoid space.",
+        "h": "First space after ligament = epidural"
+      },
+      {
+        "q": "Substance P is released from",
+        "a": [
+          "nociceptive afferent endings",
+          "first order nociceptive terminal in the dorsal horn",
+          "terminals of descending fibers from the raphe nucleus in the dorsal horn",
+          "both A and B above"
+        ],
+        "c": 3,
+        "l": "Substance P is released from nociceptive afferent endings and from first-order nociceptive terminals in the dorsal horn. It is not released from descending raphe fibers.",
+        "h": "Substance P = primary pain afferents (periphery + dorsal horn)"
+      },
+      {
+        "q": "Joy is a 64-year-old woman who has had heart disease for many years. While carrying chemicals down the stairs of the dry cleaning shop where she works, she suddenly lost control of her right arm. She fell down the stairs and was able to stand up with some assistance from a coworker. When attempting to walk, she had a very unsteady gait with a tendency to fall to the right side. Her supervisor called her if she was all right, and noticed that her speech was very slurred when she tried to answer. He called an ambulance to take her to the nearest hospital. Upon admission, her face appears symmetric, but when asked to protrude her tongue, it deviates toward the left. She is unable to feel the right toe and left arm and leg in addition, her right arm and leg are markedly weak. The physician can find no other abnormalities in the remainder of Joy's general medical examination. Where in the nervous system did the damage occur?",
+        "a": [
+          "Right lateral medulla",
+          "Right medial medulla",
+          "Left lateral medulla",
+          "Right cervical spinal cord",
+          "Left medial medulla"
+        ],
+        "c": 1,
+        "l": "Findings indicate medial medullary syndrome on the right: contralateral sensory loss, contralateral weakness (pyramids), and ipsilateral hypoglossal nerve involvement (tongue deviation). This localizes to the right medial medulla.",
+        "h": "Tongue deviates to lesion + contralateral weakness → medial medulla"
+      },
+      {
+        "q": "All of the following are true for the spinal cord except.",
+        "a": [
+          "There is a well-defined epidural space.",
+          "There are 31 pairs of nerves.",
+          "It terminates at the level of the lower border of L1 vertebrae.",
+          "Preganglionic fibers exit from c3-c5 segments of spinal cord."
+        ],
+        "c": 3,
+        "l": "Preganglionic sympathetic fibers arise from T1–L2, not C3–C5. C3–C5 is associated with the phrenic nerve.",
+        "h": "C3–C5 = diaphragm (phrenic), NOT sympathetic outflow"
+      },
+      {
+        "q": "What structure will not be seen in the vertebral canal at the level of L3 & L4 intervertebral space?",
+        "a": [
+          "Dura mater of spinal cord",
+          "Subarachnoid space containing CSF",
+          "Filum terminale",
+          "Lumbar & Sacral spinal nerves",
+          "3rd and 4th Lumbar segments of spinal cord"
+        ],
+        "c": 4,
+        "l": "The spinal cord ends around L1–L2 in adults, so the actual spinal cord segments are not present at L3–L4. Only cauda equina structures are present.",
+        "h": "Below L2 → no spinal cord, only cauda equina"
+      },
+      {
+        "q": "Loss of anterior horn cell innervation of a limb will produce which of the following signs if a lower motor neuron lesion",
+        "a": [
+          "Loss of muscle stretch reflexes",
+          "Fasciculation of muscle",
+          "Paralysis",
+          "Muscular atrophy",
+          "All of the above"
+        ],
+        "c": 4,
+        "l": "Lower motor neuron lesions cause flaccid paralysis, decreased reflexes, muscle atrophy, and fasciculations due to denervation.",
+        "h": "LMN lesion = flaccid + atrophy + fasciculations + ↓ reflexes"
+      },
+      {
+        "q": "What structure will not be seen in the vertebral canal at the level of L3 & L4 intervertebral space?",
+        "a": [
+          "Dura mater of spinal cord",
+          "Subarachnoid space containing CSF",
+          "Filum terminale",
+          "Lumbar & Sacral spinal nerves",
+          "3rd and 4th Lumbar segments of spinal cord"
+        ],
+        "c": 4,
+        "l": "At L3–L4, the spinal cord has already terminated. Therefore, lumbar spinal cord segments are not physically present at that vertebral level.",
+        "h": "Same concept → cord ends at L1–L2"
+      },
+      {
+        "q": "A 22 year old college student is brought to the emergency room after being stabbed in the neck. Physical Examination in the emergency shows the following signs and symptoms Loss of pain and temperature sensation below C7 on right side. Loss of left finger and toe joint position sense left ptosis and myosis. Weakness of the left upper and lower extremities, absent left biceps stretch reflex other left sided muscle stretch reflexes were diminished. Where is the site of the lesion located?",
+        "a": [
+          "C4 segment of Spinal cord",
+          "C5 Segment of Spinal Cord",
+          "C6 Segment of Spinal Cord",
+          "C7 Segment of Spinal Cord"
+        ],
+        "c": 1,
+        "l": "This is Brown-Sequard syndrome with ipsilateral motor and dorsal column loss and contralateral pain loss. The absent biceps reflex localizes to C5–C6, pointing to a lesion at C5.",
+        "h": "Biceps reflex = C5–C6 → lesion at C5"
+      },
+      {
+        "q": "The subarachnoid cistern extends up to which of these following levels?",
+        "a": [
+          "Coccyx",
+          "Lower border of 1st lumbar vertebra",
+          "Upper border of 1st lumbar vertebra",
+          "Lower border of 2nd sacral vertebra",
+          "5th sacral vertebra"
+        ],
+        "c": 3,
+        "l": "The subarachnoid space (lumbar cistern) extends from L2 down to S2, ending at the lower border of the second sacral vertebra.",
+        "h": "Lumbar cistern → ends at S2"
+      },
+      {
+        "q": "A 25 yr old woman complained of pain in her left breast and weakness of her left lower limb for two months and she contacted her family physician, who advised her to see a neurologist. The neurologic evaluation revealed weakness in the left lower limb. This was associated with spasticity, hyperreflexia at the knee and ankle. On the left side there was loss of two-point touch, vibratory sense and proprioception at levels below the hip. The right side showed a loss of pain and temperature sensation below dermatome T-7. The neurologist asked her to go for MRI scanning and MRI shows an extramedullary tumor expanding from the dorsal roots at spinal cord levels T-5, 6. By analyzing the above neurological investigation, interruption in which of the following pathways leads to loss of touch, vibratory sense and proprioception below the level of T7?",
+        "a": [
+          "Left dorsal column pathways",
+          "Right dorsal column pathways",
+          "Both a and b",
+          "Not easy to analyze!!!"
+        ],
+        "c": 0,
+        "l": "Ipsilateral loss of vibration, proprioception, and fine touch indicates dorsal column involvement on the same side. Since the deficit is on the left, the left dorsal column is affected.",
+        "h": "Dorsal column = same side loss"
+      },
+      {
+        "q": "During a neurological examination, a patient cannot tell with his eyes closed whether the neurologist flexed or extended his thumb, there is likely damage to",
+        "a": [
+          "the fasciculus cuneatus",
+          "the fasciculus gracilis",
+          "the anterolateral system",
+          "lamina II of the dorsal horn",
+          "the ventral white commissure"
+        ],
+        "c": 0,
+        "l": "Position sense of the upper limb is carried by the fasciculus cuneatus. Loss of thumb position sense indicates damage to this tract.",
+        "h": "Upper limb proprioception → cuneatus"
+      },
+      {
+        "q": "A 55-year-old man with a history of hypertension has been in excellent health until he notices that he has vertigo and unsteadiness lasting for a week. He then developed nausea, vomiting, dysphagia, hoarseness, ataxia, left facial pain, and right-sided sensory loss. There is no weakness. On examination, he is alert with a normal mental status. There is left ptosis. There is loss of pain and temperature sensation of the right arm and leg and decreased joint position sensation in the left foot. He is unable to walk. The analgesia and thermal anesthesia on the left side of the face in this case most likely resulted from a lesion of which structure?",
+        "a": [
+          "The trigeminal nerve",
+          "The Mesencephalic nucleus of trigeminal",
+          "The principal (chief) sensory nucleus of V",
+          "The spinal nucleus V"
+        ],
+        "c": 3,
+        "l": "Pain and temperature sensation from the face is carried by the spinal trigeminal nucleus. Lesion here causes ipsilateral facial pain and temperature loss.",
+        "h": "Face pain/temp → spinal trigeminal nucleus"
+      },
+      {
+        "q": "A tumor affecting the spinal cord at the level of T12 segment of the spinal cord on the right side would lead to?",
+        "a": [
+          "Loss of pain sensation from the right lower limb",
+          "Loss of pain sensation from the left lower limb",
+          "Loss of pain sensation from the right upper limb",
+          "Loss of pain sensation from the left upper limb"
+        ],
+        "c": 1,
+        "l": "Spinothalamic tract crosses near the level of entry, so a right-sided lesion causes contralateral (left) pain loss below the lesion.",
+        "h": "Spinothalamic → crosses → opposite side loss"
+      },
+      {
+        "q": "The subarachnoid cistern extends up to which of these following levels?",
+        "a": [
+          "Coccyx",
+          "Lower border of 1st lumbar vertebra",
+          "Upper border of 1st lumbar vertebra",
+          "Lower border of 2nd sacral vertebra",
+          "5th sacral vertebra"
+        ],
+        "c": 3,
+        "l": "The lumbar cistern extends to S2, which is why lumbar puncture is safely done below L2.",
+        "h": "Repeat concept → CSF space ends at S2"
+      },
+      {
+        "q": "Which of the following sensation is not carried in the dorsal columns?",
+        "a": [
+          "Cold",
+          "Joint sensation",
+          "Discriminative touch",
+          "Vibration",
+          "Muscle spindle sensations"
+        ],
+        "c": 0,
+        "l": "Cold sensation is carried by the spinothalamic tract, not the dorsal columns. Dorsal columns carry vibration, proprioception, and fine touch.",
+        "h": "Dorsal column ≠ temperature"
+      },
+      {
+        "q": "Which of the following layer does needle pierce before reaching the subarachnoid space?",
+        "a": [
+          "Dura matter",
+          "Arachnoid matter",
+          "Pia matter",
+          "Ligamentum flavum",
+          "None of the above"
+        ],
+        "c": 1,
+        "l": "To reach the subarachnoid space, the needle must pass through the dura mater and then the arachnoid mater. The arachnoid mater is the final meningeal layer pierced before entering the subarachnoid space.",
+        "h": "Last layer before CSF = arachnoid"
+      },
+      {
+        "q": "A 22 year old student who is very active, a league rugby player, developed progressive, symmetric muscular weakness of his upper extremities over the course of several years. Then he developed difficulty speaking and swallowing. He did not have myalgias. He remained afebrile. His mental status is not diminished. He is most likely to have",
+        "a": [
+          "Multiple sclerosis",
+          "Amyotrophic lateral sclerosis",
+          "Guillain-Barre syndrome",
+          "None of above"
+        ],
+        "c": 1,
+        "l": "Progressive symmetric weakness with bulbar symptoms (speech and swallowing difficulty) and preserved mental status is characteristic of amyotrophic lateral sclerosis (ALS), involving both upper and lower motor neurons.",
+        "h": "Progressive + bulbar + no sensory loss → ALS"
+      },
+      {
+        "q": "A 35-year-old visits hospital because of severe headache. The patient says that the headache, which seems to be localized area behind his ears, it has been intermittent but persistent since he was involved in the baseball game while on his vacation. Shortly after he returned from his vacation, he made an appointment with his family physician because he was worried about the headache and the fact that he had developed noticeable clumsiness. When physician questioned, he mentioned unusual frequent bouts of nausea and vertigo. Physical examination reveals mild hoarseness of voice and some difficulty swallowing oral secretions. The left side of his face is affected by Horner’s syndrome, He has decreased sensitivity to light touch on the left side of his face, flattening of the left nasolabial fold, and paresis of the left soft palate. Finger to nose testing shows left sided Dysmetria. When asked to walk across the examining room, his gait is ataxic and he deviates to the left. There is diminished pain and thermal sensation on the right side. Reflexes are symmetric. There is no Babinski reflex, and the remainder of the motor and sensory examination is normal.",
+        "a": [
+          "Middle cerebral artery",
+          "Internal carotid artery at the cavernous sinus",
+          "Superior cerebellar artery",
+          "Posterior inferior cerebellar artery",
+          "Anterior communicating artery"
+        ],
+        "c": 3,
+        "l": "This is classic lateral medullary (Wallenberg) syndrome: ipsilateral facial sensory loss, contralateral body pain loss, nucleus ambiguus symptoms (dysphagia, hoarseness), ataxia, and Horner syndrome. This is caused by posterior inferior cerebellar artery (PICA) infarction.",
+        "h": "Face/body crossed + nucleus ambiguus + Horner → PICA"
+      }
+    ]
+  }
+}
