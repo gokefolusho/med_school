@@ -3,17 +3,17 @@
   "hero": {
     "badge": "MD3 NIS",
     "title": "🧠 NIS Microbiology",
-    "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
+    "subtitle": ""
   },
   "sections": [
     {
       "id": "neuro-high-yield",
       "title": "",
-      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+      "hint": "",
       "topics": [
         {
-          "header": "Eye Movement & Gaze Control",
-          "content": "<ul><li><b>PPRF (Pons):</b> Horizontal gaze center → coordinates CN VI + CN III via MLF.</li><li><b>Frontal Eye Field (Area 8):</b> Drives contralateral gaze.</li><li><b>MLF:</b> Connects CN III & VI → lesion = INO (adduction failure + nystagmus).</li><li><b>INO:</b> Convergence intact (NOT CN III palsy).</li><li><b>One-and-a-half:</b> PPRF + MLF lesion → only one eye abducts.</li><li><b>Eight-and-a-half:</b> + CN VII palsy → facial weakness.</li></ul>"
+          "header": "",
+          "content": ""
         }
       ]
     }
