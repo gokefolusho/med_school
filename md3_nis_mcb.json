@@ -6,313 +6,534 @@
     "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
   },
   "sections": [
-    {
-      "id": "neuro-high-yield",
-      "title": "",
-      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
-      "topics": [
-        {
-          "header": "Eye Movement & Gaze Control",
-          "content": "<ul><li><b>PPRF (Pons):</b> Horizontal gaze center → coordinates CN VI + CN III via MLF.</li><li><b>Frontal Eye Field (Area 8):</b> Drives contralateral gaze.</li><li><b>MLF:</b> Connects CN III & VI → lesion = INO (adduction failure + nystagmus).</li><li><b>INO:</b> Convergence intact (NOT CN III palsy).</li><li><b>One-and-a-half:</b> PPRF + MLF lesion → only one eye abducts.</li><li><b>Eight-and-a-half:</b> + CN VII palsy → facial weakness.</li></ul>"
-        },
-        {
-          "header": "Pupillary Reflex & Midbrain",
-          "content": "<ul><li><b>CN II → Pretectal → bilateral EW nuclei → CN III:</b> Pupillary constriction.</li><li><b>Pretectal lesion:</b> Loss of direct + consensual reflex.</li><li><b>CN III:</b> Eye down & out + ptosis + dilated pupil.</li><li><b>Nucleus of Cajal:</b> Vertical gaze holding.</li><li><b>Superior colliculus:</b> Visual reflex + head/eye movement (tectospinal/tectobulbar).</li></ul>"
-        },
-        {
-          "header": "Brainstem Localization (Rule Focus)",
-          "content": "<ul><li><b>Medial (3 M's):</b> Motor (corticospinal), Medial lemniscus, Motor CN (III, VI, XII).</li><li><b>Lateral:</b> Spinothalamic, CN V sensory, Sympathetic (Horner), Cerebellum.</li><li><b>Key:</b> Ipsilateral CN signs + contralateral body deficits.</li></ul>"
-        },
-        {
-          "header": "High-Yield Brainstem Syndromes",
-          "content": "<ul><li><b>Medial Medullary (ASA):</b> Contralateral paralysis + vibration loss + tongue deviation (toward lesion).</li><li><b>Wallenberg (PICA):</b> Dysphagia + hoarseness + ipsi face pain + contra body pain + Horner.</li><li><b>Medial Pontine:</b> CN VI palsy + contralateral hemiplegia.</li><li><b>Lateral Pontine (AICA):</b> Facial paralysis + hearing loss.</li><li><b>Weber (Midbrain):</b> CN III palsy + contralateral hemiplegia.</li><li><b>Benedict/Claude:</b> CN III + tremor/ataxia (tegmentum).</li><li><b>Parinaud:</b> Upward gaze palsy + light-near dissociation.</li></ul>"
-        },
-        {
-          "header": "Blood Supply (Ultra High Yield)",
-          "content": "<ul><li><b>PICA:</b> Lateral medulla → Wallenberg.</li><li><b>ASA:</b> Medial medulla.</li><li><b>AICA:</b> Lateral pons → facial + auditory.</li><li><b>Basilar:</b> Pons → locked-in.</li><li><b>PCA:</b> Midbrain syndromes.</li></ul>"
-        },
-        {
-          "header": "Cerebellum",
-          "content": "<ul><li><b>Function:</b> Coordination (NOT strength).</li><li><b>Vermis lesion:</b> Truncal ataxia.</li><li><b>Hemisphere lesion:</b> Ipsilateral limb ataxia.</li><li><b>Signs:</b> Dysmetria, intention tremor, dysdiadochokinesia.</li><li><b>Purkinje cells:</b> Only output (inhibitory).</li></ul>"
-        },
-        {
-          "header": "Cerebellopontine Angle",
-          "content": "<ul><li><b>CN VII + VIII:</b> Facial paralysis + hearing loss.</li><li><b>Cause:</b> Vestibular schwannoma.</li><li><b>Key clue:</b> Facial + auditory symptoms together.</li></ul>"
-        },
-        {
-          "header": "Inferior Olive & Guillain-Mollaret",
-          "content": "<ul><li><b>Pathway:</b> Dentate → Red nucleus → Inferior olive.</li><li><b>Lesion:</b> Hypertrophy (unique).</li><li><b>Signs:</b> Palatal myoclonus + ocular oscillations.</li></ul>"
-        },
-        {
-          "header": "Basal Ganglia Pathways",
-          "content": "<ul><li><b>Direct:</b> Facilitates movement (D1 ↑).</li><li><b>Indirect:</b> Inhibits movement (D2 ↓).</li><li><b>Dopamine:</b> Promotes movement (↑ direct, ↓ indirect).</li><li><b>Thalamus (VA/VL):</b> Output to cortex.</li></ul>"
-        },
-        {
-          "header": "Basal Ganglia Diseases",
-          "content": "<ul><li><b>Parkinson:</b> Dopamine ↓ → TRAP (tremor, rigidity, akinesia, postural instability).</li><li><b>Huntington:</b> AD, CAG repeat → chorea + dementia.</li><li><b>Wilson:</b> Copper → KF rings + movement + liver.</li><li><b>Hemiballismus:</b> STN lesion → flinging movements.</li><li><b>Sydenham:</b> Post-strep chorea (kids).</li><li><b>Tourette:</b> Motor + vocal tics.</li></ul>"
-        },
-        {
-          "header": "Pons (Exam Favorite)",
-          "content": "<ul><li><b>CN:</b> V, VI, VII, VIII.</li><li><b>PPRF:</b> Horizontal gaze.</li><li><b>Middle cerebellar peduncle:</b> Largest → coordination.</li><li><b>Lesions:</b> Facial + eye movement + motor signs.</li></ul>"
-        },
-        {
-          "header": "Exam Strategy",
-          "content": "<ul><li><b>Always localize:</b> Medial vs lateral + level (medulla, pons, midbrain).</li><li><b>Eye signs:</b> INO → MLF, gaze palsy → PPRF.</li><li><b>Facial weakness:</b> LMN = whole face, UMN = forehead spared.</li><li><b>CN combos:</b> VII + VIII = CP angle.</li><li><b>Movement disorder:</b> Think basal ganglia pathways.</li></ul>"
-        }
-      ]
-    }
+  
   ],
   "quizzes": {
-    "neuro_batch1": [
-      {
-        "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
-        "a": [
-          "Angular gyrus + supramarginal gyrus",
-          "Anterior + posterior paracentral gyri",
-          "Cuneus + lingual gyrus",
-          "Pars opercularis + pars triangularis",
-          "Uncus + parahippocampal gyrus"
-        ],
-        "c": 3,
-        "l": "Lesion of Broca’s area (inferior frontal gyrus: pars opercularis & triangularis) causes expressive aphasia with preserved comprehension.",
-        "h": "Aphasic but understands → expressive aphasia → Broca"
-      },
-      {
-        "q": "Dysdiadochokinesia is an impairment of:",
-        "a": [
-          "Successive finger movements",
-          "Heel-to-shin testing",
-          "Rapid alternating movements",
-          "Tremor suppression",
-          "Conjugate eye movements"
-        ],
-        "c": 2,
-        "l": "Dysdiadochokinesia is a cerebellar sign characterized by inability to perform rapid alternating movements.",
-        "h": "Cerebellar sign → rapid alternating movement"
-      },
-      {
-        "q": "The term lentiform nucleus refers to:",
-        "a": [
-          "Caudate and putamen",
-          "Caudate and globus pallidus",
-          "Putamen and globus pallidus",
-          "Caudate only",
-          "Putamen only"
-        ],
-        "c": 2,
-        "l": "The lentiform nucleus = putamen + globus pallidus, forming part of the basal ganglia.",
-        "h": "Lentiform = putamen + globus pallidus"
-      },
-      {
-        "q": "A 59-year-old right-handed male was admitted to the hospital with a chief complaint of occipital headaches of 3 weeks duration. Two weeks prior to admission, the patient had a sudden onset of diplopia on forward gaze and a sensation of dizziness. One day prior to admission, he noted a sudden onset of ptosis of the right eye. The patient has a history of hypertension of two years. His blood pressure is 180/100 mmHg. He is alert, oriented, and cooperative. His pupils are equal and reactive to light. The uvula deviates to the left side and there is deficient elevation on the right side of the palate. The patient also has nystagmus on left lateral gaze and his right corneal reflex is diminished. His facial expressions are full and symmetric; however, he does not respond to pinprick sensations on the left side of his face and left side of his body. Ataxia and intention tremor are present on his right lower extremity. Position, vibration, and touch modalities are intact throughout. What do you think his diagnosis is based on the options below?",
-        "a": [
-          "Wallenberg syndrome",
-          "Dejerine syndrome",
-          "Lateral pontine syndrome",
-          "Benedict’s syndrome"
-        ],
-        "c": 0,
-        "l": "Lateral medullary (PICA) lesion causes ipsilateral facial pain loss, contralateral body pain loss, nucleus ambiguus deficits (dysphagia), and cerebellar signs.",
-        "h": "Crossed deficits + nucleus ambiguus (uvula) = Wallenberg"
-      },
-      {
-        "q": "Which of the following statements about the globus pallidus is not true?",
-        "a": [
-          "It is located adjacent (lateral) to the internal capsule",
-          "It receives excitatory axons from the caudate and putamen",
-          "It is the major outflow nucleus of the corpus striatum",
-          "It sends inhibitory axons to the thalamus"
-        ],
-        "c": 1,
-        "l": "The globus pallidus receives inhibitory (GABAergic), not excitatory, input from the striatum (caudate + putamen).",
-        "h": "Basal ganglia output = inhibitory (GABA)"
-      },
-      {
-        "q": "A 50-year-old woman was diagnosed with paralysis of her right arm and leg that later became spastic with increased deep reflexes and a positive Babinski sign. There were also movements on the left extremities. The muscles of the lips and cheeks were weak on the right side, but she could tightly close both eyes and wrinkle her forehead symmetrically. An internuclear ophthalmoplegia was observed in which the left eye would not adduct on attempted lateral gaze to the right although both eyes converged on near objects. There was loss of vibratory sense and discriminative touch from the right side of the body. When protruded, the tongue deviated toward the right. Based on these findings, what is the site of lesion?",
-        "a": [
-          "Medulla",
-          "Pons",
-          "Midbrain",
-          "Cerebral cortex"
-        ],
-        "c": 1,
-        "l": "Combination of corticospinal, medial lemniscus, cranial nerve (facial weakness), and MLF (INO) signs localizes the lesion to the pons.",
-        "h": "INO (MLF) + facial weakness = Pons"
-      },
-      {
-        "q": "Which of the following is not correctly paired?",
-        "a": [
-          "Neostriatum – Caudate nucleus plus putamen",
-          "Lentiform nucleus – Globus pallidus plus putamen",
-          "Corpus striatum – Caudate nucleus plus lentiform nucleus",
-          "Amygdaloid body – Claustrum plus amygdaloid nucleus"
-        ],
-        "c": 3,
-        "l": "The amygdaloid body refers only to the amygdala, not the claustrum, which is a separate structure.",
-        "h": "Amygdala ≠ Claustrum"
-      },
-      {
-        "q": "The prefrontal cortex (areas 9, 10, 11 and 12) is essential for:",
-        "a": [
-          "Feeding",
-          "Sexual thoughts",
-          "Foresight",
-          "Stereognosis",
-          "Spatial organization"
-        ],
-        "c": 2,
-        "l": "The prefrontal cortex (especially dorsolateral) is responsible for executive functions like planning, judgment, and foresight.",
-        "h": "Prefrontal = planning + decision making"
-      },
-      {
-        "q": "Lesions of the superior parietal lobule interfere with the patient's ability to combine touch, pressure, and proprioceptive impulses, so that he is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
-        "a": [
-          "Alexia",
-          "Agraphia",
-          "Astereognosis",
-          "Acalculia"
-        ],
-        "c": 2,
-        "l": "Damage to the parietal lobe causes astereognosis—an inability to recognize objects by touch despite intact sensation.",
-        "h": "Cannot identify object by touch = astereognosis"
-      },
-      {
-        "q": "Adam is a 60-year-old man who is right-handed and was told in the past by his doctor that he has an irregular heartbeat. One morning, he woke to find that his face drooped on the right side and that he could not move his right arm or right leg. When he tried to call an ambulance for help, he had a great deal of difficulty communicating with the operator. His speech was slurred, nonfluent, and missing some pronouns. When listened to, Adam’s heart rate was irregular. He detected an irregular heartbeat. It was very difficult to understand Adam’s speech because it was halting, with a tendency to repeat the same phrases over and over. He had difficulty repeating specific sentences given to him by the neurologist. He was able to follow commands such as “Touch your right ear with your left hand.” His mouth drooped on the right when he attempted to smile, but his forehead remained symmetric. He could not move his right arm at all, but he was able to wiggle his right leg a little bit. Which of the following language problems does Adam have?",
-        "a": [
-          "Dysarthria",
-          "Wernicke’s aphasia",
-          "Broca’s aphasia",
-          "Alexia",
-          "Word deafness"
-        ],
-        "c": 2,
-        "l": "Nonfluent, effortful speech with preserved comprehension indicates Broca’s (expressive) aphasia.",
-        "h": "Nonfluent speech + understands = Broca"
-      },
-      {
-        "q": "Cerebral dominance refers to:",
-        "a": [
-          "That hemisphere which is more tactual",
-          "That hemisphere which controls left or right-handed writers",
-          "That hemisphere where speech and language is controlled",
-          "That hemisphere which receives the majority of corpus callosum fibers"
-        ],
-        "c": 2,
-        "l": "The dominant hemisphere (usually left) is defined by control of language and speech functions.",
-        "h": "Dominant hemisphere = language"
-      },
-      {
-        "q": "A 64-year-old woman is admitted to the emergency room after she experienced dizziness. Several days later, a neurological examination reveals that the patient is unable to move her right eye medially. Which of the following is the likely locus of the lesion?",
-        "a": [
-          "Dorsal medulla",
-          "Ventromedial medulla",
-          "Dorsal pons",
-          "Ventromedial pons",
-          "Medial midbrain"
-        ],
-        "c": 2,
-        "l": "Failure of medial eye movement (adduction) suggests internuclear ophthalmoplegia due to MLF lesion in the dorsal pons.",
-        "h": "Cannot adduct eye → MLF → Pons"
-      },
-      {
-        "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
-        "a": [
-          "Angular gyrus + supramarginal gyrus",
-          "Anterior + posterior paracentral gyri",
-          "Lingual gyrus",
-          "Inferior frontal gyrus",
-          "Parahippocampal gyrus"
-        ],
-        "c": 3,
-        "l": "The inferior frontal gyrus (Broca’s area) is responsible for speech production—lesions cause expressive aphasia.",
-        "h": "Expressive aphasia = inferior frontal gyrus"
-      },
-      {
-        "q": "A 55-year-old man lost consciousness suddenly. Upon regaining consciousness, he complained of double vision and a tremor in his left arm. He was mentally intact and his speech was articulate and appropriate. The right eye had a dilated pupil and he had altered strabismus. On attempted lateral gaze to the left, the right eye would not cross the midline. Although vision was normal, the right pupil did not constrict in either direct or consensual pupillary light reflex. Hearing was normal, as were the rest of the cranial nerves from 5–12. Pain and temperature sensation from the body and face were normal bilaterally. There was diminished vibratory sense and muscle strength in the left arm, which also showed an intention tremor, dysmetria, and occasional involuntary movements. Which of the following syndrome could possibly present these signs and symptoms?",
-        "a": [
-          "Horner’s syndrome",
-          "Weber’s syndrome",
-          "Benedict’s syndrome",
-          "Wallenberg’s syndrome"
-        ],
-        "c": 2,
-        "l": "Midbrain lesion affecting CN III, red nucleus, and medial lemniscus causes oculomotor palsy with contralateral ataxia and tremor (Benedict’s syndrome).",
-        "h": "CN III palsy + tremor = Benedict syndrome"
-      },
-      {
-        "q": "A 69-year-old man is brought to the Emergency Department by local EMS. He is somewhat somnolent and complains of a headache. The examination reveals normal cranial nerve function but a profound right-sided weakness and loss of pain sensation and discriminative touch in his right upper and lower extremities. MRI reveals a hemorrhagic stroke in the internal capsule. Based on this man’s deficits, this lesion is most likely located in which of the following?",
-        "a": [
-          "Anterior limb",
-          "Genu",
-          "Posterior limb",
-          "Retrolenticular limb",
-          "Sublenticular limb"
-        ],
-        "c": 2,
-        "l": "The posterior limb of the internal capsule carries corticospinal and sensory fibers.",
-        "h": "Motor + sensory loss = posterior limb"
-      },
-      {
-        "q": "A 59-year-old morbidly obese man is brought to the Emergency Department following an episode at his home. The history reveals that the man has uncontrolled diabetes and hypertension. The precipitating factor for this visit was the sudden onset of involuntary flailing movements of his right upper extremity, which occur intermittently without warning. MRI reveals a well-localized infarct in the diencephalon. This lesion is most likely located in which of the following nuclei of the diencephalon?",
-        "a": [
-          "Anterior",
-          "Centromedian",
-          "Subthalamic",
-          "Ventral lateral",
-          "Ventral posteromedial"
-        ],
-        "c": 2,
-        "l": "Lesion of the subthalamic nucleus causes hemiballismus.",
-        "h": "Flailing movements = hemiballismus = subthalamic"
-      },
-      {
-        "q": "The family of a 55-year-old female noticed that she was experiencing headaches, having difficulty completing mechanical tasks such as tying her right shoelace, and inability to voluntarily move her eyes to the right. After being hospitalized, an MRI (shown in the following picture) revealed the presence of a tumor. Which of the following regions was primarily affected by the tumor that best accounts for the observed deficits?",
-        "a": [
-          "Prefrontal cortex",
-          "Premotor region",
-          "Precentral gyrus",
-          "Basal ganglia"
-        ],
-        "c": 2,
-        "l": "The precentral gyrus (primary motor cortex) controls voluntary movement of the contralateral body.",
-        "h": "Motor weakness = primary motor cortex"
-      },
-      {
-        "q": "A lesion in the cerebellopontine angle produces?",
-        "a": [
-          "Facial palsy",
-          "Loss of hearing",
-          "Both A and B",
-          "None of the above is correct"
-        ],
-        "c": 2,
-        "l": "CPA lesions affect CN VII and VIII.",
-        "h": "CPA = CN7 + CN8"
-      },
-      {
-        "q": "A 52-year-old male is admitted to a local hospital after he first began complaining of headaches, which were then followed by a significant weakness in his right arm and leg, slurred speech, and lack of expression on the right side of the jaw. An MRI reveals the presence of a well-defined brain tumor (shown in the picture below). Which of the following structures or regions damaged by the tumor best accounts for the observed deficits?",
-        "a": [
-          "Internal capsule",
-          "Caudate nucleus",
-          "Globus pallidus"
-        ],
-        "c": 0,
-        "l": "The internal capsule contains major motor pathways.",
-        "h": "Motor deficits → internal capsule"
-      },
-      {
-        "q": "After his wife had a stroke, a husband notices that his wife's hair is always tangled and uncombed on the left side of her head, although on the right her hair is straightened and orderly. The left side of her face is usually with food remaining there, but the right face is always clean. She has stopped putting her ring and watch on her left hand. When eating, she never uses her fork on the left side of her plate and, surprisingly, she often asks why she was not given a fork to eat with. This woman's stroke most likely damaged which area?",
-        "a": [
-          "Parietal lobe",
-          "Temporal lobe",
-          "Occipital lobe",
-          "Premotor cortex of frontal lobe",
-          "Orbitomedial cortex of frontal lobe"
-        ],
-        "c": 0,
-        "l": "Damage to the right parietal lobe causes contralateral hemispatial neglect.",
-        "h": "Neglect of left side = right parietal lobe"
-      }
+    "immunity_and_immune_system": [
+  [
+  {
+    "q": "Which statement best distinguishes innate immunity from adaptive immunity?",
+    "a": [
+      "Innate immunity is antigen-specific",
+      "Adaptive immunity is immediate",
+      "Innate immunity provides immediate non-specific protection",
+      "Adaptive immunity lacks memory",
+      "Innate immunity is mediated only by antibodies"
+    ],
+    "c": 2,
+    "l": "Innate immunity provides rapid, non-specific protection against infection.",
+    "h": "Immediate + non-specific"
+  },
+  {
+    "q": "Immunity is best defined as:",
+    "a": [
+      "Production of antibodies",
+      "Resistance to disease",
+      "Inflammation against pathogens",
+      "Recognition of self-antigens",
+      "Elimination of all microbes"
+    ],
+    "c": 1,
+    "l": "Immunity refers to resistance against disease and infection.",
+    "h": "Resistance to disease"
+  },
+  {
+    "q": "The immune system is composed of:",
+    "a": [
+      "Only lymphocytes",
+      "Only antibodies",
+      "Cells, tissues, and molecules that mediate resistance to infection",
+      "Only bone marrow and thymus",
+      "Only innate immune cells"
+    ],
+    "c": 2,
+    "l": "The immune system includes cells, tissues, and molecules that defend against infection.",
+    "h": "Cells + tissues + molecules"
+  },
+  {
+    "q": "Which type of immunity provides immediate protection against microbial invasion?",
+    "a": [
+      "Adaptive immunity",
+      "Humoral immunity",
+      "Cell-mediated immunity",
+      "Innate immunity",
+      "Passive immunity"
+    ],
+    "c": 3,
+    "l": "Innate immunity acts immediately upon exposure to pathogens.",
+    "h": "Immediate response"
+  },
+  {
+    "q": "Adaptive immunity differs from innate immunity because it:",
+    "a": [
+      "Acts immediately",
+      "Uses only neutrophils",
+      "Develops more slowly and is highly specific",
+      "Does not form memory",
+      "Uses complement only"
+    ],
+    "c": 2,
+    "l": "Adaptive immunity develops more slowly and targets specific antigens.",
+    "h": "Slow but specific"
+  },
+  {
+    "q": "Which cells mediate cell-mediated immunity?",
+    "a": [
+      "B lymphocytes",
+      "Neutrophils",
+      "T lymphocytes",
+      "Macrophages",
+      "NK cells"
+    ],
+    "c": 2,
+    "l": "Cell-mediated immunity is mediated by T lymphocytes.",
+    "h": "T cells"
+  },
+  {
+    "q": "Humoral immunity is primarily mediated by:",
+    "a": [
+      "Macrophages",
+      "T lymphocytes",
+      "NK cells",
+      "B lymphocytes",
+      "Neutrophils"
+    ],
+    "c": 3,
+    "l": "Humoral immunity is mediated by antibody-producing B lymphocytes.",
+    "h": "B cells"
+  },
+  {
+    "q": "Which of the following is a major innate immune cell?",
+    "a": [
+      "B lymphocyte",
+      "T lymphocyte",
+      "Neutrophil",
+      "Plasma cell",
+      "Memory B cell"
+    ],
+    "c": 2,
+    "l": "Neutrophils are key cells of the innate immune system.",
+    "h": "Innate phagocyte"
+  },
+  {
+    "q": "Which feature is characteristic of innate immunity?",
+    "a": [
+      "Immunologic memory",
+      "High specificity",
+      "Immediate response",
+      "Antibody production",
+      "Clonal expansion"
+    ],
+    "c": 2,
+    "l": "Innate immunity provides an immediate response to pathogens.",
+    "h": "Immediate protection"
+  },
+  {
+    "q": "Which molecule is part of innate immunity?",
+    "a": [
+      "IgG",
+      "BCR",
+      "Lysozyme",
+      "TCR",
+      "IgM"
+    ],
+    "c": 2,
+    "l": "Lysozyme is an innate antimicrobial enzyme found in secretions.",
+    "h": "Innate enzyme"
+  },
+  {
+    "q": "Adaptive immunity recognizes antigens primarily through:",
+    "a": [
+      "TLRs",
+      "PRRs",
+      "BCRs and TCRs",
+      "Complement receptors",
+      "Fc receptors"
+    ],
+    "c": 2,
+    "l": "Adaptive immunity uses B-cell and T-cell receptors for antigen recognition.",
+    "h": "BCR + TCR"
+  },
+  {
+    "q": "Innate immune recognition of microbes is based on detection of:",
+    "a": [
+      "Immunoglobulins",
+      "PAMPs",
+      "MHC molecules",
+      "TCRs",
+      "BCRs"
+    ],
+    "c": 1,
+    "l": "Innate immunity recognizes pathogen-associated molecular patterns (PAMPs).",
+    "h": "PAMP recognition"
+  },
+  {
+    "q": "Pattern recognition receptors (PRRs) are primarily associated with:",
+    "a": [
+      "Adaptive immunity",
+      "Innate immunity",
+      "Antibody production",
+      "Plasma cells",
+      "Memory cells"
+    ],
+    "c": 1,
+    "l": "PRRs are receptors of the innate immune system that detect PAMPs.",
+    "h": "Innate receptors"
+  },
+  {
+    "q": "TLR-2 primarily recognizes:",
+    "a": [
+      "LPS",
+      "Flagellin",
+      "Peptidoglycan",
+      "ssRNA",
+      "dsRNA"
+    ],
+    "c": 2,
+    "l": "TLR-2 recognizes peptidoglycan from Gram-positive bacteria.",
+    "h": "Gram-positive cell wall"
+  },
+  {
+    "q": "TLR-4 is the principal receptor for:",
+    "a": [
+      "Peptidoglycan",
+      "Flagellin",
+      "Lipopolysaccharide",
+      "dsRNA",
+      "ssRNA"
+    ],
+    "c": 2,
+    "l": "TLR-4 recognizes LPS from Gram-negative bacteria.",
+    "h": "LPS receptor"
+  },
+  {
+    "q": "TLR-5 recognizes which microbial structure?",
+    "a": [
+      "LPS",
+      "Peptidoglycan",
+      "Flagellin",
+      "dsRNA",
+      "ssRNA"
+    ],
+    "c": 2,
+    "l": "TLR-5 recognizes bacterial flagellin.",
+    "h": "Bacterial flagella"
+  },
+  {
+    "q": "Which Toll-like receptors recognize single-stranded viral RNA?",
+    "a": [
+      "TLR-2",
+      "TLR-3",
+      "TLR-4",
+      "TLR-7 and TLR-8",
+      "TLR-5"
+    ],
+    "c": 3,
+    "l": "TLR-7 and TLR-8 detect viral single-stranded RNA.",
+    "h": "ssRNA sensor"
+  },
+  {
+    "q": "TLR-3 is most important for recognition of:",
+    "a": [
+      "LPS",
+      "Flagellin",
+      "Peptidoglycan",
+      "Double-stranded RNA",
+      "Single-stranded RNA"
+    ],
+    "c": 3,
+    "l": "TLR-3 recognizes viral double-stranded RNA.",
+    "h": "dsRNA sensor"
+  },
+  {
+    "q": "NF-kB functions primarily as a:",
+    "a": [
+      "Complement protein",
+      "Transcription factor",
+      "Antibody",
+      "Pattern recognition receptor",
+      "Cytokine"
+    ],
+    "c": 1,
+    "l": "NF-kB is a transcription factor regulating immune-response genes.",
+    "h": "Gene regulator"
+  },
+  {
+    "q": "Activation of NF-kB results in:",
+    "a": [
+      "Decreased cytokine production",
+      "Transcription of immune response genes",
+      "B-cell apoptosis",
+      "Loss of immunity",
+      "Complement inhibition"
+    ],
+    "c": 1,
+    "l": "NF-kB promotes transcription of cytokines and immune-related genes.",
+    "h": "Cytokine expression"
+  },
+  [
+  {
+    "q": "Which of the following is considered a first-line physical barrier against infection?",
+    "a": [
+      "IgG",
+      "Skin",
+      "B lymphocyte",
+      "T lymphocyte",
+      "Plasma cell"
+    ],
+    "c": 1,
+    "l": "Skin serves as a major physical barrier preventing microbial entry.",
+    "h": "Physical barrier"
+  },
+  {
+    "q": "Lysozyme found in tears protects against infection by:",
+    "a": [
+      "Producing antibodies",
+      "Activating T cells",
+      "Breaking down bacterial cell walls",
+      "Activating complement",
+      "Stimulating NK cells"
+    ],
+    "c": 2,
+    "l": "Lysozyme cleaves peptidoglycan in bacterial cell walls.",
+    "h": "Tears enzyme"
+  },
+  {
+    "q": "Respiratory cilia help prevent infection by:",
+    "a": [
+      "Producing antibodies",
+      "Phagocytosing bacteria",
+      "Removing trapped microbes from airways",
+      "Activating complement",
+      "Producing cytokines"
+    ],
+    "c": 2,
+    "l": "Respiratory cilia clear microbes through mucociliary transport.",
+    "h": "Mucociliary clearance"
+  },
+  {
+    "q": "Which innate immune cell is specialized for killing virus-infected cells?",
+    "a": [
+      "B lymphocyte",
+      "Neutrophil",
+      "NK cell",
+      "Plasma cell",
+      "Eosinophil"
+    ],
+    "c": 2,
+    "l": "Natural killer cells destroy virus-infected cells without prior sensitization.",
+    "h": "Kills infected cells"
+  },
+  {
+    "q": "Which cell is the most abundant circulating phagocyte?",
+    "a": [
+      "Macrophage",
+      "Neutrophil",
+      "B lymphocyte",
+      "NK cell",
+      "Plasma cell"
+    ],
+    "c": 1,
+    "l": "Neutrophils are the most abundant circulating phagocytic cells.",
+    "h": "Most common phagocyte"
+  },
+  {
+    "q": "Which cytokines are important in antiviral defense?",
+    "a": [
+      "IL-4 and IL-5",
+      "TNF-alpha and IL-1",
+      "IFN-alpha and IFN-beta",
+      "IL-2 and IL-12",
+      "IL-10 and TGF-beta"
+    ],
+    "c": 2,
+    "l": "Type I interferons (IFN-alpha and IFN-beta) inhibit viral replication.",
+    "h": "Antiviral cytokines"
+  },
+  {
+    "q": "Transferrin, lactoferrin, and ferritin protect against microbes primarily by:",
+    "a": [
+      "Producing antibodies",
+      "Binding iron",
+      "Activating T cells",
+      "Stimulating fever",
+      "Activating complement"
+    ],
+    "c": 1,
+    "l": "These proteins limit microbial growth by sequestering iron.",
+    "h": "Iron sequestration"
+  },
+  {
+    "q": "An inflammasome is primarily involved in:",
+    "a": [
+      "Antibody production",
+      "T-cell maturation",
+      "Activation of inflammatory cytokines",
+      "MHC presentation",
+      "NK-cell activation"
+    ],
+    "c": 2,
+    "l": "Inflammasomes activate inflammatory mediators such as IL-1.",
+    "h": "Inflammatory activation"
+  },
+  {
+    "q": "The primary role of an antigen-presenting cell (APC) is to:",
+    "a": [
+      "Produce antibodies",
+      "Kill infected cells",
+      "Present antigen to T cells",
+      "Activate complement",
+      "Produce hemoglobin"
+    ],
+    "c": 2,
+    "l": "APCs process antigens and present them to T lymphocytes.",
+    "h": "Shows antigen"
+  },
+  {
+    "q": "Which of the following is a professional antigen-presenting cell?",
+    "a": [
+      "Neutrophil",
+      "Eosinophil",
+      "Dendritic cell",
+      "Platelet",
+      "Erythrocyte"
+    ],
+    "c": 2,
+    "l": "Dendritic cells are the most effective professional APCs.",
+    "h": "Professional APC"
+  },
+  {
+    "q": "Which cells are classified as professional antigen-presenting cells?",
+    "a": [
+      "Neutrophils, eosinophils, basophils",
+      "T cells, B cells, NK cells",
+      "Dendritic cells, macrophages, B cells",
+      "Platelets, RBCs, monocytes",
+      "NK cells, neutrophils, plasma cells"
+    ],
+    "c": 2,
+    "l": "Professional APCs include dendritic cells, macrophages, and B cells.",
+    "h": "Three APCs"
+  },
+  {
+    "q": "Which lymphoid organ is responsible for B-cell development?",
+    "a": [
+      "Thymus",
+      "Lymph node",
+      "Bone marrow",
+      "Spleen",
+      "MALT"
+    ],
+    "c": 2,
+    "l": "B lymphocytes mature within the bone marrow.",
+    "h": "B-cell maturation"
+  },
+  {
+    "q": "Which lymphoid organ is responsible for T-cell development?",
+    "a": [
+      "Bone marrow",
+      "Spleen",
+      "Lymph node",
+      "Thymus",
+      "Appendix"
+    ],
+    "c": 3,
+    "l": "T lymphocytes mature within the thymus.",
+    "h": "T-cell maturation"
+  },
+  {
+    "q": "Which are considered primary lymphoid organs?",
+    "a": [
+      "Spleen and lymph node",
+      "Bone marrow and thymus",
+      "MALT and spleen",
+      "Thymus and spleen",
+      "Bone marrow and MALT"
+    ],
+    "c": 1,
+    "l": "Primary lymphoid organs are sites of lymphocyte development.",
+    "h": "Development sites"
+  },
+  {
+    "q": "Which are considered secondary lymphoid organs?",
+    "a": [
+      "Bone marrow and thymus",
+      "Liver and spleen",
+      "Lymph nodes, spleen, and MALT",
+      "Bone marrow and MALT",
+      "Thymus and lymph node"
+    ],
+    "c": 2,
+    "l": "Secondary lymphoid organs are sites of antigen-driven lymphocyte activation.",
+    "h": "Activation sites"
+  },
+  {
+    "q": "Lymph nodes are specialized to initiate immune responses against:",
+    "a": [
+      "Blood-borne antigens",
+      "Tissue-borne antigens",
+      "Only viral antigens",
+      "Only bacterial antigens",
+      "Food antigens"
+    ],
+    "c": 1,
+    "l": "Lymph nodes initiate responses against antigens draining from tissues.",
+    "h": "Tissue drainage"
+  },
+  {
+    "q": "The cortex of a lymph node is primarily the site of:",
+    "a": [
+      "Macrophage activation",
+      "T-cell activation",
+      "B-cell activation",
+      "NK-cell activation",
+      "Complement production"
+    ],
+    "c": 2,
+    "l": "B-cell follicles are located in the lymph node cortex.",
+    "h": "B-cell zone"
+  },
+  {
+    "q": "The paracortex of a lymph node is primarily the site of:",
+    "a": [
+      "B-cell activation",
+      "Plasma cells",
+      "T-cell activation",
+      "RBC filtration",
+      "Complement activation"
+    ],
+    "c": 2,
+    "l": "The paracortex is the T-cell-rich area of lymph nodes.",
+    "h": "T-cell zone"
+  },
+  {
+    "q": "The spleen primarily initiates immune responses against:",
+    "a": [
+      "Tissue-borne antigens",
+      "Blood-borne antigens",
+      "Skin pathogens",
+      "Mucosal antigens",
+      "Food antigens"
+    ],
+    "c": 1,
+    "l": "The spleen filters blood and responds to blood-borne antigens.",
+    "h": "Blood filtration"
+  },
+  {
+    "q": "The marginal zone of the spleen is located:",
+    "a": [
+      "Within the red pulp",
+      "Within the thymus",
+      "Surrounding the follicle",
+      "Inside lymphatic vessels",
+      "Within the bone marrow"
+    ],
+    "c": 2,
+    "l": "The splenic marginal zone surrounds lymphoid follicles.",
+    "h": "Around follicle"
+  }
+]
+]
     ],
     "neuro_batch2": [
       {
