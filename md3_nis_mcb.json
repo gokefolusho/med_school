@@ -20,709 +20,1269 @@
   ],
   "quizzes": {
     "immunity_and_immune_system": [
-{
-"q": "Which statement best distinguishes innate immunity from adaptive immunity?",
-"a": [
-"Innate immunity is antigen-specific",
-"Adaptive immunity is immediate",
-"Innate immunity provides immediate non-specific protection",
-"Adaptive immunity lacks memory",
-"Innate immunity is mediated only by antibodies"
-],
-"c": 2,
-"l": "Innate immunity provides rapid, non-specific protection against infection.",
-"h": "Immediate + non-specific"
-},
-{
-"q": "Immunity is best defined as:",
-"a": [
-"Production of antibodies",
-"Resistance to disease",
-"Inflammation against pathogens",
-"Recognition of self-antigens",
-"Elimination of all microbes"
-],
-"c": 1,
-"l": "Immunity refers to resistance against disease and infection.",
-"h": "Resistance"
-},
-{
-"q": "The immune system is composed of:",
-"a": [
-"Only lymphocytes",
-"Only antibodies",
-"Cells, tissues, and molecules that mediate resistance to infection",
-"Only bone marrow and thymus",
-"Only innate immune cells"
-],
-"c": 2,
-"l": "The immune system includes cells, tissues, and molecules that defend against infection.",
-"h": "Defense system"
-},
-{
-"q": "Which type of immunity provides immediate protection against microbial invasion?",
-"a": [
-"Adaptive immunity",
-"Humoral immunity",
-"Cell-mediated immunity",
-"Innate immunity",
-"Passive immunity"
-],
-"c": 3,
-"l": "Innate immunity acts immediately upon pathogen exposure.",
-"h": "Immediate protection"
-},
-{
-"q": "Adaptive immunity differs from innate immunity because it:",
-"a": [
-"Acts immediately",
-"Uses only neutrophils",
-"Develops more slowly and is highly specific",
-"Does not form memory",
-"Uses complement only"
-],
-"c": 2,
-"l": "Adaptive immunity develops slowly and targets specific antigens.",
-"h": "Specific defense"
-},
-{
-"q": "Which cells mediate cell-mediated immunity?",
-"a": [
-"B lymphocytes",
-"Neutrophils",
-"T lymphocytes",
-"Macrophages",
-"NK cells"
-],
-"c": 2,
-"l": "Cell-mediated immunity is mediated by T lymphocytes.",
-"h": "T cells"
-},
-{
-"q": "Humoral immunity is primarily mediated by:",
-"a": [
-"Macrophages",
-"T lymphocytes",
-"NK cells",
-"B lymphocytes",
-"Neutrophils"
-],
-"c": 3,
-"l": "Humoral immunity is mediated by antibody-producing B lymphocytes.",
-"h": "B cells"
-},
-{
-"q": "Which of the following is a major innate immune cell?",
-"a": [
-"B lymphocyte",
-"T lymphocyte",
-"Neutrophil",
-"Plasma cell",
-"Memory B cell"
-],
-"c": 2,
-"l": "Neutrophils are major innate immune cells.",
-"h": "Innate cell"
-},
-{
-"q": "Which feature is characteristic of innate immunity?",
-"a": [
-"Immunologic memory",
-"High specificity",
-"Immediate response",
-"Antibody production",
-"Clonal expansion"
-],
-"c": 2,
-"l": "Innate immunity provides an immediate response to pathogens.",
-"h": "Immediate"
-},
-{
-"q": "Which molecule is part of innate immunity?",
-"a": [
-"IgG",
-"BCR",
-"Lysozyme",
-"TCR",
-"IgM"
-],
-"c": 2,
-"l": "Lysozyme is an innate antimicrobial enzyme.",
-"h": "Lysozyme"
-},
-{
-"q": "Adaptive immunity recognizes antigens primarily through:",
-"a": [
-"TLRs",
-"PRRs",
-"BCRs and TCRs",
-"Complement receptors",
-"Fc receptors"
-],
-"c": 2,
-"l": "Adaptive immunity uses BCRs and TCRs for antigen recognition.",
-"h": "BCR + TCR"
-},
-{
-"q": "Innate immune recognition of microbes is based on detection of:",
-"a": [
-"Immunoglobulins",
-"PAMPs",
-"MHC molecules",
-"TCRs",
-"BCRs"
-],
-"c": 1,
-"l": "Innate immunity recognizes pathogen-associated molecular patterns (PAMPs).",
-"h": "PAMPs"
-},
-{
-"q": "Pattern recognition receptors (PRRs) are primarily associated with:",
-"a": [
-"Adaptive immunity",
-"Innate immunity",
-"Antibody production",
-"Plasma cells",
-"Memory cells"
-],
-"c": 1,
-"l": "PRRs are receptors of the innate immune system.",
-"h": "PRR"
-},
-{
-"q": "TLR-2 primarily recognizes:",
-"a": [
-"LPS",
-"Flagellin",
-"Peptidoglycan",
-"ssRNA",
-"dsRNA"
-],
-"c": 2,
-"l": "TLR-2 recognizes peptidoglycan from Gram-positive bacteria.",
-"h": "Gram-positive"
-},
-{
-"q": "TLR-4 is the principal receptor for:",
-"a": [
-"Peptidoglycan",
-"Flagellin",
-"Lipopolysaccharide",
-"dsRNA",
-"ssRNA"
-],
-"c": 2,
-"l": "TLR-4 recognizes LPS from Gram-negative bacteria.",
-"h": "LPS"
-},
-{
-"q": "TLR-5 recognizes which microbial structure?",
-"a": [
-"LPS",
-"Peptidoglycan",
-"Flagellin",
-"dsRNA",
-"ssRNA"
-],
-"c": 2,
-"l": "TLR-5 recognizes bacterial flagellin.",
-"h": "Flagella"
-},
-{
-"q": "Which Toll-like receptors recognize single-stranded viral RNA?",
-"a": [
-"TLR-2",
-"TLR-3",
-"TLR-4",
-"TLR-7 and TLR-8",
-"TLR-5"
-],
-"c": 3,
-"l": "TLR-7 and TLR-8 detect viral ssRNA.",
-"h": "ssRNA"
-},
-{
-"q": "TLR-3 is most important for recognition of:",
-"a": [
-"LPS",
-"Flagellin",
-"Peptidoglycan",
-"Double-stranded RNA",
-"Single-stranded RNA"
-],
-"c": 3,
-"l": "TLR-3 recognizes viral dsRNA.",
-"h": "dsRNA"
-},
-{
-"q": "NF-kB functions primarily as a:",
-"a": [
-"Complement protein",
-"Transcription factor",
-"Antibody",
-"Pattern recognition receptor",
-"Cytokine"
-],
-"c": 1,
-"l": "NF-kB is a transcription factor regulating immune-response genes.",
-"h": "Transcription factor"
-},
-{
-"q": "Activation of NF-kB results in:",
-"a": [
-"Decreased cytokine production",
-"Transcription of immune response genes",
-"B-cell apoptosis",
-"Loss of immunity",
-"Complement inhibition"
-],
-"c": 1,
-"l": "NF-kB promotes expression of cytokines and immune genes.",
-"h": "Gene expression"
-},
-{
-"q": "Which of the following is considered a first-line physical barrier against infection?",
-"a": [
-"IgG",
-"Skin",
-"B lymphocyte",
-"T lymphocyte",
-"Plasma cell"
-],
-"c": 1,
-"l": "Skin serves as a major physical barrier against pathogens.",
-"h": "Skin"
-},
-{
-"q": "Lysozyme found in tears protects against infection by:",
-"a": [
-"Producing antibodies",
-"Activating T cells",
-"Breaking down bacterial cell walls",
-"Activating complement",
-"Stimulating NK cells"
-],
-"c": 2,
-"l": "Lysozyme cleaves peptidoglycan in bacterial cell walls.",
-"h": "Tears"
-},
-{
-"q": "Respiratory cilia help prevent infection by:",
-"a": [
-"Producing antibodies",
-"Phagocytosing bacteria",
-"Removing trapped microbes from airways",
-"Activating complement",
-"Producing cytokines"
-],
-"c": 2,
-"l": "Respiratory cilia clear microbes by mucociliary transport.",
-"h": "Cilia"
-},
-{
-"q": "Which innate immune cell is specialized for killing virus-infected cells?",
-"a": [
-"B lymphocyte",
-"Neutrophil",
-"NK cell",
-"Plasma cell",
-"Eosinophil"
-],
-"c": 2,
-"l": "NK cells destroy virus-infected cells.",
-"h": "NK cells"
-},
-{
-"q": "Which cytokines are important in antiviral defense?",
-"a": [
-"IL-4 and IL-5",
-"TNF-alpha and IL-1",
-"IFN-alpha and IFN-beta",
-"IL-2 and IL-12",
-"IL-10 and TGF-beta"
-],
-"c": 2,
-"l": "Type I interferons inhibit viral replication.",
-"h": "IFN α/β"
-}
+  {
+    "q": "A 4-year-old boy presents to the clinic with an acute laceration on his knee after falling on the playground. Within minutes, localized physiological mechanisms are activated at the site of tissue injury to prevent the entry and systemic spread of pathogens. This initial defense strategy is best categorized under which of the following arms of immunity?",
+    "a": [
+      "Adaptive immunity",
+      "Cell-mediated immunity",
+      "Humoral immunity",
+      "Innate immunity",
+      "Passive immunity"
     ],
+    "c": 3,
+    "l": "Innate immunity (also known as natural or native immunity) provides immediate protection against microbial invasion, serving as the body's first line of defense before adaptive immunity develops.",
+    "h": "Immediate antimicrobial defense"
+  },
+  {
+    "q": "A medical student is preparing a presentation comparing the functional arms of the human immune system. She defines the core concept of immunity to emphasize its evolutionary importance in host survival. Which of the following statements provides the most accurate definition of immunity?",
+    "a": [
+      "The collection of cells, tissues, and molecules that mediate responses against tumors",
+      "The specific process by which B lymphocytes undergo somatic hypermutation",
+      "The body's resistance to diseases, particularly infectious diseases",
+      "The automatic destruction of self-reactive lymphocytes in primary lymphoid organs",
+      "The non-specific production of acute-phase reactants by hepatocytes"
+    ],
+    "c": 2,
+    "l": "Immunity is fundamentally defined as the state of resistance to diseases, particularly infectious diseases.",
+    "h": "Definition of immunity"
+  },
+  {
+    "q": "An investigator is writing a textbook chapter on basic immunology. He wants to clearly delineate the host framework responsible for preventing and eradicating infections. Which of the following best describes the structural and functional definition of the immune system?",
+    "a": [
+      "An isolated group of primary lymphoid organs responsible for the destruction of foreign particles",
+      "The collection of cells, tissues, and molecules that mediate resistance to infections",
+      "A circulating network composed strictly of immunoglobulins and complement proteins",
+      "The systemic vascular structures that facilitate the marginating and rolling of red blood cells",
+      "The protective epithelial barriers of the skin and mucous membranes working independently"
+    ],
+    "c": 1,
+    "l": "The immune system is defined as the coordinated collection of cells, tissues, and molecules that mediate resistance to infections.",
+    "h": "Immune system definition"
+  },
+  {
+    "q": "A 28-year-old male accidentally steps on a rusted nail while working outdoors. Within an hour, neutrophils, macrophages, and alternative pathway complement proteins actively engage invading bacteria at the site of injury. Which of the following characteristics best describes this initial defense mechanism?",
+    "a": [
+      "It requires clonal expansion of specialized lymphocytes over several days",
+      "It provides immediate protection against microbial invasion",
+      "It relies exclusively on the production of high-affinity IgG antibodies",
+      "It undergoes affinity maturation upon repeated exposures to the same pathogen",
+      "It is mediated primarily by CD4+ helper T cells reading MHC class II molecules"
+    ],
+    "c": 1,
+    "l": "Innate, natural, or native immunity acts as the first line of defense, providing immediate protection against microbial invasion.",
+    "h": "Innate immunity characteristics"
+  },
+  {
+    "q": "A 14-year-old girl is exposed to a classmate with varicella-zoster virus. While her innate immune system responds immediately, her body simultaneously initiates a highly specific, long-term protective response that takes days to weeks to mature. Which of the following best characterizes this secondary arm of defense?",
+    "a": [
+      "It provides immediate, non-specific clearing via lysozyme secretion",
+      "It is mediated solely by pattern recognition receptors recognizing PAMPs",
+      "It develops more slowly and provides a more specialized defense against infections",
+      "It relies on preformed defensins to disrupt microbial membranes within hours",
+      "It is independent of antigen presentation or primary lymphoid organ education"
+    ],
+    "c": 2,
+    "l": "Adaptive immunity develops more slowly than innate immunity but provides a highly specialized and potent defense against specific infections.",
+    "h": "Adaptive immunity characteristics"
+  },
+  {
+    "q": "A 30-year-old female is evaluated for an active intracellular viral infection. Her immune system utilizes two distinct arms of adaptive immunity to clear the pathogen and neutralize free viral particles. Which of the following pairs correctly matches the two types of adaptive immunity with their primary cellular mediators?",
+    "a": [
+      "Cell-mediated (B lymphocytes) and Humoral (T lymphocytes)",
+      "Cell-mediated (Neutrophils) and Humoral (Macrophages)",
+      "Cell-mediated (T lymphocytes) and Humoral (B lymphocytes)",
+      "Cell-mediated (Dendritic cells) and Humoral (Natural Killer cells)",
+      "Cell-mediated (Mast cells) and Humoral (Plasma cells)"
+    ],
+    "c": 2,
+    "l": "Adaptive immunity consists of two types: cell-mediated immunity (mediated by T lymphocytes) and humoral immunity (mediated by B lymphocytes).",
+    "h": "Types of adaptive immunity"
+  },
+  {
+    "q": "A biopsy of an acutely inflamed subcutaneous tissue sample is examined under a microscope. The tissue is flooded with cell types belonging purely to the cellular component of the innate immune system. Which of the following groups of cells represents cellular components of innate immunity?",
+    "a": [
+      "B lymphocytes, T lymphocytes, and Plasma cells",
+      "Neutrophils, macrophages, and dendritic cells",
+      "Helper T cells, Cytotoxic T cells, and Memory B cells",
+      "Erythrocytes, Megakaryocytes, and Endothelial cells",
+      "Plasma cells, Follicular dendritic cells, and Lymphoblasts"
+    ],
+    "c": 1,
+    "l": "The cellular components of the innate immune system include phagocytes and antigen-presenting cells such as neutrophils, macrophages, and dendritic cells.",
+    "h": "Innate immune cells"
+  },
+  {
+    "q": "An experimental model evaluates the early chemical and cellular defenses of a host animal within the first 6 hours of a bacterial inoculation. Which of the following sets of features and molecules is exclusively associated with this innate immune response?",
+    "a": [
+      "Highly specific clonal selection, V(D)J recombination, and IgG production",
+      "Non-specific, immediately active, lysozyme, complements, defensins, and toll-like receptors",
+      "T-cell receptor activation, somatic hypermutation, and isotype switching",
+      "MHC Class II restriction, memory cell generation, and IgA secretion",
+      "B-cell receptor affinity maturation and plasma cell differentiation"
+    ],
+    "c": 1,
+    "l": "Innate immunity features non-specific, immediate responses mediated by chemical and cellular barriers such as lysozyme, complement proteins, defensins, and toll-like receptors (TLRs).",
+    "h": "Innate immunity features"
+  },
+  {
+    "q": "A 5-year-old child receives a booster vaccine. Over the next two weeks, his immune system mounts a highly specific response tailored precisely to the vaccine antigens, characterized by lymphocyte proliferation and antibody secretion. Which of the following combinations of mediators is responsible for these adaptive features?",
+    "a": [
+      "Neutrophils, Macrophages, and Lysozyme",
+      "Complement proteins, Toll-like receptors, and Defensins",
+      "T and B lymphocytes, high specificity, and Immunoglobulins secreted by B cells",
+      "Dendritic cells, ssRNA, and Pathogen-Associated Molecular Patterns",
+      "Natural Killer cells, Interferon alpha, and Interferon beta"
+    ],
+    "c": 2,
+    "l": "Adaptive immunity is characterized by T and B lymphocytes, exquisite antigenic specificity, and the production of highly specialized immunoglobulins (antibodies) by B-cell-derived plasma cells.",
+    "h": "Adaptive immune mediators"
+  },
+  {
+    "q": "An in vitro study examines how macrophages recognize invading bacterial pathogens. The cells successfully identify conserved, invariant microbial structures using specialized surface receptors. Which of the following targets does the innate immune system recognize to initiate this defensive response?",
+    "a": [
+      "Highly variable idiotypes via T-cell receptors",
+      "Pathogen-Associated Molecular Patterns (PAMPs) via Pattern Recognition Receptors (PRRs)",
+      "MHC Class I molecules displaying mutated self-peptides",
+      "Hypervariable loops located on secretory IgA dimeric complexes",
+      "Fab fragments derived from circulating host immunoglobulins"
+    ],
+    "c": 1,
+    "l": "The innate immune system recognizes Pathogen-Associated Molecular Patterns (PAMPs) using hardwired host Pattern Recognition Receptors (PRRs).",
+    "h": "Innate pathogen recognition"
+  },
+  {
+    "q": "A laboratory technician isolates mature lymphocytes from a healthy donor and exposes them to an antigen. The cells bind the antigen with extreme specificity using highly variable surface membrane receptors. Which of the following pairs of molecules represents the primary antigen recognition receptors of adaptive immunity?",
+    "a": [
+      "Toll-like receptors (TLRs) and Pathogen-Associated Molecular Patterns (PAMPs)",
+      "B cell Receptors (BCR) and T Cell Receptors (TCR)",
+      "Complement component C3b and Fc-gamma receptors",
+      "Lysozyme and Defensins",
+      "Scavenger receptors and Mannose-binding lectins"
+    ],
+    "c": 1,
+    "l": "The adaptive immune system achieves high target specificity through the expression of B-cell receptors (BCRs) and T-cell receptors (TCRs).",
+    "h": "Adaptive immune receptors"
+  },
+  {
+    "q": "A molecular biology laboratory isolates a family of germline-encoded host receptors expressed on macrophages, dendritic cells, and barrier epithelia. These receptors function specifically to sense the presence of microbial invaders by binding to conserved pathogen structures. Which of the following general terms best describes this class of innate immune receptors?",
+    "a": [
+      "B-cell receptors (BCRs)",
+      "T-cell receptors (TCRs)",
+      "Pattern Recognition Receptors (PRRs)",
+      "Major Histocompatibility Complex (MHC) proteins",
+      "Fc receptors"
+    ],
+    "c": 2,
+    "l": "Pattern Recognition Receptors (PRRs) are germline-encoded host receptors that recognize conserved microbial structures known as PAMPs.",
+    "h": "Pattern Recognition Receptors"
+  },
+  {
+    "q": "A biopsy of the skin from a patient with a localized Gram-positive bacterial infection shows marked activation of resident dendritic cells. Molecular analysis demonstrates that this activation was initiated when host cell surface receptors bound to bacterial cell wall peptidoglycans. Which of the following Pattern Recognition Receptors is specifically responsible for sensing this Gram-positive microbial component?",
+    "a": [
+      "TLR-3",
+      "TLR-4",
+      "TLR-5",
+      "TLR-2",
+      "TLR-7"
+    ],
+    "c": 3,
+    "l": "Toll-like Receptor 2 (TLR-2) recognizes peptidoglycan, a major cell wall component of Gram-positive bacteria.",
+    "h": "Peptidoglycan recognition receptor"
+  },
+  {
+    "q": "A 42-year-old male develops severe endotoxemia and septic shock due to a fulminant Gram-negative bacterial infection. The intense systemic inflammatory cascade is triggered when bacterial lipopolysaccharide (LPS) binds to a specific host toll-like receptor. Which of the following receptors is responsible for binding LPS?",
+    "a": [
+      "TLR-2",
+      "TLR-3",
+      "TLR-4",
+      "TLR-5",
+      "TLR-8"
+    ],
+    "c": 2,
+    "l": "Toll-like Receptor 4 (TLR-4) specifically recognizes and binds lipopolysaccharide (LPS), an endotoxin found in the outer membrane of Gram-negative bacteria.",
+    "h": "LPS recognition receptor"
+  },
+  {
+    "q": "A researcher constructs a mutant strain of motile bacteria that lacks functional flagella. When these mutant bacteria are introduced to a culture of wild-type macrophages, the host cells exhibit a significantly blunted innate immune response compared to when they are exposed to the motile wild-type strain. Which of the following Toll-like receptors was failured to activate by this mutant bacterial strain?",
+    "a": [
+      "TLR-2",
+      "TLR-3",
+      "TLR-4",
+      "TLR-5",
+      "TLR-7"
+    ],
+    "c": 3,
+    "l": "Toll-like Receptor 5 (TLR-5) specifically recognizes flagellin, the principal protein component of bacterial flagella.",
+    "h": "Flagellin recognition receptor"
+  },
+  {
+    "q": "An experimental model evaluates host endosomal responses to an infection by an enveloped single-stranded RNA (ssRNA) virus. Within the endosomes of plasmacytoid dendritic cells, specific pattern recognition receptors bind the viral nucleic acids, triggering an immediate antiviral signaling pathway. Which of the following Toll-like receptors mediates this response?",
+    "a": [
+      "TLR-2",
+      "TLR-4",
+      "TLR-5",
+      "TLR-3",
+      "TLR-7/8"
+    ],
+    "c": 4,
+    "l": "Toll-like Receptors 7 and 8 (TLR-7/8) are located within endosomes and specifically recognize single-stranded RNA (ssRNA), a common viral genetic material.",
+    "h": "ssRNA recognition receptor"
+  },
+  {
+    "q": "A 6-year-old boy contracts a viral infection characterized by intracellular replication that produces double-stranded RNA (dsRNA) intermediates. Endosomal receptors within his host cells detect these dsRNA structures to activate Type I Interferon production. Which of the following Toll-like receptors is responsible for detecting dsRNA?",
+    "a": [
+      "TLR-2",
+      "TLR-3",
+      "TLR-4",
+      "TLR-5",
+      "TLR-7"
+    ],
+    "c": 1,
+    "l": "Toll-like Receptor 3 (TLR-3) is specialized in recognizing double-stranded RNA (dsRNA), which serves as a marker for many viral infections.",
+    "h": "dsRNA recognition receptor"
+  },
+  {
+    "q": "Ligand binding to Toll-like receptors activates an intracellular signaling cascade that culminates in the translocation of a key transcription factor from the cytoplasm into the nucleus. This transcription factor then drives the expression of numerous pro-inflammatory genes. Which of the following molecules matches this description?",
+    "a": [
+      "PECAM-1",
+      "Sialyl-Lewis X",
+      "NF-kB",
+      "Transferrin",
+      "Lactoferrin"
+    ],
+    "c": 2,
+    "l": "NF-kB (Nuclear Factor kappa-light-chain-enhancer of activated B cells) is a major downstream transcription factor activated by PRR signaling.",
+    "h": "Inflammatory transcription factor"
+  },
+  {
+    "q": "A molecular biology study investigates the central controllers of the host defense response. Researchers identify an ancient, highly conserved transcription factor complex that acts as a master switch, regulating the transcription of genes necessary for both immediate non-specific defenses and long-term adaptive immunity. Which of the following factors is being studied?",
+    "a": [
+      "Myeloperoxidase",
+      "NF-kB",
+      "CD18 integrin",
+      "PECAM-1",
+      "Histamine"
+    ],
+    "c": 1,
+    "l": "NF-kB is a major transcription factor that regulates a vast array of genes driving the immune response.",
+    "h": "Master immune regulator"
+  },
+  {
+    "q": "An experimental knockout mouse model completely lacks functional NF-kB. When exposed to pathogens, these mice demonstrate a profound failure to produce inflammatory cytokines and a simultaneous defect in antigen-specific lymphocyte proliferation. Which of the following statements best explains these concurrent deficits?",
+    "a": [
+      "NF-kB is responsible exclusively for the somatic hypermutation of immunoglobulins",
+      "NF-kB is a major transcription factor responsible for both innate (cytokine expression) and adaptive immune responses (B and T cell pathways)",
+      "NF-kB regulates the expression of selectins but has no downstream nuclear effects",
+      "NF-kB acts only within primary lymphoid organs to delete self-reactive clones",
+      "NF-kB serves as a membrane receptor for bacterial flagellin proteins"
+    ],
+    "c": 1,
+    "l": "NF-kB is responsible for both innate immune responses (such as the expression of pro-inflammatory cytokines) and adaptive immune responses (modulating B-cell and T-cell activation and survival).",
+    "h": "NF-kB global immune roles"
+  },
+  {
+    "q": "A 19-year-old male is studying host defense mechanisms. He wants to catalog the physical and chemical barriers that prevent microorganisms from crossing epithelial surfaces and colonizing tissues. Which of the following groups represents components of these baseline epithelial/surface defenses?",
+    "a": [
+      "T-cell receptors, B-cell receptors, and IgG",
+      "Skin, lysozyme in tears, respiratory cilia, surface phagocytes, defensins, and normal microbiota",
+      "Lymph nodes, spleen, paracortex, and marginal zones",
+      "Bone marrow, thymus, and secondary follicles",
+      "Interferon alpha, interferon beta, and inflammasomes"
+    ],
+    "c": 1,
+    "l": "Baseline physical and chemical barriers include the skin, lysozyme (found in tears), respiratory cilia, surface phagocytes, defensins, and the protective normal microbiota.",
+    "h": "Epithelial and chemical barriers"
+  },
+  {
+    "q": "A 31-year-old male is infected with a respiratory virus. His body utilizes several innate defense mechanisms to limit viral replication and microenvironment bacterial growth without relying on prior antigen exposure. Which of the following combinations represents innate factors that limit the growth of microbes in the body?",
+    "a": [
+      "T-cell receptors, B-cell receptors, IgA, IgG, and IgM",
+      "NK cells, neutrophils, macrophages, IFN alpha/beta, iron-binding proteins (transferrin/lactoferrin/ferritin), fever, and the inflammasome",
+      "Bone marrow, thymus, lymph nodes, and mucosal-associated lymphoid tissue",
+      "CD18 integrins, ICAM-1, VCAM-1, and PECAM-1",
+      "Sialyl-Lewis X, E-selectin, P-selectin, and CD31"
+    ],
+    "c": 1,
+    "l": "Innate factors that limit microbial growth include NK cells (killing virus-infected cells), neutrophils and macrophages (phagocytosis), IFN alpha/beta (eliminating viruses), iron-binding proteins (transferrin/lactoferrin/ferritin), fever, and the inflammasome complex.",
+    "h": "Innate growth-limiting factors"
+  },
+  {
+    "q": "A dendritic cell in the skin captures an exogenous protein antigen from an invading bacterium, internalizes it, processes it into small peptide fragments, and migrates to a local lymph node. There, it displays the peptide on its cell surface bound to an MHC molecule to activate naive helper T cells. Which of the following terms best describes the role of this dendritic cell?",
+    "a": [
+      "Cytotoxic T lymphocyte",
+      "Natural Killer cell",
+      "Antigen Presenting Cell (APC)",
+      "Plasma cell",
+      "Mast cell"
+    ],
+    "c": 2,
+    "l": "An Antigen Presenting Cell (APC) captures foreign invaders (antigens), processes them, and shows a piece on its surface to the adaptive immune system (specifically T cells).",
+    "h": "Antigen presentation concept"
+  },
+  {
+    "q": "An immunologist studies the cellular interactions required to initiate a T-cell-mediated immune response. He notes that only a select group of immune cells express Major Histocompatibility Complex (MHC) Class II molecules constitutively and possess the co-stimulatory machinery necessary to activate naive T lymphocytes. Which of the following sets of cells are classified as professional APCs?",
+    "a": [
+      "Neutrophils, eosinophils, and basophils",
+      "Dendritic cells, macrophages, and B cells",
+      "Natural Killer cells, mast cells, and plasma cells",
+      "Erythrocytes, platelets, and endothelial cells",
+      "Helper T cells, cytotoxic T cells, and regulatory T cells"
+    ],
+    "c": 1,
+    "l": "The professional antigen-presenting cells (APCs) are dendritic cells, macrophages, and B cells.",
+    "h": "Professional APC types"
+  },
+  {
+    "q": "A medical student is constructing a diagram to illustrate the life cycle of human lymphocytes. She groups the organs of the lymphoid system based on whether they serve as sites of initial cell production and maturation or sites of subsequent antigen encounter. Which of the following organs comprise the primary lymphoid organs?",
+    "a": [
+      "Lymph nodes and spleen",
+      "Mucosa-associated lymphoid tissue (MALT) and tonsils",
+      "Bone marrow and thymus",
+      "Appendix and Peyer's patches",
+      "Marginal zone and paracortex"
+    ],
+    "c": 2,
+    "l": "The primary (central) lymphoid organs are the bone marrow and the thymus, where lymphocytes are generated and mature.",
+    "h": "Primary lymphoid organs"
+  },
+  {
+    "q": "A 12-year-old child develops an infection in his right foot. Pathogens and floating antigens travel via afferent lymphatic vessels into the popliteal and inguinal lymph nodes, triggering a localized immune response. Which of the following groups contains only secondary lymphoid organs where these adaptive immune responses are initiated?",
+    "a": [
+      "Bone marrow and thymus",
+      "Lymph nodes, spleen, and MALT (mucosa-associated lymphoid tissue)",
+      "Liver and kidneys",
+      "Thyroid and parathyroid glands",
+      "Yellow bone marrow and umbilical cord blood"
+    ],
+    "c": 1,
+    "l": "The secondary (peripheral) lymphoid organs include the lymph nodes, spleen, and mucosa-associated lymphoid tissue (MALT).",
+    "h": "Secondary lymphoid organs"
+  },
+  {
+    "q": "An experimental drug selectively destroys the cellular niches within the human bone marrow. While mature T cells are unaffected, the production of naive B lymphocytes drops to zero. Which of the following processes has been disrupted by this drug?",
+    "a": [
+      "The maturation of T cells within the thymic cortex",
+      "The development and maturation of B cells",
+      "The filtration of blood-borne antigens by splenic macrophages",
+      "The activation of memory T cells within the lymph node paracortex",
+      "The somatic hypermutation of IgA antibodies in mucosal linings"
+    ],
+    "c": 1,
+    "l": "The bone marrow is the primary lymphoid organ responsible for the development and maturation of B cells.",
+    "h": "B-cell development site"
+  },
+  {
+    "q": "A newborn infant is found to have a congenital defect causing severe thymic hypoplasia. Laboratory analysis reveals a profound deficiency of circulating, mature T lymphocytes, whereas mature B lymphocyte counts are normal. Which of the following processes is dependent on the functional tissue of the thymus?",
+    "a": [
+      "The primary development and selection of T cells",
+      "The differentiation of B cells into plasma cells",
+      "The production of acute-phase reactants like CRP",
+      "The alternative pathway activation of complement proteins",
+      "The rolling of neutrophils along endothelial selectins"
+    ],
+    "c": 0,
+    "l": "The thymus is the primary lymphoid organ dedicated to the development, differentiation, and selection of T cells.",
+    "h": "T-cell development site"
+  },
+  {
+    "q": "A 23-year-old male is exposed to a novel bacterial pathogen. Antigens from the bacterium drain into his peripheral lymphoid tissues, where they encounter naive B and T lymphocytes. Which of the following best describes the primary purpose of secondary lymphoid organs, such as lymph nodes and the spleen?",
+    "a": [
+      "They serve as the sites of antigen-independent lymphocyte production",
+      "They are the exclusive sites of T and B cell activation by antigen",
+      "They manufacture iron-binding proteins like transferrin and lactoferrin",
+      "They host the initial steps of the neutrophil respiratory burst",
+      "They produce preformed lysozyme and defensin molecules"
+    ],
+    "c": 1,
+    "l": "Secondary lymphoid organs are specialized anatomical sites designed to serve as the presentation grounds where T and B cells are activated by foreign antigens.",
+    "h": "Lymphocyte activation sites"
+  },
+  {
+    "q": "A 35-year-old female develops a localized skin infection on her right arm following a superficial scrape. Bacterial antigens successfully cross the epithelial barrier and enter the local interstitial fluid. Which of the following organs is anatomically designed to filter this fluid and initiate immune responses against tissue-borne antigens?",
+    "a": [
+      "Spleen",
+      "Thymus",
+      "Lymph node",
+      "Bone marrow",
+      "Liver"
+    ],
+    "c": 2,
+    "l": "Lymph nodes are organized, encapsulated structures designed to initiate adaptive immune responses against tissue-borne antigens brought via lymphatic drainage.",
+    "h": "Tissue-borne antigen filtration"
+  },
+  {
+    "q": "An immunologist uses immunofluorescence to trace the migration of naive B cells within a lymph node following an active infection. She observes these cells proliferating and forming germinal centers within the outermost structural layer of the node. Which of the following specific regions is the primary site of B cell localization and activation?",
+    "a": [
+      "Paracortex",
+      "Medulla",
+      "Cortex",
+      "Marginal zone",
+      "Hilus"
+    ],
+    "c": 2,
+    "l": "The cortex of the lymph node is the anatomical zone containing lymphoid follicles, serving as the site of B-cell localization, activation, and proliferation.",
+    "h": "Lymph node cortex function"
+  },
+  {
+    "q": "A viral infection stimulates a robust cell-mediated immune response within a regional lymph node. Histological examination reveals prominent hypertrophy of the anatomical zone located directly between the outer cortex and the inner medulla. Which of the following regions is the primary site of T cell localization and activation within the lymph node?",
+    "a": [
+      "Cortex",
+      "Paracortex",
+      "Medullary cords",
+      "Marginal zone",
+      "Subcapsular sinus"
+    ],
+    "c": 1,
+    "l": "The paracortex is the T-cell rich zone of the lymph node where T cells reside, encounter antigens presented by dendritic cells, and undergo activation.",
+    "h": "Lymph node paracortex function"
+  },
+  {
+    "q": "A 22-year-old male develops an intravascular bacterial infection following an contaminated intravenous injection. The bacteria replicate directly within his bloodstream. Which of the following organs is specifically designed to filter the blood and initiate adaptive immune responses against blood-borne antigens?",
+    "a": [
+      "Lymph nodes",
+      "Spleen",
+      "Thymus",
+      "Mucosa-associated lymphoid tissue (MALT)",
+      "Peyer's patches"
+    ],
+    "c": 1,
+    "l": "The spleen is the secondary lymphoid organ responsible for filtering systemic circulation and initiating immune responses against blood-borne antigens.",
+    "h": "Blood-borne antigen filtration"
+  },
+  {
+    "q": "A 19-year-old male with sickle cell disease presents with a high fever, chills, and altered mental status. Blood cultures grow Streptococcus pneumoniae. His severe infection is primarily due to functional asplenia caused by recurrent splenic infarctions. Which of the following specific anatomical components of the spleen is compromised, resulting in this vulnerability?",
+    "a": [
+      "Thymic cortex",
+      "Lymph node paracortex",
+      "Splenic marginal zone",
+      "Medullary cords",
+      "Peyer's patches"
+    ],
+    "c": 2,
+    "l": "Splenic dysfunction (seen post-splenectomy or in sickle cell auto-splenectomy) disrupts the splenic marginal zone, which is critical for capturing encapsulated organisms.",
+    "h": "Splenic dysfunction vulnerability"
+  },
+  {
+    "q": "A pathology resident reviews a histology slide of a healthy human spleen. He identifies a specialized transition zone that directly surrounds the lymphoid follicles, separating the white pulp from the red pulp. Which of the following terms correctly identifies this structural region?",
+    "a": [
+      "Paracortex",
+      "Medulla",
+      "Cortex",
+      "Splenic marginal zone",
+      "Germinal center"
+    ],
+    "c": 3,
+    "l": "The splenic marginal zone is the distinct, specialized boundary area that surrounds the lymphoid follicles.",
+    "h": "Splenic marginal zone anatomy"
+  },
+  {
+    "q": "A 25-year-old male undergoes an emergency splenectomy following a severe motor vehicle accident. Over the next several years, he is at an increased risk for life-threatening sepsis. He must receive targeted immunizations to protect against which of the following classes of organisms?",
+    "a": [
+      "Intracellular viruses",
+      "Encapsulated organisms",
+      "Gram-negative motile rods",
+      "Fungi requiring oxidative killing",
+      "Acid-fast intracellular bacteria"
+    ],
+    "c": 1,
+    "l": "The loss of the spleen and its marginal zone results in a selective susceptibility to encapsulated organisms, notably Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae.",
+    "h": "Encapsulated organism risk"
+  },
+  {
+    "q": "A study characterizes the cellular mechanisms underlying the immunodeficiency state that follows a total splenectomy. Researchers determine that the loss of specialized phagocytic cells and specialized antibody-producing cells within the marginal zone directly accounts for the blunted systemic response. Which of the following pairs of cellular changes correctly matches this pathology?",
+    "a": [
+      "Loss of neutrophils (reduction in HOCl) and loss of T cells (reduction in IgA)",
+      "Loss of marginal zone macrophages (reduction in phagocytosis) and loss of marginal zone B cells (reduction in IgM)",
+      "Loss of dendritic cells (reduction in TLRs) and loss of plasma cells (reduction in IgE)",
+      "Loss of NK cells (reduction in viral killing) and loss of eosinophils (reduction in histamine)",
+      "Loss of endothelial cells (reduction in ICAM-1) and loss of mast cells (reduction in PGE2)"
+    ],
+    "c": 1,
+    "l": "Splenectomy results in the loss of marginal zone macrophages, causing a reduction in phagocytosis, and the loss of marginal zone B cells, causing a profound reduction in circulating IgM.",
+    "h": "Splenic cellular deficits"
+  },
+  {
+    "q": "A 3-year-old child undergoes a total splenectomy due to severe hereditary spherocytosis. Following the surgery, the pediatrician updates the child's immunization record and outlines a strict prophylactic management plan to prevent overwhelming post-splenectomy sepsis. Which of the following interventions represents standard clinical protocol for this young patient?",
+    "a": [
+      "Continuous antibiotic prophylaxis, typically oral amoxicillin, at least to age 5",
+      "Avoidance of all encapsulated vaccines until adulthood",
+      "Isolation from normal microbiota exposures in the community",
+      "Daily administration of high-dose corticosteroid anti-inflammatory drugs",
+      "Intravenous infusions of preformed defensins and lysozyme every month"
+    ],
+    "c": 0,
+    "l": "Patients undergoing splenectomy require appropriate vaccinations and continuous antibiotic prophylaxis (such as oral amoxicillin), particularly children up to at least age 5.",
+    "h": "Post-splenectomy prophylaxis"
+  },
+  {
+    "q": "A 45-year-old female presents for a routine check-up six months after undergoing a splenectomy. A peripheral blood smear is performed to evaluate her red blood cell morphology. Which of the following microscopic findings is a classic laboratory sign of an absent or non-functional spleen?",
+    "a": [
+      "Heinz bodies",
+      "Howell-Jolly bodies",
+      "Schistocytes",
+      "Basophilic stippling",
+      "Giant granules in neutrophils"
+    ],
+    "c": 1,
+    "l": "Howell-Jolly bodies (nuclear remnants within erythrocytes normally removed by the spleen) are a classic peripheral blood finding post-splenectomy.",
+    "h": "Post-splenectomy blood smear"
+  },
+  {
+    "q": "A hematology researcher traces the differentiation pathways of pluripotent hematopoietic stem cells within the bone marrow. She observes a lineage that gives rise to platelets, erythrocytes, eosinophils, basophils, neutrophils, and monocytes. Which of the following lineages is responsible for generating these cell types?",
+    "a": [
+      "Lymphoid lineage",
+      "Myeloid lineage",
+      "Thymic lineage",
+      "Epithelial lineage",
+      "Endothelial lineage"
+    ],
+    "c": 1,
+    "l": "Cells of the myeloid lineage differentiate into platelets, erythrocytes, eosinophils, basophils, neutrophils, and monocytes.",
+    "h": "Myeloid lineage derivatives"
+  },
+  {
+    "q": "An investigator studies the cellular branches of hematopoiesis. He focuses on a developmental pathway that originates in the primary lymphoid tissues and selectively produces adaptive lymphocytes along with a subset of innate cytotoxic cells. Which of the following lineages differentiates into T lymphocytes, B lymphocytes, NK cells, and some dendritic cells?",
+    "a": [
+      "Myeloid lineage",
+      "Lymphoid lineage",
+      "Granulocytic lineage",
+      "Erythroid lineage",
+      "Megakaryocytic lineage"
+    ],
+    "c": 1,
+    "l": "Cells of the lymphoid lineage differentiate into T and B lymphocytes, Natural Killer (NK) cells, and certain populations of dendritic cells.",
+    "h": "Lymphoid lineage derivatives"
+  },
+  {
+    "q": "A laboratory assay evaluates the ability of human neutrophils to bind and ingest opsonized pathogens. To successfully bind bacteria coated with Immunoglobulin G (IgG), the neutrophil must express specific surface receptors that recognize the constant structural tail of the antibody. Which of the following receptors is expressed on the surface of neutrophils to bind IgG?",
+    "a": [
+      "T-cell receptors (TCR)",
+      "Fc receptors",
+      "Sialyl-Lewis X ligands",
+      "Toll-like Receptor 4",
+      "PECAM-1 molecules"
+    ],
+    "c": 1,
+    "l": "Neutrophils express surface Fc receptors (FcRs) that specifically bind to the Fc portion of IgG antibodies coating a pathogen.",
+    "h": "Neutrophil antibody binding"
+  },
+  {
+    "q": "A 54-year-old male undergoing intensive chemotherapy for acute myeloid leukemia develops severe neutropenia, with an absolute neutrophil count of 150 cells/µL. Over the next week, he is at an increased risk for developing life-threatening opportunistic infections. Which of the following groups of pathogens represents the most common threats to a neutropenic patient?",
+    "a": [
+      "Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae",
+      "Pseudomonas aeruginosa, Staphylococcus aureus, and Aspergillus",
+      "Varicella-zoster virus, Human immunodeficiency virus, and Cytomegalovirus",
+      "Mycobacterium tuberculosis, Salmonella enterica, and Listeria",
+      "Giardia lamblia, Entamoeba histolytica, and Cryptosporidium"
+    ],
+    "c": 1,
+    "l": "Patients with severe neutropenia are highly vulnerable to specific opportunistic bacterial and fungal pathogens, most notably Pseudomonas aeruginosa, Staphylococcus aureus, and Aspergillus.",
+    "h": "Neutropenia infection risks"
+  },
+  {
+    "q": "An immunologist maps the expression of Fc receptors (FcRs) across various white blood cell populations. She notes that these specialized receptors allow innate immune cells to link with the adaptive immune system by binding antibody-coated targets. Which of the following groups of cells express functional Fc receptors on their surface?",
+    "a": [
+      "T lymphocytes, B lymphocytes, and Plasma cells",
+      "Neutrophils, Macrophages, NK cells, and Eosinophils",
+      "Erythrocytes, Megakaryocytes, and Endothelial cells",
+      "Thymic epithelial cells and Follicular dendritic cells",
+      "Helper T cells, Cytotoxic T cells, and Regulatory T cells"
+    ],
+    "c": 1,
+    "l": "Fc receptors (FcRs) are expressed on the surface of several innate immune cells, including neutrophils, macrophages, Natural Killer (NK) cells, and eosinophils.",
+    "h": "Cells expressing Fc receptors"
+  },
+  {
+    "q": "A basic science experiment evaluates the exact sequence of events required for efficient macrophage-mediated phagocytosis of a target pathogen. For the macrophage to successfully engage its surface Fc receptors and engulf the invader, which of the following steps must occur first?",
+    "a": [
+      "The pathogen must secrete NF-kB into the surrounding extracellular matrix",
+      "IgG must first coat the surface of the pathogen and then bind to the Fc receptor",
+      "The macrophage must secrete lysozyme to alter the antibody's idiotype",
+      "Complement protein C3b must directly cleave the Fc receptor's binding domain",
+      "The pathogen must downregulate its Pathogen-Associated Molecular Patterns"
+    ],
+    "c": 1,
+    "l": "During opsonization, IgG antibodies first coat the surface of the invading pathogen and subsequently bind to the host cell's surface Fc receptors.",
+    "h": "Opsonization sequence mechanism"
+  },
+  {
+    "q": "A 10-year-old boy is infected with an intestinal helminth. His immune system deploys a specialized granulocytic cell type that binds to the antibody-coated parasite and releases toxic major basic protein from its granules. Which of the following cells possesses Fc receptors configured to bind IgG and IgE to coordinate this defense?",
+    "a": [
+      "Neutrophil",
+      "Monocyte",
+      "Eosinophil",
+      "Basophil",
+      "B lymphocyte"
+    ],
+    "c": 2,
+    "l": "Eosinophils express surface Fc receptors capable of binding to both IgG and IgE, which is essential for their specialized defense against parasitic infections and participation in allergic responses.",
+    "h": "Eosinophil Fc receptors"
+  }
+],
     "acute_inflammatory_response": [
-      {
-        "q": "The Purkinje cells of the cerebellar cortex:",
-        "a": [
-          "Provides the only output to the deep cerebellar nuclei",
-          "Receives inhibitory input from climbing fibers",
-          "Send axons to the thalamus",
-          "Are excited by the axons of the basket cells"
-        ],
-        "c": 0,
-        "l": "Purkinje cells are the sole output neurons of the cerebellar cortex and send inhibitory (GABAergic) signals to deep cerebellar nuclei.",
-        "h": "Only output of cerebellar cortex → Purkinje cells"
-      },
-      {
-        "q": "Lucy is a 55-year-old woman with a history of hypertension and diabetes for more than 15 years. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Her speech was slurred and unintelligible. She lay on the floor and waited for help to arrive. At the emergency room, she was found to follow commands well, and although her speech was very slurred, it was logical in organization. The lower two-thirds of her face pointed to the right side when asked to protrude her tongue. Her right arm and leg were severely but equally weak. The left side was normal. Where is the lesion most likely located?",
-        "a": [
-          "Left precentral gyrus",
-          "Right precentral gyrus",
-          "Left internal capsule",
-          "Right putamen or globus pallidus",
-          "Left thalamus"
-        ],
-        "c": 2,
-        "l": "Equal contralateral face, arm, and leg weakness with dysarthria indicates a lacunar stroke of the internal capsule due to small vessel disease from hypertension and diabetes.",
-        "h": "Equal face + arm + leg weakness → internal capsule (pure motor stroke)"
-      },
-      {
-        "q": "Which of the following nuclei in the thalamus projects to area 3, 1, 2 of the cortex?",
-        "a": [
-          "Dorsomedial",
-          "Lateral geniculate",
-          "Ventral posteromedial",
-          "Ventral posterolateral"
-        ],
-        "c": 3,
-        "l": "Area 3, 1, 2 is the primary somatosensory cortex. The Ventral Posterolateral (VPL) nucleus relays sensory information (pain, temperature, touch, proprioception) from the body to this cortical area.",
-        "h": "Body sensation → VPL → Somatosensory cortex (3, 1, 2)"
-      },
-      {
-        "q": "Heschl’s convolutions are located in which of the following areas?",
-        "a": [
-          "Brodmann’s areas 41, 42",
-          "Centre for defecation and micturition",
-          "Brodmann’s area 43",
-          "Anterior (motor) speech area",
-          "Primary motor cortex"
-        ],
-        "c": 0,
-        "l": "Heschl’s gyrus (transverse temporal gyri) represents the primary auditory cortex, located in the superior temporal lobe (Brodmann areas 41 & 42).",
-        "h": "Heschl’s gyrus = Primary auditory cortex (BA 41, 42)"
-      },
-      {
-        "q": "A 55-year-old overweight man collapsed while loading a truck. Examination revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the left side of the body. These findings suggest:",
-        "a": [
-          "A lesion in the left medial medulla",
-          "A lesion in the right medial pons",
-          "A lesion in the right medial medulla",
-          "A lesion in the lateral medulla",
-          "A lesion in the left medial pons"
-        ],
-        "c": 0,
-        "l": "Medial Medullary Syndrome (Dejerine syndrome) involves the pyramid (contralateral hemiparesis), medial lemniscus (contralateral vibration loss), and CN XII (ipsilateral tongue deviation). Tongue deviates toward the lesion side (Left).",
-        "h": "Contralateral motor/sensory + Ipsilateral tongue = Medial Medulla"
-      },
-      {
-        "q": "Symptoms of cerebellar disease include all of the following EXCEPT:",
-        "a": [
-          "Tremors while performing movements",
-          "Ataxia",
-          "Dysarthria",
-          "Paralysis"
-        ],
-        "c": 3,
-        "l": "The cerebellum coordinates movement but does not initiate it. Lesions cause ataxia, intention tremors, and dysarthria, but NOT paralysis (which is a sign of UMN/LMN lesions).",
-        "h": "Cerebellum = Coordination; Motor initiation = Cortex (Paralysis ≠ Cerebellum)"
-      },
-      {
-        "q": "A 40-year-old male has difficulty producing a smile from the left side of his face. Muscles are flaccid and the eyelids are open. Where do the cell bodies of origin within the CNS lie?",
-        "a": [
-          "Upper medulla",
-          "Lower pons",
-          "Upper pons",
-          "Lower midbrain",
-          "Upper midbrain"
-        ],
-        "c": 1,
-        "l": "This describes a Bell's palsy or Lower Motor Neuron facial nerve (CN VII) lesion. The facial nerve nucleus is located in the lower pons.",
-        "h": "Facial nerve nucleus (CN VII) → Lower pons"
-      },
-      {
-        "q": "The lateral geniculate body:",
-        "a": [
-          "Transmits visual information to the cerebral cortex",
-          "Is part of the mesencephalon",
-          "Is a visual motor reflex center",
-          "Relays auditory information to the cerebral cortex",
-          "All of the above"
-        ],
-        "c": 0,
-        "l": "The Lateral Geniculate Nucleus (LGN) of the thalamus is the primary relay station for visual information from the retina to the primary visual cortex (BA 17).",
-        "h": "LGN = Light (Visual relay)"
-      },
-      {
-        "q": "A 50-year-old woman has right-sided spastic paralysis, loss of vibratory sense on the right, and internuclear ophthalmoplegia (INO) where the left eye would not adduct. Her tongue deviated toward the right. Where is the site of lesion?",
-        "a": [
-          "Medulla",
-          "Pons",
-          "Midbrain",
-          "Cerebral cortex",
-          "Difficulty to diagnose"
-        ],
-        "c": 1,
-        "l": "The presence of Internuclear Ophthalmoplegia (INO) signifies a lesion of the Medial Longitudinal Fasciculus (MLF), which is a classic localizing sign for the pons.",
-        "h": "INO (MLF lesion) = Pons"
-      },
-      {
-        "q": "A 62-year-old man presents with slow shuffling gait, stooped posture, masked facies, micrographia, and a resting pill-rolling tremor. What is the diagnosis?",
-        "a": [
-          "Lateral medullary syndrome",
-          "Sign of cerebellar lesion",
-          "Parkinson’s disease",
-          "Unable to diagnose"
-        ],
-        "c": 2,
-        "l": "Parkinson’s disease is characterized by the 'TRAP' mnemonic: Tremor (resting), Rigidity, Akinesia/bradykinesia, and Postural instability, along with masked facies and micrographia.",
-        "h": "Pill-rolling tremor + Shuffling gait + Masked facies = Parkinson’s"
-      },
-      {
-        "q": "A 70-year-old woman presents with the complaint of difficulty walking. The history reveals that the woman suddenly had problems while she was playing with her granddaughter at the local park. The examination reveals a slender, otherwise healthy woman who has ataxia and is unable to do the finger-to-nose and the heel-to-shin tests on the right, and has slurred, garbled speech. Which of the following specifically describes the pattern of movement in this woman?",
-        "a": [
-          "Apraxia",
-          "Dysarthria",
-          "Dyslexia",
-          "Dysmetria",
-          "Dysphagia"
-        ],
-        "c": 3,
-        "l": "Dysmetria is a cerebellar sign characterized by inability to accurately judge distance, leading to overshooting or undershooting during movements like finger-to-nose testing.",
-        "h": "Finger-to-nose error + ataxia = dysmetria"
-      },
-      {
-        "q": "A patient who suffers from chronic alcohol abuse, which affects neurons in the cerebellum, will most likely:",
-        "a": [
-          "Have a scanning dysarthria",
-          "Have a dysdiadochokinesia",
-          "Have an ataxic gait",
-          "Have a dysmetria"
-        ],
-        "c": 2,
-        "l": "Chronic alcohol abuse commonly damages the anterior vermis of the cerebellum, leading to gait ataxia (truncal instability).",
-        "h": "Alcohol → anterior vermis → gait ataxia"
-      },
-      {
-        "q": "Which cortical area is responsible for taste recognition?",
-        "a": [
-          "Brodmann’s areas 41, 42",
-          "Centre for defecation and micturition",
-          "Brodmann’s area 43",
-          "Anterior (motor) speech area",
-          "Primary motor cortex"
-        ],
-        "c": 2,
-        "l": "Brodmann area 43 corresponds to the gustatory cortex responsible for taste perception.",
-        "h": "Taste = BA 43"
-      },
-      {
-        "q": "Huntington’s disease is characterized by neuronal degeneration in which of the following structures?",
-        "a": [
-          "Striatum",
-          "Globus pallidus, internal segment",
-          "Globus pallidus, external segment",
-          "Substantia nigra",
-          "Thalamus"
-        ],
-        "c": 0,
-        "l": "Huntington’s disease involves degeneration of GABAergic neurons in the striatum (especially the caudate nucleus), leading to chorea.",
-        "h": "Huntington = caudate (striatum)"
-      },
-      {
-        "q": "Which of the following is an excitatory neuron within the cerebellar cortex?",
-        "a": [
-          "Basket cell",
-          "Golgi cell",
-          "Granule cell",
-          "Purkinje cell",
-          "Stellate cell"
-        ],
-        "c": 2,
-        "l": "Granule cells are the only excitatory neurons in the cerebellar cortex, while all others (Purkinje, basket, stellate, Golgi) are inhibitory.",
-        "h": "Only excitatory = granule cell"
-      },
-      {
-        "q": "A 35-year-old woman is brought to her family physician by her husband. The results of the examination reveal deficits that suggest the woman has had a precipitous vascular event. A CT is ordered, revealing a small stroke in the genu of the internal capsule. Which of the following fiber populations is most affected in this woman's stroke?",
-        "a": [
-          "Corticonigral",
-          "Corticopontine",
-          "Corticospinal",
-          "Corticostriatal",
-          "Corticonuclear"
-        ],
-        "c": 4,
-        "l": "The genu of the internal capsule contains corticonuclear (corticobulbar) fibers that control cranial nerve motor functions.",
-        "h": "Genu = corticonuclear"
-      },
-      {
-        "q": "The neural tract that connects Broca’s area (Brodmann’s 44) with Wernicke’s area (Brodmann’s 22) and regulates fluent speech is the:",
-        "a": [
-          "Fornix",
-          "Stria terminalis",
-          "Arcuate fasciculus",
-          "Corpus callosum",
-          "Superior longitudinal bundle"
-        ],
-        "c": 2,
-        "l": "The arcuate fasciculus connects Broca’s and Wernicke’s areas and is essential for coordinated speech; damage causes conduction aphasia.",
-        "h": "Broca ↔ Wernicke = arcuate fasciculus"
-      },
-      {
-        "q": "Which dopaminergic pathway projects mainly to the caudate nucleus?",
-        "a": [
-          "Nigrostriatal pathway",
-          "The medial longitudinal fasciculus",
-          "Both A and B",
-          "None of the above"
-        ],
-        "c": 0,
-        "l": "The nigrostriatal pathway carries dopamine from the substantia nigra to the striatum (caudate and putamen) and is essential for movement control.",
-        "h": "Nigrostriatal = movement"
-      },
-      {
-        "q": "A 63-year-old patient is seen in a clinic with the following symptoms: a resting tremor in the hand, a slow shuffling gait, and difficulty arising from a chair when seated. These symptoms could be caused by a lesion in the:",
-        "a": [
-          "Subthalamic nucleus",
-          "Cerebellar hemisphere",
-          "Corticospinal tract",
-          "Substantia nigra"
-        ],
-        "c": 3,
-        "l": "Degeneration of dopaminergic neurons in the substantia nigra causes Parkinson’s disease, characterized by tremor, rigidity, and bradykinesia.",
-        "h": "Parkinson = substantia nigra"
-      },
-      {
-        "q": "Gamma aminobutyric acid (GABA) is considered the predominant neurotransmitter in all of the following except?",
-        "a": [
-          "Strionigral fibers",
-          "Striopallidal fibers",
-          "Corticostriate fibers",
-          "Pallidonigral fibers"
-        ],
-        "c": 2,
-        "l": "Corticostriate fibers use glutamate (excitatory), whereas basal ganglia intrinsic pathways (striatal and pallidal) primarily use GABA (inhibitory).",
-        "h": "Cortex = glutamate, not GABA"
-      },
-      {
-        "q": "All of the following are the signs of lateral pontine syndrome EXCEPT?",
-        "a": [
-          "Ipsilateral limb ataxia",
-          "Ipsilateral pain and temperature loss from the face",
-          "Contralateral pain and temperature loss from the body",
-          "Contralateral loss of discriminative touch and vibration in the body"
-        ],
-        "c": 3,
-        "l": "Lateral pontine syndrome affects spinothalamic and trigeminal pathways but spares the medial lemniscus, so vibration and discriminative touch are preserved.",
-        "h": "Lateral = pain/temp, NOT vibration"
-      },
-      {
-        "q": "Lucy is a 55-year-old woman who has had high blood pressure and diabetes for more than 15 years. One day, as she was reaching for a switch to put on the light she collapsed. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Lucy attempted to cry for help because she was unable to reach the telephone; however, her speech was slurred and rather unintelligible. She lay on the floor and waited for help to arrive. Lucy’s son began to worry about his usually prompt mother when she didn’t arrive for his birthday. After several attempts to telephone her apartment without getting an answer, he drove there to find her lying on the floor. She attempted to tell him what had happened, but her speech was too slurred to comprehend. Assuming that his mother had had a stroke, the son called an ambulance to take her to the nearest emergency room (ER). A neurology resident was called to see Lucy in the emergency room because the physicians there likewise thought that she had a stroke. The resident noted that Lucy followed commands very well, and although her speech was very slurred, it was logical and organized. Also, the lower two-thirds of her face drooped on the right. Her tongue pointed to the right side when she was asked to protrude it. Her right arm and leg were severely, but equally weak; her left side had normal strength. Where did Lucy’s stroke most likely happen?",
-        "a": [
-          "Left precentral gyrus",
-          "Right precentral gyrus",
-          "Left internal capsule",
-          "Right putamen or globus pallidus",
-          "(Not fully visible in image)"
-        ],
-        "c": 2,
-        "l": "A lesion in the left internal capsule causes contralateral pure motor deficits (face, arm, leg) with dysarthria due to corticospinal and corticobulbar fiber involvement.",
-        "h": "Pure motor stroke = internal capsule"
-      },
-      {
-        "q": "A lesion of the genu of the internal capsule on the right side could result in all but which of the following?",
-        "a": [
-          "Inability to smile with the left side of the face on command",
-          "Deviation of the tongue to the left on protrusion",
-          "Hyperacusis on the left",
-          "All of the above could result"
-        ],
-        "c": 3,
-        "l": "The genu of the internal capsule contains corticonuclear fibers, so lesions can cause contralateral facial weakness, tongue deviation, and cranial nerve-related deficits like hyperacusis.",
-        "h": "Genu = cranial nerve motor fibers"
-      },
-      {
-        "q": "Which of the following thalamic nuclei receives important projections from the internal segment of the globus pallidus and from the contralateral cerebellar nuclei?",
-        "a": [
-          "Anterior nucleus",
-          "Lateral dorsal nucleus",
-          "Ventral lateral nucleus",
-          "Ventral posterolateral nucleus",
-          "Ventral posteromedial nucleus"
-        ],
-        "c": 2,
-        "l": "The ventral lateral (VL) nucleus of the thalamus receives input from the globus pallidus and cerebellum and relays motor information to the motor cortex.",
-        "h": "VL = motor relay"
-      },
-      {
-        "q": "Lesions of the superior parietal lobule interfere with the patient’s ability to combine touch, pressure, and proprioceptive impulses, so he or she is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
-        "a": [
-          "Alexia",
-          "Agraphia",
-          "Astereognosis",
-          "Acalculia"
-        ],
-        "c": 2,
-        "l": "Astereognosis is the inability to recognize objects by touch despite intact primary sensory modalities, due to parietal lobe damage.",
-        "h": "Parietal = sensory integration"
-      },
-      {
-        "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, with fasciculations present, and he had no vibratory sense on the right side of the body. These findings suggest?",
-        "a": [
-          "A lesion in the medial medulla",
-          "A lesion in the medial pons",
-          "A lesion in the lateral medulla",
-          "A lesion in the medial mid brain"
-        ],
-        "c": 0,
-        "l": "Medial medullary syndrome (ASA infarct) causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
-        "h": "Medial medulla = motor + vibration + tongue"
-      },
-      {
-        "q": "A 55-year-old man with a history of hypertension has been in excellent health until he notices that he has vertigo and unsteadiness lasting for a week. He then developed nausea, vomiting, dysphagia, hoarseness, ataxia, left facial pain, and right-sided sensory loss. There is no weakness. On examination, he is alert, with a normal mental status. There is left ptosis. He has loss of pain and temperature sensation on the right arm and leg and decreased joint position sensation in the left foot. He is unable to walk. The analgesia and thermal anesthesia on the left side of the face in this case most likely resulted from a lesion of which structure?",
-        "a": [
-          "The trigeminal nerve",
-          "The mesencephalic nucleus of trigeminal",
-          "The principal (chief) sensory nucleus of V",
-          "The spinal nucleus of V"
-        ],
-        "c": 3,
-        "l": "Lateral medullary (Wallenberg) syndrome damages the spinal nucleus of CN V, causing ipsilateral loss of pain and temperature sensation from the face.",
-        "h": "Wallenberg = spinal trigeminal"
-      },
-      {
-        "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the right side of the body. These findings suggest:",
-        "a": [
-          "A lesion in the left medial medulla",
-          "A lesion in the right medial pons",
-          "A lesion in the right medial medulla",
-          "A lesion in the lateral medulla",
-          "A lesion in the left medial pons"
-        ],
-        "c": 0,
-        "l": "Medial medullary syndrome causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
-        "h": "ASA stroke = medial medulla"
-      },
-      {
-        "q": "Descending projections from the midbrain participate in pathways that are directly involved in the inhibition of pain in the spinal trigeminal nucleus in the pars caudalis, and in the posterior horn of the spinal cord. This region of the midbrain contains many cells with opiate receptors. Which of the following is the most likely location of these cells?",
-        "a": [
-          "Midbrain reticular formation",
-          "Periaqueductal gray",
-          "Red nucleus, pars magnocellularis",
-          "Red nucleus, pars parvocellularis",
-          "Substantia nigra, pars reticulata"
-        ],
-        "c": 1,
-        "l": "The periaqueductal gray (PAG) in the midbrain contains opioid receptors and plays a key role in descending pain inhibition.",
-        "h": "PAG = pain control"
-      },
-      {
-        "q": "The inferior colliculi are considered to be:",
-        "a": [
-          "Directly involved in and a part of the visual pathway",
-          "Directly involved in and a part of the auditory pathway",
-          "Directly involved in and a part of the olfactory pathway",
-          "All of the above"
-        ],
-        "c": 1,
-        "l": "The inferior colliculi are midbrain structures that serve as major relay centers in the auditory pathway.",
-        "h": "Inferior colliculus = hearing"
-      }
+   {
+    "q": "A 24-year-old male sustains a deep laceration on his thigh while working on a construction site. Within hours, the area becomes erythematous, warm, and swollen. This immediate localized response represents the body's primary reaction to tissue injury. Which of the following best describes this physiological process?",
+    "a": [
+      "Adaptive immune response",
+      "Inflammation",
+      "Granulomatous hypersensitivity",
+      "Clonal selection",
+      "Immune tolerance"
+    ],
+    "c": 1,
+    "l": "Inflammation is the body's first response to injury, infection, or tissue damage, serving to deliver defensive materials to the site of insult.",
+    "h": "First response to injury"
+  },
+  {
+    "q": "A 45-year-old female presents with a 1-day history of acute localized pain and swelling in her right forearm following an insect bite. A biopsy of the subcutaneous tissue is performed. Which of the following cell types is expected to predominate in this tissue under conditions of acute inflammation?",
+    "a": [
+      "Macrophages",
+      "Lymphocytes",
+      "Plasma cells",
+      "Neutrophils",
+      "Eosinophils"
+    ],
+    "c": 3,
+    "l": "Neutrophils are the primary cellular mediators that predominate during acute inflammation, typically arriving within the first 6 to 24 hours.",
+    "h": "Acute inflammation predominance"
+  },
+  {
+    "q": "A 52-year-old male undergoes a biopsy of a persistent, non-healing skin lesion that has been present for four months. Histopathological evaluation reveals a cellular infiltrate consisting primarily of mononuclear cells. Which of the following sets of cells is expected to predominate in this chronic inflammatory state?",
+    "a": [
+      "Neutrophils and basophils",
+      "Macrophages, lymphocytes, and plasma cells",
+      "Eosinophils and mast cells",
+      "Neutrophils and platelets",
+      "Endothelial cells and fibroblasts"
+    ],
+    "c": 1,
+    "l": "Chronic inflammation is characterized by a prolonged duration in which mononuclear cells, specifically macrophages, lymphocytes, and plasma cells, predominate.",
+    "h": "Chronic inflammation predominance"
+  },
+  {
+    "q": "A 7-year-old boy presents with a painful, fluctuant fluctuant swelling on his scalp. Incision and drainage are performed, yielding a thick, creamy, neutrophil-rich purulent exudate. Culture grows Staphylococcus aureus. Which of the following terms best describes infections caused by this class of organisms?",
+    "a": [
+      "Granulomatous infections",
+      "Viral infections",
+      "Pyogenic infections",
+      "Latent infections",
+      "Fungal infections"
+    ],
+    "c": 2,
+    "l": "Pyogenic infections, typically caused by organisms like Staphylococcus, Streptococcus, and Neisseria, are characterized by neutrophil-rich pus formation.",
+    "h": "Pyogenic infections"
+  },
+  {
+    "q": "A 34-year-old female presents with chronic cough and weight loss. A chest X-ray reveals hilar lymphadenopathy, and a biopsy of a lymph node shows non-caseating granulomas. Histopathological evaluation shows an extensive accumulation of transformed mononuclear cells. Which of the following cell types forms the cellular core of this granulomatous inflammation?",
+    "a": [
+      "Neutrophils",
+      "Plasma cells",
+      "Eosinophils",
+      "Macrophages",
+      "Basophils"
+    ],
+    "c": 3,
+    "l": "Granulomatous infections and conditions (such as tuberculosis, fungal infections, and sarcoidosis) feature a distinct macrophage predominance, often organizing into epithelioid histiocytes.",
+    "h": "Granulomatous infections"
+  },
+  {
+    "q": "An experimental model of acute inflammation is used to study the sequential steps of leukocyte migration from the vascular lumen into the interstitial space. Which of the following represents the correct order of leukocyte recruitment steps?",
+    "a": [
+      "Adhesion → Rolling → Margination → Transmigration → Chemotaxis",
+      "Margination → Rolling → Adhesion → Transmigration → Chemotaxis",
+      "Rolling → Margination → Transmigration → Adhesion → Chemotaxis",
+      "Chemotaxis → Margination → Rolling → Adhesion → Transmigration",
+      "Margination → Adhesion → Rolling → Transmigration → Chemotaxis"
+    ],
+    "c": 1,
+    "l": "The correct sequence of leukocyte recruitment during inflammation is: Margination → Rolling → Adhesion → Transmigration (diapedesis) → Chemotaxis.",
+    "h": "Leukocyte recruitment sequence"
+  },
+  {
+    "q": "During an investigation into leukocyte endothelial interactions, researchers observe leukocytes moving slowly along the venular wall. This initial 'rolling' phase is dependent on transient, low-affinity interactions. Which of the following leukocyte surface molecules binds to endothelial E-selectin and P-selectin to mediate this step?",
+    "a": [
+      "LFA-1 (CD11a/CD18)",
+      "PECAM-1 (CD31)",
+      "Sialyl-Lewis X",
+      "ICAM-1",
+      "VCAM-1"
+    ],
+    "c": 2,
+    "l": "Leukocyte rolling is mediated by the binding of Sialyl-Lewis X on leukocytes to E-selectin and P-selectin expressed on the activated endothelium.",
+    "h": "Rolling molecular mediators"
+  },
+  {
+    "q": "A tissue biopsy from a site of acute inflammation shows leukocytes firmly bound to the endothelial surface, resisting the shear stress of blood flow. This stable adhesion step requires high-affinity binding. Which of the following endothelial adhesion molecules binds to leukocyte integrins containing CD18 to achieve this firm adhesion?",
+    "a": [
+      "E-selectin and P-selectin",
+      "ICAM-1 and VCAM-1",
+      "PECAM-1",
+      "Sialyl-Lewis X",
+      "GlyCAM-1"
+    ],
+    "c": 1,
+    "l": "Firm adhesion occurs when leukocyte integrins (such as CD18 complexes) bind to immunoglobulin superfamily ligands on the endothelium, specifically ICAM-1 and VCAM-1.",
+    "h": "Firm adhesion ligands"
+  },
+  {
+    "q": "An investigator treats an endothelial cell monolayer with a specific neutralizing antibody, which prevents leukocytes from successfully squeezing through the intercellular junctions between adjacent endothelial cells. This intervention has targeted the step of diapedesis. Which of the following molecules is primarily responsible for mediating this transmigration step?",
+    "a": [
+      "E-selectin",
+      "L-selectin",
+      "ICAM-1",
+      "PECAM-1 (CD31)",
+      "Sialyl-Lewis X"
+    ],
+    "c": 3,
+    "l": "Transmigration (diapedesis) of leukocytes across the endothelial wall is mediated by PECAM-1 (CD31), which is expressed on both leukocytes and endothelial cell junctions.",
+    "h": "Transmigration mediator"
+  },
+  {
+    "q": "Following exit from the postcapillary venules, neutrophils migrate through the extracellular matrix along a chemical gradient toward the focus of tissue injury. Which of the following terms best defines this directed migration process?",
+    "a": [
+      "Margination",
+      "Transmigration",
+      "Chemotaxis",
+      "Opsonization",
+      "Diapedesis"
+    ],
+    "c": 2,
+    "l": "Chemotaxis is defined as the directed migration of leukocytes through tissue toward a chemical gradient composed of inflammatory mediators or bacterial products.",
+    "h": "Directed leukocyte migration"
+  },
+  {
+    "q": "A biopsy specimen demonstrates dense neutrophil infiltration within an area of ischemic tissue necrosis. Which of the following sets of endogenous and exogenous molecules serves as the major chemotactic factors driving this targeted recruitment?",
+    "a": [
+      "IL-1, TNF-alpha, Histamine, and PGE2",
+      "IL-8, C5a, LTB4, and bacterial N-formyl peptides",
+      "PGI2, TXA2, LTC4, and LTD4",
+      "IL-6, CRP, Fibrinogen, and IgD",
+      "IgG, IgA, IgE, and IgM"
+    ],
+    "c": 1,
+    "l": "The major chemotactic factors for neutrophils include Interleukin-8 (IL-8), complement component C5a, Leukotriene B4 (LTB4), and exogenous bacterial N-formyl peptides.",
+    "h": "Major chemotactic factors"
+  },
+  {
+    "q": "Within minutes of exposure to an allergen, a patient develops rapid tissue edema, localized warmth, and widespread erythema. These immediate changes are caused by the release of preformed mediators from mast cells that induce vasodilation and an abrupt increase in vascular permeability. Which of the following mediators is primarily responsible for this effect?",
+    "a": [
+      "Thromboxane A2",
+      "Prostacyclin",
+      "Leukotriene B4",
+      "Histamine",
+      "Interleukin-6"
+    ],
+    "c": 3,
+    "l": "Histamine is a vasoactive amine that induces prominent arteriolar vasodilation and increased vascular permeability in venules during the immediate phases of inflammation.",
+    "h": "Vascular permeability mediator"
+  },
+  {
+    "q": "A 19-year-old college student presents to the student health clinic with a severe acute upper respiratory tract infection. He reports a generalized painful sensation throughout his body and has a documented oral temperature of 38.9°C (102°F). Which of the following arachidonic acid metabolites directly modulates the hypothalamic thermostat to induce fever and cause localized pain?",
+    "a": [
+      "PGI2",
+      "TXA2",
+      "PGE2",
+      "LTB4",
+      "LTC4"
+    ],
+    "c": 2,
+    "l": "Prostaglandin E2 (PGE2) is the key eicosanoid responsible for mediating pain, fever induction in the hypothalamus, and vasodilation.",
+    "h": "Pain and fever mediator"
+  },
+  {
+    "q": "Researchers studying vascular homeostasis analyze an arachidonic acid derivative produced primarily by intact vascular endothelial cells. This compound prevents intravascular clot formation by robustly inhibiting platelet aggregation and promoting profound vasodilation. Which of the following mediators matches this description?",
+    "a": [
+      "Thromboxane A2",
+      "Prostacyclin (PGI2)",
+      "Leukotriene C4",
+      "Prostaglandin E2",
+      "Interleukin-1"
+    ],
+    "c": 1,
+    "l": "Prostacyclin (PGI2) is synthesized by endothelial cells and acts to cause vasodilation and strongly inhibit platelet aggregation.",
+    "h": "Platelet inhibitor/vasodilator"
+  },
+  {
+    "q": "Following an acute vascular injury, platelets adhere to exposed subendothelial collagen and release a potent eicosanoid mediator. This mediator acts local to the injury to promote immediate vasoconstriction and accelerate primary hemostasis by driving platelet aggregation. Which of the following mediators is responsible for these actions?",
+    "a": [
+      "PGI2",
+      "TXA2",
+      "LTB4",
+      "LTE4",
+      "Histamine"
+    ],
+    "c": 1,
+    "l": "Thromboxane A2 (TXA2) is produced by platelets and serves to promote vasoconstriction and stimulate platelet aggregation.",
+    "h": "Vasoconstrictor/platelet aggregator"
+  },
+  {
+    "q": "An experimental drug blocks the production of a specific lipoxygenase pathway metabolite, resulting in a dramatic reduction in the recruitment of neutrophils to sites of sterile tissue injury. Which of the following arachidonic acid derivatives was most likely inhibited by this drug?",
+    "a": [
+      "PGE2",
+      "TXA2",
+      "LTB4",
+      "LTC4",
+      "PGI2"
+    ],
+    "c": 2,
+    "l": "Leukotriene B4 (LTB4) is a highly potent lipoxygenase product that directly stimulates neutrophil chemotaxis and activation.",
+    "h": "Neutrophil chemotaxis eicosanoid"
+  },
+  {
+    "q": "A 6-year-old child with severe asthma accidentally ingests a known trigger, resulting in acute smooth muscle contraction within her airways, profound bronchoconstriction, and prominent peribronchial edema. Which of the following groups of leukotrienes mediates these severe bronchospastic effects and increases microvascular permeability?",
+    "a": [
+      "LTB4 and Lipoxin A4",
+      "PGE2, PGI2, and TXA2",
+      "LTC4, LTD4, and LTE4",
+      "IL-1, IL-6, and TNF-alpha",
+      "C5a, C3b, and C4a"
+    ],
+    "c": 2,
+    "l": "The cysteinyl leukotrienes (LTC4, LTD4, and LTE4) cause intense smooth muscle contraction, leading to bronchoconstriction and markedly increased vascular permeability.",
+    "h": "Bronchoconstrictor leukotrienes"
+  },
+  {
+    "q": "A 64-year-old male is admitted to the intensive care unit with bacterial septic shock. His blood pressure is critically low, and he has an elevated core temperature. The systemic inflammatory response, including endothelial activation and fever expression, is driven by macrophages releasing which of the following pairs of cytokines?",
+    "a": [
+      "IL-6 and IL-8",
+      "TNF-alpha and IL-1",
+      "PGE2 and LTB4",
+      "IgM and IgG",
+      "C3b and C5a"
+    ],
+    "c": 1,
+    "l": "Tumor Necrosis Factor-alpha (TNF-alpha) and Interleukin-1 (IL-1) are principal cytokines secreted by macrophages that coordinate fever induction and local endothelial activation.",
+    "h": "Fever and endothelial activation"
+  },
+  {
+    "q": "A 48-year-old male is evaluated for a severe intra-abdominal abscess. Laboratory studies reveal a markedly elevated erythrocyte sedimentation rate (ESR) and high serum levels of C-reactive protein (CRP). Which of the following cytokines is primarily responsible for signaling hepatocytes to synthesize and secrete these acute-phase reactants?",
+    "a": [
+      "IL-8",
+      "Histamine",
+      "IL-6",
+      "Thromboxane A2",
+      "Leukotriene B4"
+    ],
+    "c": 2,
+    "l": "Interleukin-6 (IL-6) is the major cytokine responsible for stimulating hepatocytes to produce acute-phase reactants, including CRP and fibrinogen.",
+    "h": "Acute phase reactant stimulator"
+  },
+  {
+    "q": "A 22-year-old female is evaluated for a new-onset febrile illness accompanied by joint pain. Serologic testing demonstrates high titers of antigen-specific antibodies configured as a large pentameric structure. This finding confirms an acute, primary immune response. Which of the following immunoglobulins is the first antibody produced during an acute infection?",
+    "a": [
+      "IgG",
+      "IgA",
+      "IgE",
+      "IgM",
+      "IgD"
+    ],
+    "c": 3,
+    "l": "Immunoglobulin M (IgM) is the first antibody isotype synthesized during a primary immune response, indicating acute or recent infection.",
+    "h": "First antibody in acute infection"
+  },
+  {
+    "q": "A 29-year-old pregnant woman is evaluated at her routine obstetric appointment. She expresses relief that her baby will have passive immunity against several childhood diseases at birth. Which of the following immunoglobulins mediates this secondary immune response, marks past infection, and has the unique capacity to cross the human placenta?",
+    "a": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgE",
+      "IgD"
+    ],
+    "c": 1,
+    "l": "Immunoglobulin G (IgG) dominates the secondary immune response, indicates chronic or past infection, and is the only antibody class capable of crossing the placenta.",
+    "h": "Placental crossing antibody"
+  },
+  {
+    "q": "A researcher isolates immunoglobulin molecules from a sample of healthy breast milk and saliva. The antibodies are found to exist primarily as dimeric structures joined by a J chain and a secretory component. Which of the following immunoglobulins is responsible for providing this mucosal immunity?",
+    "a": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgE",
+      "IgD"
+    ],
+    "c": 2,
+    "l": "Immunoglobulin A (IgA) provides critical mucosal immunity and is the predominant antibody found in secretions such as saliva, tears, and breast milk.",
+    "h": "Mucosal immunity antibody"
+  },
+  {
+    "q": "A 12-year-old boy experiences severe wheezing, pruritus, and urticaria immediately after being stung by a wasp. Laboratory evaluations also note an elevated peripheral blood eosinophil count. Which of the following immunoglobulins binds to high-affinity receptors on mast cells and basophils to mediate allergic reactions and defend against parasitic infections?",
+    "a": [
+      "IgA",
+      "IgE",
+      "IgM",
+      "IgG",
+      "IgD"
+    ],
+    "c": 1,
+    "l": "Immunoglobulin E (IgE) is involved in mediating Type I hypersensitivity (allergic) reactions and defending the host against parasitic helminth infections.",
+    "h": "Allergy and parasite antibody"
+  },
+  {
+    "q": "An immunologist characterizes a class of immunoglobulins found almost exclusively anchored within the plasma membranes of naive, unactivated mature B lymphocytes, acting alongside monomeric IgM. Which of the following immunoglobulins serves primarily as this low-abundance surface B-cell receptor?",
+    "a": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgE",
+      "IgD"
+    ],
+    "c": 4,
+    "l": "Immunoglobulin D (IgD) is expressed primarily on the surface of naive B cells, where it functions as a antigen-binding B-cell receptor.",
+    "h": "B-cell receptor immunoglobulin"
+  },
+  {
+    "q": "A molecular biology study evaluates the efficiency of neutrophil phagocytosis. When bacteria are incubated alone with neutrophils, ingestion proceeds slowly. However, adding specific serum proteins results in the coating of the microbial surfaces, accelerating phagocytic uptake. Which of the following groups of molecules acts as the principal factors driving this opsonization process?",
+    "a": [
+      "IL-1, TNF-alpha, and IL-6",
+      "IgG, C3b, and CRP",
+      "Histamine, PGE2, and LTB4",
+      "IgA, IgE, and IgD",
+      "E-selectin, ICAM-1, and PECAM-1"
+    ],
+    "c": 1,
+    "l": "Opsonization involves the coating of microbes by specific molecules, most notably IgG, complement fragment C3b, and C-reactive protein (CRP), to enhance recognition and phagocytosis.",
+    "h": "Opsonization factors"
+  },
+  {
+    "q": "During an in vitro experiment, neutrophils are exposed to opsonized bacteria. Almost immediately, a rapid increase in oxygen consumption is measured within the leukocyte population. This metabolic shift is directed toward producing microbicial reactive oxygen species. Which of the following terms best denotes this protective physiological phenomenon?",
+    "a": [
+      "Chemotaxis",
+      "Transmigration",
+      "Respiratory burst",
+      "Opsonization",
+      "Margination"
+    ],
+    "c": 2,
+    "l": "The respiratory burst (or oxidative burst) refers to the rapid metabolic upregulation of oxygen consumption by phagocytes to generate reactive oxygen species capable of destroying internalized pathogens.",
+    "h": "Oxidative killing process"
+  },
+  {
+    "q": "An investigator studies the enzymatic sequence within the phagolysosomes of activated neutrophils. The initial step of the respiratory burst requires the rapid conversion of molecular oxygen into superoxide radicals. Which of the following enzymes catalyzes this specific opening step?",
+    "a": [
+      "Superoxide dismutase",
+      "Myeloperoxidase",
+      "NADPH oxidase",
+      "Catalase",
+      "Glutathione peroxidase"
+    ],
+    "c": 2,
+    "l": "NADPH oxidase is the enzyme complex responsible for initiating the respiratory burst by converting molecular oxygen (O2) into superoxide anions (O2-).",
+    "h": "Superoxide generation enzyme"
+  },
+  {
+    "q": "Within a neutrophil phagolysosome, superoxide radicals are rapidly generated during the respiratory burst. To progress down the bactericidal pathway, an enzyme must convert these potentially dangerous superoxide anions into hydrogen peroxide (H2O2). Which of the following enzymes catalyzes this specific step?",
+    "a": [
+      "NADPH oxidase",
+      "Superoxide dismutase",
+      "Myeloperoxidase",
+      "Catalase",
+      "Glucose-6-phosphate dehydrogenase"
+    ],
+    "c": 1,
+    "l": "Superoxide dismutase (SOD) converts the highly reactive superoxide radical (O2-) into hydrogen peroxide (H2O2).",
+    "h": "Hydrogen peroxide conversion"
+  },
+  {
+    "q": "A laboratory study analyzes the contents of neutrophil azurophilic granules. An enzyme utilizes hydrogen peroxide (H2O2) and chloride ions as substrates to produce hypochlorous acid (HOCl). Which of the following enzymes is responsible for generating this potent bactericidal compound?",
+    "a": [
+      "NADPH oxidase",
+      "Superoxide dismutase",
+      "Myeloperoxidase",
+      "Catalase",
+      "Lysozyme"
+    ],
+    "c": 2,
+    "l": "Myeloperoxidase (MPO) is a granule enzyme that converts hydrogen peroxide (H2O2) in the presence of halides into hypochlorous acid (HOCl).",
+    "h": "Hypochlorous acid production"
+  },
+  {
+    "q": "Phagocytosed bacteria are exposed to an array of toxic oxygen-derived intermediates inside neutrophil phagolysosomes. Which of the following reactive chemicals represents the most potent neutrophil bactericidal agent generated during the normal respiratory burst?",
+    "a": [
+      "Superoxide anion (O2-)",
+      "Hydrogen peroxide (H2O2)",
+      "Hypochlorous acid (HOCl)",
+      "Nitric oxide (NO)",
+      "Hydroxyl radical (OH-)"
+    ],
+    "c": 2,
+    "l": "Hypochlorous acid (HOCl), chemically identical to active bleach, is the most potent and destructive bactericidal agent manufactured by neutrophils.",
+    "h": "Most potent bactericidal agent"
+  },
+  {
+    "q": "A 2-year-old boy is evaluated for recurrent, deep-seated bacterial skin and mucosal infections. Flow cytometry demonstrates a complete absence of the CD18 cell surface marker on his leukocytes. Which of the following conditions is characteristically caused by this molecular deficiency?",
+    "a": [
+      "Leukocyte Adhesion Deficiency Type I",
+      "Leukocyte Adhesion Deficiency Type II",
+      "Chediak-Higashi syndrome",
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase deficiency"
+    ],
+    "c": 0,
+    "l": "Leukocyte Adhesion Deficiency (LAD) Type I is caused by an autosomal recessive defect in the CD18 molecule, which is the beta-2 integrin subunit.",
+    "h": "CD18 integrin deficiency"
+  },
+  {
+    "q": "An infant with Leukocyte Adhesion Deficiency Type I is evaluated. Due to a genetically defective CD18 integrin subunit, his leukocytes are unable to interact properly with ligands on the vascular wall. Which of the following steps of leukocyte recruitment is directly disrupted by this specific mutation?",
+    "a": [
+      "Margination and rolling",
+      "Adhesion and transmigration",
+      "Chemotaxis along chemical gradients",
+      "Opsonization of encapsulated bacteria",
+      "Oxidative killing within phagolysosomes"
+    ],
+    "c": 1,
+    "l": "LAD Type I features a profound impairment in firm adhesion and subsequent transmigration (diapedesis) because neutrophils lack functional integrins.",
+    "h": "LAD Type I defective steps"
+  },
+  {
+    "q": "The parents of a 6-week-old infant bring him to the pediatrician because his umbilical cord stump has still not detached. On examination, the area is clean with no significant erythema, but a complete blood count reveals a marked peripheral leukocytosis. This classic presentation is associated with which of the following immunodeficiencies?",
+    "a": [
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase deficiency",
+      "Chediak-Higashi syndrome",
+      "Leukocyte Adhesion Deficiency Type I",
+      "Severe Combined Immunodeficiency"
+    ],
+    "c": 3,
+    "l": "A classic clinical hallmark of Leukocyte Adhesion Deficiency (LAD) Type I is the delayed separation of the umbilical cord stump.",
+    "h": "Delayed umbilical cord separation"
+  },
+  {
+    "q": "A 14-month-old child presents with a severe perianal ulcer. Culture isolates Pseudomonas aeruginosa. Despite the clinical depth and severity of the infection, physical examination reveals an absence of fluctuance or localized purulence, and biopsy confirms an absence of neutrophils within the necrotic tissue. Which of the following primary disorders explains this clinical presentation?",
+    "a": [
+      "Leukocyte Adhesion Deficiency Type I",
+      "Chediak-Higashi syndrome",
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase deficiency",
+      "X-linked agammaglobulinemia"
+    ],
+    "c": 0,
+    "l": "LAD Type I presents with recurrent bacterial infections characterized by an absence of pus formation at infection sites, despite high white blood cell counts in circulation.",
+    "h": "Recurrent infections with no pus"
+  },
+  {
+    "q": "A patient is diagnosed with Leukocyte Adhesion Deficiency (LAD) Type II. Genetic testing confirms a loss-of-function mutation affecting a fucose transporter, leading to a complete structural absence of Sialyl-Lewis X on the leukocyte surface. Which of the following conditions matches this specific molecular pathology?",
+    "a": [
+      "LAD Type I",
+      "LAD Type II",
+      "Chediak-Higashi syndrome",
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase deficiency"
+    ],
+    "c": 1,
+    "l": "Leukocyte Adhesion Deficiency (LAD) Type II is caused by a defect in fucosylation, resulting in an absence of the crucial Sialyl-Lewis X ligand.",
+    "h": "Sialyl-Lewis X deficiency"
+  },
+  {
+    "q": "A 3-year-old child with Leukocyte Adhesion Deficiency Type II is evaluated. Because her neutrophils lack the functional carbohydrate ligand Sialyl-Lewis X, they cannot interact with selectins expressed on activated endothelial cells. Which of the following leukocyte recruitment stages is primarily affected?",
+    "a": [
+      "Margination",
+      "Rolling",
+      "Firm adhesion",
+      "Transmigration",
+      "Chemotaxis"
+    ],
+    "c": 1,
+    "l": "LAD Type II leads to defective rolling of leukocytes along the endothelium because selectins require Sialyl-Lewis X to mediate initial low-affinity interactions.",
+    "h": "LAD Type II defective step"
+  },
+  {
+    "q": "A 4-year-old girl is evaluated for recurrent infections. Genetic mapping reveals an autosomal recessive mutation in the LYST gene, which regulates intracellular vesicle dynamics. Which of the following primary clinical diagnoses matches this genetic abnormality?",
+    "a": [
+      "Leukocyte Adhesion Deficiency Type I",
+      "Leukocyte Adhesion Deficiency Type II",
+      "Chediak-Higashi syndrome",
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase deficiency"
+    ],
+    "c": 2,
+    "l": "Chediak-Higashi syndrome is caused by a loss-of-function mutation in the lysosomal trafficking regulator (LYST) gene.",
+    "h": "LYST gene mutation"
+  },
+  {
+    "q": "Neutrophils isolated from a patient with Chediak-Higashi syndrome are analyzed under electron microscopy. Phagocytosis occurs normally, and microbes are successfully internalized into phagosomes. However, the cells are unable to successfully fuse these compartments with azurophilic granules. Which of the following processes is defective in this patient?",
+    "a": [
+      "Firm endothelial adhesion",
+      "Transmigration across tissue barriers",
+      "Phagolysosome formation",
+      "Superoxide radical generation",
+      "Hypochlorous acid synthesis"
+    ],
+    "c": 2,
+    "l": "Chediak-Higashi syndrome features a cellular defect in phagolysosome formation due to abnormal microtubule-dependent trafficking and lysosomal fusion.",
+    "h": "Defective phagolysosome formation"
+  },
+  {
+    "q": "A 5-year-old boy with Chediak-Higashi syndrome presents with multiple painful cutaneous abscesses. Over his lifetime, he has experienced recurrent deep tissue skin infections requiring hospitalization. Which of the following specific microbial pathogens is most commonly isolated from infections in these patients?",
+    "a": [
+      "Aspergillus fumigatus",
+      "Staphylococcus aureus",
+      "Candida albicans",
+      "Pseudomonas aeruginosa",
+      "Nocardia asteroides"
+    ],
+    "c": 1,
+    "l": "Patients with Chediak-Higashi syndrome suffer from recurrent, severe pyogenic infections, most frequently caused by Staphylococcus aureus.",
+    "h": "Recurrent S. aureus infections"
+  },
+  {
+    "q": "A 6-year-old child is brought to the clinic due to recurrent skin infections. On physical examination, the physician notes light silver-tinted hair, pale skin, and asymmetric nystagmus. A peripheral blood smear demonstrates neutrophils containing massive, irregular azurophilic inclusions. Which of the following disorders is consistent with this constellation of findings?",
+    "a": [
+      "Leukocyte Adhesion Deficiency Type I",
+      "Chronic Granulomatous Disease",
+      "Chediak-Higashi syndrome",
+      "Myeloperoxidase deficiency",
+      "Severe Combined Immunodeficiency"
+    ],
+    "c": 2,
+    "l": "Chediak-Higashi syndrome is characterized by partial oculocutaneous albinism, progressive peripheral neuropathy, recurrent infections, and giant granules inside neutrophils.",
+    "h": "Giant granules and albinism"
+  },
+  {
+    "q": "A 9-year-old boy presents with recurrent lymphadenitis and deep hepatic abscesses. Genetic testing identifies an X-linked defect in a subunit of the enzyme NADPH oxidase. Which of the following immunodeficiencies is characterized by this specific enzymatic failure?",
+    "a": [
+      "Leukocyte Adhesion Deficiency Type I",
+      "Chediak-Higashi syndrome",
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase deficiency",
+      "Hyper-IgM syndrome"
+    ],
+    "c": 2,
+    "l": "Chronic Granulomatous Disease (CGD) is an immunodeficiency disorder caused by a deficiency in the multi-subunit enzyme NADPH oxidase.",
+    "h": "NADPH oxidase deficiency"
+  },
+  {
+    "q": "An in vitro analysis of neutrophils from a patient with Chronic Granulomatous Disease is conducted. Phagocytosis proceeds normally, but the cellular respiratory burst is absent. Which of the following downstream steps in the oxidative killing pathway is directly blocked by this patient's primary defect?",
+    "a": [
+      "Fusion of lysosomes with phagosomes",
+      "Inability to generate superoxide radicals",
+      "Inability to convert H2O2 into HOCl",
+      "Loss of myeloperoxidase storage granules",
+      "Defective leukocyte rolling along endothelial selectins"
+    ],
+    "c": 1,
+    "l": "Because of the missing NADPH oxidase activity, neutrophils from patients with CGD suffer from an inability to generate superoxide radicals (O2-) from molecular oxygen.",
+    "h": "Inability to make superoxide"
+  },
+  {
+    "q": "A 7-year-old boy with Chronic Granulomatous Disease presents with a severe lung infection. He has a history of recurrent infections with specific microbes that produce an enzyme capable of destroying the host cell's endogenous hydrogen peroxide. Which of the following classes of microbes poses the greatest threat to this patient?",
+    "a": [
+      "Catalase-positive infections",
+      "Anaerobic gas-producing infections",
+      "Encapsulated bacterial infections",
+      "Viral opportunistic infections",
+      "Latent intracellular infections"
+    ],
+    "c": 0,
+    "l": "CGD patients are highly susceptible to recurrent infections with catalase-positive organisms, which neutralize their own H2O2, leaving the host cells without any source of reactive oxygen.",
+    "h": "Catalase-positive infections"
+  },
+  {
+    "q": "A 10-year-old boy with X-linked Chronic Granulomatous Disease is hospitalized with osteomyelitis. Cultures isolate a specific opportunistic pathogen. Which of the following groups contains only organisms that are characteristically catalase-positive and frequently isolated in patients with CGD?",
+    "a": [
+      "S. pneumoniae, N. meningitidis, and H. influenzae",
+      "S. aureus, Aspergillus, Serratia, Nocardia, and Burkholderia cepacia",
+      "C. perfringens, B. fragilis, and F. nucleatum",
+      "C. albicans, C. neoformans, and H. capsulatum",
+      "M. tuberculosis, M. leprae, and M. avium"
+    ],
+    "c": 1,
+    "l": "The major catalase-positive pathogens causing recurrent infections in CGD include Staphylococcus aureus, Aspergillus, Serratia, Nocardia, and Burkholderia cepacia.",
+    "h": "Catalase-positive organisms"
+  },
+  {
+    "q": "A clinical laboratory receives a blood sample from a child suspected of having Chronic Granulomatous Disease. The technicians set up a flow cytometric assay using dihydrorhodamine 123. Which of the following findings is diagnostic of CGD in this clinical test?",
+    "a": [
+      "Marked upregulation of green fluorescence",
+      "Normal respiratory burst response",
+      "Abnormal DHR test showing a lack of fluorescence",
+      "Absence of CD18 surface receptor expression",
+      "Detection of giant inclusion granules within cells"
+    ],
+    "c": 2,
+    "l": "Chronic Granulomatous Disease is evaluated and diagnosed via an abnormal dihydrorhodamine (DHR) flow cytometry test, which demonstrates a lack of rhodamine fluorescence due to absent reactive oxygen species.",
+    "h": "Abnormal DHR test"
+  },
+  {
+    "q": "A patient's neutrophils are evaluated using a Nitroblue Tetrazolium (NBT) dye reduction assay. Following chemical stimulation, the patient's cells fail to undergo a color change and remain clear/yellow. This negative NBT test result confirms a diagnosis of which of the following conditions?",
+    "a": [
+      "Myeloperoxidase deficiency",
+      "Leukocyte Adhesion Deficiency Type I",
+      "Chronic Granulomatous Disease",
+      "Chediak-Higashi syndrome",
+      "Wiskott-Aldrich syndrome"
+    ],
+    "c": 2,
+    "l": "In the Nitroblue Tetrazolium (NBT) slide test, neutrophils from patients with Chronic Granulomatous Disease yield a negative NBT test because they lack the superoxide necessary to reduce the yellow dye into blue formazan.",
+    "h": "NBT test negative"
+  },
+  {
+    "q": "A 22-year-old male is evaluated for a suspected inherited neutrophil disorder. Laboratory investigations reveal that his leukocytes are completely unable to synthesize hypochlorous acid (HOCl) from hydrogen peroxide. Which of the following primary immunodeficiencies is characterized by this specific biochemical defect?",
+    "a": [
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase (MPO) deficiency",
+      "Leukocyte Adhesion Deficiency Type II",
+      "Chediak-Higashi syndrome",
+      "Glucose-6-phosphate dehydrogenase deficiency"
+    ],
+    "c": 1,
+    "l": "Myeloperoxidase (MPO) deficiency is an inherited disorder characterized by an inability of neutrophils to produce hypochlorous acid (HOCl) due to a lack of functional MPO enzymes.",
+    "h": "Defective HOCl production"
+  },
+  {
+    "q": "An investigator analyzes neutrophils isolated from an individual with confirmed Myeloperoxidase deficiency. During incubation with bacteria, the cells demonstrate normal activation of the membrane-bound NADPH oxidase complex and consume normal amounts of oxygen. Which of the following physiological features characterizes this specific condition?",
+    "a": [
+      "Completely absent generation of superoxide anions",
+      "Normal respiratory burst",
+      "Defective leukocyte rolling along selectins",
+      "Failure of phagosomes to fuse with lysosomes",
+      "Absence of CD18 integrin receptors"
+    ],
+    "c": 1,
+    "l": "Patients with Myeloperoxidase (MPO) deficiency have a completely normal respiratory burst because their upstream NADPH oxidase enzyme functions perfectly.",
+    "h": "Normal respiratory burst"
+  },
+  {
+    "q": "A 26-year-old male with an inherited phagocytic cell defect presents with persistent, recurrent oral and systemic infections caused by Candida albicans. Aside from these fungal complications, he remains relatively healthy. This clinical pattern is highly characteristic of which of the following disorders?",
+    "a": [
+      "Chronic Granulomatous Disease",
+      "Leukocyte Adhesion Deficiency Type I",
+      "Chediak-Higashi syndrome",
+      "Myeloperoxidase (MPO) deficiency",
+      "Severe Combined Immunodeficiency"
+    ],
+    "c": 3,
+    "l": "While frequently asymptomatic, patients with Myeloperoxidase (MPO) deficiency who do develop infections characteristically show an increased susceptibility to disseminated Candida infections.",
+    "h": "Susceptibility to Candida"
+  },
+  {
+    "q": "A patient suspected of having a primary leukocyte killing defect undergoes diagnostic testing. Activated neutrophils are mixed with Nitroblue Tetrazolium (NBT) dye. The cells successfully generate superoxide, and the slide turns a dense, dark blue color. This positive NBT test result is characteristic of which of the following conditions?",
+    "a": [
+      "Chronic Granulomatous Disease",
+      "Myeloperoxidase (MPO) deficiency",
+      "Leukocyte Adhesion Deficiency Type I",
+      "Chediak-Higashi syndrome",
+      "X-linked agammaglobulinemia"
+    ],
+    "c": 1,
+    "l": "The Nitroblue Tetrazolium (NBT) test is positive (turns blue) in Myeloperoxidase (MPO) deficiency because superoxide production remains intact, allowing dye reduction.",
+    "h": "NBT test positive"
+  },
+  {
+    "q": "Neutrophils from a 19-year-old asymptomatic female are subjected to flow cytometric analysis using dihydrorhodamine 123 (DHR). Following chemical stimulation, a normal shift in green fluorescence is detected, indicating intact generation of upstream reactive oxygen species. Which of the following conditions is consistent with this normal DHR test result?",
+    "a": [
+      "X-linked Chronic Granulomatous Disease",
+      "Autosomal recessive Chronic Granulomatous Disease",
+      "Myeloperoxidase (MPO) deficiency",
+      "Leukocyte Adhesion Deficiency Type II",
+      "Chediak-Higashi syndrome"
+    ],
+    "c": 2,
+    "l": "The dihydrorhodamine (DHR) flow cytometry test is normal in individuals with Myeloperoxidase (MPO) deficiency because they generate normal amounts of peroxide substrate.",
+    "h": "DHR test normal"
+  }
     ]
   }
 }
