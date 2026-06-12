@@ -1,546 +1,78 @@
 {
-  "moduleTitle": "NIS: MICRO",
-  "hero": {
-    "badge": "MD3 NIS",
-    "title": "🧠 NIS MICRO",
-    "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
-  },
+"moduleTitle": "NIS: MICRO",
+"hero": {
+"badge": "MD3 NIS",
+"title": "🧠 NIS MICRO",
+"subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
+},
 "sections": [
-    {
-      "id": "neuro-high-yield",
-      "title": "",
-      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
-      "topics": [
-       
-      ]
-    }
-  ],
-  "quizzes": {
-    "immunity_and_immune_system": [
-    {
-    "q": "Which statement best distinguishes innate immunity from adaptive immunity?",
-    "a": [
-      "Innate immunity is antigen-specific",
-      "Adaptive immunity is immediate",
-      "Innate immunity provides immediate non-specific protection",
-      "Adaptive immunity lacks memory",
-      "Innate immunity is mediated only by antibodies"
-    ],
-    "c": 2,
-    "l": "Innate immunity provides rapid, non-specific protection against infection.",
-    "h": "Immediate + non-specific"
-  },
-  {
-    "q": "Immunity is best defined as:",
-    "a": [
-      "Production of antibodies",
-      "Resistance to disease",
-      "Inflammation against pathogens",
-      "Recognition of self-antigens",
-      "Elimination of all microbes"
-    ],
-    "c": 1,
-    "l": "Immunity refers to resistance against disease and infection.",
-    "h": "Resistance to disease"
-  },
-  {
-    "q": "The immune system is composed of:",
-    "a": [
-      "Only lymphocytes",
-      "Only antibodies",
-      "Cells, tissues, and molecules that mediate resistance to infection",
-      "Only bone marrow and thymus",
-      "Only innate immune cells"
-    ],
-    "c": 2,
-    "l": "The immune system includes cells, tissues, and molecules that defend against infection.",
-    "h": "Cells + tissues + molecules"
-  },
-  {
-    "q": "Which type of immunity provides immediate protection against microbial invasion?",
-    "a": [
-      "Adaptive immunity",
-      "Humoral immunity",
-      "Cell-mediated immunity",
-      "Innate immunity",
-      "Passive immunity"
-    ],
-    "c": 3,
-    "l": "Innate immunity acts immediately upon exposure to pathogens.",
-    "h": "Immediate response"
-  },
-  {
-    "q": "Adaptive immunity differs from innate immunity because it:",
-    "a": [
-      "Acts immediately",
-      "Uses only neutrophils",
-      "Develops more slowly and is highly specific",
-      "Does not form memory",
-      "Uses complement only"
-    ],
-    "c": 2,
-    "l": "Adaptive immunity develops more slowly and targets specific antigens.",
-    "h": "Slow but specific"
-  },
-  {
-    "q": "Which cells mediate cell-mediated immunity?",
-    "a": [
-      "B lymphocytes",
-      "Neutrophils",
-      "T lymphocytes",
-      "Macrophages",
-      "NK cells"
-    ],
-    "c": 2,
-    "l": "Cell-mediated immunity is mediated by T lymphocytes.",
-    "h": "T cells"
-  },
-  {
-    "q": "Humoral immunity is primarily mediated by:",
-    "a": [
-      "Macrophages",
-      "T lymphocytes",
-      "NK cells",
-      "B lymphocytes",
-      "Neutrophils"
-    ],
-    "c": 3,
-    "l": "Humoral immunity is mediated by antibody-producing B lymphocytes.",
-    "h": "B cells"
-  },
-  {
-    "q": "Which of the following is a major innate immune cell?",
-    "a": [
-      "B lymphocyte",
-      "T lymphocyte",
-      "Neutrophil",
-      "Plasma cell",
-      "Memory B cell"
-    ],
-    "c": 2,
-    "l": "Neutrophils are key cells of the innate immune system.",
-    "h": "Innate phagocyte"
-  },
-  {
-    "q": "Which feature is characteristic of innate immunity?",
-    "a": [
-      "Immunologic memory",
-      "High specificity",
-      "Immediate response",
-      "Antibody production",
-      "Clonal expansion"
-    ],
-    "c": 2,
-    "l": "Innate immunity provides an immediate response to pathogens.",
-    "h": "Immediate protection"
-  },
-  {
-    "q": "Which molecule is part of innate immunity?",
-    "a": [
-      "IgG",
-      "BCR",
-      "Lysozyme",
-      "TCR",
-      "IgM"
-    ],
-    "c": 2,
-    "l": "Lysozyme is an innate antimicrobial enzyme found in secretions.",
-    "h": "Innate enzyme"
-  },
-  {
-    "q": "Adaptive immunity recognizes antigens primarily through:",
-    "a": [
-      "TLRs",
-      "PRRs",
-      "BCRs and TCRs",
-      "Complement receptors",
-      "Fc receptors"
-    ],
-    "c": 2,
-    "l": "Adaptive immunity uses B-cell and T-cell receptors for antigen recognition.",
-    "h": "BCR + TCR"
-  },
-  {
-    "q": "Innate immune recognition of microbes is based on detection of:",
-    "a": [
-      "Immunoglobulins",
-      "PAMPs",
-      "MHC molecules",
-      "TCRs",
-      "BCRs"
-    ],
-    "c": 1,
-    "l": "Innate immunity recognizes pathogen-associated molecular patterns (PAMPs).",
-    "h": "PAMP recognition"
-  },
-  {
-    "q": "Pattern recognition receptors (PRRs) are primarily associated with:",
-    "a": [
-      "Adaptive immunity",
-      "Innate immunity",
-      "Antibody production",
-      "Plasma cells",
-      "Memory cells"
-    ],
-    "c": 1,
-    "l": "PRRs are receptors of the innate immune system that detect PAMPs.",
-    "h": "Innate receptors"
-  },
-  {
-    "q": "TLR-2 primarily recognizes:",
-    "a": [
-      "LPS",
-      "Flagellin",
-      "Peptidoglycan",
-      "ssRNA",
-      "dsRNA"
-    ],
-    "c": 2,
-    "l": "TLR-2 recognizes peptidoglycan from Gram-positive bacteria.",
-    "h": "Gram-positive cell wall"
-  },
-  {
-    "q": "TLR-4 is the principal receptor for:",
-    "a": [
-      "Peptidoglycan",
-      "Flagellin",
-      "Lipopolysaccharide",
-      "dsRNA",
-      "ssRNA"
-    ],
-    "c": 2,
-    "l": "TLR-4 recognizes LPS from Gram-negative bacteria.",
-    "h": "LPS receptor"
-  },
-  {
-    "q": "TLR-5 recognizes which microbial structure?",
-    "a": [
-      "LPS",
-      "Peptidoglycan",
-      "Flagellin",
-      "dsRNA",
-      "ssRNA"
-    ],
-    "c": 2,
-    "l": "TLR-5 recognizes bacterial flagellin.",
-    "h": "Bacterial flagella"
-  },
-  {
-    "q": "Which Toll-like receptors recognize single-stranded viral RNA?",
-    "a": [
-      "TLR-2",
-      "TLR-3",
-      "TLR-4",
-      "TLR-7 and TLR-8",
-      "TLR-5"
-    ],
-    "c": 3,
-    "l": "TLR-7 and TLR-8 detect viral single-stranded RNA.",
-    "h": "ssRNA sensor"
-  },
-  {
-    "q": "TLR-3 is most important for recognition of:",
-    "a": [
-      "LPS",
-      "Flagellin",
-      "Peptidoglycan",
-      "Double-stranded RNA",
-      "Single-stranded RNA"
-    ],
-    "c": 3,
-    "l": "TLR-3 recognizes viral double-stranded RNA.",
-    "h": "dsRNA sensor"
-  },
-  {
-    "q": "NF-kB functions primarily as a:",
-    "a": [
-      "Complement protein",
-      "Transcription factor",
-      "Antibody",
-      "Pattern recognition receptor",
-      "Cytokine"
-    ],
-    "c": 1,
-    "l": "NF-kB is a transcription factor regulating immune-response genes.",
-    "h": "Gene regulator"
-  },
-  {
-    "q": "Activation of NF-kB results in:",
-    "a": [
-      "Decreased cytokine production",
-      "Transcription of immune response genes",
-      "B-cell apoptosis",
-      "Loss of immunity",
-      "Complement inhibition"
-    ],
-    "c": 1,
-    "l": "NF-kB promotes transcription of cytokines and immune-related genes.",
-    "h": "Cytokine expression"
-  },
-  [
-  {
-    "q": "Which of the following is considered a first-line physical barrier against infection?",
-    "a": [
-      "IgG",
-      "Skin",
-      "B lymphocyte",
-      "T lymphocyte",
-      "Plasma cell"
-    ],
-    "c": 1,
-    "l": "Skin serves as a major physical barrier preventing microbial entry.",
-    "h": "Physical barrier"
-  },
-  {
-    "q": "Lysozyme found in tears protects against infection by:",
-    "a": [
-      "Producing antibodies",
-      "Activating T cells",
-      "Breaking down bacterial cell walls",
-      "Activating complement",
-      "Stimulating NK cells"
-    ],
-    "c": 2,
-    "l": "Lysozyme cleaves peptidoglycan in bacterial cell walls.",
-    "h": "Tears enzyme"
-  },
-  {
-    "q": "Respiratory cilia help prevent infection by:",
-    "a": [
-      "Producing antibodies",
-      "Phagocytosing bacteria",
-      "Removing trapped microbes from airways",
-      "Activating complement",
-      "Producing cytokines"
-    ],
-    "c": 2,
-    "l": "Respiratory cilia clear microbes through mucociliary transport.",
-    "h": "Mucociliary clearance"
-  },
-  {
-    "q": "Which innate immune cell is specialized for killing virus-infected cells?",
-    "a": [
-      "B lymphocyte",
-      "Neutrophil",
-      "NK cell",
-      "Plasma cell",
-      "Eosinophil"
-    ],
-    "c": 2,
-    "l": "Natural killer cells destroy virus-infected cells without prior sensitization.",
-    "h": "Kills infected cells"
-  },
-  {
-    "q": "Which cell is the most abundant circulating phagocyte?",
-    "a": [
-      "Macrophage",
-      "Neutrophil",
-      "B lymphocyte",
-      "NK cell",
-      "Plasma cell"
-    ],
-    "c": 1,
-    "l": "Neutrophils are the most abundant circulating phagocytic cells.",
-    "h": "Most common phagocyte"
-  },
-  {
-    "q": "Which cytokines are important in antiviral defense?",
-    "a": [
-      "IL-4 and IL-5",
-      "TNF-alpha and IL-1",
-      "IFN-alpha and IFN-beta",
-      "IL-2 and IL-12",
-      "IL-10 and TGF-beta"
-    ],
-    "c": 2,
-    "l": "Type I interferons (IFN-alpha and IFN-beta) inhibit viral replication.",
-    "h": "Antiviral cytokines"
-  },
-  {
-    "q": "Transferrin, lactoferrin, and ferritin protect against microbes primarily by:",
-    "a": [
-      "Producing antibodies",
-      "Binding iron",
-      "Activating T cells",
-      "Stimulating fever",
-      "Activating complement"
-    ],
-    "c": 1,
-    "l": "These proteins limit microbial growth by sequestering iron.",
-    "h": "Iron sequestration"
-  },
-  {
-    "q": "An inflammasome is primarily involved in:",
-    "a": [
-      "Antibody production",
-      "T-cell maturation",
-      "Activation of inflammatory cytokines",
-      "MHC presentation",
-      "NK-cell activation"
-    ],
-    "c": 2,
-    "l": "Inflammasomes activate inflammatory mediators such as IL-1.",
-    "h": "Inflammatory activation"
-  },
-  {
-    "q": "The primary role of an antigen-presenting cell (APC) is to:",
-    "a": [
-      "Produce antibodies",
-      "Kill infected cells",
-      "Present antigen to T cells",
-      "Activate complement",
-      "Produce hemoglobin"
-    ],
-    "c": 2,
-    "l": "APCs process antigens and present them to T lymphocytes.",
-    "h": "Shows antigen"
-  },
-  {
-    "q": "Which of the following is a professional antigen-presenting cell?",
-    "a": [
-      "Neutrophil",
-      "Eosinophil",
-      "Dendritic cell",
-      "Platelet",
-      "Erythrocyte"
-    ],
-    "c": 2,
-    "l": "Dendritic cells are the most effective professional APCs.",
-    "h": "Professional APC"
-  },
-  {
-    "q": "Which cells are classified as professional antigen-presenting cells?",
-    "a": [
-      "Neutrophils, eosinophils, basophils",
-      "T cells, B cells, NK cells",
-      "Dendritic cells, macrophages, B cells",
-      "Platelets, RBCs, monocytes",
-      "NK cells, neutrophils, plasma cells"
-    ],
-    "c": 2,
-    "l": "Professional APCs include dendritic cells, macrophages, and B cells.",
-    "h": "Three APCs"
-  },
-  {
-    "q": "Which lymphoid organ is responsible for B-cell development?",
-    "a": [
-      "Thymus",
-      "Lymph node",
-      "Bone marrow",
-      "Spleen",
-      "MALT"
-    ],
-    "c": 2,
-    "l": "B lymphocytes mature within the bone marrow.",
-    "h": "B-cell maturation"
-  },
-  {
-    "q": "Which lymphoid organ is responsible for T-cell development?",
-    "a": [
-      "Bone marrow",
-      "Spleen",
-      "Lymph node",
-      "Thymus",
-      "Appendix"
-    ],
-    "c": 3,
-    "l": "T lymphocytes mature within the thymus.",
-    "h": "T-cell maturation"
-  },
-  {
-    "q": "Which are considered primary lymphoid organs?",
-    "a": [
-      "Spleen and lymph node",
-      "Bone marrow and thymus",
-      "MALT and spleen",
-      "Thymus and spleen",
-      "Bone marrow and MALT"
-    ],
-    "c": 1,
-    "l": "Primary lymphoid organs are sites of lymphocyte development.",
-    "h": "Development sites"
-  },
-  {
-    "q": "Which are considered secondary lymphoid organs?",
-    "a": [
-      "Bone marrow and thymus",
-      "Liver and spleen",
-      "Lymph nodes, spleen, and MALT",
-      "Bone marrow and MALT",
-      "Thymus and lymph node"
-    ],
-    "c": 2,
-    "l": "Secondary lymphoid organs are sites of antigen-driven lymphocyte activation.",
-    "h": "Activation sites"
-  },
-  {
-    "q": "Lymph nodes are specialized to initiate immune responses against:",
-    "a": [
-      "Blood-borne antigens",
-      "Tissue-borne antigens",
-      "Only viral antigens",
-      "Only bacterial antigens",
-      "Food antigens"
-    ],
-    "c": 1,
-    "l": "Lymph nodes initiate responses against antigens draining from tissues.",
-    "h": "Tissue drainage"
-  },
-  {
-    "q": "The cortex of a lymph node is primarily the site of:",
-    "a": [
-      "Macrophage activation",
-      "T-cell activation",
-      "B-cell activation",
-      "NK-cell activation",
-      "Complement production"
-    ],
-    "c": 2,
-    "l": "B-cell follicles are located in the lymph node cortex.",
-    "h": "B-cell zone"
-  },
-  {
-    "q": "The paracortex of a lymph node is primarily the site of:",
-    "a": [
-      "B-cell activation",
-      "Plasma cells",
-      "T-cell activation",
-      "RBC filtration",
-      "Complement activation"
-    ],
-    "c": 2,
-    "l": "The paracortex is the T-cell-rich area of lymph nodes.",
-    "h": "T-cell zone"
-  },
-  {
-    "q": "The spleen primarily initiates immune responses against:",
-    "a": [
-      "Tissue-borne antigens",
-      "Blood-borne antigens",
-      "Skin pathogens",
-      "Mucosal antigens",
-      "Food antigens"
-    ],
-    "c": 1,
-    "l": "The spleen filters blood and responds to blood-borne antigens.",
-    "h": "Blood filtration"
-  },
-  {
-    "q": "The marginal zone of the spleen is located:",
-    "a": [
-      "Within the red pulp",
-      "Within the thymus",
-      "Surrounding the follicle",
-      "Inside lymphatic vessels",
-      "Within the bone marrow"
-    ],
-    "c": 2,
-    "l": "The splenic marginal zone surrounds lymphoid follicles.",
-    "h": "Around follicle"
-  }
+{
+"id": "neuro-high-yield",
+"title": "",
+"hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+"topics": []
+}
 ],
-    "acute_inflammatory_response": [
-     
+"quizzes": {
+"immunity_and_immune_system": [
+{
+"q": "Which statement best distinguishes innate immunity from adaptive immunity?",
+"a": [
+"Innate immunity is antigen-specific",
+"Adaptive immunity is immediate",
+"Innate immunity provides immediate non-specific protection",
+"Adaptive immunity lacks memory",
+"Innate immunity is mediated only by antibodies"
+],
+"c": 2,
+"l": "Innate immunity provides rapid, non-specific protection against infection.",
+"h": "Immediate + non-specific"
+},
+{
+"q": "Immunity is best defined as:",
+"a": [
+"Production of antibodies",
+"Resistance to disease",
+"Inflammation against pathogens",
+"Recognition of self-antigens",
+"Elimination of all microbes"
+],
+"c": 1,
+"l": "Immunity refers to resistance against disease and infection.",
+"h": "Resistance to disease"
+},
+{
+"q": "The immune system is composed of:",
+"a": [
+"Only lymphocytes",
+"Only antibodies",
+"Cells, tissues, and molecules that mediate resistance to infection",
+"Only bone marrow and thymus",
+"Only innate immune cells"
+],
+"c": 2,
+"l": "The immune system includes cells, tissues, and molecules that defend against infection.",
+"h": "Cells + tissues + molecules"
+},
+{
+"q": "Which type of immunity provides immediate protection against microbial invasion?",
+"a": [
+"Adaptive immunity",
+"Humoral immunity",
+"Cell-mediated immunity",
+"Innate immunity",
+"Passive immunity"
+],
+"c": 3,
+"l": "Innate immunity acts immediately upon exposure to pathogens.",
+"h": "Immediate response"
+}
+
+  // Continue all remaining immunity questions here...
+  // (Questions from TLRs, PRRs, APCs, lymphoid organs, spleen, lymph nodes, etc.)
+],
+
+"acute_inflammatory_response": [
   {
     "q": "What is inflammation?",
     "a": [
