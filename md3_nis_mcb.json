@@ -19,7 +19,7 @@
     }
   ],
   "quizzes": {
-    "immunity_and_immune_system": [
+    "1_immunity_and_immune_system": [
   {
     "q": "A 4-year-old boy presents to the clinic with an acute laceration on his knee after falling on the playground. Within minutes, localized physiological mechanisms are activated at the site of tissue injury to prevent the entry and systemic spread of pathogens. This initial defense strategy is best categorized under which of the following arms of immunity?",
     "a": [
@@ -619,7 +619,7 @@
     "h": "Eosinophil Fc receptors"
   }
 ],
-    "acute_inflammatory_response": [
+    "2_acute_inflammatory_response": [
    {
     "q": "A 24-year-old male sustains a deep laceration on his thigh while working on a construction site. Within hours, the area becomes erythematous, warm, and swollen. This immediate localized response represents the body's primary reaction to tissue injury. Which of the following best describes this physiological process?",
     "a": [
@@ -1283,6 +1283,594 @@
     "l": "The dihydrorhodamine (DHR) flow cytometry test is normal in individuals with Myeloperoxidase (MPO) deficiency because they generate normal amounts of peroxide substrate.",
     "h": "DHR test normal"
   }
-    ]
+    ],
+    "3_cell_mediated_immune_response":
+    [
+  {
+    "q": "A 5-year-old boy presents to his pediatrician with recurrent sinopulmonary infections. Lab testing reveals normal numbers of T and B lymphocytes, but further evaluation demonstrates that his antigen-presenting cells are unable to stabilize firm interactions with T cells during antigen presentation. A genetic mutation disrupting which of the following cell surface molecules is most likely responsible for this child's condition?",
+    "a": [
+      "CD28",
+      "CD40",
+      "LFA-1",
+      "CTLA-4",
+      "IL-2R"
+    ],
+    "c": 2,
+    "l": "Firm adhesion between T cells and antigen-presenting cells (APCs) is mediated by accessory molecules, notably the interaction between LFA-1 on the T cell and ICAM-1 on the APC.",
+    "h": "Think about the adhesion pairs responsible for strengthening the binding between a T cell and an APC."
+  },
+  {
+    "q": "A 22-year-old medical student is investigating the mechanisms of T cell activation in a laboratory experiment. She observes that when naive helper T cells encounter a specific viral antigen displayed on dendritic cells, they rapidly produce a particular cytokine that acts in an autocrine fashion to drive their own clonal expansion. Binding of this cytokine to which of the following receptors is directly responsible for this proliferative response?",
+    "a": [
+      "CD28",
+      "IL-2 receptor",
+      "IFN-gamma receptor",
+      "IL-12 receptor",
+      "CXCR3"
+    ],
+    "c": 1,
+    "l": "Full activation of T cells leads to the secretion of IL-2 and the expression of high-affinity IL-2 receptors, which binds IL-2 to stimulate autocrine cell proliferation and clonal expansion.",
+    "h": "Identify the primary cytokine and its matching receptor that are responsible for the proliferation of activated T-cell clones."
+  },
+  {
+    "q": "An investigator studies T lymphocyte regulation by analyzing cell surface receptor interactions during prolonged exposure to antigens. She notes that a specific receptor expressed on activated T cells binds to B7-1 and B7-2 on antigen-presenting cells to deliver an inhibitory signal, effectively terminating the proliferative response and preventing autoimmunity. Which of the following molecules is this receptor?",
+    "a": [
+      "CD28",
+      "CTLA-4",
+      "PD-1",
+      "CD40L",
+      "LFA-1"
+    ],
+    "c": 1,
+    "l": "CTLA-4 is an inhibitory receptor induced on activated T cells that competes with CD28 to bind B7-1/B7-2 on APCs, delivering an inhibitory signal that blocks IL-2 production and halts clonal expansion.",
+    "h": "Consider the inhibitory receptor that shares the exact same B7 ligands as the costimulatory receptor CD28."
+  },
+  {
+    "q": "A 34-year-old female with a history of persistent viral infections is found to have a genetic defect that impairs the function of her CD8+ Cytotoxic T Lymphocytes (CTLs). Biopsy of an infected tissue shows that her CTLs can successfully attach to virus-infected host cells via MHC Class I complexes, but they are completely unable to induce target cell apoptosis. A deficiency in which of the following pairs of granular components most likely explains these findings?",
+    "a": [
+      "IL-2 and IFN-gamma",
+      "Perforin and granzymes",
+      "IL-4 and IL-5",
+      "Fas and FasL",
+      "IL-12 and IL-23"
+    ],
+    "c": 1,
+    "l": "CD8+ cytotoxic T lymphocytes kill infected cells via exocytosis of granule contents, specifically perforin, which forms polyperforin membrane channels, and granzymes, which enter the target cell to activate caspases.",
+    "h": "Recall the two major proteins stored in CTL granules that punch holes in membranes and activate the caspase cascade."
+  },
+  {
+    "q": "A 45-year-old male with severe Crohn's disease is treated with a monoclonal antibody that targets a specific cytokine pathway. This therapeutic intervention effectively reduces the recruitment and activation of neutrophils to mucosal surfaces, thereby diminishing chronic extracellular inflammation. The targeted pathway most likely disrupts the differentiation or function of which T helper cell subset?",
+    "a": [
+      "Th1",
+      "Th2",
+      "Th17",
+      "Treg",
+      "Th0"
+    ],
+    "c": 2,
+    "l": "Th17 cells secrete IL-17, IL-21, and IL-22, which function to recruit neutrophils to fight extracellular microbes and drive inflammatory reactions.",
+    "h": "Identify the specific CD4+ T helper cell subset whose primary role is defense against extracellular bacteria and fungi via neutrophil recruitment."
+  },
+  {
+    "q": "A researcher is studying the tissue-homing properties of memory T lymphocytes. She isolates a group of memory T cells from a patient's peripheral tissues that lack lymphoid-homing receptors such as CCR7 and L-selectin (CD62L). These specific memory cells demonstrate an ability to produce immediate effector cytokines locally upon antigen re-challenge. Which of the following best classifies these cells?",
+    "a": [
+      "Central memory T cells",
+      "Effector memory T cells",
+      "Naive T cells",
+      "Th17 cells",
+      "Classically activated cells"
+    ],
+    "c": 1,
+    "l": "Effector memory T cells preferentially reside in peripheral tissues, lack CCR7 and CD62L, and provide immediate local protection through the rapid production of effector cytokines.",
+    "h": "Differentiate between memory cells that home to secondary lymphoid organs and those that reside directly in peripheral tissues."
+  },
+  {
+    "q": "A 29-year-old male is diagnosed with a severe parasitic worm infection (helminthiasis). Laboratory studies show a marked elevation in peripheral blood eosinophils and serum IgE levels. The differentiation of the T helper subset responsible for driving this specific protective response is orchestrated by which of the following master transcription factors?",
+    "a": [
+      "T-bet",
+      "GATA3",
+      "RORgammat",
+      "FoxP3",
+      "NF-kB"
+    ],
+    "c": 1,
+    "l": "Th2 cells express the master transcription factor GATA3 and secrete IL-4, IL-5, and IL-13, which are essential for driving IgE production, eosinophil recruitment, and defense against helminths.",
+    "h": "Think of the master transcription factor associated with the Th2 lineage, which regulates humoral and anti-parasitic immunity."
+  },
+  {
+    "q": "An experimental model evaluates the host response to Mycobacterium tuberculosis infection. The investigators observe that the absolute clearance of these facultative intracellular bacteria relies heavily on a cytokine secreted by Th1 cells that functions to classically activate macrophages, boosting their microbicidal activity. Which cytokine is primarily responsible for this macrophage activation?",
+    "a": [
+      "IL-4",
+      "IL-10",
+      "IFN-gamma",
+      "IL-17",
+      "TGF-beta"
+    ],
+    "c": 2,
+    "l": "Th1 cells produce IFN-gamma, which is the principal macrophage-activating cytokine that stimulates M1 macrophages to generate reactive oxygen species (ROS) and nitric oxide (NO) to kill phagocytosed microbes.",
+    "h": "Identify the signature pro-inflammatory cytokine produced by Th1 cells that drives classical macrophage (M1) activation."
+  },
+  {
+    "q": "A newborn infant is found to have a rare genetic syndrome presenting with severe, systemic autoimmunity due to a complete failure in peripheral immune tolerance. Genetic sequencing confirms a loss-of-function mutation in the gene encoding the FoxP3 transcription factor. Which of the following cell types is directly affected by this mutation?",
+    "a": [
+      "Th1 cells",
+      "Th2 cells",
+      "Th17 cells",
+      "Regulatory T cells",
+      "Cytotoxic T cells"
+    ],
+    "c": 3,
+    "l": "Regulatory T cells (Tregs) uniquely express the master transcription factor FoxP3 and CD25, and function to prevent autoimmunity by maintaining tolerance to self-antigens.",
+    "h": "Identify the T cell population responsible for suppressing self-reactive T cells and maintaining self-tolerance."
+  },
+  {
+    "q": "An analysis of an immune response against a viral pathogen demonstrates that some activated CD4+ T cells do not enter the systemic circulation to home to the site of infection. Instead, these cells remain within the secondary lymphoid organ and migrate directly into the lymphoid follicles. What is the primary functional role of this specific T cell population?",
+    "a": [
+      "Classically activating M1 macrophages",
+      "Helping B cells to produce high-affinity antibodies",
+      "Recruiting neutrophils to the area of tissue injury",
+      "Executing immediate perforin-mediated target lysis",
+      "Suppressing self-reactive naive lymphocytes"
+    ],
+    "c": 1,
+    "l": "Some activated CD4+ T cells remain within the lymph node, migrate into B cell follicles, and function to help B cells proliferate and differentiate into antibody-producing cells.",
+    "h": "Consider what happens inside the lymphoid follicles and which cell type requires T-cell help to refine its defense strategy."
+  },
+  {
+    "q": "A 31-year-old scientist is studying how different pathogens skew the immune system. She notes that when dendritic cells encounter specific intracellular pathogens, they produce high levels of Interleukin-12 (IL-12). The presence of IL-12 during the initial activation of naive T cells ($Th0$) will directly promote differentiation into which of the following lineages?",
+    "a": [
+      "Th1 subset",
+      "Th2 subset",
+      "Th17 subset",
+      "Treg subset",
+      "B cell subset"
+    ],
+    "c": 0,
+    "l": "Microbes that stimulate the innate immune system to produce IL-12 and IFN-gamma polarize naive CD4+ T cells ($Th0$) to differentiate into the Th1 effector subset.",
+    "h": "Determine which helper subset is induced by pro-inflammatory signals like IL-12 to manage intracellular infections."
+  },
+  {
+    "q": "A 45-year-old male with an advanced stage of Human Immunodeficiency Virus (HIV) infection presents with a low CD4+ T cell count. He is determined to be at a critically high risk for the reactivation of past latent intracellular infections, such as Mycobacterium tuberculosis and Herpes Simplex Virus. This vulnerability is primarily caused by a failure in which branch of the immune system?",
+    "a": [
+      "Humoral immunity",
+      "Innate complement cascade",
+      "Cell-mediated immunity",
+      "Alternative macrophage activation",
+      "Eosinophil-mediated cytotoxicity"
+    ],
+    "c": 2,
+    "l": "Cell-mediated immunity (CMI), driven by CD4+ and CD8+ T cells, is specifically responsible for defending against facultative and obligate intracellular pathogens.",
+    "h": "Think of the branch of adaptive immunity that handles microbes hiding inside host vacuoles or the cytoplasm."
+  },
+  {
+    "q": "A 19-year-old female presents with symptoms of an acute viral upper respiratory infection. At the cellular level, viral cytosolic proteins are being degraded within her infected airway epithelial cells, and the resulting viral peptides are being processed for presentation. Which of the following molecules must these viral peptides associate with on the cell surface to be recognized by her adaptive cytotoxic effector cells?",
+    "a": [
+      "MHC Class I",
+      "MHC Class II",
+      "CD28",
+      "B7-1",
+      "ICAM-1"
+    ],
+    "c": 0,
+    "l": "Antigens derived from proteins in the cytosol (such as viral proteins) are processed and displayed on MHC Class I molecules, which are recognized by CD8+ cytotoxic T cells.",
+    "h": "Recall which MHC class displays intracellular or cytosolic antigens to cytotoxic T cells."
+  },
+  {
+    "q": "A laboratory technician accidentally punctures his finger with a needle containing a suspension of Listeria monocytogenes. Dendritic cells in the local epithelium capture the bacterial antigens and begin migrating to the regional lymph nodes. During this migration process, which of the following phenotypic changes will these dendritic cells undergo to ensure optimal antigen presentation?",
+    "a": [
+      "Downregulation of B7 costimulators",
+      "Upregulation of MHC and costimulatory molecules",
+      "Loss of cell-surface adhesion molecules",
+      "Secretory shift toward anti-inflammatory IL-10",
+      "Upregulation of T-cell receptors (TCR)"
+    ],
+    "c": 1,
+    "l": "As dendritic cells capture antigen and migrate to lymphoid organs, they mature, upregulating their expression of MHC molecules and costimulators (like B7) to activate naive T cells.",
+    "h": "Consider the structural changes an APC needs to fully activate a naive T cell."
+  },
+  {
+    "q": "A 62-year-old female is undergoing immunotherapy for a malignant tumor. The oncologists utilize a drug that blocks the interaction between the T-cell receptor PD-1 and its ligands, PD-L1/PD-L2, on the tumor cells. This checkpoint inhibition prevents tumor cells from using these molecules to induce which of the following cellular states in tumor-specific T cells?",
+    "a": [
+      "Autocrine clonal expansion",
+      "Functional inhibition and termination of response",
+      "Upregulation of homing receptors to the lymph node",
+      "Enhanced production of perforin and granzymes",
+      "Alternative differentiation into Th2 cells"
+    ],
+    "c": 1,
+    "l": "PD-1 is an inhibitory receptor expressed on activated T cells; binding to its ligands delivers inhibitory signals that terminate T cell responses and limit tissue damage.",
+    "h": "Think about the normal, native function of coinhibitory pathways like PD-1/PD-L1 when they are activated."
+  },
+  {
+    "q": "An in vitro study of human T cell activation shows that when a naive CD4+ T cell binds an antigen-MHC Class II complex via its TCR, it requires a simultaneous second signal from the antigen-presenting cell to achieve full functional activation. Which of the following pairs of molecules represents the classic costimulatory match required for this second signal?",
+    "a": [
+      "LFA-1 binding to ICAM-1",
+      "CD2 binding to CD58",
+      "CD28 binding to B7-1 or B7-2",
+      "CD4 binding to the MHC Class II beta-2 domain",
+      "CTLA-4 binding to CD80"
+    ],
+    "c": 2,
+    "l": "The primary second signal required for full naive T cell activation is costimulation, achieved when the CD28 receptor on the T cell binds to CD80 (B7-1) or CD86 (B7-2) on the APC.",
+    "h": "Look for the classic costimulatory receptor on naive T cells and its associated ligand on professional APCs."
+  },
+  {
+    "q": "A 23-year-old male with an acute intracellular bacterial infection exhibits a robust immune response. Effector CD4+ T cells of the Th1 subset migrate to the site of infection and release cytokines. These cytokines promote a classical macrophage activation pathway (M1), leading to the destruction of the ingested microbes. Which set of microbicidal substances is primarily produced by these M1 macrophages to achieve this killing?",
+    "a": [
+      "Growth factors and TGF-beta",
+      "Reactive oxygen species (ROS), nitric oxide (NO), and lysosomal enzymes",
+      "Interleukin-10 and Interleukin-4",
+      "Perforin and granzymes",
+      "Histamine and leukotrienes"
+    ],
+    "c": 1,
+    "l": "Classically activated macrophages (M1) are induced by PAMPs and IFN-gamma to produce ROS, NO, and lysosomal enzymes, which perform microbicidal actions to kill ingested bacteria and fungi.",
+    "h": "Identify the highly toxic chemical radicals and enzymes used by M1 macrophages to destroy phagocytosed pathogens."
+  },
+  {
+    "q": "A patient with a chronic inflammatory condition demonstrates a highly activated immune profile. On a molecular level, helper T cells are interacting with antigen-presenting cells via cell-surface molecules. During this process, CD40L (CD154) on the activated T cell binds to CD40 on the APC. Which of the following best describes the immediate physiological consequence of this CD40-CD40L interaction?",
+    "a": [
+      "Immediate apoptosis of the helper T cell",
+      "Activation of the APC to express more B7 molecules and secrete activating cytokines",
+      "Inhibition of MHC Class I expression on the target cell",
+      "Cleavage of membrane polyperforin channels",
+      "Downregulation of adhesion pairs like LFA-1 and ICAM-1"
+    ],
+    "c": 1,
+    "l": "The binding of CD40L on activated T cells to CD40 on APCs activates the APCs, prompting them to express more B7 costimulators and secrete cytokines that enhance T cell differentiation.",
+    "h": "Consider how an activated T cell sends feedback to an APC to boost its costimulatory capacity."
+  },
+  {
+    "q": "An experimental cell line consists of mutant naive CD4+ T cells that lack the expression of the CD3 surface molecule. When these mutant T cells are cultured with professional antigen-presenting cells displaying highly specific, high-affinity peptide-MHC complexes, no proliferative or downstream activation response occurs. Which of the following functions is missing in these cells?",
+    "a": [
+      "Binding to the nonpolymorphic region of MHC Class II",
+      "Transduction of the signal indicating specific antigen binding has occurred",
+      "Direct synthesis of the Interleukin-2 cytokine molecule",
+      "Upregulation of adhesion pairs like CD2 and CD58",
+      "Binding to B7-1 and B7-2 costimulators"
+    ],
+    "c": 1,
+    "l": "The CD3 complex is non-covalently associated with the TCR and functions to transduce the biochemical signals into the T cell nucleus once specific antigen binding occurs.",
+    "h": "Identify the role of the CD3 complex in the T-cell receptor apparatus."
+  },
+  {
+    "q": "A research group investigates the host response against extracellular fungal infections of the skin. They find that defense against these organisms relies heavily on a specialized helper T cell subset. This subset is uniquely induced by a combination of IL-6 and TGF-beta, and it expresses the master transcription factor RORgammat. Which of the following cell surface chemokine receptors is characteristically expressed by this effector subset?",
+    "a": [
+      "CXCR3",
+      "CCR4",
+      "CCR6",
+      "CCR7",
+      "CD62L"
+    ],
+    "c": 2,
+    "l": "Th17 cells are induced by IL-6 and TGF-beta, express the transcription factor RORgammat, and express the chemokine receptor CCR6 to guide them to sites of extracellular infection.",
+    "h": "Recall the unique chemokine receptor associated with the Th17 helper T cell lineage."
+  },
+  {
+    "q": "A 35-year-old woman is evaluated for a suspected localized tissue reaction. Histological analysis reveals an abundance of alternatively activated macrophages (M2) within the affected area. Which of the following pairs of cytokines is primarily responsible for driving monocytes down this alternative M2 differentiation pathway?",
+    "a": [
+      "IL-12 and IFN-gamma",
+      "IL-4 and Interleukin-13",
+      "IL-1 and Tumor Necrosis Factor-alpha",
+      "IL-6 and Interleukin-23",
+      "TGF-beta and Interleukin-2"
+    ],
+    "c": 1,
+    "l": "Alternatively activated macrophages (M2) are induced by the cytokines Interleukin-4 (IL-4) and Interleukin-13 (IL-13) and function mainly in tissue repair and anti-inflammatory pathways.",
+    "h": "Look for the cytokines produced by Th2 cells that act as a signal for alternative macrophage activation."
+  },
+  {
+    "q": "An immunologist isolates cell populations from a human lymph node. He identifies a group of T lymphocytes that express CD3 and CD4, but lack CCR7 and L-selectin expression. These cells are found to home preferentially to peripheral tissues rather than secondary lymphoid organs, providing rapid local cytokine production upon antigen challenge. These cells are best classified as which of the following?",
+    "a": [
+      "Naive helper T cells",
+      "Central memory T cells",
+      "Effector memory T cells",
+      "Classically activated macrophages",
+      "Natural Killer cells"
+    ],
+    "c": 2,
+    "l": "Effector memory T cells preferentially localize to peripheral tissues, lack lymphoid-homing receptors (CCR7, CD62L), and provide immediate local protection.",
+    "h": "Focus on the subtype of memory T cells that guards peripheral tissues and lacks lymphoid-homing markers."
+  },
+  {
+    "q": "A laboratory scientist studies the clearance of intracellular bacteria using an in vitro model. She observes that an infected macrophage is under severe metabolic stress because the intracellular pathogen is actively blocking the fusion of the phagosome with the lysosome. In a normal host, this macrophage will secrete a specific cytokine to signal naive helper T cells, leading to downstream production of IFN-gamma. Which cytokine does the stressed macrophage release to initiate this specific loop?",
+    "a": [
+      "IL-4",
+      "IL-5",
+      "IL-10",
+      "IL-12",
+      "IL-17"
+    ],
+    "c": 3,
+    "l": "When intracellular microbes resist phagocytic destruction, macrophages secrete IL-12, which binds to receptors on CD4+ T cells to induce differentiation and release of IFN-gamma.",
+    "h": "Identify the cytokine secreted by macrophages to induce a Th1 response during intracellular infection."
+  },
+  {
+    "q": "A 53-year-old male presenting with a chronic cough and weight loss is found to have a positive tuberculin skin test. A biopsy of a pulmonary nodule reveals extensive granulomatous inflammation containing classically activated macrophages (M1). Which of the following markers or secretor products would most characteristically confirm that these macrophages have been classically activated?",
+    "a": [
+      "High levels of IL-10 and TGF-beta",
+      "Upregulated production of ROS, nitric oxide, and IL-12",
+      "Secretions of growth factors for wound healing",
+      "Expression of IgE-specific Fc receptors",
+      "Upregulation of the FoxP3 transcription factor"
+    ],
+    "c": 1,
+    "l": "Classically activated macrophages (M1) are induced by PAMPs and IFN-gamma to secrete pro-inflammatory cytokines like IL-1, IL-12, and IL-23, and produce microbicidal ROS and NO.",
+    "h": "Consider the key pro-inflammatory cytokines and microbicidal molecules characteristically produced by M1 macrophages."
+  },
+  {
+    "q": "A medical student is constructing a summary table of helper T cell cross-regulation for his upcoming immunology exam. He wants to highlight the mechanism by which one helper T cell pathway can directly suppress another. Which of the following cytokines, secreted by the Th2 subset, acts to directly inhibit the differentiation and action of the pro-inflammatory Th1 subset?",
+    "a": [
+      "IL-2",
+      "IFN-gamma",
+      "IL-4",
+      "IL-12",
+      "IL-17"
+    ],
+    "c": 2,
+    "l": "The Th2 subset secretes IL-4 and IL-10, which act to cross-regulate and inhibit the development and effector actions of the Th1 subset.",
+    "h": "Identify the primary signature cytokine of the Th2 subset that suppresses Th1 development."
+  },
+  {
+    "q": "A 24-year-old female presents to the emergency department after being stung by a wasp. Within minutes, she develops diffuse urticaria and respiratory wheezing. This type I hypersensitivity reaction is initiated by IgE antibodies. Which T helper cell subset is directly responsible for promoting the class-switching of B cells to produce IgE?",
+    "a": [
+      "Th1 subset",
+      "Th2 subset",
+      "Th17 subset",
+      "Treg subset",
+      "M1 subset"
+    ],
+    "c": 1,
+    "l": "Th2 cells secrete cytokines like IL-4, which drive B cell immunoglobulin class-switching to IgE, a key component in parasite defense and type I hypersensitivity reactions.",
+    "h": "Recall the CD4+ T cell subset that produces IL-4 and handles humoral immunity and allergic responses."
+  },
+  {
+    "q": "An investigator is analyzing the cell surface phenotypes of various human lymphocytes. He isolates a unique population of cytotoxic cells that express the surface markers CD16 and CD56. These cells are found to participate in the innate immune response, kill virus-infected host cells without prior antigen exposure, and do not generate immunologic memory. Which of the following cells has the investigator isolated?",
+    "a": [
+      "CD8+ Cytotoxic T Lymphocytes",
+      "Natural Killer (NK) cells",
+      "Th17 cells",
+      "Dendritic cells",
+      "B lymphocytes"
+    ],
+    "c": 1,
+    "l": "Natural Killer (NK) cells are innate lymphocytes characterized by the surface expression of CD16 and CD56; they kill infected cells without prior exposure and do not generate memory.",
+    "h": "Look for the classic innate cytotoxic lymphocyte markers mentioned in the scenario."
+  },
+  {
+    "q": "A pathological study evaluates tissue samples from a patient with a severe parasitic infection caused by an intestinal helminth. The tissue demonstrates a pronounced infiltration of eosinophils actively engaged in destroying the parasite. Which of the following cytokines, specifically secreted by Th2 effector cells, is directly responsible for the recruitment and activation of these eosinophils?",
+    "a": [
+      "IL-2",
+      "IL-4",
+      "IL-5",
+      "IL-12",
+      "IFN-gamma"
+    ],
+    "c": 2,
+    "l": "Th2 effector cells secrete Interleukin-5 (IL-5), which specifically functions to activate and recruit eosinophils to sites of helminthic infections.",
+    "h": "Identify the specific helper T-cell cytokine that is classically linked to eosinophil growth and activation."
+  },
+  {
+    "q": "A clinical research team investigates a patient presenting with an unusual susceptibility to certain tumors and intracellular viral infections. Detailed analysis reveals that the patient's CD8+ T cells are structurally normal but fail to kill target cells. However, further testing shows that the patient's immune system can still destroy antibody-coated target cells using an alternative mechanism where NK cells and macrophages bind to the Fc region of the bound antibodies. What is this alternative cytotoxic mechanism called?",
+    "a": [
+      "Granulomatous hypersensitivity",
+      "Antibody-Dependent Cell-Mediated Cytotoxicity (ADCC)",
+      "Autocrine clonal selection",
+      "M2-driven tissue remodeling",
+      "Anergy induction"
+    ],
+    "c": 1,
+    "l": "Antibody-Dependent Cell-Mediated Cytotoxicity (ADCC) is a process where effector cells (like NK cells, macrophages, or eosinophils) bind via their Fc receptors to antibodies bound to a target cell, triggering target lysis.",
+    "h": "Identify the process where immune cells destroy an active target cell that has been pre-coated with IgG or IgE antibodies."
+  },
+  {
+    "q": "A 28-year-old male is participating in an immunology trial. He is exposed to a novel viral antigen. Two weeks later, investigators isolate his memory T lymphocytes from his secondary lymphoid organs. They discover that these cells express the surface markers CCR7 and L-selectin (CD62L). Even though these cells lack immediate effector functions, they proliferate rapidly and differentiate into active effector cells upon re-encountering the antigen. Which cell type is this?",
+    "a": [
+      "Effector memory T cells",
+      "Central memory T cells",
+      "Naive helper T cells",
+      "Classically activated monocytes",
+      "Plasma cells"
+    ],
+    "c": 1,
+    "l": "Central memory T cells preferentially reside in secondary lymphoid organs, express CCR7 and CD62L, and mount powerful recall responses by rapidly proliferating and differentiating into effectors.",
+    "h": "Focus on the specific class of memory T cells that returns to the secondary lymphoid organs to wait for a recall response."
+  },
+  {
+    "q": "A pediatric patient presents with a severe skin infection characterized by multiple pustules and abscesses. Genetic testing reveals a complete deletion of the master transcription factor RORgammat. Due to this mutation, the child's immune system fails to recruit neutrophils to the site of extracellular microbial invasion. This presentation is most consistent with a total deficiency in which of the following cell types?",
+    "a": [
+      "Th1 cells",
+      "Th2 cells",
+      "Th17 cells",
+      "Regulatory T cells",
+      "Natural Killer cells"
+    ],
+    "c": 2,
+    "l": "Th17 cell differentiation requires the master transcription factor RORgammat. These cells function to recruit neutrophils to defend against extracellular bacteria and fungi.",
+    "h": "Connect the master transcription factor RORgammat directly to its corresponding helper T-cell subset."
+  },
+  {
+    "q": "An experimental model evaluates the functional differences between branches of cell-mediated cytotoxicity. Investigators introduce a viral pathogen into a culture of host cells. Some of these virus-infected cells attempt to evade immune detection by completely downregulating their surface expression of MHC Class I molecules. Which of the following immune cells will recognize this 'missing self' phenotype and execute targeted lysis of these evasive cells?",
+    "a": [
+      "CD4+ Th1 lymphocytes",
+      "CD8+ Cytotoxic T Lymphocytes",
+      "Natural Killer (NK) cells",
+      "B lymphocytes",
+      "Alternatively activated M2 macrophages"
+    ],
+    "c": 2,
+    "l": "NK cells use inhibitory receptors that recognize self MHC Class I. If a virus or tumor downregulates MHC Class I expression ('missing self'), the inhibitory signal is lost, activating the NK cell to destroy the target cell.",
+    "h": "Identify the innate cytotoxic cell type that kills host cells when it notices a complete lack or downregulation of MHC Class I."
+  },
+  {
+    "q": "A 30-year-old medical resident is reviewing the life cycle of adaptive immunity. He notes that after naive T lymphocytes recognize their specific antigens displayed on dendritic cells within the lymph node paracortex, they undergo extensive clonal expansion and differentiation. Following these steps, where do the majority of the newly generated differentiated effector T cells migrate to perform their protective functions?",
+    "a": [
+      "They remain permanently in the lymphoid follicles",
+      "They enter the circulation and travel to the site of infection",
+      "They migrate immediately to the bone marrow for storage",
+      "They undergo mandatory apoptosis within the spleen",
+      "They convert into professional antigen-presenting cells"
+    ],
+    "c": 1,
+    "l": "Following proliferation and differentiation in secondary lymphoid organs, effector T cells leave the lymph node via efferent lymphatics, enter the circulation, and migrate to peripheral sites of infection.",
+    "h": "Think about where effector T cells need to go to fight active foreign pathogens in peripheral tissues."
+  },
+  {
+    "q": "A researcher treats a culture of naive T helper cells ($Th0$) with a combination of Interleukin-6 (IL-6) and Tissue Growth Factor-beta (TGF-beta). This specific cytokine milieu stimulates the expression of a key transcription factor, guiding the differentiation of these cells into a distinct functional subset. Which cytokine will these newly differentiated effector T cells characteristically secrete?",
+    "a": [
+      "IFN-gamma",
+      "IL-4",
+      "IL-17",
+      "IL-10",
+      "IL-2"
+    ],
+    "c": 2,
+    "l": "IL-6 and TGF-beta induce the differentiation of naive CD4+ T cells into the Th17 subset, which characteristically secretes Interleukin-17 (IL-17).",
+    "h": "Identify the signature effector cytokine produced by the T-cell subset that is induced by IL-6 and TGF-beta."
+  },
+  {
+    "q": "A 44-year-old male is diagnosed with an infection caused by a facultative intracellular pathogen. Effector CD8+ Cytotoxic T Lymphocytes are deployed to destroy the infected host cells. The CTLs anchor firmly to the targets and execute a mechanism of cell-surface destruction mediated by the binding of a specific inducible T-cell surface ligand to a death receptor on the target cell. Which of the following pairs of molecules drives this specific apoptotic pathway?",
+    "a": [
+      "CD28 and B7-1",
+      "FasL and Fas",
+      "LFA-1 and ICAM-1",
+      "CD40L and CD40",
+      "CTLA-4 and B7-2"
+    ],
+    "c": 1,
+    "l": "In addition to perforin/granzyme exocytosis, activated CTLs express Fas Ligand (FasL), which binds to the Fas death receptor on target cells to directly activate the caspase cascade and induce apoptosis.",
+    "h": "Look for the classic ligand-receptor pair responsible for the extrinsic pathway of programmed cell death (apoptosis)."
+  },
+  {
+    "q": "A patient with a chronic parasitic worm infection shows a high concentration of alternatively activated macrophages (M2) in a tissue biopsy. Instead of driving inflammation and microbicidal destruction, these M2 cells are working actively to limit tissue damage, promote fibrosis, and initiate matrix remodeling. Which of the following combinations of substances is characteristically secreted by these M2 macrophages?",
+    "a": [
+      "ROS, nitric oxide, and lysosomal enzymes",
+      "IL-1, IL-12, and IL-23",
+      "Growth factors and TGF-beta",
+      "Perforin and granzymes",
+      "IFN-gamma and Interleukin-2"
+    ],
+    "c": 2,
+    "l": "Alternatively activated macrophages (M2) are induced by IL-4 and IL-13 and function primarily in tissue repair, resolution of inflammation, and fibrosis by secreting growth factors and TGF-beta.",
+    "h": "Identify the molecules that promote wound healing, fibrosis, and tissue repair rather than microbicidal destruction."
+  },
+  {
+    "q": "A 19-year-old male is infected with a strain of Herpes Simplex Virus (HSV). The virus attempts to remain completely hidden from adaptive cytotoxic detection inside host cells. To achieve this, the virus synthesizes a specialized peptide that binds to and directly interferes with the TAP (Transporter associated with antigen processing) protein complex. This viral evasion tactic will directly inhibit which of the following cellular processes?",
+    "a": [
+      "The secretion of IL-2 from naive helper T cells",
+      "The processing and presentation of cytosolic antigens on MHC Class I",
+      "The activation of alternative M2 macrophages",
+      "The class-switching of B cells to IgE",
+      "The binding of LFA-1 to ICAM-1"
+    ],
+    "c": 1,
+    "l": "HSV evades the immune system by producing a peptide that blocks the TAP transporter, which prevents the translocation of cytosolic viral peptides into the ER, halting MHC Class I antigen presentation.",
+    "h": "Consider the exact role of the TAP transporter in cellular antigen processing and presentation."
+  },
+  {
+    "q": "An experimental model of viral infection evaluates the survival strategies of Cytomegalovirus (CMV). Investigators observe that CMV uses a multi-tiered strategy to completely neutralize host adaptive cell-mediated defenses. Specifically, CMV actively removes newly synthesized MHC Class I molecules from the endoplasmic reticulum. To prevent immediate destruction by host innate defenses due to this loss of MHC Class I, what does CMV do?",
+    "a": [
+      "It completely downregulates all cell-surface activating ligands",
+      "It encodes a viral 'decoy' molecule that resembles MHC Class I to block NK cell attack",
+      "It secretes high concentrations of pro-inflammatory IL-12",
+      "It upregulates the transcription factor T-bet in host cells",
+      "It triggers immediate autocrine clonal expansion of Tregs"
+    ],
+    "c": 1,
+    "l": "CMV downregulates MHC Class I expression to escape CD8+ CTLs, but to prevent being killed by NK cells (which scan for missing MHC I), it encodes a viral MHC Class I decoy protein to engage NK inhibitory receptors.",
+    "h": "Think of how a virus can fool an NK cell's inhibitory receptors when real MHC Class I molecules are missing."
+  },
+  {
+    "q": "A 32-year-old female presents with an infection caused by an obligate intracellular pathogen. Her immune system initiates a cell-mediated response. During the initial antigen recognition stage in a regional lymph node, the naive T helper cell's CD4 coreceptor binds specifically to a ligand on the dendritic cell. Which of the following molecules serves as the specific binding site for this CD4 coreceptor?",
+    "a": [
+      "MHC Class I molecule nonpolymorphic region",
+      "MHC Class II molecule nonpolymorphic region",
+      "B7-1 costimulator",
+      "ICAM-1 adhesion molecule",
+      "T-cell receptor (TCR) alpha chain"
+    ],
+    "c": 1,
+    "l": "The CD4 coreceptor on helper T cells binds specifically to the invariant, nonpolymorphic regions of MHC Class II molecules, stabilizing the interaction during antigen recognition.",
+    "h": "Match the CD4 coreceptor to its corresponding class of MHC molecule on the APC surface."
+  },
+  {
+    "q": "An experimental drug is developed to block the development of allergic diseases. The drug works by binding to a specific transcription factor and completely halting the differentiation of naive T cells into the helper subset that secretes IL-4 and IL-5. Which master transcription factor is this drug targeting?",
+    "a": [
+      "T-bet",
+      "GATA3",
+      "RORgammat",
+      "FoxP3",
+      "CD3"
+    ],
+    "c": 1,
+    "l": "GATA3 is the master transcription factor required for the differentiation of naive CD4+ T cells into the Th2 effector subset, which secretes IL-4, IL-5, and IL-13.",
+    "h": "Recall the master transcription factor that regulates the Th2 lineage."
+  },
+  {
+    "q": "A 21-year-old male is exposed to an extracellular fungus. The host immune system reacts by expanding a population of Th17 helper cells. These Th17 cells migrate to the barrier tissue and release their signature cytokines to clear the pathogen. Which of the following responses is the primary downstream function driven by these Th17 cytokines?",
+    "a": [
+      "Classical activation of M1 macrophages to generate nitric oxide",
+      "Recruitment of neutrophils to drive localized extracellular inflammation",
+      "Activation of eosinophils to execute helminthic destruction",
+      "Suppression of self-reactive lymphocytes to prevent autoimmunity",
+      "Direct cell death via exocytosis of perforin and granzymes"
+    ],
+    "c": 1,
+    "l": "The primary function of the Th17 subset is to protect against extracellular bacteria and fungi by recruiting neutrophils through the secretion of cytokines like IL-17.",
+    "h": "Think of the specific leukocyte type that is strongly recruited by Th17 effector cells to clear fungi."
+  },
+  {
+    "q": "A molecular biologist modifies a line of professional antigen-presenting cells so that they are completely incapable of undergoing activation or expressing costimulators when exposed to microbial PAMPs. If these modified APCs attempt to present an antigen to a naive T lymphocyte, which of the following outcomes will most likely occur?",
+    "a": [
+      "The naive T cell will proliferate excessively via autocrine IL-2",
+      "The naive T cell will fail to activate and may enter a state of non-responsiveness (anergy)",
+      "The naive T cell will differentiate immediately into a functional Th17 cell",
+      "The APC will undergo immediate apoptosis mediated by FasL",
+      "The T cell will switch its coreceptor expression from CD4 to CD8"
+    ],
+    "c": 1,
+    "l": "If a naive T cell recognizes an antigen displayed on an APC but does not receive costimulatory signals (like CD28-B7 binding), it will fail to activate and can become functionally anergic.",
+    "h": "Consider what happens to a naive T cell when Signal 1 is present but Signal 2 (costimulation) is missing."
+  },
+  {
+    "q": "A pathological review of a chronic granuloma from a patient with a long-standing intracellular infection reveals a high level of cross-regulation between different lymphocyte families. The investigators note that the high concentration of Interferon-gamma (IFN-gamma) present in the microenvironment is actively suppressing another helper branch. Which helper T cell subset's differentiation is directly inhibited by IFN-gamma?",
+    "a": [
+      "Th1 subset",
+      "Th2 subset",
+      "Th17 subset",
+      "Treg subset",
+      "M1 subset"
+    ],
+    "c": 1,
+    "l": "Interferon-gamma (IFN-gamma), produced by Th1 cells, acts as a cross-regulatory signal that directly inhibits the proliferation and differentiation of Th2 cells.",
+    "h": "Identify the helper T-cell subset whose development is suppressed by the signature Th1 cytokine, IFN-gamma."
+  },
+  {
+    "q": "A researcher isolates a group of professional antigen-presenting cells from the peripheral blood. Among them, she identifies a unique subset that does not require any prior activation or exposure to PAMPs to successfully present protein antigens to naive T lymphocytes. Which of the following APCs matches this description?",
+    "a": [
+      "Macrophages",
+      "B lymphocytes",
+      "Dendritic cells",
+      "Eosinophils",
+      "Neutrophils"
+    ],
+    "c": 2,
+    "l": "Dendritic cells are the most potent professional antigen-presenting cells and are uniquely capable of presenting antigen to and activating naive T cells without requiring prior activation.",
+    "h": "Identify the primary professional APC that can activate naive T cells without needing to be pre-activated itself."
+  },
+  {
+    "q": "A 36-year-old male with an advanced tumor is being treated with a new experimental agent that blocks inhibitory pathways within the secondary lymphoid organs. The agent binds specifically to a cell surface receptor containing an inhibitory motif that normally recognizes the ligands PD-L1 and PD-L2. Which receptor is this drug targeting?",
+    "a": [
+      "CD28",
+      "CTLA-4",
+      "PD-1",
+      "CD40",
+      "LFA-1"
+    ],
+    "c": 2,
+    "l": "PD-1 is an essential inhibitory receptor expressed on activated T cells that contains an inhibitory motif and recognizes two structurally related ligands, PD-L1 and PD-L2.",
+    "h": "Identify the T-cell coinhibitory molecule that pairs with the PD-L1 and PD-L2 ligands."
+  }
+]
   }
 }
