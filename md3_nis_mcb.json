@@ -5,8 +5,15 @@
     "title": "🧠 NIS MICRO",
     "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
   },
-  "sections": [
-  
+"sections": [
+    {
+      "id": "neuro-high-yield",
+      "title": "",
+      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+      "topics": [
+       
+      ]
+    }
   ],
   "quizzes": {
     "immunity_and_immune_system": [
