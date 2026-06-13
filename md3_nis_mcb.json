@@ -1440,602 +1440,298 @@
 ],
     "1_immunity_and_immune_system": [
   {
-    "q": "A 4-year-old boy presents to the clinic with an acute laceration on his knee after falling on the playground. Within minutes, localized physiological mechanisms are activated at the site of tissue injury to prevent the entry and systemic spread of pathogens. This initial defense strategy is best categorized under which of the following arms of immunity?",
-    "a": [
-      "Adaptive immunity",
-      "Cell-mediated immunity",
-      "Humoral immunity",
-      "Innate immunity",
-      "Passive immunity"
-    ],
+    "q": "Which immunity is immediate and non-specific?",
+    "a": ["Adaptive", "Humoral", "Cell-mediated", "Innate", "Passive"],
     "c": 3,
-    "l": "Innate immunity (also known as natural or native immunity) provides immediate protection against microbial invasion, serving as the body's first line of defense before adaptive immunity develops.",
-    "h": "Immediate antimicrobial defense"
+    "l": "Innate immunity provides immediate non-specific protection.",
+    "h": "Immediate defense"
   },
   {
-    "q": "A medical student is preparing a presentation comparing the functional arms of the human immune system. She defines the core concept of immunity to emphasize its evolutionary importance in host survival. Which of the following statements provides the most accurate definition of immunity?",
-    "a": [
-      "The collection of cells, tissues, and molecules that mediate responses against tumors",
-      "The specific process by which B lymphocytes undergo somatic hypermutation",
-      "The body's resistance to diseases, particularly infectious diseases",
-      "The automatic destruction of self-reactive lymphocytes in primary lymphoid organs",
-      "The non-specific production of acute-phase reactants by hepatocytes"
-    ],
+    "q": "What is immunity?",
+    "a": ["Inflammation", "Resistance to disease", "Antibody production", "Tolerance", "Memory"],
+    "c": 1,
+    "l": "Immunity is resistance to diseases.",
+    "h": "Disease resistance"
+  },
+  {
+    "q": "What is the immune system?",
+    "a": ["Only lymphocytes", "Only antibodies", "Cells, tissues and molecules that resist infection", "Only organs", "Only cytokines"],
     "c": 2,
-    "l": "Immunity is fundamentally defined as the state of resistance to diseases, particularly infectious diseases.",
-    "h": "Definition of immunity"
+    "l": "The immune system mediates resistance to infections.",
+    "h": "Defense network"
   },
   {
-    "q": "An investigator is writing a textbook chapter on basic immunology. He wants to clearly delineate the host framework responsible for preventing and eradicating infections. Which of the following best describes the structural and functional definition of the immune system?",
-    "a": [
-      "An isolated group of primary lymphoid organs responsible for the destruction of foreign particles",
-      "The collection of cells, tissues, and molecules that mediate resistance to infections",
-      "A circulating network composed strictly of immunoglobulins and complement proteins",
-      "The systemic vascular structures that facilitate the marginating and rolling of red blood cells",
-      "The protective epithelial barriers of the skin and mucous membranes working independently"
-    ],
+    "q": "Which immunity develops slowly and is highly specific?",
+    "a": ["Innate", "Adaptive", "Passive", "Natural", "Barrier"],
     "c": 1,
-    "l": "The immune system is defined as the coordinated collection of cells, tissues, and molecules that mediate resistance to infections.",
-    "h": "Immune system definition"
+    "l": "Adaptive immunity develops slowly and is highly specific.",
+    "h": "Specific defense"
   },
   {
-    "q": "A 28-year-old male accidentally steps on a rusted nail while working outdoors. Within an hour, neutrophils, macrophages, and alternative pathway complement proteins actively engage invading bacteria at the site of injury. Which of the following characteristics best describes this initial defense mechanism?",
-    "a": [
-      "It requires clonal expansion of specialized lymphocytes over several days",
-      "It provides immediate protection against microbial invasion",
-      "It relies exclusively on the production of high-affinity IgG antibodies",
-      "It undergoes affinity maturation upon repeated exposures to the same pathogen",
-      "It is mediated primarily by CD4+ helper T cells reading MHC class II molecules"
-    ],
-    "c": 1,
-    "l": "Innate, natural, or native immunity acts as the first line of defense, providing immediate protection against microbial invasion.",
-    "h": "Innate immunity characteristics"
-  },
-  {
-    "q": "A 14-year-old girl is exposed to a classmate with varicella-zoster virus. While her innate immune system responds immediately, her body simultaneously initiates a highly specific, long-term protective response that takes days to weeks to mature. Which of the following best characterizes this secondary arm of defense?",
-    "a": [
-      "It provides immediate, non-specific clearing via lysozyme secretion",
-      "It is mediated solely by pattern recognition receptors recognizing PAMPs",
-      "It develops more slowly and provides a more specialized defense against infections",
-      "It relies on preformed defensins to disrupt microbial membranes within hours",
-      "It is independent of antigen presentation or primary lymphoid organ education"
-    ],
+    "q": "Which cells mediate cell-mediated immunity?",
+    "a": ["B cells", "Neutrophils", "T lymphocytes", "Macrophages", "NK cells"],
     "c": 2,
-    "l": "Adaptive immunity develops more slowly than innate immunity but provides a highly specialized and potent defense against specific infections.",
-    "h": "Adaptive immunity characteristics"
+    "l": "Cell-mediated immunity is mediated by T lymphocytes.",
+    "h": "T cells"
   },
   {
-    "q": "A 30-year-old female is evaluated for an active intracellular viral infection. Her immune system utilizes two distinct arms of adaptive immunity to clear the pathogen and neutralize free viral particles. Which of the following pairs correctly matches the two types of adaptive immunity with their primary cellular mediators?",
-    "a": [
-      "Cell-mediated (B lymphocytes) and Humoral (T lymphocytes)",
-      "Cell-mediated (Neutrophils) and Humoral (Macrophages)",
-      "Cell-mediated (T lymphocytes) and Humoral (B lymphocytes)",
-      "Cell-mediated (Dendritic cells) and Humoral (Natural Killer cells)",
-      "Cell-mediated (Mast cells) and Humoral (Plasma cells)"
-    ],
+    "q": "Which cells mediate humoral immunity?",
+    "a": ["Macrophages", "Neutrophils", "B lymphocytes", "NK cells", "Dendritic cells"],
     "c": 2,
-    "l": "Adaptive immunity consists of two types: cell-mediated immunity (mediated by T lymphocytes) and humoral immunity (mediated by B lymphocytes).",
-    "h": "Types of adaptive immunity"
+    "l": "Humoral immunity is mediated by B lymphocytes.",
+    "h": "B cells"
   },
   {
-    "q": "A biopsy of an acutely inflamed subcutaneous tissue sample is examined under a microscope. The tissue is flooded with cell types belonging purely to the cellular component of the innate immune system. Which of the following groups of cells represents cellular components of innate immunity?",
-    "a": [
-      "B lymphocytes, T lymphocytes, and Plasma cells",
-      "Neutrophils, macrophages, and dendritic cells",
-      "Helper T cells, Cytotoxic T cells, and Memory B cells",
-      "Erythrocytes, Megakaryocytes, and Endothelial cells",
-      "Plasma cells, Follicular dendritic cells, and Lymphoblasts"
-    ],
-    "c": 1,
-    "l": "The cellular components of the innate immune system include phagocytes and antigen-presenting cells such as neutrophils, macrophages, and dendritic cells.",
-    "h": "Innate immune cells"
-  },
-  {
-    "q": "An experimental model evaluates the early chemical and cellular defenses of a host animal within the first 6 hours of a bacterial inoculation. Which of the following sets of features and molecules is exclusively associated with this innate immune response?",
-    "a": [
-      "Highly specific clonal selection, V(D)J recombination, and IgG production",
-      "Non-specific, immediately active, lysozyme, complements, defensins, and toll-like receptors",
-      "T-cell receptor activation, somatic hypermutation, and isotype switching",
-      "MHC Class II restriction, memory cell generation, and IgA secretion",
-      "B-cell receptor affinity maturation and plasma cell differentiation"
-    ],
-    "c": 1,
-    "l": "Innate immunity features non-specific, immediate responses mediated by chemical and cellular barriers such as lysozyme, complement proteins, defensins, and toll-like receptors (TLRs).",
-    "h": "Innate immunity features"
-  },
-  {
-    "q": "A 5-year-old child receives a booster vaccine. Over the next two weeks, his immune system mounts a highly specific response tailored precisely to the vaccine antigens, characterized by lymphocyte proliferation and antibody secretion. Which of the following combinations of mediators is responsible for these adaptive features?",
-    "a": [
-      "Neutrophils, Macrophages, and Lysozyme",
-      "Complement proteins, Toll-like receptors, and Defensins",
-      "T and B lymphocytes, high specificity, and Immunoglobulins secreted by B cells",
-      "Dendritic cells, ssRNA, and Pathogen-Associated Molecular Patterns",
-      "Natural Killer cells, Interferon alpha, and Interferon beta"
-    ],
+    "q": "Which is an innate immune cell?",
+    "a": ["B cell", "T cell", "Neutrophil", "Plasma cell", "Memory cell"],
     "c": 2,
-    "l": "Adaptive immunity is characterized by T and B lymphocytes, exquisite antigenic specificity, and the production of highly specialized immunoglobulins (antibodies) by B-cell-derived plasma cells.",
-    "h": "Adaptive immune mediators"
+    "l": "Neutrophils are major innate immune cells.",
+    "h": "Innate cell"
   },
   {
-    "q": "An in vitro study examines how macrophages recognize invading bacterial pathogens. The cells successfully identify conserved, invariant microbial structures using specialized surface receptors. Which of the following targets does the innate immune system recognize to initiate this defensive response?",
-    "a": [
-      "Highly variable idiotypes via T-cell receptors",
-      "Pathogen-Associated Molecular Patterns (PAMPs) via Pattern Recognition Receptors (PRRs)",
-      "MHC Class I molecules displaying mutated self-peptides",
-      "Hypervariable loops located on secretory IgA dimeric complexes",
-      "Fab fragments derived from circulating host immunoglobulins"
-    ],
-    "c": 1,
-    "l": "The innate immune system recognizes Pathogen-Associated Molecular Patterns (PAMPs) using hardwired host Pattern Recognition Receptors (PRRs).",
-    "h": "Innate pathogen recognition"
-  },
-  {
-    "q": "A laboratory technician isolates mature lymphocytes from a healthy donor and exposes them to an antigen. The cells bind the antigen with extreme specificity using highly variable surface membrane receptors. Which of the following pairs of molecules represents the primary antigen recognition receptors of adaptive immunity?",
-    "a": [
-      "Toll-like receptors (TLRs) and Pathogen-Associated Molecular Patterns (PAMPs)",
-      "B cell Receptors (BCR) and T Cell Receptors (TCR)",
-      "Complement component C3b and Fc-gamma receptors",
-      "Lysozyme and Defensins",
-      "Scavenger receptors and Mannose-binding lectins"
-    ],
-    "c": 1,
-    "l": "The adaptive immune system achieves high target specificity through the expression of B-cell receptors (BCRs) and T-cell receptors (TCRs).",
-    "h": "Adaptive immune receptors"
-  },
-  {
-    "q": "A molecular biology laboratory isolates a family of germline-encoded host receptors expressed on macrophages, dendritic cells, and barrier epithelia. These receptors function specifically to sense the presence of microbial invaders by binding to conserved pathogen structures. Which of the following general terms best describes this class of innate immune receptors?",
-    "a": [
-      "B-cell receptors (BCRs)",
-      "T-cell receptors (TCRs)",
-      "Pattern Recognition Receptors (PRRs)",
-      "Major Histocompatibility Complex (MHC) proteins",
-      "Fc receptors"
-    ],
+    "q": "Which receptor type is used by innate immunity?",
+    "a": ["BCR", "TCR", "PRR", "MHC", "FcR"],
     "c": 2,
-    "l": "Pattern Recognition Receptors (PRRs) are germline-encoded host receptors that recognize conserved microbial structures known as PAMPs.",
-    "h": "Pattern Recognition Receptors"
+    "l": "Innate immunity uses pattern recognition receptors (PRRs).",
+    "h": "PRR"
   },
   {
-    "q": "A biopsy of the skin from a patient with a localized Gram-positive bacterial infection shows marked activation of resident dendritic cells. Molecular analysis demonstrates that this activation was initiated when host cell surface receptors bound to bacterial cell wall peptidoglycans. Which of the following Pattern Recognition Receptors is specifically responsible for sensing this Gram-positive microbial component?",
-    "a": [
-      "TLR-3",
-      "TLR-4",
-      "TLR-5",
-      "TLR-2",
-      "TLR-7"
-    ],
+    "q": "What does PAMP stand for?",
+    "a": ["Pathogen-associated molecular patterns", "Protein antigen marker pathway", "Primary adaptive molecular pattern", "Phagocyte activation marker protein", "Pattern adaptive memory protein"],
+    "c": 0,
+    "l": "PAMPs are pathogen-associated molecular patterns.",
+    "h": "Microbial patterns"
+  },
+  {
+    "q": "Which receptors are used by adaptive immunity?",
+    "a": ["TLRs", "PRRs", "BCR and TCR", "FcRs", "Complement receptors"],
+    "c": 2,
+    "l": "Adaptive immunity uses BCRs and TCRs.",
+    "h": "Specific receptors"
+  },
+  {
+    "q": "What does PRR stand for?",
+    "a": ["Pattern recognition receptor", "Primary response receptor", "Phagocyte response regulator", "Pathogen recognition response", "Protein recognition receptor"],
+    "c": 0,
+    "l": "PRR stands for pattern recognition receptor.",
+    "h": "Pattern receptor"
+  },
+  {
+    "q": "TLR-2 recognizes which structure?",
+    "a": ["LPS", "Flagellin", "Peptidoglycan", "ssRNA", "dsRNA"],
+    "c": 2,
+    "l": "TLR-2 recognizes peptidoglycan from Gram-positive bacteria.",
+    "h": "Gram positive"
+  },
+  {
+    "q": "TLR-4 recognizes which structure?",
+    "a": ["Peptidoglycan", "Flagellin", "LPS", "ssRNA", "dsRNA"],
+    "c": 2,
+    "l": "TLR-4 recognizes LPS from Gram-negative bacteria.",
+    "h": "LPS"
+  },
+  {
+    "q": "TLR-5 recognizes?",
+    "a": ["LPS", "Flagellin", "Peptidoglycan", "ssRNA", "dsRNA"],
+    "c": 1,
+    "l": "TLR-5 recognizes bacterial flagellin.",
+    "h": "Flagella"
+  },
+  {
+    "q": "TLR-7 and TLR-8 recognize?",
+    "a": ["dsRNA", "LPS", "Flagellin", "ssRNA", "Peptidoglycan"],
     "c": 3,
-    "l": "Toll-like Receptor 2 (TLR-2) recognizes peptidoglycan, a major cell wall component of Gram-positive bacteria.",
-    "h": "Peptidoglycan recognition receptor"
+    "l": "TLR-7 and TLR-8 recognize viral ssRNA.",
+    "h": "ssRNA"
   },
   {
-    "q": "A 42-year-old male develops severe endotoxemia and septic shock due to a fulminant Gram-negative bacterial infection. The intense systemic inflammatory cascade is triggered when bacterial lipopolysaccharide (LPS) binds to a specific host toll-like receptor. Which of the following receptors is responsible for binding LPS?",
-    "a": [
-      "TLR-2",
-      "TLR-3",
-      "TLR-4",
-      "TLR-5",
-      "TLR-8"
-    ],
-    "c": 2,
-    "l": "Toll-like Receptor 4 (TLR-4) specifically recognizes and binds lipopolysaccharide (LPS), an endotoxin found in the outer membrane of Gram-negative bacteria.",
-    "h": "LPS recognition receptor"
-  },
-  {
-    "q": "A researcher constructs a mutant strain of motile bacteria that lacks functional flagella. When these mutant bacteria are introduced to a culture of wild-type macrophages, the host cells exhibit a significantly blunted innate immune response compared to when they are exposed to the motile wild-type strain. Which of the following Toll-like receptors was failured to activate by this mutant bacterial strain?",
-    "a": [
-      "TLR-2",
-      "TLR-3",
-      "TLR-4",
-      "TLR-5",
-      "TLR-7"
-    ],
-    "c": 3,
-    "l": "Toll-like Receptor 5 (TLR-5) specifically recognizes flagellin, the principal protein component of bacterial flagella.",
-    "h": "Flagellin recognition receptor"
-  },
-  {
-    "q": "An experimental model evaluates host endosomal responses to an infection by an enveloped single-stranded RNA (ssRNA) virus. Within the endosomes of plasmacytoid dendritic cells, specific pattern recognition receptors bind the viral nucleic acids, triggering an immediate antiviral signaling pathway. Which of the following Toll-like receptors mediates this response?",
-    "a": [
-      "TLR-2",
-      "TLR-4",
-      "TLR-5",
-      "TLR-3",
-      "TLR-7/8"
-    ],
+    "q": "TLR-3 recognizes?",
+    "a": ["ssRNA", "Flagellin", "LPS", "Peptidoglycan", "dsRNA"],
     "c": 4,
-    "l": "Toll-like Receptors 7 and 8 (TLR-7/8) are located within endosomes and specifically recognize single-stranded RNA (ssRNA), a common viral genetic material.",
-    "h": "ssRNA recognition receptor"
+    "l": "TLR-3 recognizes viral dsRNA.",
+    "h": "dsRNA"
   },
   {
-    "q": "A 6-year-old boy contracts a viral infection characterized by intracellular replication that produces double-stranded RNA (dsRNA) intermediates. Endosomal receptors within his host cells detect these dsRNA structures to activate Type I Interferon production. Which of the following Toll-like receptors is responsible for detecting dsRNA?",
-    "a": [
-      "TLR-2",
-      "TLR-3",
-      "TLR-4",
-      "TLR-5",
-      "TLR-7"
-    ],
-    "c": 1,
-    "l": "Toll-like Receptor 3 (TLR-3) is specialized in recognizing double-stranded RNA (dsRNA), which serves as a marker for many viral infections.",
-    "h": "dsRNA recognition receptor"
-  },
-  {
-    "q": "Ligand binding to Toll-like receptors activates an intracellular signaling cascade that culminates in the translocation of a key transcription factor from the cytoplasm into the nucleus. This transcription factor then drives the expression of numerous pro-inflammatory genes. Which of the following molecules matches this description?",
-    "a": [
-      "PECAM-1",
-      "Sialyl-Lewis X",
-      "NF-kB",
-      "Transferrin",
-      "Lactoferrin"
-    ],
-    "c": 2,
-    "l": "NF-kB (Nuclear Factor kappa-light-chain-enhancer of activated B cells) is a major downstream transcription factor activated by PRR signaling.",
-    "h": "Inflammatory transcription factor"
-  },
-  {
-    "q": "A molecular biology study investigates the central controllers of the host defense response. Researchers identify an ancient, highly conserved transcription factor complex that acts as a master switch, regulating the transcription of genes necessary for both immediate non-specific defenses and long-term adaptive immunity. Which of the following factors is being studied?",
-    "a": [
-      "Myeloperoxidase",
-      "NF-kB",
-      "CD18 integrin",
-      "PECAM-1",
-      "Histamine"
-    ],
-    "c": 1,
-    "l": "NF-kB is a major transcription factor that regulates a vast array of genes driving the immune response.",
-    "h": "Master immune regulator"
-  },
-  {
-    "q": "An experimental knockout mouse model completely lacks functional NF-kB. When exposed to pathogens, these mice demonstrate a profound failure to produce inflammatory cytokines and a simultaneous defect in antigen-specific lymphocyte proliferation. Which of the following statements best explains these concurrent deficits?",
-    "a": [
-      "NF-kB is responsible exclusively for the somatic hypermutation of immunoglobulins",
-      "NF-kB is a major transcription factor responsible for both innate (cytokine expression) and adaptive immune responses (B and T cell pathways)",
-      "NF-kB regulates the expression of selectins but has no downstream nuclear effects",
-      "NF-kB acts only within primary lymphoid organs to delete self-reactive clones",
-      "NF-kB serves as a membrane receptor for bacterial flagellin proteins"
-    ],
-    "c": 1,
-    "l": "NF-kB is responsible for both innate immune responses (such as the expression of pro-inflammatory cytokines) and adaptive immune responses (modulating B-cell and T-cell activation and survival).",
-    "h": "NF-kB global immune roles"
-  },
-  {
-    "q": "A 19-year-old male is studying host defense mechanisms. He wants to catalog the physical and chemical barriers that prevent microorganisms from crossing epithelial surfaces and colonizing tissues. Which of the following groups represents components of these baseline epithelial/surface defenses?",
-    "a": [
-      "T-cell receptors, B-cell receptors, and IgG",
-      "Skin, lysozyme in tears, respiratory cilia, surface phagocytes, defensins, and normal microbiota",
-      "Lymph nodes, spleen, paracortex, and marginal zones",
-      "Bone marrow, thymus, and secondary follicles",
-      "Interferon alpha, interferon beta, and inflammasomes"
-    ],
-    "c": 1,
-    "l": "Baseline physical and chemical barriers include the skin, lysozyme (found in tears), respiratory cilia, surface phagocytes, defensins, and the protective normal microbiota.",
-    "h": "Epithelial and chemical barriers"
-  },
-  {
-    "q": "A 31-year-old male is infected with a respiratory virus. His body utilizes several innate defense mechanisms to limit viral replication and microenvironment bacterial growth without relying on prior antigen exposure. Which of the following combinations represents innate factors that limit the growth of microbes in the body?",
-    "a": [
-      "T-cell receptors, B-cell receptors, IgA, IgG, and IgM",
-      "NK cells, neutrophils, macrophages, IFN alpha/beta, iron-binding proteins (transferrin/lactoferrin/ferritin), fever, and the inflammasome",
-      "Bone marrow, thymus, lymph nodes, and mucosal-associated lymphoid tissue",
-      "CD18 integrins, ICAM-1, VCAM-1, and PECAM-1",
-      "Sialyl-Lewis X, E-selectin, P-selectin, and CD31"
-    ],
-    "c": 1,
-    "l": "Innate factors that limit microbial growth include NK cells (killing virus-infected cells), neutrophils and macrophages (phagocytosis), IFN alpha/beta (eliminating viruses), iron-binding proteins (transferrin/lactoferrin/ferritin), fever, and the inflammasome complex.",
-    "h": "Innate growth-limiting factors"
-  },
-  {
-    "q": "A dendritic cell in the skin captures an exogenous protein antigen from an invading bacterium, internalizes it, processes it into small peptide fragments, and migrates to a local lymph node. There, it displays the peptide on its cell surface bound to an MHC molecule to activate naive helper T cells. Which of the following terms best describes the role of this dendritic cell?",
-    "a": [
-      "Cytotoxic T lymphocyte",
-      "Natural Killer cell",
-      "Antigen Presenting Cell (APC)",
-      "Plasma cell",
-      "Mast cell"
-    ],
-    "c": 2,
-    "l": "An Antigen Presenting Cell (APC) captures foreign invaders (antigens), processes them, and shows a piece on its surface to the adaptive immune system (specifically T cells).",
-    "h": "Antigen presentation concept"
-  },
-  {
-    "q": "An immunologist studies the cellular interactions required to initiate a T-cell-mediated immune response. He notes that only a select group of immune cells express Major Histocompatibility Complex (MHC) Class II molecules constitutively and possess the co-stimulatory machinery necessary to activate naive T lymphocytes. Which of the following sets of cells are classified as professional APCs?",
-    "a": [
-      "Neutrophils, eosinophils, and basophils",
-      "Dendritic cells, macrophages, and B cells",
-      "Natural Killer cells, mast cells, and plasma cells",
-      "Erythrocytes, platelets, and endothelial cells",
-      "Helper T cells, cytotoxic T cells, and regulatory T cells"
-    ],
-    "c": 1,
-    "l": "The professional antigen-presenting cells (APCs) are dendritic cells, macrophages, and B cells.",
-    "h": "Professional APC types"
-  },
-  {
-    "q": "A medical student is constructing a diagram to illustrate the life cycle of human lymphocytes. She groups the organs of the lymphoid system based on whether they serve as sites of initial cell production and maturation or sites of subsequent antigen encounter. Which of the following organs comprise the primary lymphoid organs?",
-    "a": [
-      "Lymph nodes and spleen",
-      "Mucosa-associated lymphoid tissue (MALT) and tonsils",
-      "Bone marrow and thymus",
-      "Appendix and Peyer's patches",
-      "Marginal zone and paracortex"
-    ],
-    "c": 2,
-    "l": "The primary (central) lymphoid organs are the bone marrow and the thymus, where lymphocytes are generated and mature.",
-    "h": "Primary lymphoid organs"
-  },
-  {
-    "q": "A 12-year-old child develops an infection in his right foot. Pathogens and floating antigens travel via afferent lymphatic vessels into the popliteal and inguinal lymph nodes, triggering a localized immune response. Which of the following groups contains only secondary lymphoid organs where these adaptive immune responses are initiated?",
-    "a": [
-      "Bone marrow and thymus",
-      "Lymph nodes, spleen, and MALT (mucosa-associated lymphoid tissue)",
-      "Liver and kidneys",
-      "Thyroid and parathyroid glands",
-      "Yellow bone marrow and umbilical cord blood"
-    ],
-    "c": 1,
-    "l": "The secondary (peripheral) lymphoid organs include the lymph nodes, spleen, and mucosa-associated lymphoid tissue (MALT).",
-    "h": "Secondary lymphoid organs"
-  },
-  {
-    "q": "An experimental drug selectively destroys the cellular niches within the human bone marrow. While mature T cells are unaffected, the production of naive B lymphocytes drops to zero. Which of the following processes has been disrupted by this drug?",
-    "a": [
-      "The maturation of T cells within the thymic cortex",
-      "The development and maturation of B cells",
-      "The filtration of blood-borne antigens by splenic macrophages",
-      "The activation of memory T cells within the lymph node paracortex",
-      "The somatic hypermutation of IgA antibodies in mucosal linings"
-    ],
-    "c": 1,
-    "l": "The bone marrow is the primary lymphoid organ responsible for the development and maturation of B cells.",
-    "h": "B-cell development site"
-  },
-  {
-    "q": "A newborn infant is found to have a congenital defect causing severe thymic hypoplasia. Laboratory analysis reveals a profound deficiency of circulating, mature T lymphocytes, whereas mature B lymphocyte counts are normal. Which of the following processes is dependent on the functional tissue of the thymus?",
-    "a": [
-      "The primary development and selection of T cells",
-      "The differentiation of B cells into plasma cells",
-      "The production of acute-phase reactants like CRP",
-      "The alternative pathway activation of complement proteins",
-      "The rolling of neutrophils along endothelial selectins"
-    ],
+    "q": "What does NF-kB stand for?",
+    "a": ["Nuclear Factor kappa B", "Neutrophil Factor B", "Nuclear Fc Binding", "Natural Factor B", "None"],
     "c": 0,
-    "l": "The thymus is the primary lymphoid organ dedicated to the development, differentiation, and selection of T cells.",
-    "h": "T-cell development site"
+    "l": "NF-kB is Nuclear Factor kappa-light-chain-enhancer of activated B cells.",
+    "h": "NF-kB"
   },
   {
-    "q": "A 23-year-old male is exposed to a novel bacterial pathogen. Antigens from the bacterium drain into his peripheral lymphoid tissues, where they encounter naive B and T lymphocytes. Which of the following best describes the primary purpose of secondary lymphoid organs, such as lymph nodes and the spleen?",
-    "a": [
-      "They serve as the sites of antigen-independent lymphocyte production",
-      "They are the exclusive sites of T and B cell activation by antigen",
-      "They manufacture iron-binding proteins like transferrin and lactoferrin",
-      "They host the initial steps of the neutrophil respiratory burst",
-      "They produce preformed lysozyme and defensin molecules"
-    ],
+    "q": "NF-kB is primarily a?",
+    "a": ["Cytokine", "Transcription factor", "Antibody", "Receptor", "Complement protein"],
     "c": 1,
-    "l": "Secondary lymphoid organs are specialized anatomical sites designed to serve as the presentation grounds where T and B cells are activated by foreign antigens.",
-    "h": "Lymphocyte activation sites"
+    "l": "NF-kB regulates gene transcription.",
+    "h": "Gene regulator"
   },
   {
-    "q": "A 35-year-old female develops a localized skin infection on her right arm following a superficial scrape. Bacterial antigens successfully cross the epithelial barrier and enter the local interstitial fluid. Which of the following organs is anatomically designed to filter this fluid and initiate immune responses against tissue-borne antigens?",
-    "a": [
-      "Spleen",
-      "Thymus",
-      "Lymph node",
-      "Bone marrow",
-      "Liver"
-    ],
+    "q": "NF-kB regulates which immune responses?",
+    "a": ["Innate only", "Adaptive only", "Both innate and adaptive", "Humoral only", "Cell-mediated only"],
     "c": 2,
-    "l": "Lymph nodes are organized, encapsulated structures designed to initiate adaptive immune responses against tissue-borne antigens brought via lymphatic drainage.",
-    "h": "Tissue-borne antigen filtration"
+    "l": "NF-kB regulates both innate and adaptive immunity.",
+    "h": "Both systems"
   },
   {
-    "q": "An immunologist uses immunofluorescence to trace the migration of naive B cells within a lymph node following an active infection. She observes these cells proliferating and forming germinal centers within the outermost structural layer of the node. Which of the following specific regions is the primary site of B cell localization and activation?",
-    "a": [
-      "Paracortex",
-      "Medulla",
-      "Cortex",
-      "Marginal zone",
-      "Hilus"
-    ],
-    "c": 2,
-    "l": "The cortex of the lymph node is the anatomical zone containing lymphoid follicles, serving as the site of B-cell localization, activation, and proliferation.",
-    "h": "Lymph node cortex function"
+    "q": "Which barrier is the first line of defense?",
+    "a": ["Skin", "B cells", "T cells", "Antibodies", "Complement"],
+    "c": 0,
+    "l": "Skin is a major physical barrier.",
+    "h": "Skin barrier"
   },
   {
-    "q": "A viral infection stimulates a robust cell-mediated immune response within a regional lymph node. Histological examination reveals prominent hypertrophy of the anatomical zone located directly between the outer cortex and the inner medulla. Which of the following regions is the primary site of T cell localization and activation within the lymph node?",
-    "a": [
-      "Cortex",
-      "Paracortex",
-      "Medullary cords",
-      "Marginal zone",
-      "Subcapsular sinus"
-    ],
+    "q": "Which enzyme in tears is antimicrobial?",
+    "a": ["Myeloperoxidase", "Lysozyme", "Catalase", "Elastase", "Trypsin"],
     "c": 1,
-    "l": "The paracortex is the T-cell rich zone of the lymph node where T cells reside, encounter antigens presented by dendritic cells, and undergo activation.",
-    "h": "Lymph node paracortex function"
+    "l": "Lysozyme destroys bacterial cell walls.",
+    "h": "Tears"
   },
   {
-    "q": "A 22-year-old male develops an intravascular bacterial infection following an contaminated intravenous injection. The bacteria replicate directly within his bloodstream. Which of the following organs is specifically designed to filter the blood and initiate adaptive immune responses against blood-borne antigens?",
-    "a": [
-      "Lymph nodes",
-      "Spleen",
-      "Thymus",
-      "Mucosa-associated lymphoid tissue (MALT)",
-      "Peyer's patches"
-    ],
-    "c": 1,
-    "l": "The spleen is the secondary lymphoid organ responsible for filtering systemic circulation and initiating immune responses against blood-borne antigens.",
-    "h": "Blood-borne antigen filtration"
-  },
-  {
-    "q": "A 19-year-old male with sickle cell disease presents with a high fever, chills, and altered mental status. Blood cultures grow Streptococcus pneumoniae. His severe infection is primarily due to functional asplenia caused by recurrent splenic infarctions. Which of the following specific anatomical components of the spleen is compromised, resulting in this vulnerability?",
-    "a": [
-      "Thymic cortex",
-      "Lymph node paracortex",
-      "Splenic marginal zone",
-      "Medullary cords",
-      "Peyer's patches"
-    ],
+    "q": "Which innate cell kills virus-infected cells?",
+    "a": ["B cell", "Neutrophil", "NK cell", "Macrophage", "Plasma cell"],
     "c": 2,
-    "l": "Splenic dysfunction (seen post-splenectomy or in sickle cell auto-splenectomy) disrupts the splenic marginal zone, which is critical for capturing encapsulated organisms.",
-    "h": "Splenic dysfunction vulnerability"
+    "l": "NK cells kill virus-infected cells.",
+    "h": "NK cells"
   },
   {
-    "q": "A pathology resident reviews a histology slide of a healthy human spleen. He identifies a specialized transition zone that directly surrounds the lymphoid follicles, separating the white pulp from the red pulp. Which of the following terms correctly identifies this structural region?",
-    "a": [
-      "Paracortex",
-      "Medulla",
-      "Cortex",
-      "Splenic marginal zone",
-      "Germinal center"
-    ],
+    "q": "Which cytokines are antiviral?",
+    "a": ["IL-1, TNF", "IFN-alpha and IFN-beta", "IL-4, IL-5", "IL-10", "IL-6"],
+    "c": 1,
+    "l": "IFN-alpha and IFN-beta inhibit viral replication.",
+    "h": "Type I interferons"
+  },
+  {
+    "q": "What is the role of APCs?",
+    "a": ["Produce antibodies", "Present antigen to T cells", "Kill bacteria", "Produce complement", "Produce IgG"],
+    "c": 1,
+    "l": "APCs present antigen to T lymphocytes.",
+    "h": "Antigen presentation"
+  },
+  {
+    "q": "Which is a professional APC?",
+    "a": ["Neutrophil", "Eosinophil", "Dendritic cell", "Platelet", "RBC"],
+    "c": 2,
+    "l": "Dendritic cells are professional APCs.",
+    "h": "Dendritic cell"
+  },
+  {
+    "q": "Which are primary lymphoid organs?",
+    "a": ["Spleen and lymph node", "Bone marrow and thymus", "MALT and spleen", "Liver and spleen", "Bone marrow and lymph node"],
+    "c": 1,
+    "l": "Bone marrow and thymus are primary lymphoid organs.",
+    "h": "Primary organs"
+  },
+  {
+    "q": "Which are secondary lymphoid organs?",
+    "a": ["Bone marrow and thymus", "Lymph nodes, spleen and MALT", "Liver and spleen", "Thymus and MALT", "Bone marrow and spleen"],
+    "c": 1,
+    "l": "Lymph nodes, spleen and MALT are secondary lymphoid organs.",
+    "h": "Secondary organs"
+  },
+  {
+    "q": "Where do B cells develop?",
+    "a": ["Thymus", "Lymph node", "Bone marrow", "Spleen", "MALT"],
+    "c": 2,
+    "l": "B cells develop in the bone marrow.",
+    "h": "Bone marrow"
+  },
+  {
+    "q": "Where do T cells develop?",
+    "a": ["Bone marrow", "Thymus", "Spleen", "Lymph node", "MALT"],
+    "c": 1,
+    "l": "T cells develop in the thymus.",
+    "h": "Thymus"
+  },
+  {
+    "q": "Which lymph node region activates B cells?",
+    "a": ["Paracortex", "Medulla", "Cortex", "Hilum", "Sinus"],
+    "c": 2,
+    "l": "B cells are activated in the cortex.",
+    "h": "Cortex"
+  },
+  {
+    "q": "Which lymph node region activates T cells?",
+    "a": ["Cortex", "Medulla", "Follicle", "Paracortex", "Hilum"],
     "c": 3,
-    "l": "The splenic marginal zone is the distinct, specialized boundary area that surrounds the lymphoid follicles.",
-    "h": "Splenic marginal zone anatomy"
+    "l": "T cells are activated in the paracortex.",
+    "h": "Paracortex"
   },
   {
-    "q": "A 25-year-old male undergoes an emergency splenectomy following a severe motor vehicle accident. Over the next several years, he is at an increased risk for life-threatening sepsis. He must receive targeted immunizations to protect against which of the following classes of organisms?",
-    "a": [
-      "Intracellular viruses",
-      "Encapsulated organisms",
-      "Gram-negative motile rods",
-      "Fungi requiring oxidative killing",
-      "Acid-fast intracellular bacteria"
-    ],
+    "q": "Which organ responds to blood-borne antigens?",
+    "a": ["Lymph node", "Thymus", "Bone marrow", "Spleen", "MALT"],
+    "c": 3,
+    "l": "The spleen responds to blood-borne antigens.",
+    "h": "Spleen"
+  },
+  {
+    "q": "Which disease can cause splenic dysfunction?",
+    "a": ["Asthma", "Sickle cell disease", "Diabetes", "TB", "COPD"],
     "c": 1,
-    "l": "The loss of the spleen and its marginal zone results in a selective susceptibility to encapsulated organisms, notably Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae.",
-    "h": "Encapsulated organism risk"
+    "l": "Sickle cell disease causes functional asplenia.",
+    "h": "Functional asplenia"
   },
   {
-    "q": "A study characterizes the cellular mechanisms underlying the immunodeficiency state that follows a total splenectomy. Researchers determine that the loss of specialized phagocytic cells and specialized antibody-producing cells within the marginal zone directly accounts for the blunted systemic response. Which of the following pairs of cellular changes correctly matches this pathology?",
-    "a": [
-      "Loss of neutrophils (reduction in HOCl) and loss of T cells (reduction in IgA)",
-      "Loss of marginal zone macrophages (reduction in phagocytosis) and loss of marginal zone B cells (reduction in IgM)",
-      "Loss of dendritic cells (reduction in TLRs) and loss of plasma cells (reduction in IgE)",
-      "Loss of NK cells (reduction in viral killing) and loss of eosinophils (reduction in histamine)",
-      "Loss of endothelial cells (reduction in ICAM-1) and loss of mast cells (reduction in PGE2)"
-    ],
-    "c": 1,
-    "l": "Splenectomy results in the loss of marginal zone macrophages, causing a reduction in phagocytosis, and the loss of marginal zone B cells, causing a profound reduction in circulating IgM.",
-    "h": "Splenic cellular deficits"
-  },
-  {
-    "q": "A 3-year-old child undergoes a total splenectomy due to severe hereditary spherocytosis. Following the surgery, the pediatrician updates the child's immunization record and outlines a strict prophylactic management plan to prevent overwhelming post-splenectomy sepsis. Which of the following interventions represents standard clinical protocol for this young patient?",
-    "a": [
-      "Continuous antibiotic prophylaxis, typically oral amoxicillin, at least to age 5",
-      "Avoidance of all encapsulated vaccines until adulthood",
-      "Isolation from normal microbiota exposures in the community",
-      "Daily administration of high-dose corticosteroid anti-inflammatory drugs",
-      "Intravenous infusions of preformed defensins and lysozyme every month"
-    ],
+    "q": "Asplenic patients are susceptible to which organisms?",
+    "a": ["Encapsulated bacteria", "Viruses", "Fungi only", "Parasites only", "Anaerobes"],
     "c": 0,
-    "l": "Patients undergoing splenectomy require appropriate vaccinations and continuous antibiotic prophylaxis (such as oral amoxicillin), particularly children up to at least age 5.",
-    "h": "Post-splenectomy prophylaxis"
+    "l": "Asplenia predisposes to encapsulated organisms.",
+    "h": "Encapsulated bacteria"
   },
   {
-    "q": "A 45-year-old female presents for a routine check-up six months after undergoing a splenectomy. A peripheral blood smear is performed to evaluate her red blood cell morphology. Which of the following microscopic findings is a classic laboratory sign of an absent or non-functional spleen?",
-    "a": [
-      "Heinz bodies",
-      "Howell-Jolly bodies",
-      "Schistocytes",
-      "Basophilic stippling",
-      "Giant granules in neutrophils"
-    ],
+    "q": "What blood finding is seen after splenectomy?",
+    "a": ["Heinz bodies", "Howell-Jolly bodies", "Schistocytes", "Target cells", "Spherocytes"],
     "c": 1,
-    "l": "Howell-Jolly bodies (nuclear remnants within erythrocytes normally removed by the spleen) are a classic peripheral blood finding post-splenectomy.",
-    "h": "Post-splenectomy blood smear"
+    "l": "Howell-Jolly bodies are seen after splenectomy.",
+    "h": "Howell-Jolly"
   },
   {
-    "q": "A hematology researcher traces the differentiation pathways of pluripotent hematopoietic stem cells within the bone marrow. She observes a lineage that gives rise to platelets, erythrocytes, eosinophils, basophils, neutrophils, and monocytes. Which of the following lineages is responsible for generating these cell types?",
-    "a": [
-      "Lymphoid lineage",
-      "Myeloid lineage",
-      "Thymic lineage",
-      "Epithelial lineage",
-      "Endothelial lineage"
-    ],
-    "c": 1,
-    "l": "Cells of the myeloid lineage differentiate into platelets, erythrocytes, eosinophils, basophils, neutrophils, and monocytes.",
-    "h": "Myeloid lineage derivatives"
-  },
-  {
-    "q": "An investigator studies the cellular branches of hematopoiesis. He focuses on a developmental pathway that originates in the primary lymphoid tissues and selectively produces adaptive lymphocytes along with a subset of innate cytotoxic cells. Which of the following lineages differentiates into T lymphocytes, B lymphocytes, NK cells, and some dendritic cells?",
-    "a": [
-      "Myeloid lineage",
-      "Lymphoid lineage",
-      "Granulocytic lineage",
-      "Erythroid lineage",
-      "Megakaryocytic lineage"
-    ],
-    "c": 1,
-    "l": "Cells of the lymphoid lineage differentiate into T and B lymphocytes, Natural Killer (NK) cells, and certain populations of dendritic cells.",
-    "h": "Lymphoid lineage derivatives"
-  },
-  {
-    "q": "A laboratory assay evaluates the ability of human neutrophils to bind and ingest opsonized pathogens. To successfully bind bacteria coated with Immunoglobulin G (IgG), the neutrophil must express specific surface receptors that recognize the constant structural tail of the antibody. Which of the following receptors is expressed on the surface of neutrophils to bind IgG?",
-    "a": [
-      "T-cell receptors (TCR)",
-      "Fc receptors",
-      "Sialyl-Lewis X ligands",
-      "Toll-like Receptor 4",
-      "PECAM-1 molecules"
-    ],
-    "c": 1,
-    "l": "Neutrophils express surface Fc receptors (FcRs) that specifically bind to the Fc portion of IgG antibodies coating a pathogen.",
-    "h": "Neutrophil antibody binding"
-  },
-  {
-    "q": "A 54-year-old male undergoing intensive chemotherapy for acute myeloid leukemia develops severe neutropenia, with an absolute neutrophil count of 150 cells/µL. Over the next week, he is at an increased risk for developing life-threatening opportunistic infections. Which of the following groups of pathogens represents the most common threats to a neutropenic patient?",
-    "a": [
-      "Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae",
-      "Pseudomonas aeruginosa, Staphylococcus aureus, and Aspergillus",
-      "Varicella-zoster virus, Human immunodeficiency virus, and Cytomegalovirus",
-      "Mycobacterium tuberculosis, Salmonella enterica, and Listeria",
-      "Giardia lamblia, Entamoeba histolytica, and Cryptosporidium"
-    ],
-    "c": 1,
-    "l": "Patients with severe neutropenia are highly vulnerable to specific opportunistic bacterial and fungal pathogens, most notably Pseudomonas aeruginosa, Staphylococcus aureus, and Aspergillus.",
-    "h": "Neutropenia infection risks"
-  },
-  {
-    "q": "An immunologist maps the expression of Fc receptors (FcRs) across various white blood cell populations. She notes that these specialized receptors allow innate immune cells to link with the adaptive immune system by binding antibody-coated targets. Which of the following groups of cells express functional Fc receptors on their surface?",
-    "a": [
-      "T lymphocytes, B lymphocytes, and Plasma cells",
-      "Neutrophils, Macrophages, NK cells, and Eosinophils",
-      "Erythrocytes, Megakaryocytes, and Endothelial cells",
-      "Thymic epithelial cells and Follicular dendritic cells",
-      "Helper T cells, Cytotoxic T cells, and Regulatory T cells"
-    ],
-    "c": 1,
-    "l": "Fc receptors (FcRs) are expressed on the surface of several innate immune cells, including neutrophils, macrophages, Natural Killer (NK) cells, and eosinophils.",
-    "h": "Cells expressing Fc receptors"
-  },
-  {
-    "q": "A basic science experiment evaluates the exact sequence of events required for efficient macrophage-mediated phagocytosis of a target pathogen. For the macrophage to successfully engage its surface Fc receptors and engulf the invader, which of the following steps must occur first?",
-    "a": [
-      "The pathogen must secrete NF-kB into the surrounding extracellular matrix",
-      "IgG must first coat the surface of the pathogen and then bind to the Fc receptor",
-      "The macrophage must secrete lysozyme to alter the antibody's idiotype",
-      "Complement protein C3b must directly cleave the Fc receptor's binding domain",
-      "The pathogen must downregulate its Pathogen-Associated Molecular Patterns"
-    ],
-    "c": 1,
-    "l": "During opsonization, IgG antibodies first coat the surface of the invading pathogen and subsequently bind to the host cell's surface Fc receptors.",
-    "h": "Opsonization sequence mechanism"
-  },
-  {
-    "q": "A 10-year-old boy is infected with an intestinal helminth. His immune system deploys a specialized granulocytic cell type that binds to the antibody-coated parasite and releases toxic major basic protein from its granules. Which of the following cells possesses Fc receptors configured to bind IgG and IgE to coordinate this defense?",
-    "a": [
-      "Neutrophil",
-      "Monocyte",
-      "Eosinophil",
-      "Basophil",
-      "B lymphocyte"
-    ],
+    "q": "Myeloid lineage gives rise to?",
+    "a": ["T cells", "B cells", "Platelets and neutrophils", "NK cells", "Plasma cells"],
     "c": 2,
-    "l": "Eosinophils express surface Fc receptors capable of binding to both IgG and IgE, which is essential for their specialized defense against parasitic infections and participation in allergic responses.",
-    "h": "Eosinophil Fc receptors"
+    "l": "Myeloid cells form platelets, RBCs and granulocytes.",
+    "h": "Myeloid cells"
+  },
+  {
+    "q": "Lymphoid lineage gives rise to?",
+    "a": ["Neutrophils", "Monocytes", "T cells and B cells", "Platelets", "Eosinophils"],
+    "c": 2,
+    "l": "Lymphoid lineage forms T cells, B cells and NK cells.",
+    "h": "Lymphoid cells"
+  },
+  {
+    "q": "Which antibody binds Fc receptors on neutrophils?",
+    "a": ["IgM", "IgA", "IgE", "IgG", "IgD"],
+    "c": 3,
+    "l": "Neutrophils have Fc receptors that bind IgG.",
+    "h": "IgG"
+  },
+  {
+    "q": "Neutropenia increases risk of which infection?",
+    "a": ["Pseudomonas", "HBV", "Giardia", "Malaria", "CMV"],
+    "c": 0,
+    "l": "Pseudomonas is a classic neutropenic infection.",
+    "h": "Neutropenia"
+  },
+  {
+    "q": "Fc receptors are found on which cell?",
+    "a": ["RBC", "Neutrophil", "Hepatocyte", "Fibroblast", "Endothelium"],
+    "c": 1,
+    "l": "Fc receptors are present on neutrophils, macrophages, NK cells and eosinophils.",
+    "h": "Fc receptor"
+  },
+  {
+    "q": "What happens before Fc receptor binding?",
+    "a": ["IgM coats pathogen", "IgG coats pathogen", "Complement binds", "T cell binds", "NK cell binds"],
+    "c": 1,
+    "l": "IgG first coats pathogens before binding Fc receptors.",
+    "h": "Opsonization"
+  },
+  {
+    "q": "Which antibodies bind eosinophil Fc receptors?",
+    "a": ["IgM and IgD", "IgG and IgE", "IgA and IgM", "IgD and IgA", "IgM and IgG"],
+    "c": 1,
+    "l": "Eosinophils have Fc receptors for IgG and IgE.",
+    "h": "IgE + IgG"
   }
 ],
     "2_acute_inflammatory_response": [
