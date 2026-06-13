@@ -1735,670 +1735,350 @@
   }
 ],
     "2_acute_inflammatory_response": [
-   {
-    "q": "A 24-year-old male sustains a deep laceration on his thigh while working on a construction site. Within hours, the area becomes erythematous, warm, and swollen. This immediate localized response represents the body's primary reaction to tissue injury. Which of the following best describes this physiological process?",
-    "a": [
-      "Adaptive immune response",
-      "Inflammation",
-      "Granulomatous hypersensitivity",
-      "Clonal selection",
-      "Immune tolerance"
-    ],
+  {
+    "q": "What is inflammation?",
+    "a": ["Antibody response", "First response to injury", "Adaptive immunity", "Fibrosis", "Healing"],
     "c": 1,
-    "l": "Inflammation is the body's first response to injury, infection, or tissue damage, serving to deliver defensive materials to the site of insult.",
-    "h": "First response to injury"
+    "l": "Inflammation is the body's first response to injury, infection, or tissue damage.",
+    "h": "First response"
   },
   {
-    "q": "A 45-year-old female presents with a 1-day history of acute localized pain and swelling in her right forearm following an insect bite. A biopsy of the subcutaneous tissue is performed. Which of the following cell types is expected to predominate in this tissue under conditions of acute inflammation?",
-    "a": [
-      "Macrophages",
-      "Lymphocytes",
-      "Plasma cells",
-      "Neutrophils",
-      "Eosinophils"
-    ],
+    "q": "Predominant cell in acute inflammation?",
+    "a": ["Macrophage", "Lymphocyte", "Neutrophil", "Plasma cell", "Eosinophil"],
+    "c": 2,
+    "l": "Neutrophils predominate in acute inflammation.",
+    "h": "Acute = Neutrophils"
+  },
+  {
+    "q": "Predominant cell in chronic inflammation?",
+    "a": ["Neutrophil", "Basophil", "Macrophage", "Platelet", "Mast cell"],
+    "c": 2,
+    "l": "Macrophages predominate in chronic inflammation.",
+    "h": "Chronic = Macrophages"
+  },
+  {
+    "q": "Pus is rich in which cell?",
+    "a": ["Macrophages", "Lymphocytes", "Neutrophils", "Plasma cells", "Eosinophils"],
+    "c": 2,
+    "l": "Pyogenic infections produce neutrophil-rich pus.",
+    "h": "Pus = Neutrophils"
+  },
+  {
+    "q": "Granulomatous inflammation is dominated by?",
+    "a": ["Neutrophils", "Macrophages", "Basophils", "Platelets", "Mast cells"],
+    "c": 1,
+    "l": "Granulomatous inflammation is macrophage predominant.",
+    "h": "Granuloma = Macrophage"
+  },
+  {
+    "q": "First step in leukocyte recruitment?",
+    "a": ["Rolling", "Adhesion", "Margination", "Chemotaxis", "Transmigration"],
+    "c": 2,
+    "l": "Margination is the first step of leukocyte recruitment.",
+    "h": "MARGINATION"
+  },
+  {
+    "q": "Molecule responsible for rolling?",
+    "a": ["CD18", "PECAM-1", "Sialyl-Lewis X", "ICAM-1", "VCAM-1"],
+    "c": 2,
+    "l": "Sialyl-Lewis X mediates leukocyte rolling.",
+    "h": "Rolling = Sialyl-Lewis X"
+  },
+  {
+    "q": "CD18 mediates which step?",
+    "a": ["Rolling", "Chemotaxis", "Adhesion", "Phagocytosis", "Margination"],
+    "c": 2,
+    "l": "Integrin CD18 mediates firm adhesion.",
+    "h": "CD18 = Adhesion"
+  },
+  {
+    "q": "PECAM-1 mediates?",
+    "a": ["Rolling", "Adhesion", "Diapedesis", "Chemotaxis", "Opsonization"],
+    "c": 2,
+    "l": "PECAM-1 mediates transmigration (diapedesis).",
+    "h": "PECAM = Diapedesis"
+  },
+  {
+    "q": "What is chemotaxis?",
+    "a": ["Cell death", "Directed migration", "Adhesion", "Rolling", "Margination"],
+    "c": 1,
+    "l": "Chemotaxis is directed migration toward inflammatory mediators.",
+    "h": "Directed migration"
+  },
+  {
+    "q": "Most important neutrophil chemotactic factor?",
+    "a": ["IL-4", "IL-8", "IL-10", "TNF", "IL-2"],
+    "c": 1,
+    "l": "IL-8 is a major neutrophil chemotactic factor.",
+    "h": "IL-8"
+  },
+  {
+    "q": "C5a is best known for?",
+    "a": ["Opsonization", "Chemotaxis", "Fever", "Pain", "Apoptosis"],
+    "c": 1,
+    "l": "C5a is a potent chemotactic factor.",
+    "h": "C5a = Chemotaxis"
+  },
+  {
+    "q": "Histamine causes?",
+    "a": ["Vasoconstriction", "Vasodilation", "Clotting", "Apoptosis", "Fibrosis"],
+    "c": 1,
+    "l": "Histamine causes vasodilation and increased permeability.",
+    "h": "Histamine"
+  },
+  {
+    "q": "PGE₂ causes?",
+    "a": ["Pain and fever", "Bronchoconstriction", "Clotting", "Opsonization", "Chemotaxis"],
+    "c": 0,
+    "l": "PGE₂ mediates pain, fever and vasodilation.",
+    "h": "Pain + Fever"
+  },
+  {
+    "q": "PGI₂ (prostacyclin) effect?",
+    "a": ["Platelet aggregation", "Vasoconstriction", "Vasodilation", "Chemotaxis", "Fever"],
+    "c": 2,
+    "l": "PGI₂ causes vasodilation and inhibits platelet aggregation.",
+    "h": "Anti-platelet"
+  },
+  {
+    "q": "TXA₂ causes?",
+    "a": ["Vasodilation", "Anti-platelet", "Platelet aggregation", "Chemotaxis", "Pain"],
+    "c": 2,
+    "l": "TXA₂ promotes platelet aggregation and vasoconstriction.",
+    "h": "Clotting"
+  },
+  {
+    "q": "LTB4 function?",
+    "a": ["Pain", "Chemotaxis", "Fever", "Clotting", "Opsonization"],
+    "c": 1,
+    "l": "LTB4 is a potent neutrophil chemotactic factor.",
+    "h": "LTB4"
+  },
+  {
+    "q": "LTC4, LTD4 and LTE4 cause?",
+    "a": ["Bronchodilation", "Bronchoconstriction", "Fever", "Pain", "Opsonization"],
+    "c": 1,
+    "l": "These leukotrienes cause bronchoconstriction.",
+    "h": "Bronchoconstriction"
+  },
+  {
+    "q": "TNF-α and IL-1 cause?",
+    "a": ["Pain", "Fever", "Clotting", "Apoptosis", "Healing"],
+    "c": 1,
+    "l": "TNF-α and IL-1 cause fever and endothelial activation.",
+    "h": "Fever"
+  },
+  {
+    "q": "IL-6 stimulates production of?",
+    "a": ["IgE", "CRP", "Histamine", "C3b", "HOCl"],
+    "c": 1,
+    "l": "IL-6 stimulates acute phase reactants such as CRP.",
+    "h": "CRP"
+  },
+  {
+    "q": "First antibody produced?",
+    "a": ["IgA", "IgE", "IgM", "IgG", "IgD"],
+    "c": 2,
+    "l": "IgM is the first antibody produced.",
+    "h": "First = IgM"
+  },
+  {
+    "q": "Which antibody crosses placenta?",
+    "a": ["IgM", "IgA", "IgE", "IgG", "IgD"],
     "c": 3,
-    "l": "Neutrophils are the primary cellular mediators that predominate during acute inflammation, typically arriving within the first 6 to 24 hours.",
-    "h": "Acute inflammation predominance"
+    "l": "IgG crosses the placenta.",
+    "h": "Placenta = IgG"
   },
   {
-    "q": "A 52-year-old male undergoes a biopsy of a persistent, non-healing skin lesion that has been present for four months. Histopathological evaluation reveals a cellular infiltrate consisting primarily of mononuclear cells. Which of the following sets of cells is expected to predominate in this chronic inflammatory state?",
-    "a": [
-      "Neutrophils and basophils",
-      "Macrophages, lymphocytes, and plasma cells",
-      "Eosinophils and mast cells",
-      "Neutrophils and platelets",
-      "Endothelial cells and fibroblasts"
-    ],
-    "c": 1,
-    "l": "Chronic inflammation is characterized by a prolonged duration in which mononuclear cells, specifically macrophages, lymphocytes, and plasma cells, predominate.",
-    "h": "Chronic inflammation predominance"
+    "q": "Main antibody in mucosal secretions?",
+    "a": ["IgA", "IgG", "IgM", "IgD", "IgE"],
+    "c": 0,
+    "l": "IgA provides mucosal immunity.",
+    "h": "Mucosa = IgA"
   },
   {
-    "q": "A 7-year-old boy presents with a painful, fluctuant fluctuant swelling on his scalp. Incision and drainage are performed, yielding a thick, creamy, neutrophil-rich purulent exudate. Culture grows Staphylococcus aureus. Which of the following terms best describes infections caused by this class of organisms?",
-    "a": [
-      "Granulomatous infections",
-      "Viral infections",
-      "Pyogenic infections",
-      "Latent infections",
-      "Fungal infections"
-    ],
-    "c": 2,
-    "l": "Pyogenic infections, typically caused by organisms like Staphylococcus, Streptococcus, and Neisseria, are characterized by neutrophil-rich pus formation.",
-    "h": "Pyogenic infections"
-  },
-  {
-    "q": "A 34-year-old female presents with chronic cough and weight loss. A chest X-ray reveals hilar lymphadenopathy, and a biopsy of a lymph node shows non-caseating granulomas. Histopathological evaluation shows an extensive accumulation of transformed mononuclear cells. Which of the following cell types forms the cellular core of this granulomatous inflammation?",
-    "a": [
-      "Neutrophils",
-      "Plasma cells",
-      "Eosinophils",
-      "Macrophages",
-      "Basophils"
-    ],
-    "c": 3,
-    "l": "Granulomatous infections and conditions (such as tuberculosis, fungal infections, and sarcoidosis) feature a distinct macrophage predominance, often organizing into epithelioid histiocytes.",
-    "h": "Granulomatous infections"
-  },
-  {
-    "q": "An experimental model of acute inflammation is used to study the sequential steps of leukocyte migration from the vascular lumen into the interstitial space. Which of the following represents the correct order of leukocyte recruitment steps?",
-    "a": [
-      "Adhesion → Rolling → Margination → Transmigration → Chemotaxis",
-      "Margination → Rolling → Adhesion → Transmigration → Chemotaxis",
-      "Rolling → Margination → Transmigration → Adhesion → Chemotaxis",
-      "Chemotaxis → Margination → Rolling → Adhesion → Transmigration",
-      "Margination → Adhesion → Rolling → Transmigration → Chemotaxis"
-    ],
-    "c": 1,
-    "l": "The correct sequence of leukocyte recruitment during inflammation is: Margination → Rolling → Adhesion → Transmigration (diapedesis) → Chemotaxis.",
-    "h": "Leukocyte recruitment sequence"
-  },
-  {
-    "q": "During an investigation into leukocyte endothelial interactions, researchers observe leukocytes moving slowly along the venular wall. This initial 'rolling' phase is dependent on transient, low-affinity interactions. Which of the following leukocyte surface molecules binds to endothelial E-selectin and P-selectin to mediate this step?",
-    "a": [
-      "LFA-1 (CD11a/CD18)",
-      "PECAM-1 (CD31)",
-      "Sialyl-Lewis X",
-      "ICAM-1",
-      "VCAM-1"
-    ],
-    "c": 2,
-    "l": "Leukocyte rolling is mediated by the binding of Sialyl-Lewis X on leukocytes to E-selectin and P-selectin expressed on the activated endothelium.",
-    "h": "Rolling molecular mediators"
-  },
-  {
-    "q": "A tissue biopsy from a site of acute inflammation shows leukocytes firmly bound to the endothelial surface, resisting the shear stress of blood flow. This stable adhesion step requires high-affinity binding. Which of the following endothelial adhesion molecules binds to leukocyte integrins containing CD18 to achieve this firm adhesion?",
-    "a": [
-      "E-selectin and P-selectin",
-      "ICAM-1 and VCAM-1",
-      "PECAM-1",
-      "Sialyl-Lewis X",
-      "GlyCAM-1"
-    ],
-    "c": 1,
-    "l": "Firm adhesion occurs when leukocyte integrins (such as CD18 complexes) bind to immunoglobulin superfamily ligands on the endothelium, specifically ICAM-1 and VCAM-1.",
-    "h": "Firm adhesion ligands"
-  },
-  {
-    "q": "An investigator treats an endothelial cell monolayer with a specific neutralizing antibody, which prevents leukocytes from successfully squeezing through the intercellular junctions between adjacent endothelial cells. This intervention has targeted the step of diapedesis. Which of the following molecules is primarily responsible for mediating this transmigration step?",
-    "a": [
-      "E-selectin",
-      "L-selectin",
-      "ICAM-1",
-      "PECAM-1 (CD31)",
-      "Sialyl-Lewis X"
-    ],
-    "c": 3,
-    "l": "Transmigration (diapedesis) of leukocytes across the endothelial wall is mediated by PECAM-1 (CD31), which is expressed on both leukocytes and endothelial cell junctions.",
-    "h": "Transmigration mediator"
-  },
-  {
-    "q": "Following exit from the postcapillary venules, neutrophils migrate through the extracellular matrix along a chemical gradient toward the focus of tissue injury. Which of the following terms best defines this directed migration process?",
-    "a": [
-      "Margination",
-      "Transmigration",
-      "Chemotaxis",
-      "Opsonization",
-      "Diapedesis"
-    ],
-    "c": 2,
-    "l": "Chemotaxis is defined as the directed migration of leukocytes through tissue toward a chemical gradient composed of inflammatory mediators or bacterial products.",
-    "h": "Directed leukocyte migration"
-  },
-  {
-    "q": "A biopsy specimen demonstrates dense neutrophil infiltration within an area of ischemic tissue necrosis. Which of the following sets of endogenous and exogenous molecules serves as the major chemotactic factors driving this targeted recruitment?",
-    "a": [
-      "IL-1, TNF-alpha, Histamine, and PGE2",
-      "IL-8, C5a, LTB4, and bacterial N-formyl peptides",
-      "PGI2, TXA2, LTC4, and LTD4",
-      "IL-6, CRP, Fibrinogen, and IgD",
-      "IgG, IgA, IgE, and IgM"
-    ],
-    "c": 1,
-    "l": "The major chemotactic factors for neutrophils include Interleukin-8 (IL-8), complement component C5a, Leukotriene B4 (LTB4), and exogenous bacterial N-formyl peptides.",
-    "h": "Major chemotactic factors"
-  },
-  {
-    "q": "Within minutes of exposure to an allergen, a patient develops rapid tissue edema, localized warmth, and widespread erythema. These immediate changes are caused by the release of preformed mediators from mast cells that induce vasodilation and an abrupt increase in vascular permeability. Which of the following mediators is primarily responsible for this effect?",
-    "a": [
-      "Thromboxane A2",
-      "Prostacyclin",
-      "Leukotriene B4",
-      "Histamine",
-      "Interleukin-6"
-    ],
-    "c": 3,
-    "l": "Histamine is a vasoactive amine that induces prominent arteriolar vasodilation and increased vascular permeability in venules during the immediate phases of inflammation.",
-    "h": "Vascular permeability mediator"
-  },
-  {
-    "q": "A 19-year-old college student presents to the student health clinic with a severe acute upper respiratory tract infection. He reports a generalized painful sensation throughout his body and has a documented oral temperature of 38.9°C (102°F). Which of the following arachidonic acid metabolites directly modulates the hypothalamic thermostat to induce fever and cause localized pain?",
-    "a": [
-      "PGI2",
-      "TXA2",
-      "PGE2",
-      "LTB4",
-      "LTC4"
-    ],
-    "c": 2,
-    "l": "Prostaglandin E2 (PGE2) is the key eicosanoid responsible for mediating pain, fever induction in the hypothalamus, and vasodilation.",
-    "h": "Pain and fever mediator"
-  },
-  {
-    "q": "Researchers studying vascular homeostasis analyze an arachidonic acid derivative produced primarily by intact vascular endothelial cells. This compound prevents intravascular clot formation by robustly inhibiting platelet aggregation and promoting profound vasodilation. Which of the following mediators matches this description?",
-    "a": [
-      "Thromboxane A2",
-      "Prostacyclin (PGI2)",
-      "Leukotriene C4",
-      "Prostaglandin E2",
-      "Interleukin-1"
-    ],
-    "c": 1,
-    "l": "Prostacyclin (PGI2) is synthesized by endothelial cells and acts to cause vasodilation and strongly inhibit platelet aggregation.",
-    "h": "Platelet inhibitor/vasodilator"
-  },
-  {
-    "q": "Following an acute vascular injury, platelets adhere to exposed subendothelial collagen and release a potent eicosanoid mediator. This mediator acts local to the injury to promote immediate vasoconstriction and accelerate primary hemostasis by driving platelet aggregation. Which of the following mediators is responsible for these actions?",
-    "a": [
-      "PGI2",
-      "TXA2",
-      "LTB4",
-      "LTE4",
-      "Histamine"
-    ],
-    "c": 1,
-    "l": "Thromboxane A2 (TXA2) is produced by platelets and serves to promote vasoconstriction and stimulate platelet aggregation.",
-    "h": "Vasoconstrictor/platelet aggregator"
-  },
-  {
-    "q": "An experimental drug blocks the production of a specific lipoxygenase pathway metabolite, resulting in a dramatic reduction in the recruitment of neutrophils to sites of sterile tissue injury. Which of the following arachidonic acid derivatives was most likely inhibited by this drug?",
-    "a": [
-      "PGE2",
-      "TXA2",
-      "LTB4",
-      "LTC4",
-      "PGI2"
-    ],
-    "c": 2,
-    "l": "Leukotriene B4 (LTB4) is a highly potent lipoxygenase product that directly stimulates neutrophil chemotaxis and activation.",
-    "h": "Neutrophil chemotaxis eicosanoid"
-  },
-  {
-    "q": "A 6-year-old child with severe asthma accidentally ingests a known trigger, resulting in acute smooth muscle contraction within her airways, profound bronchoconstriction, and prominent peribronchial edema. Which of the following groups of leukotrienes mediates these severe bronchospastic effects and increases microvascular permeability?",
-    "a": [
-      "LTB4 and Lipoxin A4",
-      "PGE2, PGI2, and TXA2",
-      "LTC4, LTD4, and LTE4",
-      "IL-1, IL-6, and TNF-alpha",
-      "C5a, C3b, and C4a"
-    ],
-    "c": 2,
-    "l": "The cysteinyl leukotrienes (LTC4, LTD4, and LTE4) cause intense smooth muscle contraction, leading to bronchoconstriction and markedly increased vascular permeability.",
-    "h": "Bronchoconstrictor leukotrienes"
-  },
-  {
-    "q": "A 64-year-old male is admitted to the intensive care unit with bacterial septic shock. His blood pressure is critically low, and he has an elevated core temperature. The systemic inflammatory response, including endothelial activation and fever expression, is driven by macrophages releasing which of the following pairs of cytokines?",
-    "a": [
-      "IL-6 and IL-8",
-      "TNF-alpha and IL-1",
-      "PGE2 and LTB4",
-      "IgM and IgG",
-      "C3b and C5a"
-    ],
-    "c": 1,
-    "l": "Tumor Necrosis Factor-alpha (TNF-alpha) and Interleukin-1 (IL-1) are principal cytokines secreted by macrophages that coordinate fever induction and local endothelial activation.",
-    "h": "Fever and endothelial activation"
-  },
-  {
-    "q": "A 48-year-old male is evaluated for a severe intra-abdominal abscess. Laboratory studies reveal a markedly elevated erythrocyte sedimentation rate (ESR) and high serum levels of C-reactive protein (CRP). Which of the following cytokines is primarily responsible for signaling hepatocytes to synthesize and secrete these acute-phase reactants?",
-    "a": [
-      "IL-8",
-      "Histamine",
-      "IL-6",
-      "Thromboxane A2",
-      "Leukotriene B4"
-    ],
-    "c": 2,
-    "l": "Interleukin-6 (IL-6) is the major cytokine responsible for stimulating hepatocytes to produce acute-phase reactants, including CRP and fibrinogen.",
-    "h": "Acute phase reactant stimulator"
-  },
-  {
-    "q": "A 22-year-old female is evaluated for a new-onset febrile illness accompanied by joint pain. Serologic testing demonstrates high titers of antigen-specific antibodies configured as a large pentameric structure. This finding confirms an acute, primary immune response. Which of the following immunoglobulins is the first antibody produced during an acute infection?",
-    "a": [
-      "IgG",
-      "IgA",
-      "IgE",
-      "IgM",
-      "IgD"
-    ],
-    "c": 3,
-    "l": "Immunoglobulin M (IgM) is the first antibody isotype synthesized during a primary immune response, indicating acute or recent infection.",
-    "h": "First antibody in acute infection"
-  },
-  {
-    "q": "A 29-year-old pregnant woman is evaluated at her routine obstetric appointment. She expresses relief that her baby will have passive immunity against several childhood diseases at birth. Which of the following immunoglobulins mediates this secondary immune response, marks past infection, and has the unique capacity to cross the human placenta?",
-    "a": [
-      "IgM",
-      "IgG",
-      "IgA",
-      "IgE",
-      "IgD"
-    ],
-    "c": 1,
-    "l": "Immunoglobulin G (IgG) dominates the secondary immune response, indicates chronic or past infection, and is the only antibody class capable of crossing the placenta.",
-    "h": "Placental crossing antibody"
-  },
-  {
-    "q": "A researcher isolates immunoglobulin molecules from a sample of healthy breast milk and saliva. The antibodies are found to exist primarily as dimeric structures joined by a J chain and a secretory component. Which of the following immunoglobulins is responsible for providing this mucosal immunity?",
-    "a": [
-      "IgM",
-      "IgG",
-      "IgA",
-      "IgE",
-      "IgD"
-    ],
-    "c": 2,
-    "l": "Immunoglobulin A (IgA) provides critical mucosal immunity and is the predominant antibody found in secretions such as saliva, tears, and breast milk.",
-    "h": "Mucosal immunity antibody"
-  },
-  {
-    "q": "A 12-year-old boy experiences severe wheezing, pruritus, and urticaria immediately after being stung by a wasp. Laboratory evaluations also note an elevated peripheral blood eosinophil count. Which of the following immunoglobulins binds to high-affinity receptors on mast cells and basophils to mediate allergic reactions and defend against parasitic infections?",
-    "a": [
-      "IgA",
-      "IgE",
-      "IgM",
-      "IgG",
-      "IgD"
-    ],
-    "c": 1,
-    "l": "Immunoglobulin E (IgE) is involved in mediating Type I hypersensitivity (allergic) reactions and defending the host against parasitic helminth infections.",
-    "h": "Allergy and parasite antibody"
-  },
-  {
-    "q": "An immunologist characterizes a class of immunoglobulins found almost exclusively anchored within the plasma membranes of naive, unactivated mature B lymphocytes, acting alongside monomeric IgM. Which of the following immunoglobulins serves primarily as this low-abundance surface B-cell receptor?",
-    "a": [
-      "IgM",
-      "IgG",
-      "IgA",
-      "IgE",
-      "IgD"
-    ],
+    "q": "Antibody associated with allergies?",
+    "a": ["IgM", "IgA", "IgG", "IgD", "IgE"],
     "c": 4,
-    "l": "Immunoglobulin D (IgD) is expressed primarily on the surface of naive B cells, where it functions as a antigen-binding B-cell receptor.",
-    "h": "B-cell receptor immunoglobulin"
+    "l": "IgE mediates allergy and parasitic defense.",
+    "h": "Allergy = IgE"
   },
   {
-    "q": "A molecular biology study evaluates the efficiency of neutrophil phagocytosis. When bacteria are incubated alone with neutrophils, ingestion proceeds slowly. However, adding specific serum proteins results in the coating of the microbial surfaces, accelerating phagocytic uptake. Which of the following groups of molecules acts as the principal factors driving this opsonization process?",
-    "a": [
-      "IL-1, TNF-alpha, and IL-6",
-      "IgG, C3b, and CRP",
-      "Histamine, PGE2, and LTB4",
-      "IgA, IgE, and IgD",
-      "E-selectin, ICAM-1, and PECAM-1"
-    ],
-    "c": 1,
-    "l": "Opsonization involves the coating of microbes by specific molecules, most notably IgG, complement fragment C3b, and C-reactive protein (CRP), to enhance recognition and phagocytosis.",
-    "h": "Opsonization factors"
-  },
-  {
-    "q": "During an in vitro experiment, neutrophils are exposed to opsonized bacteria. Almost immediately, a rapid increase in oxygen consumption is measured within the leukocyte population. This metabolic shift is directed toward producing microbicial reactive oxygen species. Which of the following terms best denotes this protective physiological phenomenon?",
-    "a": [
-      "Chemotaxis",
-      "Transmigration",
-      "Respiratory burst",
-      "Opsonization",
-      "Margination"
-    ],
-    "c": 2,
-    "l": "The respiratory burst (or oxidative burst) refers to the rapid metabolic upregulation of oxygen consumption by phagocytes to generate reactive oxygen species capable of destroying internalized pathogens.",
-    "h": "Oxidative killing process"
-  },
-  {
-    "q": "An investigator studies the enzymatic sequence within the phagolysosomes of activated neutrophils. The initial step of the respiratory burst requires the rapid conversion of molecular oxygen into superoxide radicals. Which of the following enzymes catalyzes this specific opening step?",
-    "a": [
-      "Superoxide dismutase",
-      "Myeloperoxidase",
-      "NADPH oxidase",
-      "Catalase",
-      "Glutathione peroxidase"
-    ],
-    "c": 2,
-    "l": "NADPH oxidase is the enzyme complex responsible for initiating the respiratory burst by converting molecular oxygen (O2) into superoxide anions (O2-).",
-    "h": "Superoxide generation enzyme"
-  },
-  {
-    "q": "Within a neutrophil phagolysosome, superoxide radicals are rapidly generated during the respiratory burst. To progress down the bactericidal pathway, an enzyme must convert these potentially dangerous superoxide anions into hydrogen peroxide (H2O2). Which of the following enzymes catalyzes this specific step?",
-    "a": [
-      "NADPH oxidase",
-      "Superoxide dismutase",
-      "Myeloperoxidase",
-      "Catalase",
-      "Glucose-6-phosphate dehydrogenase"
-    ],
-    "c": 1,
-    "l": "Superoxide dismutase (SOD) converts the highly reactive superoxide radical (O2-) into hydrogen peroxide (H2O2).",
-    "h": "Hydrogen peroxide conversion"
-  },
-  {
-    "q": "A laboratory study analyzes the contents of neutrophil azurophilic granules. An enzyme utilizes hydrogen peroxide (H2O2) and chloride ions as substrates to produce hypochlorous acid (HOCl). Which of the following enzymes is responsible for generating this potent bactericidal compound?",
-    "a": [
-      "NADPH oxidase",
-      "Superoxide dismutase",
-      "Myeloperoxidase",
-      "Catalase",
-      "Lysozyme"
-    ],
-    "c": 2,
-    "l": "Myeloperoxidase (MPO) is a granule enzyme that converts hydrogen peroxide (H2O2) in the presence of halides into hypochlorous acid (HOCl).",
-    "h": "Hypochlorous acid production"
-  },
-  {
-    "q": "Phagocytosed bacteria are exposed to an array of toxic oxygen-derived intermediates inside neutrophil phagolysosomes. Which of the following reactive chemicals represents the most potent neutrophil bactericidal agent generated during the normal respiratory burst?",
-    "a": [
-      "Superoxide anion (O2-)",
-      "Hydrogen peroxide (H2O2)",
-      "Hypochlorous acid (HOCl)",
-      "Nitric oxide (NO)",
-      "Hydroxyl radical (OH-)"
-    ],
-    "c": 2,
-    "l": "Hypochlorous acid (HOCl), chemically identical to active bleach, is the most potent and destructive bactericidal agent manufactured by neutrophils.",
-    "h": "Most potent bactericidal agent"
-  },
-  {
-    "q": "A 2-year-old boy is evaluated for recurrent, deep-seated bacterial skin and mucosal infections. Flow cytometry demonstrates a complete absence of the CD18 cell surface marker on his leukocytes. Which of the following conditions is characteristically caused by this molecular deficiency?",
-    "a": [
-      "Leukocyte Adhesion Deficiency Type I",
-      "Leukocyte Adhesion Deficiency Type II",
-      "Chediak-Higashi syndrome",
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase deficiency"
-    ],
-    "c": 0,
-    "l": "Leukocyte Adhesion Deficiency (LAD) Type I is caused by an autosomal recessive defect in the CD18 molecule, which is the beta-2 integrin subunit.",
-    "h": "CD18 integrin deficiency"
-  },
-  {
-    "q": "An infant with Leukocyte Adhesion Deficiency Type I is evaluated. Due to a genetically defective CD18 integrin subunit, his leukocytes are unable to interact properly with ligands on the vascular wall. Which of the following steps of leukocyte recruitment is directly disrupted by this specific mutation?",
-    "a": [
-      "Margination and rolling",
-      "Adhesion and transmigration",
-      "Chemotaxis along chemical gradients",
-      "Opsonization of encapsulated bacteria",
-      "Oxidative killing within phagolysosomes"
-    ],
-    "c": 1,
-    "l": "LAD Type I features a profound impairment in firm adhesion and subsequent transmigration (diapedesis) because neutrophils lack functional integrins.",
-    "h": "LAD Type I defective steps"
-  },
-  {
-    "q": "The parents of a 6-week-old infant bring him to the pediatrician because his umbilical cord stump has still not detached. On examination, the area is clean with no significant erythema, but a complete blood count reveals a marked peripheral leukocytosis. This classic presentation is associated with which of the following immunodeficiencies?",
-    "a": [
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase deficiency",
-      "Chediak-Higashi syndrome",
-      "Leukocyte Adhesion Deficiency Type I",
-      "Severe Combined Immunodeficiency"
-    ],
+    "q": "Which immunoglobulin acts as a B-cell receptor?",
+    "a": ["IgM", "IgE", "IgA", "IgD", "IgG"],
     "c": 3,
-    "l": "A classic clinical hallmark of Leukocyte Adhesion Deficiency (LAD) Type I is the delayed separation of the umbilical cord stump.",
-    "h": "Delayed umbilical cord separation"
+    "l": "IgD functions as a B-cell receptor.",
+    "h": "BCR = IgD"
   },
   {
-    "q": "A 14-month-old child presents with a severe perianal ulcer. Culture isolates Pseudomonas aeruginosa. Despite the clinical depth and severity of the infection, physical examination reveals an absence of fluctuance or localized purulence, and biopsy confirms an absence of neutrophils within the necrotic tissue. Which of the following primary disorders explains this clinical presentation?",
-    "a": [
-      "Leukocyte Adhesion Deficiency Type I",
-      "Chediak-Higashi syndrome",
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase deficiency",
-      "X-linked agammaglobulinemia"
-    ],
+    "q": "Best opsonin?",
+    "a": ["IgA", "IgG", "IgD", "IgE", "Albumin"],
+    "c": 1,
+    "l": "IgG is a major opsonin.",
+    "h": "Opsonin = IgG"
+  },
+  {
+    "q": "Respiratory burst generates?",
+    "a": ["ATP", "ROS", "IgG", "Histamine", "CRP"],
+    "c": 1,
+    "l": "Respiratory burst generates reactive oxygen species.",
+    "h": "ROS"
+  },
+  {
+    "q": "NADPH oxidase converts O₂ into?",
+    "a": ["H₂O₂", "HOCl", "Superoxide", "Water", "OH radical"],
+    "c": 2,
+    "l": "NADPH oxidase forms superoxide radicals.",
+    "h": "Superoxide"
+  },
+  {
+    "q": "Superoxide dismutase converts superoxide into?",
+    "a": ["HOCl", "H₂O₂", "O₂", "OH", "Water"],
+    "c": 1,
+    "l": "Superoxide dismutase forms H₂O₂.",
+    "h": "H₂O₂"
+  },
+  {
+    "q": "Myeloperoxidase converts H₂O₂ into?",
+    "a": ["HOCl", "Superoxide", "Water", "O₂", "CRP"],
     "c": 0,
-    "l": "LAD Type I presents with recurrent bacterial infections characterized by an absence of pus formation at infection sites, despite high white blood cell counts in circulation.",
-    "h": "Recurrent infections with no pus"
+    "l": "MPO generates HOCl (bleach).",
+    "h": "HOCl"
   },
   {
-    "q": "A patient is diagnosed with Leukocyte Adhesion Deficiency (LAD) Type II. Genetic testing confirms a loss-of-function mutation affecting a fucose transporter, leading to a complete structural absence of Sialyl-Lewis X on the leukocyte surface. Which of the following conditions matches this specific molecular pathology?",
-    "a": [
-      "LAD Type I",
-      "LAD Type II",
-      "Chediak-Higashi syndrome",
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase deficiency"
-    ],
-    "c": 1,
-    "l": "Leukocyte Adhesion Deficiency (LAD) Type II is caused by a defect in fucosylation, resulting in an absence of the crucial Sialyl-Lewis X ligand.",
-    "h": "Sialyl-Lewis X deficiency"
-  },
-  {
-    "q": "A 3-year-old child with Leukocyte Adhesion Deficiency Type II is evaluated. Because her neutrophils lack the functional carbohydrate ligand Sialyl-Lewis X, they cannot interact with selectins expressed on activated endothelial cells. Which of the following leukocyte recruitment stages is primarily affected?",
-    "a": [
-      "Margination",
-      "Rolling",
-      "Firm adhesion",
-      "Transmigration",
-      "Chemotaxis"
-    ],
-    "c": 1,
-    "l": "LAD Type II leads to defective rolling of leukocytes along the endothelium because selectins require Sialyl-Lewis X to mediate initial low-affinity interactions.",
-    "h": "LAD Type II defective step"
-  },
-  {
-    "q": "A 4-year-old girl is evaluated for recurrent infections. Genetic mapping reveals an autosomal recessive mutation in the LYST gene, which regulates intracellular vesicle dynamics. Which of the following primary clinical diagnoses matches this genetic abnormality?",
-    "a": [
-      "Leukocyte Adhesion Deficiency Type I",
-      "Leukocyte Adhesion Deficiency Type II",
-      "Chediak-Higashi syndrome",
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase deficiency"
-    ],
+    "q": "Most potent neutrophil bactericidal agent?",
+    "a": ["H₂O₂", "Superoxide", "HOCl", "NO", "C3b"],
     "c": 2,
-    "l": "Chediak-Higashi syndrome is caused by a loss-of-function mutation in the lysosomal trafficking regulator (LYST) gene.",
-    "h": "LYST gene mutation"
+    "l": "HOCl is the most potent neutrophil bactericidal agent.",
+    "h": "Bleach"
   },
   {
-    "q": "Neutrophils isolated from a patient with Chediak-Higashi syndrome are analyzed under electron microscopy. Phagocytosis occurs normally, and microbes are successfully internalized into phagosomes. However, the cells are unable to successfully fuse these compartments with azurophilic granules. Which of the following processes is defective in this patient?",
-    "a": [
-      "Firm endothelial adhesion",
-      "Transmigration across tissue barriers",
-      "Phagolysosome formation",
-      "Superoxide radical generation",
-      "Hypochlorous acid synthesis"
-    ],
-    "c": 2,
-    "l": "Chediak-Higashi syndrome features a cellular defect in phagolysosome formation due to abnormal microtubule-dependent trafficking and lysosomal fusion.",
-    "h": "Defective phagolysosome formation"
-  },
-  {
-    "q": "A 5-year-old boy with Chediak-Higashi syndrome presents with multiple painful cutaneous abscesses. Over his lifetime, he has experienced recurrent deep tissue skin infections requiring hospitalization. Which of the following specific microbial pathogens is most commonly isolated from infections in these patients?",
-    "a": [
-      "Aspergillus fumigatus",
-      "Staphylococcus aureus",
-      "Candida albicans",
-      "Pseudomonas aeruginosa",
-      "Nocardia asteroides"
-    ],
+    "q": "LAD I deficiency involves?",
+    "a": ["PECAM-1", "CD18", "Sialyl-Lewis X", "MPO", "NADPH oxidase"],
     "c": 1,
-    "l": "Patients with Chediak-Higashi syndrome suffer from recurrent, severe pyogenic infections, most frequently caused by Staphylococcus aureus.",
-    "h": "Recurrent S. aureus infections"
+    "l": "LAD I is caused by CD18 deficiency.",
+    "h": "CD18"
   },
   {
-    "q": "A 6-year-old child is brought to the clinic due to recurrent skin infections. On physical examination, the physician notes light silver-tinted hair, pale skin, and asymmetric nystagmus. A peripheral blood smear demonstrates neutrophils containing massive, irregular azurophilic inclusions. Which of the following disorders is consistent with this constellation of findings?",
-    "a": [
-      "Leukocyte Adhesion Deficiency Type I",
-      "Chronic Granulomatous Disease",
-      "Chediak-Higashi syndrome",
-      "Myeloperoxidase deficiency",
-      "Severe Combined Immunodeficiency"
-    ],
-    "c": 2,
-    "l": "Chediak-Higashi syndrome is characterized by partial oculocutaneous albinism, progressive peripheral neuropathy, recurrent infections, and giant granules inside neutrophils.",
-    "h": "Giant granules and albinism"
-  },
-  {
-    "q": "A 9-year-old boy presents with recurrent lymphadenitis and deep hepatic abscesses. Genetic testing identifies an X-linked defect in a subunit of the enzyme NADPH oxidase. Which of the following immunodeficiencies is characterized by this specific enzymatic failure?",
-    "a": [
-      "Leukocyte Adhesion Deficiency Type I",
-      "Chediak-Higashi syndrome",
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase deficiency",
-      "Hyper-IgM syndrome"
-    ],
-    "c": 2,
-    "l": "Chronic Granulomatous Disease (CGD) is an immunodeficiency disorder caused by a deficiency in the multi-subunit enzyme NADPH oxidase.",
-    "h": "NADPH oxidase deficiency"
-  },
-  {
-    "q": "An in vitro analysis of neutrophils from a patient with Chronic Granulomatous Disease is conducted. Phagocytosis proceeds normally, but the cellular respiratory burst is absent. Which of the following downstream steps in the oxidative killing pathway is directly blocked by this patient's primary defect?",
-    "a": [
-      "Fusion of lysosomes with phagosomes",
-      "Inability to generate superoxide radicals",
-      "Inability to convert H2O2 into HOCl",
-      "Loss of myeloperoxidase storage granules",
-      "Defective leukocyte rolling along endothelial selectins"
-    ],
+    "q": "Defective step in LAD I?",
+    "a": ["Rolling", "Adhesion", "Chemotaxis", "Phagocytosis", "Opsonization"],
     "c": 1,
-    "l": "Because of the missing NADPH oxidase activity, neutrophils from patients with CGD suffer from an inability to generate superoxide radicals (O2-) from molecular oxygen.",
-    "h": "Inability to make superoxide"
+    "l": "LAD I causes defective adhesion.",
+    "h": "Adhesion defect"
   },
   {
-    "q": "A 7-year-old boy with Chronic Granulomatous Disease presents with a severe lung infection. He has a history of recurrent infections with specific microbes that produce an enzyme capable of destroying the host cell's endogenous hydrogen peroxide. Which of the following classes of microbes poses the greatest threat to this patient?",
-    "a": [
-      "Catalase-positive infections",
-      "Anaerobic gas-producing infections",
-      "Encapsulated bacterial infections",
-      "Viral opportunistic infections",
-      "Latent intracellular infections"
-    ],
+    "q": "Classic neonatal finding in LAD I?",
+    "a": ["Cleft palate", "Delayed cord separation", "Albinism", "Thrush", "Eczema"],
+    "c": 1,
+    "l": "Delayed umbilical cord separation is classic.",
+    "h": "Cord separation"
+  },
+  {
+    "q": "LAD II is due to deficiency of?",
+    "a": ["CD18", "PECAM-1", "Sialyl-Lewis X", "MPO", "C3b"],
+    "c": 2,
+    "l": "LAD II is caused by Sialyl-Lewis X deficiency.",
+    "h": "Sialyl-Lewis X"
+  },
+  {
+    "q": "Defective step in LAD II?",
+    "a": ["Rolling", "Adhesion", "Chemotaxis", "Opsonization", "Phagocytosis"],
     "c": 0,
-    "l": "CGD patients are highly susceptible to recurrent infections with catalase-positive organisms, which neutralize their own H2O2, leaving the host cells without any source of reactive oxygen.",
-    "h": "Catalase-positive infections"
+    "l": "LAD II causes defective rolling.",
+    "h": "Rolling defect"
   },
   {
-    "q": "A 10-year-old boy with X-linked Chronic Granulomatous Disease is hospitalized with osteomyelitis. Cultures isolate a specific opportunistic pathogen. Which of the following groups contains only organisms that are characteristically catalase-positive and frequently isolated in patients with CGD?",
-    "a": [
-      "S. pneumoniae, N. meningitidis, and H. influenzae",
-      "S. aureus, Aspergillus, Serratia, Nocardia, and Burkholderia cepacia",
-      "C. perfringens, B. fragilis, and F. nucleatum",
-      "C. albicans, C. neoformans, and H. capsulatum",
-      "M. tuberculosis, M. leprae, and M. avium"
-    ],
+    "q": "Chediak-Higashi syndrome mutation?",
+    "a": ["BTK", "LYST", "CD18", "NADPH oxidase", "MPO"],
     "c": 1,
-    "l": "The major catalase-positive pathogens causing recurrent infections in CGD include Staphylococcus aureus, Aspergillus, Serratia, Nocardia, and Burkholderia cepacia.",
-    "h": "Catalase-positive organisms"
+    "l": "Chediak-Higashi is due to LYST mutation.",
+    "h": "LYST"
   },
   {
-    "q": "A clinical laboratory receives a blood sample from a child suspected of having Chronic Granulomatous Disease. The technicians set up a flow cytometric assay using dihydrorhodamine 123. Which of the following findings is diagnostic of CGD in this clinical test?",
-    "a": [
-      "Marked upregulation of green fluorescence",
-      "Normal respiratory burst response",
-      "Abnormal DHR test showing a lack of fluorescence",
-      "Absence of CD18 surface receptor expression",
-      "Detection of giant inclusion granules within cells"
-    ],
+    "q": "Chediak-Higashi defect?",
+    "a": ["Rolling", "Phagolysosome formation", "Complement", "Opsonization", "B cells"],
+    "c": 1,
+    "l": "Defective lysosomal trafficking causes defective phagolysosome formation.",
+    "h": "Phagolysosome"
+  },
+  {
+    "q": "Classic finding in Chediak-Higashi?",
+    "a": ["Howell-Jolly bodies", "Albinism", "Target cells", "Schistocytes", "Spherocytes"],
+    "c": 1,
+    "l": "Albinism is characteristic of Chediak-Higashi syndrome.",
+    "h": "Albinism"
+  },
+  {
+    "q": "CGD is caused by deficiency of?",
+    "a": ["MPO", "CD18", "NADPH oxidase", "PECAM", "C3"],
     "c": 2,
-    "l": "Chronic Granulomatous Disease is evaluated and diagnosed via an abnormal dihydrorhodamine (DHR) flow cytometry test, which demonstrates a lack of rhodamine fluorescence due to absent reactive oxygen species.",
-    "h": "Abnormal DHR test"
+    "l": "CGD results from NADPH oxidase deficiency.",
+    "h": "NADPH oxidase"
   },
   {
-    "q": "A patient's neutrophils are evaluated using a Nitroblue Tetrazolium (NBT) dye reduction assay. Following chemical stimulation, the patient's cells fail to undergo a color change and remain clear/yellow. This negative NBT test result confirms a diagnosis of which of the following conditions?",
-    "a": [
-      "Myeloperoxidase deficiency",
-      "Leukocyte Adhesion Deficiency Type I",
-      "Chronic Granulomatous Disease",
-      "Chediak-Higashi syndrome",
-      "Wiskott-Aldrich syndrome"
-    ],
+    "q": "CGD causes inability to generate?",
+    "a": ["HOCl", "Superoxide", "IgG", "CRP", "NO"],
+    "c": 1,
+    "l": "CGD patients cannot generate superoxide radicals.",
+    "h": "Superoxide"
+  },
+  {
+    "q": "CGD predisposes to which organisms?",
+    "a": ["Catalase-negative", "Catalase-positive", "Viruses", "Parasites", "Anaerobes"],
+    "c": 1,
+    "l": "CGD causes recurrent catalase-positive infections.",
+    "h": "Catalase positive"
+  },
+  {
+    "q": "CGD DHR test result?",
+    "a": ["Normal", "Abnormal", "Positive", "Blue", "Elevated"],
+    "c": 1,
+    "l": "DHR test is abnormal in CGD.",
+    "h": "Abnormal DHR"
+  },
+  {
+    "q": "CGD NBT test result?",
+    "a": ["Blue", "Positive", "Negative", "Normal", "High"],
     "c": 2,
-    "l": "In the Nitroblue Tetrazolium (NBT) slide test, neutrophils from patients with Chronic Granulomatous Disease yield a negative NBT test because they lack the superoxide necessary to reduce the yellow dye into blue formazan.",
-    "h": "NBT test negative"
+    "l": "NBT test is negative in CGD.",
+    "h": "NBT negative"
   },
   {
-    "q": "A 22-year-old male is evaluated for a suspected inherited neutrophil disorder. Laboratory investigations reveal that his leukocytes are completely unable to synthesize hypochlorous acid (HOCl) from hydrogen peroxide. Which of the following primary immunodeficiencies is characterized by this specific biochemical defect?",
-    "a": [
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase (MPO) deficiency",
-      "Leukocyte Adhesion Deficiency Type II",
-      "Chediak-Higashi syndrome",
-      "Glucose-6-phosphate dehydrogenase deficiency"
-    ],
+    "q": "MPO deficiency causes defective production of?",
+    "a": ["H₂O₂", "HOCl", "Superoxide", "NO", "CRP"],
     "c": 1,
-    "l": "Myeloperoxidase (MPO) deficiency is an inherited disorder characterized by an inability of neutrophils to produce hypochlorous acid (HOCl) due to a lack of functional MPO enzymes.",
-    "h": "Defective HOCl production"
+    "l": "MPO deficiency impairs HOCl production.",
+    "h": "HOCl defect"
   },
   {
-    "q": "An investigator analyzes neutrophils isolated from an individual with confirmed Myeloperoxidase deficiency. During incubation with bacteria, the cells demonstrate normal activation of the membrane-bound NADPH oxidase complex and consume normal amounts of oxygen. Which of the following physiological features characterizes this specific condition?",
-    "a": [
-      "Completely absent generation of superoxide anions",
-      "Normal respiratory burst",
-      "Defective leukocyte rolling along selectins",
-      "Failure of phagosomes to fuse with lysosomes",
-      "Absence of CD18 integrin receptors"
-    ],
+    "q": "Respiratory burst in MPO deficiency?",
+    "a": ["Absent", "Normal", "Reduced", "Excessive", "Variable"],
     "c": 1,
-    "l": "Patients with Myeloperoxidase (MPO) deficiency have a completely normal respiratory burst because their upstream NADPH oxidase enzyme functions perfectly.",
-    "h": "Normal respiratory burst"
+    "l": "Respiratory burst remains normal in MPO deficiency.",
+    "h": "Normal burst"
   },
   {
-    "q": "A 26-year-old male with an inherited phagocytic cell defect presents with persistent, recurrent oral and systemic infections caused by Candida albicans. Aside from these fungal complications, he remains relatively healthy. This clinical pattern is highly characteristic of which of the following disorders?",
-    "a": [
-      "Chronic Granulomatous Disease",
-      "Leukocyte Adhesion Deficiency Type I",
-      "Chediak-Higashi syndrome",
-      "Myeloperoxidase (MPO) deficiency",
-      "Severe Combined Immunodeficiency"
-    ],
-    "c": 3,
-    "l": "While frequently asymptomatic, patients with Myeloperoxidase (MPO) deficiency who do develop infections characteristically show an increased susceptibility to disseminated Candida infections.",
-    "h": "Susceptibility to Candida"
-  },
-  {
-    "q": "A patient suspected of having a primary leukocyte killing defect undergoes diagnostic testing. Activated neutrophils are mixed with Nitroblue Tetrazolium (NBT) dye. The cells successfully generate superoxide, and the slide turns a dense, dark blue color. This positive NBT test result is characteristic of which of the following conditions?",
-    "a": [
-      "Chronic Granulomatous Disease",
-      "Myeloperoxidase (MPO) deficiency",
-      "Leukocyte Adhesion Deficiency Type I",
-      "Chediak-Higashi syndrome",
-      "X-linked agammaglobulinemia"
-    ],
+    "q": "MPO deficiency predisposes to?",
+    "a": ["TB", "Candida", "Staph", "Nocardia", "Aspergillus"],
     "c": 1,
-    "l": "The Nitroblue Tetrazolium (NBT) test is positive (turns blue) in Myeloperoxidase (MPO) deficiency because superoxide production remains intact, allowing dye reduction.",
-    "h": "NBT test positive"
+    "l": "MPO deficiency increases susceptibility to Candida.",
+    "h": "Candida"
   },
   {
-    "q": "Neutrophils from a 19-year-old asymptomatic female are subjected to flow cytometric analysis using dihydrorhodamine 123 (DHR). Following chemical stimulation, a normal shift in green fluorescence is detected, indicating intact generation of upstream reactive oxygen species. Which of the following conditions is consistent with this normal DHR test result?",
-    "a": [
-      "X-linked Chronic Granulomatous Disease",
-      "Autosomal recessive Chronic Granulomatous Disease",
-      "Myeloperoxidase (MPO) deficiency",
-      "Leukocyte Adhesion Deficiency Type II",
-      "Chediak-Higashi syndrome"
-    ],
-    "c": 2,
-    "l": "The dihydrorhodamine (DHR) flow cytometry test is normal in individuals with Myeloperoxidase (MPO) deficiency because they generate normal amounts of peroxide substrate.",
-    "h": "DHR test normal"
+    "q": "NBT test in MPO deficiency?",
+    "a": ["Negative", "Positive", "Absent", "Reduced", "Abnormal"],
+    "c": 1,
+    "l": "NBT test is positive in MPO deficiency.",
+    "h": "NBT positive"
+  },
+  {
+    "q": "DHR test in MPO deficiency?",
+    "a": ["Normal", "Abnormal", "Negative", "Absent", "Reduced"],
+    "c": 0,
+    "l": "DHR test is normal in MPO deficiency.",
+    "h": "Normal DHR"
   }
-    ],
+],
     "3_cell_mediated_immune_response":
     [
   {
