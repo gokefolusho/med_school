@@ -1,1753 +1,1442 @@
 {
-  "moduleTitle": "Neuroscience: Block 2",
+  "moduleTitle": "NIS PHARM",
   "hero": {
-    "badge": "MD2 Neuroscience",
-    "title": "🧠 Neuro Block 2",
-    "subtitle": "The intuitive mind is a sacred gift and the rational mind is a faithful servant - Albert Einstein"
+    "badge": "MD3 NIS",
+    "title": "🧠 NIS Pharmacology",
+    "subtitle": ""
   },
   "sections": [
     {
       "id": "neuro-high-yield",
       "title": "",
-      "hint": "Focus on lesion localization, gaze pathways, brainstem syndromes, and basal ganglia circuits.",
+      "hint": "",
       "topics": [
         {
-          "header": "Eye Movement & Gaze Control",
-          "content": "<ul><li><b>PPRF (Pons):</b> Horizontal gaze center → coordinates CN VI + CN III via MLF.</li><li><b>Frontal Eye Field (Area 8):</b> Drives contralateral gaze.</li><li><b>MLF:</b> Connects CN III & VI → lesion = INO (adduction failure + nystagmus).</li><li><b>INO:</b> Convergence intact (NOT CN III palsy).</li><li><b>One-and-a-half:</b> PPRF + MLF lesion → only one eye abducts.</li><li><b>Eight-and-a-half:</b> + CN VII palsy → facial weakness.</li></ul>"
-        },
-        {
-          "header": "Pupillary Reflex & Midbrain",
-          "content": "<ul><li><b>CN II → Pretectal → bilateral EW nuclei → CN III:</b> Pupillary constriction.</li><li><b>Pretectal lesion:</b> Loss of direct + consensual reflex.</li><li><b>CN III:</b> Eye down & out + ptosis + dilated pupil.</li><li><b>Nucleus of Cajal:</b> Vertical gaze holding.</li><li><b>Superior colliculus:</b> Visual reflex + head/eye movement (tectospinal/tectobulbar).</li></ul>"
-        },
-        {
-          "header": "Brainstem Localization (Rule Focus)",
-          "content": "<ul><li><b>Medial (3 M's):</b> Motor (corticospinal), Medial lemniscus, Motor CN (III, VI, XII).</li><li><b>Lateral:</b> Spinothalamic, CN V sensory, Sympathetic (Horner), Cerebellum.</li><li><b>Key:</b> Ipsilateral CN signs + contralateral body deficits.</li></ul>"
-        },
-        {
-          "header": "High-Yield Brainstem Syndromes",
-          "content": "<ul><li><b>Medial Medullary (ASA):</b> Contralateral paralysis + vibration loss + tongue deviation (toward lesion).</li><li><b>Wallenberg (PICA):</b> Dysphagia + hoarseness + ipsi face pain + contra body pain + Horner.</li><li><b>Medial Pontine:</b> CN VI palsy + contralateral hemiplegia.</li><li><b>Lateral Pontine (AICA):</b> Facial paralysis + hearing loss.</li><li><b>Weber (Midbrain):</b> CN III palsy + contralateral hemiplegia.</li><li><b>Benedict/Claude:</b> CN III + tremor/ataxia (tegmentum).</li><li><b>Parinaud:</b> Upward gaze palsy + light-near dissociation.</li></ul>"
-        },
-        {
-          "header": "Blood Supply (Ultra High Yield)",
-          "content": "<ul><li><b>PICA:</b> Lateral medulla → Wallenberg.</li><li><b>ASA:</b> Medial medulla.</li><li><b>AICA:</b> Lateral pons → facial + auditory.</li><li><b>Basilar:</b> Pons → locked-in.</li><li><b>PCA:</b> Midbrain syndromes.</li></ul>"
-        },
-        {
-          "header": "Cerebellum",
-          "content": "<ul><li><b>Function:</b> Coordination (NOT strength).</li><li><b>Vermis lesion:</b> Truncal ataxia.</li><li><b>Hemisphere lesion:</b> Ipsilateral limb ataxia.</li><li><b>Signs:</b> Dysmetria, intention tremor, dysdiadochokinesia.</li><li><b>Purkinje cells:</b> Only output (inhibitory).</li></ul>"
-        },
-        {
-          "header": "Cerebellopontine Angle",
-          "content": "<ul><li><b>CN VII + VIII:</b> Facial paralysis + hearing loss.</li><li><b>Cause:</b> Vestibular schwannoma.</li><li><b>Key clue:</b> Facial + auditory symptoms together.</li></ul>"
-        },
-        {
-          "header": "Inferior Olive & Guillain-Mollaret",
-          "content": "<ul><li><b>Pathway:</b> Dentate → Red nucleus → Inferior olive.</li><li><b>Lesion:</b> Hypertrophy (unique).</li><li><b>Signs:</b> Palatal myoclonus + ocular oscillations.</li></ul>"
-        },
-        {
-          "header": "Basal Ganglia Pathways",
-          "content": "<ul><li><b>Direct:</b> Facilitates movement (D1 ↑).</li><li><b>Indirect:</b> Inhibits movement (D2 ↓).</li><li><b>Dopamine:</b> Promotes movement (↑ direct, ↓ indirect).</li><li><b>Thalamus (VA/VL):</b> Output to cortex.</li></ul>"
-        },
-        {
-          "header": "Basal Ganglia Diseases",
-          "content": "<ul><li><b>Parkinson:</b> Dopamine ↓ → TRAP (tremor, rigidity, akinesia, postural instability).</li><li><b>Huntington:</b> AD, CAG repeat → chorea + dementia.</li><li><b>Wilson:</b> Copper → KF rings + movement + liver.</li><li><b>Hemiballismus:</b> STN lesion → flinging movements.</li><li><b>Sydenham:</b> Post-strep chorea (kids).</li><li><b>Tourette:</b> Motor + vocal tics.</li></ul>"
-        },
-        {
-          "header": "Pons (Exam Favorite)",
-          "content": "<ul><li><b>CN:</b> V, VI, VII, VIII.</li><li><b>PPRF:</b> Horizontal gaze.</li><li><b>Middle cerebellar peduncle:</b> Largest → coordination.</li><li><b>Lesions:</b> Facial + eye movement + motor signs.</li></ul>"
-        },
-        {
-          "header": "Exam Strategy",
-          "content": "<ul><li><b>Always localize:</b> Medial vs lateral + level (medulla, pons, midbrain).</li><li><b>Eye signs:</b> INO → MLF, gaze palsy → PPRF.</li><li><b>Facial weakness:</b> LMN = whole face, UMN = forehead spared.</li><li><b>CN combos:</b> VII + VIII = CP angle.</li><li><b>Movement disorder:</b> Think basal ganglia pathways.</li></ul>"
+          "header": "",
+          "content": ""
         }
       ]
     }
   ],
   "quizzes": {
-    "neuro_batch1": [
-      {
-        "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
-        "a": [
-          "Angular gyrus + supramarginal gyrus",
-          "Anterior + posterior paracentral gyri",
-          "Cuneus + lingual gyrus",
-          "Pars opercularis + pars triangularis",
-          "Uncus + parahippocampal gyrus"
-        ],
-        "c": 3,
-        "l": "Lesion of Broca’s area (inferior frontal gyrus: pars opercularis & triangularis) causes expressive aphasia with preserved comprehension.",
-        "h": "Aphasic but understands → expressive aphasia → Broca"
-      },
-      {
-        "q": "Dysdiadochokinesia is an impairment of:",
-        "a": [
-          "Successive finger movements",
-          "Heel-to-shin testing",
-          "Rapid alternating movements",
-          "Tremor suppression",
-          "Conjugate eye movements"
-        ],
-        "c": 2,
-        "l": "Dysdiadochokinesia is a cerebellar sign characterized by inability to perform rapid alternating movements.",
-        "h": "Cerebellar sign → rapid alternating movement"
-      },
-      {
-        "q": "The term lentiform nucleus refers to:",
-        "a": [
-          "Caudate and putamen",
-          "Caudate and globus pallidus",
-          "Putamen and globus pallidus",
-          "Caudate only",
-          "Putamen only"
-        ],
-        "c": 2,
-        "l": "The lentiform nucleus = putamen + globus pallidus, forming part of the basal ganglia.",
-        "h": "Lentiform = putamen + globus pallidus"
-      },
-      {
-        "q": "A 59-year-old right-handed male was admitted to the hospital with a chief complaint of occipital headaches of 3 weeks duration. Two weeks prior to admission, the patient had a sudden onset of diplopia on forward gaze and a sensation of dizziness. One day prior to admission, he noted a sudden onset of ptosis of the right eye. The patient has a history of hypertension of two years. His blood pressure is 180/100 mmHg. He is alert, oriented, and cooperative. His pupils are equal and reactive to light. The uvula deviates to the left side and there is deficient elevation on the right side of the palate. The patient also has nystagmus on left lateral gaze and his right corneal reflex is diminished. His facial expressions are full and symmetric; however, he does not respond to pinprick sensations on the left side of his face and left side of his body. Ataxia and intention tremor are present on his right lower extremity. Position, vibration, and touch modalities are intact throughout. What do you think his diagnosis is based on the options below?",
-        "a": [
-          "Wallenberg syndrome",
-          "Dejerine syndrome",
-          "Lateral pontine syndrome",
-          "Benedict’s syndrome"
-        ],
-        "c": 0,
-        "l": "Lateral medullary (PICA) lesion causes ipsilateral facial pain loss, contralateral body pain loss, nucleus ambiguus deficits (dysphagia), and cerebellar signs.",
-        "h": "Crossed deficits + nucleus ambiguus (uvula) = Wallenberg"
-      },
-      {
-        "q": "Which of the following statements about the globus pallidus is not true?",
-        "a": [
-          "It is located adjacent (lateral) to the internal capsule",
-          "It receives excitatory axons from the caudate and putamen",
-          "It is the major outflow nucleus of the corpus striatum",
-          "It sends inhibitory axons to the thalamus"
-        ],
-        "c": 1,
-        "l": "The globus pallidus receives inhibitory (GABAergic), not excitatory, input from the striatum (caudate + putamen).",
-        "h": "Basal ganglia output = inhibitory (GABA)"
-      },
-      {
-        "q": "A 50-year-old woman was diagnosed with paralysis of her right arm and leg that later became spastic with increased deep reflexes and a positive Babinski sign. There were also movements on the left extremities. The muscles of the lips and cheeks were weak on the right side, but she could tightly close both eyes and wrinkle her forehead symmetrically. An internuclear ophthalmoplegia was observed in which the left eye would not adduct on attempted lateral gaze to the right although both eyes converged on near objects. There was loss of vibratory sense and discriminative touch from the right side of the body. When protruded, the tongue deviated toward the right. Based on these findings, what is the site of lesion?",
-        "a": [
-          "Medulla",
-          "Pons",
-          "Midbrain",
-          "Cerebral cortex"
-        ],
-        "c": 1,
-        "l": "Combination of corticospinal, medial lemniscus, cranial nerve (facial weakness), and MLF (INO) signs localizes the lesion to the pons.",
-        "h": "INO (MLF) + facial weakness = Pons"
-      },
-      {
-        "q": "Which of the following is not correctly paired?",
-        "a": [
-          "Neostriatum – Caudate nucleus plus putamen",
-          "Lentiform nucleus – Globus pallidus plus putamen",
-          "Corpus striatum – Caudate nucleus plus lentiform nucleus",
-          "Amygdaloid body – Claustrum plus amygdaloid nucleus"
-        ],
-        "c": 3,
-        "l": "The amygdaloid body refers only to the amygdala, not the claustrum, which is a separate structure.",
-        "h": "Amygdala ≠ Claustrum"
-      },
-      {
-        "q": "The prefrontal cortex (areas 9, 10, 11 and 12) is essential for:",
-        "a": [
-          "Feeding",
-          "Sexual thoughts",
-          "Foresight",
-          "Stereognosis",
-          "Spatial organization"
-        ],
-        "c": 2,
-        "l": "The prefrontal cortex (especially dorsolateral) is responsible for executive functions like planning, judgment, and foresight.",
-        "h": "Prefrontal = planning + decision making"
-      },
-      {
-        "q": "Lesions of the superior parietal lobule interfere with the patient's ability to combine touch, pressure, and proprioceptive impulses, so that he is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
-        "a": [
-          "Alexia",
-          "Agraphia",
-          "Astereognosis",
-          "Acalculia"
-        ],
-        "c": 2,
-        "l": "Damage to the parietal lobe causes astereognosis—an inability to recognize objects by touch despite intact sensation.",
-        "h": "Cannot identify object by touch = astereognosis"
-      },
-      {
-        "q": "Adam is a 60-year-old man who is right-handed and was told in the past by his doctor that he has an irregular heartbeat. One morning, he woke to find that his face drooped on the right side and that he could not move his right arm or right leg. When he tried to call an ambulance for help, he had a great deal of difficulty communicating with the operator. His speech was slurred, nonfluent, and missing some pronouns. When listened to, Adam’s heart rate was irregular. He detected an irregular heartbeat. It was very difficult to understand Adam’s speech because it was halting, with a tendency to repeat the same phrases over and over. He had difficulty repeating specific sentences given to him by the neurologist. He was able to follow commands such as “Touch your right ear with your left hand.” His mouth drooped on the right when he attempted to smile, but his forehead remained symmetric. He could not move his right arm at all, but he was able to wiggle his right leg a little bit. Which of the following language problems does Adam have?",
-        "a": [
-          "Dysarthria",
-          "Wernicke’s aphasia",
-          "Broca’s aphasia",
-          "Alexia",
-          "Word deafness"
-        ],
-        "c": 2,
-        "l": "Nonfluent, effortful speech with preserved comprehension indicates Broca’s (expressive) aphasia.",
-        "h": "Nonfluent speech + understands = Broca"
-      },
-      {
-        "q": "Cerebral dominance refers to:",
-        "a": [
-          "That hemisphere which is more tactual",
-          "That hemisphere which controls left or right-handed writers",
-          "That hemisphere where speech and language is controlled",
-          "That hemisphere which receives the majority of corpus callosum fibers"
-        ],
-        "c": 2,
-        "l": "The dominant hemisphere (usually left) is defined by control of language and speech functions.",
-        "h": "Dominant hemisphere = language"
-      },
-      {
-        "q": "A 64-year-old woman is admitted to the emergency room after she experienced dizziness. Several days later, a neurological examination reveals that the patient is unable to move her right eye medially. Which of the following is the likely locus of the lesion?",
-        "a": [
-          "Dorsal medulla",
-          "Ventromedial medulla",
-          "Dorsal pons",
-          "Ventromedial pons",
-          "Medial midbrain"
-        ],
-        "c": 2,
-        "l": "Failure of medial eye movement (adduction) suggests internuclear ophthalmoplegia due to MLF lesion in the dorsal pons.",
-        "h": "Cannot adduct eye → MLF → Pons"
-      },
-      {
-        "q": "A 77-year-old woman has a sudden headache and loses consciousness. The next day, after she had regained consciousness, she was aphasic, a bit somnolent, able to answer questions with “yes” or “no,” but was unable to construct even a short sentence. The woman seems to be fully aware of her situation. MRI revealed a lesion in the cerebral cortex. This lesion is most likely located in which of the following?",
-        "a": [
-          "Angular gyrus + supramarginal gyrus",
-          "Anterior + posterior paracentral gyri",
-          "Lingual gyrus",
-          "Inferior frontal gyrus",
-          "Parahippocampal gyrus"
-        ],
-        "c": 3,
-        "l": "The inferior frontal gyrus (Broca’s area) is responsible for speech production—lesions cause expressive aphasia.",
-        "h": "Expressive aphasia = inferior frontal gyrus"
-      },
-      {
-        "q": "A 55-year-old man lost consciousness suddenly. Upon regaining consciousness, he complained of double vision and a tremor in his left arm. He was mentally intact and his speech was articulate and appropriate. The right eye had a dilated pupil and he had altered strabismus. On attempted lateral gaze to the left, the right eye would not cross the midline. Although vision was normal, the right pupil did not constrict in either direct or consensual pupillary light reflex. Hearing was normal, as were the rest of the cranial nerves from 5–12. Pain and temperature sensation from the body and face were normal bilaterally. There was diminished vibratory sense and muscle strength in the left arm, which also showed an intention tremor, dysmetria, and occasional involuntary movements. Which of the following syndrome could possibly present these signs and symptoms?",
-        "a": [
-          "Horner’s syndrome",
-          "Weber’s syndrome",
-          "Benedict’s syndrome",
-          "Wallenberg’s syndrome"
-        ],
-        "c": 2,
-        "l": "Midbrain lesion affecting CN III, red nucleus, and medial lemniscus causes oculomotor palsy with contralateral ataxia and tremor (Benedict’s syndrome).",
-        "h": "CN III palsy + tremor = Benedict syndrome"
-      },
-      {
-        "q": "A 69-year-old man is brought to the Emergency Department by local EMS. He is somewhat somnolent and complains of a headache. The examination reveals normal cranial nerve function but a profound right-sided weakness and loss of pain sensation and discriminative touch in his right upper and lower extremities. MRI reveals a hemorrhagic stroke in the internal capsule. Based on this man’s deficits, this lesion is most likely located in which of the following?",
-        "a": [
-          "Anterior limb",
-          "Genu",
-          "Posterior limb",
-          "Retrolenticular limb",
-          "Sublenticular limb"
-        ],
-        "c": 2,
-        "l": "The posterior limb of the internal capsule carries corticospinal and sensory fibers.",
-        "h": "Motor + sensory loss = posterior limb"
-      },
-      {
-        "q": "A 59-year-old morbidly obese man is brought to the Emergency Department following an episode at his home. The history reveals that the man has uncontrolled diabetes and hypertension. The precipitating factor for this visit was the sudden onset of involuntary flailing movements of his right upper extremity, which occur intermittently without warning. MRI reveals a well-localized infarct in the diencephalon. This lesion is most likely located in which of the following nuclei of the diencephalon?",
-        "a": [
-          "Anterior",
-          "Centromedian",
-          "Subthalamic",
-          "Ventral lateral",
-          "Ventral posteromedial"
-        ],
-        "c": 2,
-        "l": "Lesion of the subthalamic nucleus causes hemiballismus.",
-        "h": "Flailing movements = hemiballismus = subthalamic"
-      },
-      {
-        "q": "The family of a 55-year-old female noticed that she was experiencing headaches, having difficulty completing mechanical tasks such as tying her right shoelace, and inability to voluntarily move her eyes to the right. After being hospitalized, an MRI (shown in the following picture) revealed the presence of a tumor. Which of the following regions was primarily affected by the tumor that best accounts for the observed deficits?",
-        "a": [
-          "Prefrontal cortex",
-          "Premotor region",
-          "Precentral gyrus",
-          "Basal ganglia"
-        ],
-        "c": 2,
-        "l": "The precentral gyrus (primary motor cortex) controls voluntary movement of the contralateral body.",
-        "h": "Motor weakness = primary motor cortex"
-      },
-      {
-        "q": "A lesion in the cerebellopontine angle produces?",
-        "a": [
-          "Facial palsy",
-          "Loss of hearing",
-          "Both A and B",
-          "None of the above is correct"
-        ],
-        "c": 2,
-        "l": "CPA lesions affect CN VII and VIII.",
-        "h": "CPA = CN7 + CN8"
-      },
-      {
-        "q": "A 52-year-old male is admitted to a local hospital after he first began complaining of headaches, which were then followed by a significant weakness in his right arm and leg, slurred speech, and lack of expression on the right side of the jaw. An MRI reveals the presence of a well-defined brain tumor (shown in the picture below). Which of the following structures or regions damaged by the tumor best accounts for the observed deficits?",
-        "a": [
-          "Internal capsule",
-          "Caudate nucleus",
-          "Globus pallidus"
-        ],
-        "c": 0,
-        "l": "The internal capsule contains major motor pathways.",
-        "h": "Motor deficits → internal capsule"
-      },
-      {
-        "q": "After his wife had a stroke, a husband notices that his wife's hair is always tangled and uncombed on the left side of her head, although on the right her hair is straightened and orderly. The left side of her face is usually with food remaining there, but the right face is always clean. She has stopped putting her ring and watch on her left hand. When eating, she never uses her fork on the left side of her plate and, surprisingly, she often asks why she was not given a fork to eat with. This woman's stroke most likely damaged which area?",
-        "a": [
-          "Parietal lobe",
-          "Temporal lobe",
-          "Occipital lobe",
-          "Premotor cortex of frontal lobe",
-          "Orbitomedial cortex of frontal lobe"
-        ],
-        "c": 0,
-        "l": "Damage to the right parietal lobe causes contralateral hemispatial neglect.",
-        "h": "Neglect of left side = right parietal lobe"
-      }
+"0_basic_concepts": [
+  {
+    "q": "Which of the following terms best describes a specialized foreign substance, molecule, or structural marker captured by dendritic cells that can be specifically recognized by adaptive immune cells to trigger a response?",
+    "a": [
+      "Antibody",
+      "Antigen",
+      "Complement",
+      "Interferon",
+      "Interleukin"
     ],
-    "neuro_batch2": [
-      {
-        "q": "The Purkinje cells of the cerebellar cortex:",
-        "a": [
-          "Provides the only output to the deep cerebellar nuclei",
-          "Receives inhibitory input from climbing fibers",
-          "Send axons to the thalamus",
-          "Are excited by the axons of the basket cells"
-        ],
-        "c": 0,
-        "l": "Purkinje cells are the sole output neurons of the cerebellar cortex and send inhibitory (GABAergic) signals to deep cerebellar nuclei.",
-        "h": "Only output of cerebellar cortex → Purkinje cells"
-      },
-      {
-        "q": "Lucy is a 55-year-old woman with a history of hypertension and diabetes for more than 15 years. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Her speech was slurred and unintelligible. She lay on the floor and waited for help to arrive. At the emergency room, she was found to follow commands well, and although her speech was very slurred, it was logical in organization. The lower two-thirds of her face pointed to the right side when asked to protrude her tongue. Her right arm and leg were severely but equally weak. The left side was normal. Where is the lesion most likely located?",
-        "a": [
-          "Left precentral gyrus",
-          "Right precentral gyrus",
-          "Left internal capsule",
-          "Right putamen or globus pallidus",
-          "Left thalamus"
-        ],
-        "c": 2,
-        "l": "Equal contralateral face, arm, and leg weakness with dysarthria indicates a lacunar stroke of the internal capsule due to small vessel disease from hypertension and diabetes.",
-        "h": "Equal face + arm + leg weakness → internal capsule (pure motor stroke)"
-      },
-      {
-        "q": "Which of the following nuclei in the thalamus projects to area 3, 1, 2 of the cortex?",
-        "a": [
-          "Dorsomedial",
-          "Lateral geniculate",
-          "Ventral posteromedial",
-          "Ventral posterolateral"
-        ],
-        "c": 3,
-        "l": "Area 3, 1, 2 is the primary somatosensory cortex. The Ventral Posterolateral (VPL) nucleus relays sensory information (pain, temperature, touch, proprioception) from the body to this cortical area.",
-        "h": "Body sensation → VPL → Somatosensory cortex (3, 1, 2)"
-      },
-      {
-        "q": "Heschl’s convolutions are located in which of the following areas?",
-        "a": [
-          "Brodmann’s areas 41, 42",
-          "Centre for defecation and micturition",
-          "Brodmann’s area 43",
-          "Anterior (motor) speech area",
-          "Primary motor cortex"
-        ],
-        "c": 0,
-        "l": "Heschl’s gyrus (transverse temporal gyri) represents the primary auditory cortex, located in the superior temporal lobe (Brodmann areas 41 & 42).",
-        "h": "Heschl’s gyrus = Primary auditory cortex (BA 41, 42)"
-      },
-      {
-        "q": "A 55-year-old overweight man collapsed while loading a truck. Examination revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the left side of the body. These findings suggest:",
-        "a": [
-          "A lesion in the left medial medulla",
-          "A lesion in the right medial pons",
-          "A lesion in the right medial medulla",
-          "A lesion in the lateral medulla",
-          "A lesion in the left medial pons"
-        ],
-        "c": 0,
-        "l": "Medial Medullary Syndrome (Dejerine syndrome) involves the pyramid (contralateral hemiparesis), medial lemniscus (contralateral vibration loss), and CN XII (ipsilateral tongue deviation). Tongue deviates toward the lesion side (Left).",
-        "h": "Contralateral motor/sensory + Ipsilateral tongue = Medial Medulla"
-      },
-      {
-        "q": "Symptoms of cerebellar disease include all of the following EXCEPT:",
-        "a": [
-          "Tremors while performing movements",
-          "Ataxia",
-          "Dysarthria",
-          "Paralysis"
-        ],
-        "c": 3,
-        "l": "The cerebellum coordinates movement but does not initiate it. Lesions cause ataxia, intention tremors, and dysarthria, but NOT paralysis (which is a sign of UMN/LMN lesions).",
-        "h": "Cerebellum = Coordination; Motor initiation = Cortex (Paralysis ≠ Cerebellum)"
-      },
-      {
-        "q": "A 40-year-old male has difficulty producing a smile from the left side of his face. Muscles are flaccid and the eyelids are open. Where do the cell bodies of origin within the CNS lie?",
-        "a": [
-          "Upper medulla",
-          "Lower pons",
-          "Upper pons",
-          "Lower midbrain",
-          "Upper midbrain"
-        ],
-        "c": 1,
-        "l": "This describes a Bell's palsy or Lower Motor Neuron facial nerve (CN VII) lesion. The facial nerve nucleus is located in the lower pons.",
-        "h": "Facial nerve nucleus (CN VII) → Lower pons"
-      },
-      {
-        "q": "The lateral geniculate body:",
-        "a": [
-          "Transmits visual information to the cerebral cortex",
-          "Is part of the mesencephalon",
-          "Is a visual motor reflex center",
-          "Relays auditory information to the cerebral cortex",
-          "All of the above"
-        ],
-        "c": 0,
-        "l": "The Lateral Geniculate Nucleus (LGN) of the thalamus is the primary relay station for visual information from the retina to the primary visual cortex (BA 17).",
-        "h": "LGN = Light (Visual relay)"
-      },
-      {
-        "q": "A 50-year-old woman has right-sided spastic paralysis, loss of vibratory sense on the right, and internuclear ophthalmoplegia (INO) where the left eye would not adduct. Her tongue deviated toward the right. Where is the site of lesion?",
-        "a": [
-          "Medulla",
-          "Pons",
-          "Midbrain",
-          "Cerebral cortex",
-          "Difficulty to diagnose"
-        ],
-        "c": 1,
-        "l": "The presence of Internuclear Ophthalmoplegia (INO) signifies a lesion of the Medial Longitudinal Fasciculus (MLF), which is a classic localizing sign for the pons.",
-        "h": "INO (MLF lesion) = Pons"
-      },
-      {
-        "q": "A 62-year-old man presents with slow shuffling gait, stooped posture, masked facies, micrographia, and a resting pill-rolling tremor. What is the diagnosis?",
-        "a": [
-          "Lateral medullary syndrome",
-          "Sign of cerebellar lesion",
-          "Parkinson’s disease",
-          "Unable to diagnose"
-        ],
-        "c": 2,
-        "l": "Parkinson’s disease is characterized by the 'TRAP' mnemonic: Tremor (resting), Rigidity, Akinesia/bradykinesia, and Postural instability, along with masked facies and micrographia.",
-        "h": "Pill-rolling tremor + Shuffling gait + Masked facies = Parkinson’s"
-      },
-      {
-        "q": "A 70-year-old woman presents with the complaint of difficulty walking. The history reveals that the woman suddenly had problems while she was playing with her granddaughter at the local park. The examination reveals a slender, otherwise healthy woman who has ataxia and is unable to do the finger-to-nose and the heel-to-shin tests on the right, and has slurred, garbled speech. Which of the following specifically describes the pattern of movement in this woman?",
-        "a": [
-          "Apraxia",
-          "Dysarthria",
-          "Dyslexia",
-          "Dysmetria",
-          "Dysphagia"
-        ],
-        "c": 3,
-        "l": "Dysmetria is a cerebellar sign characterized by inability to accurately judge distance, leading to overshooting or undershooting during movements like finger-to-nose testing.",
-        "h": "Finger-to-nose error + ataxia = dysmetria"
-      },
-      {
-        "q": "A patient who suffers from chronic alcohol abuse, which affects neurons in the cerebellum, will most likely:",
-        "a": [
-          "Have a scanning dysarthria",
-          "Have a dysdiadochokinesia",
-          "Have an ataxic gait",
-          "Have a dysmetria"
-        ],
-        "c": 2,
-        "l": "Chronic alcohol abuse commonly damages the anterior vermis of the cerebellum, leading to gait ataxia (truncal instability).",
-        "h": "Alcohol → anterior vermis → gait ataxia"
-      },
-      {
-        "q": "Which cortical area is responsible for taste recognition?",
-        "a": [
-          "Brodmann’s areas 41, 42",
-          "Centre for defecation and micturition",
-          "Brodmann’s area 43",
-          "Anterior (motor) speech area",
-          "Primary motor cortex"
-        ],
-        "c": 2,
-        "l": "Brodmann area 43 corresponds to the gustatory cortex responsible for taste perception.",
-        "h": "Taste = BA 43"
-      },
-      {
-        "q": "Huntington’s disease is characterized by neuronal degeneration in which of the following structures?",
-        "a": [
-          "Striatum",
-          "Globus pallidus, internal segment",
-          "Globus pallidus, external segment",
-          "Substantia nigra",
-          "Thalamus"
-        ],
-        "c": 0,
-        "l": "Huntington’s disease involves degeneration of GABAergic neurons in the striatum (especially the caudate nucleus), leading to chorea.",
-        "h": "Huntington = caudate (striatum)"
-      },
-      {
-        "q": "Which of the following is an excitatory neuron within the cerebellar cortex?",
-        "a": [
-          "Basket cell",
-          "Golgi cell",
-          "Granule cell",
-          "Purkinje cell",
-          "Stellate cell"
-        ],
-        "c": 2,
-        "l": "Granule cells are the only excitatory neurons in the cerebellar cortex, while all others (Purkinje, basket, stellate, Golgi) are inhibitory.",
-        "h": "Only excitatory = granule cell"
-      },
-      {
-        "q": "A 35-year-old woman is brought to her family physician by her husband. The results of the examination reveal deficits that suggest the woman has had a precipitous vascular event. A CT is ordered, revealing a small stroke in the genu of the internal capsule. Which of the following fiber populations is most affected in this woman's stroke?",
-        "a": [
-          "Corticonigral",
-          "Corticopontine",
-          "Corticospinal",
-          "Corticostriatal",
-          "Corticonuclear"
-        ],
-        "c": 4,
-        "l": "The genu of the internal capsule contains corticonuclear (corticobulbar) fibers that control cranial nerve motor functions.",
-        "h": "Genu = corticonuclear"
-      },
-      {
-        "q": "The neural tract that connects Broca’s area (Brodmann’s 44) with Wernicke’s area (Brodmann’s 22) and regulates fluent speech is the:",
-        "a": [
-          "Fornix",
-          "Stria terminalis",
-          "Arcuate fasciculus",
-          "Corpus callosum",
-          "Superior longitudinal bundle"
-        ],
-        "c": 2,
-        "l": "The arcuate fasciculus connects Broca’s and Wernicke’s areas and is essential for coordinated speech; damage causes conduction aphasia.",
-        "h": "Broca ↔ Wernicke = arcuate fasciculus"
-      },
-      {
-        "q": "Which dopaminergic pathway projects mainly to the caudate nucleus?",
-        "a": [
-          "Nigrostriatal pathway",
-          "The medial longitudinal fasciculus",
-          "Both A and B",
-          "None of the above"
-        ],
-        "c": 0,
-        "l": "The nigrostriatal pathway carries dopamine from the substantia nigra to the striatum (caudate and putamen) and is essential for movement control.",
-        "h": "Nigrostriatal = movement"
-      },
-      {
-        "q": "A 63-year-old patient is seen in a clinic with the following symptoms: a resting tremor in the hand, a slow shuffling gait, and difficulty arising from a chair when seated. These symptoms could be caused by a lesion in the:",
-        "a": [
-          "Subthalamic nucleus",
-          "Cerebellar hemisphere",
-          "Corticospinal tract",
-          "Substantia nigra"
-        ],
-        "c": 3,
-        "l": "Degeneration of dopaminergic neurons in the substantia nigra causes Parkinson’s disease, characterized by tremor, rigidity, and bradykinesia.",
-        "h": "Parkinson = substantia nigra"
-      },
-      {
-        "q": "Gamma aminobutyric acid (GABA) is considered the predominant neurotransmitter in all of the following except?",
-        "a": [
-          "Strionigral fibers",
-          "Striopallidal fibers",
-          "Corticostriate fibers",
-          "Pallidonigral fibers"
-        ],
-        "c": 2,
-        "l": "Corticostriate fibers use glutamate (excitatory), whereas basal ganglia intrinsic pathways (striatal and pallidal) primarily use GABA (inhibitory).",
-        "h": "Cortex = glutamate, not GABA"
-      },
-      {
-        "q": "All of the following are the signs of lateral pontine syndrome EXCEPT?",
-        "a": [
-          "Ipsilateral limb ataxia",
-          "Ipsilateral pain and temperature loss from the face",
-          "Contralateral pain and temperature loss from the body",
-          "Contralateral loss of discriminative touch and vibration in the body"
-        ],
-        "c": 3,
-        "l": "Lateral pontine syndrome affects spinothalamic and trigeminal pathways but spares the medial lemniscus, so vibration and discriminative touch are preserved.",
-        "h": "Lateral = pain/temp, NOT vibration"
-      },
-      {
-        "q": "Lucy is a 55-year-old woman who has had high blood pressure and diabetes for more than 15 years. One day, as she was reaching for a switch to put on the light she collapsed. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Lucy attempted to cry for help because she was unable to reach the telephone; however, her speech was slurred and rather unintelligible. She lay on the floor and waited for help to arrive. Lucy’s son began to worry about his usually prompt mother when she didn’t arrive for his birthday. After several attempts to telephone her apartment without getting an answer, he drove there to find her lying on the floor. She attempted to tell him what had happened, but her speech was too slurred to comprehend. Assuming that his mother had had a stroke, the son called an ambulance to take her to the nearest emergency room (ER). A neurology resident was called to see Lucy in the emergency room because the physicians there likewise thought that she had a stroke. The resident noted that Lucy followed commands very well, and although her speech was very slurred, it was logical and organized. Also, the lower two-thirds of her face drooped on the right. Her tongue pointed to the right side when she was asked to protrude it. Her right arm and leg were severely, but equally weak; her left side had normal strength. Where did Lucy’s stroke most likely happen?",
-        "a": [
-          "Left precentral gyrus",
-          "Right precentral gyrus",
-          "Left internal capsule",
-          "Right putamen or globus pallidus",
-          "(Not fully visible in image)"
-        ],
-        "c": 2,
-        "l": "A lesion in the left internal capsule causes contralateral pure motor deficits (face, arm, leg) with dysarthria due to corticospinal and corticobulbar fiber involvement.",
-        "h": "Pure motor stroke = internal capsule"
-      },
-      {
-        "q": "A lesion of the genu of the internal capsule on the right side could result in all but which of the following?",
-        "a": [
-          "Inability to smile with the left side of the face on command",
-          "Deviation of the tongue to the left on protrusion",
-          "Hyperacusis on the left",
-          "All of the above could result"
-        ],
-        "c": 3,
-        "l": "The genu of the internal capsule contains corticonuclear fibers, so lesions can cause contralateral facial weakness, tongue deviation, and cranial nerve-related deficits like hyperacusis.",
-        "h": "Genu = cranial nerve motor fibers"
-      },
-      {
-        "q": "Which of the following thalamic nuclei receives important projections from the internal segment of the globus pallidus and from the contralateral cerebellar nuclei?",
-        "a": [
-          "Anterior nucleus",
-          "Lateral dorsal nucleus",
-          "Ventral lateral nucleus",
-          "Ventral posterolateral nucleus",
-          "Ventral posteromedial nucleus"
-        ],
-        "c": 2,
-        "l": "The ventral lateral (VL) nucleus of the thalamus receives input from the globus pallidus and cerebellum and relays motor information to the motor cortex.",
-        "h": "VL = motor relay"
-      },
-      {
-        "q": "Lesions of the superior parietal lobule interfere with the patient’s ability to combine touch, pressure, and proprioceptive impulses, so he or she is unable to appreciate texture, size, and form. This loss of integration of sensory impulses is called:",
-        "a": [
-          "Alexia",
-          "Agraphia",
-          "Astereognosis",
-          "Acalculia"
-        ],
-        "c": 2,
-        "l": "Astereognosis is the inability to recognize objects by touch despite intact primary sensory modalities, due to parietal lobe damage.",
-        "h": "Parietal = sensory integration"
-      },
-      {
-        "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, with fasciculations present, and he had no vibratory sense on the right side of the body. These findings suggest?",
-        "a": [
-          "A lesion in the medial medulla",
-          "A lesion in the medial pons",
-          "A lesion in the lateral medulla",
-          "A lesion in the medial mid brain"
-        ],
-        "c": 0,
-        "l": "Medial medullary syndrome (ASA infarct) causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
-        "h": "Medial medulla = motor + vibration + tongue"
-      },
-      {
-        "q": "A 55-year-old man with a history of hypertension has been in excellent health until he notices that he has vertigo and unsteadiness lasting for a week. He then developed nausea, vomiting, dysphagia, hoarseness, ataxia, left facial pain, and right-sided sensory loss. There is no weakness. On examination, he is alert, with a normal mental status. There is left ptosis. He has loss of pain and temperature sensation on the right arm and leg and decreased joint position sensation in the left foot. He is unable to walk. The analgesia and thermal anesthesia on the left side of the face in this case most likely resulted from a lesion of which structure?",
-        "a": [
-          "The trigeminal nerve",
-          "The mesencephalic nucleus of trigeminal",
-          "The principal (chief) sensory nucleus of V",
-          "The spinal nucleus of V"
-        ],
-        "c": 3,
-        "l": "Lateral medullary (Wallenberg) syndrome damages the spinal nucleus of CN V, causing ipsilateral loss of pain and temperature sensation from the face.",
-        "h": "Wallenberg = spinal trigeminal"
-      },
-      {
-        "q": "A 55-year-old overweight man was brought to the emergency room unconscious after he had collapsed while loading a truck. After he regained consciousness, an exam revealed paresis of both right limbs with a Babinski sign on the right. The patient’s tongue deviated to the left upon protrusion, and he had no vibratory sense on the right side of the body. These findings suggest:",
-        "a": [
-          "A lesion in the left medial medulla",
-          "A lesion in the right medial pons",
-          "A lesion in the right medial medulla",
-          "A lesion in the lateral medulla",
-          "A lesion in the left medial pons"
-        ],
-        "c": 0,
-        "l": "Medial medullary syndrome causes contralateral paralysis and vibration loss with ipsilateral tongue deviation toward the lesion.",
-        "h": "ASA stroke = medial medulla"
-      },
-      {
-        "q": "Descending projections from the midbrain participate in pathways that are directly involved in the inhibition of pain in the spinal trigeminal nucleus in the pars caudalis, and in the posterior horn of the spinal cord. This region of the midbrain contains many cells with opiate receptors. Which of the following is the most likely location of these cells?",
-        "a": [
-          "Midbrain reticular formation",
-          "Periaqueductal gray",
-          "Red nucleus, pars magnocellularis",
-          "Red nucleus, pars parvocellularis",
-          "Substantia nigra, pars reticulata"
-        ],
-        "c": 1,
-        "l": "The periaqueductal gray (PAG) in the midbrain contains opioid receptors and plays a key role in descending pain inhibition.",
-        "h": "PAG = pain control"
-      },
-      {
-        "q": "The inferior colliculi are considered to be:",
-        "a": [
-          "Directly involved in and a part of the visual pathway",
-          "Directly involved in and a part of the auditory pathway",
-          "Directly involved in and a part of the olfactory pathway",
-          "All of the above"
-        ],
-        "c": 1,
-        "l": "The inferior colliculi are midbrain structures that serve as major relay centers in the auditory pathway.",
-        "h": "Inferior colliculus = hearing"
-      }
+    "c": 1,
+    "l": "An antigen is any foreign molecule, protein, or structural marker from a microbe that can be bound by specific immune receptors to trigger an adaptive response.",
+    "h": "Think of the target molecule captured by APCs to present to naive T cells."
+  },
+  {
+    "q": "Which of the following terms describes the specialized Y-shaped proteins manufactured by B cells or plasma cells that specifically bind to foreign markers to clear infections?",
+    "a": [
+      "Antigens",
+      "Cytokines",
+      "Immunoglobulins (Antibodies)",
+      "Perforins",
+      "Granzymes"
     ],
-    "neuro_batch3": [
-      {
-        "q": "The Kluver-Bucy syndrome is characterized by docility, psychic blindness (compulsion to examine objects visually, tactually, and orally), bizarre sexual behavior and hyper sexuality. One would find this syndrome after lesions of which of the following structures:",
-        "a": [
-          "Hypothalamus.",
-          "Frontal cortex.",
-          "Temporal lobe.",
-          "Lateral geniculate body."
-        ],
-        "c": 2,
-        "l": "Kluver-Bucy syndrome occurs due to bilateral lesions of the temporal lobes (amygdala), leading to hyperorality, hypersexuality, and visual agnosia.",
-        "h": "Temporal lobe = amygdala = behavior changes"
-      },
-      {
-        "q": "A 3-month-old infant was admitted to the pediatric ward because of a large head. The infant stayed quietly in bed most of the day. The circumference of the head was 44 cm (normal value for this age is about 40 cm). The fontanelles protruded, and the cranial sutures were separated. The skull could be transilluminated with a flashlight. Magnetic resonance imaging showed enlarged lateral, third, and fourth ventricles. The closure of the vertebrae was defective in the lower back (spina bifida). Treatment was surgical implantation of a catheter into the lateral ventricle with drainage into the peritoneum. Is this a communicating or Noncommunicating type of hydrocephalus?",
-        "a": [
-          "Communicating; because the CSF drainage is impaired within the subarachnoid space or at the level of the arachnoid villi",
-          "Noncommunicating; the fluid communication between the ventricular system and the subarachnoid space is impaired",
-          "None of above"
-        ],
-        "c": 1,
-        "l": "Noncommunicating hydrocephalus results from obstruction within the ventricular system preventing CSF flow to the subarachnoid space.",
-        "h": "Obstruction = noncommunicating"
-      },
-      {
-        "q": "A lesion of the Para hippocampal uncus leads to?",
-        "a": [
-          "Auditory hallucinations",
-          "Visual hallucinations",
-          "Olfactory hallucinations",
-          "Tactile hallucinations",
-          "Gustatory hallucinations"
-        ],
-        "c": 2,
-        "l": "The uncus is part of the olfactory cortex; lesions cause olfactory hallucinations (uncinate fits).",
-        "h": "Uncus = smell"
-      },
-      {
-        "q": "A 45-year-old man is admitted to the emergency department with a worsening headache, nystagmus, and gait ataxia. An MRI of the brain demonstrates a large infarction involving cerebellum. During the neurologic examination, the doctor asks the patient to first touch his nose and then the examiner’s finger. Which of the following phenomena is most likely to be seen with this test?",
-        "a": [
-          "Hypotonia",
-          "Cerebellar intention tremor",
-          "Dysarthria (speech problem)",
-          "Hypertonia"
-        ],
-        "c": 1,
-        "l": "Finger-to-nose testing reveals intention tremor in cerebellar lesions due to impaired coordination.",
-        "h": "Cerebellum = intention tremor"
-      },
-      {
-        "q": "A 77-year-old right-handed man with a history of atrial fibrillation and diabetes mellitus is brought to the emergency department by his family. His son describes that when his father awoke that morning, he was unable to use words or sentences that made any sense. On examination, the patient has spontaneous, fluent speech, with normal grammatical constructs and prosody. However, the majority of what he says is meaningless. He is unable to follow commands, except to close his eyes. When asked to identify objects, he uses inappropriate substitutions of words. He also fails to repeat words and is unable to read. A lesion of which of the following areas would most likely account for his language deficits?",
-        "a": [
-          "Inferior frontal gyrus",
-          "Crus cerebri",
-          "Prefrontal cortex",
-          "Superior temporal gyrus"
-        ],
-        "c": 3,
-        "l": "Wernicke’s aphasia results from lesions in the superior temporal gyrus, causing fluent but meaningless speech with poor comprehension.",
-        "h": "Fluent nonsense = Wernicke"
-      },
-      {
-        "q": "A 59-year-old male suffered a stroke and later presented with a spastic paralysis. Which of the following structures was affected by the stroke that accounts for the spasticity?",
-        "a": [
-          "Ventral horn cells",
-          "Corpus callosum",
-          "Postcentral gyrus",
-          "Internal capsule",
-          "Substantia nigra"
-        ],
-        "c": 3,
-        "l": "Damage to the internal capsule affects corticospinal tracts leading to upper motor neuron signs such as spasticity.",
-        "h": "UMN lesion = internal capsule"
-      },
-      {
-        "q": "A patient who suffered a stroke presents with a paralysis of the right side of the lower face, right spastic paralysis of the limbs, deviation of the tongue to the right with no atrophy, and no loss of taste from any region of the tongue. Which of the following structures was most likely affected by the stroke?",
-        "a": [
-          "Internal capsule of the right side",
-          "Internal capsule of the left side",
-          "Right pontine tegmentum",
-          "Base of the medulla on the right side",
-          "Base of the medulla on the left side"
-        ],
-        "c": 1,
-        "l": "Contralateral UMN facial, limb, and tongue weakness without atrophy indicates a lesion in the opposite internal capsule.",
-        "h": "Contralateral weakness = opposite side lesion"
-      },
-      {
-        "q": "60 year old woman suddenly remarked that she was seeing double and felt a weakness in her left arm and leg. Her husband noticed that her right eyelid was drooping. At the hospital, she was awake, oriented, and articulate. Her visual fields were normal but here right eye deviated to the right. On attempted lateral gaze to the left only the left eye responded; only the left eye constructed in response to light. Upon smiling, there was a minor weakness on the left. The gag, corneal, and jaw jerk reflexes were normal as were the sensory examinations of the face and body. Motor strength was normal in the extremities on the right but reduced on the left especially in the arm where there was a heightened biceps reflex and resistance to passive stretch. Where is the site of lesion?",
-        "a": [
-          "Cerebellum",
-          "Substantia nigra",
-          "Mid brain",
-          "None of above."
-        ],
-        "c": 2,
-        "l": "Findings suggest midbrain lesion (Weber syndrome) with CN III involvement and contralateral weakness.",
-        "h": "CN III + weakness = midbrain"
-      },
-      {
-        "q": "In a particular case, one woman lost her concept of left, with regard to her body and surroundings. For example when applying lipstick, she completely neglects the left side of her face. When eating she complains that her portions are too small, because she only eats from the right side of her plate. Where is her lesion?",
-        "a": [
-          "in the right frontal lobe",
-          "in the left parietal cortex",
-          "in the right parietal cortex",
-          "in the left frontal lobe"
-        ],
-        "c": 2,
-        "l": "Right parietal lesions cause contralateral hemispatial neglect.",
-        "h": "Neglect = right parietal"
-      },
-      {
-        "q": "The main efferent fiber system exiting the Amygdaloid nucleus is the",
-        "a": [
-          "Stria terminalis",
-          "Stria medullaris",
-          "Terminal sulcus",
-          "Fornix (the fimbria)",
-          "Tail of the caudate nucleus"
-        ],
-        "c": 0,
-        "l": "The stria terminalis is the major output pathway of the amygdala.",
-        "h": "Amygdala → stria terminalis"
-      },
-      {
-        "q": "52 yr old man visits the clinic complaining of difficulty in tasting the food. He also has trouble smiling and not closing the eyes tightly. Through which of the following tracts or nuclei affected cranial nerve traverse.",
-        "a": [
-          "Dorsal nucleus of vagus",
-          "Nucleus Tractus Solitarius",
-          "Bothe A And B",
-          "None of above"
-        ],
-        "c": 1,
-        "l": "Taste sensation is carried to the nucleus tractus solitarius, which receives input from facial, glossopharyngeal, and vagus nerves.",
-        "h": "Taste → NTS"
-      },
-      {
-        "q": "During development the midbrain vesicle will become the midbrain (mesencephalon). The cavity of the midbrain is known as the:",
-        "a": [
-          "Cerebral aqueduct",
-          "Lateral ventricle",
-          "Third ventricle",
-          "Interventricular foramen"
-        ],
-        "c": 0,
-        "l": "The cavity of the midbrain is the cerebral aqueduct, connecting the third and fourth ventricles.",
-        "h": "Midbrain = aqueduct"
-      },
-      {
-        "q": "The foramen of megandie empties into which of the following cisterns",
-        "a": [
-          "Superior cistern",
-          "Cisterna magna or cerebello-medullary cistern",
-          "Interpeduncular cistern",
-          "Lumbar cistern",
-          "None of the above (a-d)"
-        ],
-        "c": 1,
-        "l": "The median aperture (foramen of Magendie) drains CSF into the cisterna magna.",
-        "h": "Magendie → cisterna magna"
-      },
-      {
-        "q": "An elderly female patient complains that she cannot taste the food she eats. A careful neurological examination reveals no evidence of peripheral damage of the taste receptors. The evidence suggests, instead, that here is selective damage to certain regions of the brainstem. Which of the following sites would include damage that could result in the selective loss of taste?",
-        "a": [
-          "Superior olivary nucleus",
-          "Inferior salivatory nucleus",
-          "Tractus Solitarius nucleus",
-          "Spinal nucleus of the trigeminal nerve",
-          "Reticular tegmental nucleus of the pons"
-        ],
-        "c": 2,
-        "l": "The nucleus tractus solitarius is the central relay for taste in the brainstem.",
-        "h": "Taste loss = NTS"
-      },
-      {
-        "q": "The inability to perform a movement or sequence of movements despite intact sensation, automatic motor output, and understanding of the task is a likely consequence of damage to what cortical area?",
-        "a": [
-          "the primary somatosensory cortex(area 1,2,3)",
-          "the somatosensory association cortex (area 5,7)",
-          "the primary motor cortex (area 4)",
-          "the premotor cortex (area 6)"
-        ],
-        "c": 3,
-        "l": "Damage to the premotor cortex causes apraxia—impaired motor planning despite intact strength and comprehension.",
-        "h": "Apraxia = premotor cortex"
-      },
-      {
-        "q": "Interruption of what central nervous system pathways explains the loss of vibratory and position sense in the right leg?",
-        "a": [
-          "Fasciculus cuneatus of the dorsal column-medial lemniscal pathway",
-          "Fasciculus gracilis of the dorsal column-medial lemniscal pathway",
-          "Anterolateral pathway",
-          "Lateral corticospinal pathway"
-        ],
-        "c": 1,
-        "l": "Fasciculus gracilis carries vibration and proprioception from the lower body (legs).",
-        "h": "Leg = gracilis"
-      },
-      {
-        "q": "Patients with basal ganglia lesions can have either hyperkinetic or hypokinetic movement disorders. Which of the following diseases cause hyperkinetic uncontrolled involuntary movements which produce a random pattern of jerks and twists?",
-        "a": [
-          "Parkinson’s disease",
-          "Huntington’s disease",
-          "Both A And B",
-          "None of above"
-        ],
-        "c": 1,
-        "l": "Huntington disease causes chorea—random, jerky hyperkinetic movements.",
-        "h": "Chorea = Huntington"
-      },
-      {
-        "q": "77-year-old man is finding that he has more difficulty moving about for the past year. He is annoyed by a tremor in his hands, but the tremor goes away when he performs routine tasks using his hands. His friends remark that he seems more sullen and doesn't smile at them, but only stares with a fixed expression on his face. He has not suffered any loss of mental ability. Which of the following diseases is he most likely to have?",
-        "a": [
-          "Alzheimer disease",
-          "Parkinson disease",
-          "Cerebellar Disease",
-          "None Of above"
-        ],
-        "c": 1,
-        "l": "Parkinson disease presents with resting tremor, masked facies, and bradykinesia.",
-        "h": "Rest tremor + mask face = Parkinson"
-      },
-      {
-        "q": "Neurotransmitter produced at the postganglionic parasympathetic synapses is ?",
-        "a": [
-          "Ach",
-          "Epinephrine",
-          "Norepinephrine",
-          "Dopamine",
-          "Serotonin"
-        ],
-        "c": 0,
-        "l": "Parasympathetic postganglionic neurons release acetylcholine.",
-        "h": "Parasympathetic = ACh"
-      },
-      {
-        "q": "Horner's Syndrome is characterized by?",
-        "a": [
-          "Ptosis",
-          "Myosis",
-          "Flushing",
-          "Hemianhidrosis",
-          "All of the above"
-        ],
-        "c": 4,
-        "l": "Horner syndrome includes ptosis, miosis, anhidrosis, and flushing due to sympathetic loss.",
-        "h": "PAM = Ptosis Anhidrosis Miosis"
-      },
-      {
-        "q": "Hyperkinetic syndromes such as ballism, Athetosis and chorea are related to a problem of thalamic disinhibition related to which of the following neurotransmitters.",
-        "a": [
-          "Dopamine",
-          "Gamma aminobutyric acid",
-          "Acetylcholine"
-        ],
-        "c": 1,
-        "l": "Loss of GABA inhibition leads to thalamic disinhibition and hyperkinetic movements.",
-        "h": "Less GABA = more movement"
-      },
-      {
-        "q": "A patient displays right paralysis of vocal cords, absence of the gag reflex on the right, and difficulty swallowing. A lesion at which location would explain these findings:",
-        "a": [
-          "Left corticobulbar fibers",
-          "Right hypoglossal nucleus",
-          "Right nucleus ambiguus",
-          "Left motor cortex"
-        ],
-        "c": 2,
-        "l": "Nucleus ambiguus controls CN IX and X functions including swallowing and gag reflex.",
-        "h": "Swallow + gag = nucleus ambiguus"
-      },
-      {
-        "q": "Which of the following statements about the cerebellar cortex is TRUE?",
-        "a": [
-          "It has 4 layers",
-          "Mossy fibers and climbing fibers are inhibitory",
-          "Climbing fibers arise from cell bodies in the superior olivary nuclei",
-          "Purkinje cells inhibit cells of the deep cerebellar nuclei"
-        ],
-        "c": 3,
-        "l": "Purkinje cells are inhibitory and regulate output of deep cerebellar nuclei.",
-        "h": "Purkinje = inhibitory"
-      },
-      {
-        "q": "MRI scan reveals that a newborn infant has a Noncommunicating hydrocephalus. Both the lateral ventricles and the third ventricle are enlarged, but the fourth ventricle is of normal size. What is the most likely explanation for the infant’s condition?",
-        "a": [
-          "A blockage of the foramen of Magendie",
-          "An occlusion of the central canal of spinal cord",
-          "A stenosis of the cerebral aqueduct",
-          "A tumor in the subarachnoid space"
-        ],
-        "c": 2,
-        "l": "Aqueductal stenosis blocks flow between the third and fourth ventricles causing upstream dilation.",
-        "h": "Big 3rd, normal 4th = aqueduct block"
-      },
-      {
-        "q": "A patient delays initiation of movement, displays an uneven trajectory in moving her hand from above her head to touch her nose, and is uneven in her attempts to demonstrate rapid alternation of pronating and supernating movements of the hand and forearm. Which of the following regions most likely contains the lesion?",
-        "a": [
-          "Flocculonodular lobe of the cerebellum",
-          "Vermal region of the anterior cerebellar lobe",
-          "Fastigial nucleus",
-          "Hemispheres of the posterior cerebellar lobe",
-          "Ventral spinocerebellar tract"
-        ],
-        "c": 0,
-        "l": "Flocculonodular lobe lesions affect balance and coordination, leading to movement irregularities.",
-        "h": "Cerebellum = coordination errors"
-      },
-      {
-        "q": "A 55 yr old male is brought in to the doctor by his wife. She says that he has been irritable for the past three months and is acting strange. She also claims and he supports that in the past two weeks he has been fidgety with his hands and now he is demonstrating some strange facial tics. The historical exam yields little information as this patient was an orphan and has no parental or family history. The physical exam showed normal reflexes and sensation, normal strength and no ataxia. There appeared to be mild hypotonia, but this was subjective. The one constant finding was an apparent restlessness during the exam and constant movements of the face. He was given a simple test of memory and attention where he performed below average, and according to his wife way below what she knew he could do. During the test he was irritable and had one outburst over a seemingly trivial event. Select the true statement concerning this patient.",
-        "a": [
-          "he is in the early stages of Parkinson’s disease and his restless hands are the early signs of a resting tremor",
-          "In the advanced stage of this disease he will have degeneration in the caudate nucleus",
-          "he probably has a loss of dopamine producing cells in the substantia nigra",
-          "his condition will improve with the administration of L-Dopa",
-          "all are true"
-        ],
-        "c": 4,
-        "l": "The patient’s symptoms are consistent with a movement disorder involving basal ganglia dysfunction where multiple statements regarding pathology and treatment (including dopamine loss and L-Dopa response) are correct.",
-        "h": "Think: Basal ganglia disorder → dopamine involvement → L-Dopa helps"
-      },
-      {
-        "q": "A 65-year-old man has loss of pain and temperature sensation on the right side of the face and on the left side of the body. Examination shows partial paralysis of the soft palate, larynx, and pharynx, and ataxia, all on the right. The most likely cause of these findings is thrombosis to which of the following arteries?",
-        "a": [
-          "Basilar",
-          "Right posterior inferior cerebellar",
-          "Left posterior inferior cerebellar",
-          "Right superior cerebellar",
-          "Left superior cerebellar"
-        ],
-        "c": 1,
-        "l": "This presentation is consistent with right lateral medullary (Wallenberg) syndrome caused by occlusion of the right posterior inferior cerebellar artery, leading to ipsilateral facial pain loss, contralateral body pain loss, nucleus ambiguus dysfunction, and ipsilateral ataxia.",
-        "h": "Crossed pain + dysphagia + ataxia = PICA (Wallenberg)"
-      },
-      {
-        "q": "A vascular occlusion of a region of the brain damaged the overwhelming numbers of fibers that supply the basal ganglia. Which of the following regions constitute the receiving area of the overwhelming majority of fibers that supply the basal ganglia?",
-        "a": [
-          "Paleostriatum",
-          "Neostriatum",
-          "Subthalamic nucleus",
-          "Substantia nigra",
-          "Claustrum"
-        ],
-        "c": 1,
-        "l": "The neostriatum (caudate nucleus and putamen) is the main input (receiving) area of the basal ganglia, receiving the majority of cortical afferents.",
-        "h": "Basal ganglia input = neostriatum (caudate + putamen)"
-      },
-      {
-        "q": "A 43-year-old male who began to display marked involuntary movements at times of rest was seen by a neurologist, who concluded that he was suffering from Huntington’s disease. Which of the following neurotransmitters was lost or reduced in this individual?",
-        "a": [
-          "Dopamine in the neostriatum",
-          "Substance P in the substantia nigra",
-          "ACh and GABA in intrastriatal and cortical neurons",
-          "Serotonin in the neostriatum",
-          "Histamine in subthalamic nucleus"
-        ],
-        "c": 2,
-        "l": "Huntington’s disease involves degeneration of GABAergic neurons in the striatum, leading to reduced GABA and acetylcholine levels and resulting in hyperkinetic movements.",
-        "h": "Huntington = ↓ GABA (and ACh) in striatum"
-      },
-      {
-        "q": "A 65 year old black female was referred to a neurologist for evaluation of a movement disorder. Over the last 3 years the patient had noticed progressive stiffness of the muscles in both upper and lower limbs. She had also noted difficulty in getting up from a chair and maintaining proper posture. Her movement disorder consisted of a 3 - 6 beats per second tremor at her right wrist and fingers; however, no tremor was found on the left upper limb.\n\nGiven the combination of signs and symptoms which of the following best describes this disorder?",
-        "a": [
-          "Hemiballism",
-          "Huntington's disease",
-          "Parkinson's disease",
-          "None of above"
-        ],
-        "c": 2,
-        "l": "The patient presents with classic Parkinson’s disease features including resting tremor (3–6 Hz), rigidity, bradykinesia, and postural instability.",
-        "h": "Resting tremor (3–6 Hz) + rigidity + posture issues = Parkinson’s"
-      },
-      {
-        "q": "Which of the following will be noted by the neurologist if tested?",
-        "a": [
-          "Cogwheel rigidity",
-          "Dysdiadochokinesia",
-          "Positive Romberg sign",
-          "Right extensor plantar reflex"
-        ],
-        "c": 0,
-        "l": "Cogwheel rigidity is a hallmark of Parkinson’s disease due to increased muscle tone with superimposed tremor.",
-        "h": "Parkinson = Cogwheel rigidity"
-      },
-      {
-        "q": "Which of the following structures is most likely damaged by the tumor shown in the MRI?",
-        "a": [
-          "Lentiform nucleus only",
-          "Internal capsule only",
-          "Thalamus only",
-          "Lentiform nucleus and internal capsule",
-          "Lentiform nucleus, internal capsule, and thalamus"
-        ],
-        "c": 3,
-        "l": "The tumor location affects both the lentiform nucleus and the adjacent internal capsule due to their close anatomical relationship.",
-        "h": "Basal ganglia + nearby white matter = lentiform + internal capsule"
-      },
-      {
-        "q": "A 55 yr old man presents with left eye pain and doodle vision. When at rest his eye deviates downwards and laterally ,as shown in the picture , adduction is impaired in the affected eye. however abduction is intact. Left eye shows dilated pupil and non responsive to the light.\n\nWhich of the following cranial nerve is most likely to be injured?",
-        "a": [
-          "Facial",
-          "Abducent",
-          "Oculomotor",
-          "Trochlear"
-        ],
-        "c": 2,
-        "l": "Oculomotor nerve (CN III) palsy causes a 'down and out' eye, ptosis, impaired adduction, and a dilated non-reactive pupil.",
-        "h": "Down & out + blown pupil = CN III palsy"
-      },
-      {
-        "q": "A 66 year old woman developed headaches and vomiting in the past month. She walked on a broad base and often staggered to her left side. The neurologic exam indicated bilateral papilledema. Her pupils reacted normally to light. On attempted lateral gaze to the left, there was nystagmus. Cranial nerve exam was normal. Muscle strength in the limbs, deep tendon responses and muscle tone were reduced slightly on the left. There was also intention tremor, incoordination of finger-to-nose and heel-to-shin tests. There was disorganization in alternating movement tests of the left hand (dysdiadochokinesia). Sensory exam was normal However she demonstrated a positive Romberg sign when standing with heels together with eyes open or closed.\n\nWhich of the following regions most likely contains the lesion?",
-        "a": [
-          "Flocculonodular lobe of the cerebellum",
-          "Vermal region of the anterior cerebellar lobe",
-          "Cerebellar Hemisphere",
-          "Fastigial nucleus"
-        ],
-        "c": 2,
-        "l": "Cerebellar hemisphere lesions cause ipsilateral limb ataxia, intention tremor, dysdiadochokinesia, and coordination deficits.",
-        "h": "Limb coordination issues = cerebellar hemisphere"
-      },
-      {
-        "q": "52 yr old man visits the clinic complaining of difficulty in tasting the food . He also has trouble smiling and not closing the eyes tightly. Through which of the following tracts or Nuclei affected cranial nerve traverse.",
-        "a": [
-          "Dorsal nucleus of vagus",
-          "Nucleus Tractus Solitarius",
-          "Bothe A And B",
-          "None of above"
-        ],
-        "c": 1,
-        "l": "The nucleus tractus solitarius carries taste sensation and is associated with facial nerve (CN VII) pathways.",
-        "h": "Taste = NTS (nucleus tractus solitarius)"
-      }
+    "c": 2,
+    "l": "Immunoglobulins, or antibodies, are Y-shaped proteins secreted by plasma cells that bind specifically to foreign antigens to neutralize pathogens or mark them for destruction.",
+    "h": "Think of the protein products secreted during a humoral immune response."
+  },
+  {
+    "q": "Which of the following terms refers to the broad, diverse class of soluble chemical messengers secreted by immune cells to coordinate leukocyte recruitment, activation, and signaling?",
+    "a": [
+      "Caspases",
+      "Cytokines",
+      "Receptors",
+      "Adhesion molecules",
+      "MHC proteins"
     ],
-    "neuro_batch4": [
-      {
-        "q": "The superior cerebellar peduncles carry.",
-        "a": [
-          "Dorsal spinocerebellar fibers",
-          "Cuneocerebellar fibers",
-          "Ventral spinocerebellar fibers",
-          "Olivocerebellar fibers"
-        ],
-        "c": 2,
-        "l": "The superior cerebellar peduncle carries efferent fibers and includes the ventral spinocerebellar tract.",
-        "h": "Superior peduncle = output + ventral spinocerebellar"
-      },
-      {
-        "q": "63 yr old man comes to physician because had a problem using his arms in useful way as for the past 4 months . On physical examination he found to have postural instability. Cogwheel rigidity in his limbs. and pill rolling rigidity when he is at rest. findings of the patient shown in the Image below . Which of the following pathological finding would you see in this patient ?",
-        "a": [
-          "Lewy bodies",
-          "Kayser Fleischer Ring",
-          "Hemorrhage",
-          "None of above"
-        ],
-        "c": 0,
-        "l": "Parkinson’s disease is characterized by Lewy bodies, which are intracellular inclusions composed of alpha-synuclein.",
-        "h": "Parkinson = Lewy bodies"
-      },
-      {
-        "q": "A 35-year-old man suffered a stroke that did not cause paralysis. However, he discovered that he was unable to perform complex learned movements. The region of the cerebral cortex most likely affected by the stroke was the:",
-        "a": [
-          "Precentral gyrus",
-          "Postcentral gyrus",
-          "Premotor cortex",
-          "Temporal neocortex",
-          "Prefrontal cortex"
-        ],
-        "c": 2,
-        "l": "The premotor cortex is responsible for planning and execution of learned motor activities (apraxia when damaged).",
-        "h": "Apraxia = premotor cortex"
-      },
-      {
-        "q": "During what appeared to be routine surgery for a torn ligament, a middle-aged man suffered a stroke. After a few days, the patient showed some recovery because he was able to walk with some difficulty, and, in addition, sensory functions seemed normal. However, a neurologic evaluation revealed a weakness in muscles that regulate breathing, speech, swallowing, and facial expression. A subsequent magnetic resonance imaging scan indicated that the stroke was limited but primarily affected the:",
-        "a": [
-          "Premotor cortex",
-          "Medullary pyramids",
-          "Posterior limb of internal capsule",
-          "Genu of internal capsule",
-          "Anterior limb of internal capsule"
-        ],
-        "c": 3,
-        "l": "The genu of the internal capsule contains corticobulbar fibers that control muscles of the face, speech, and swallowing.",
-        "h": "Corticobulbar = genu"
-      },
-      {
-        "q": "A 67-year-old man was taken to the emergency room after collapsing in a movie theater. The patient regained consciousness and, several days later, displayed a right-side paralysis with pronounced spasticity. The neurologist concluded that the stroke might have involved:",
-        "a": [
-          "Ventral horn cells",
-          "Cerebellum",
-          "Internal capsule",
-          "Postcentral gyrus",
-          "Pontine tegmentum"
-        ],
-        "c": 2,
-        "l": "Lesions of the internal capsule cause contralateral spastic paralysis due to involvement of corticospinal tracts.",
-        "h": "Pure motor stroke = internal capsule"
-      },
-      {
-        "q": "A patient presented with paralysis of the left side of the limbs and left side of the lower face and deviation of the tongue to the left with no atrophy and with no loss of taste sensation. This constellation of deficits most likely resulted from a lesion of the:",
-        "a": [
-          "Left internal capsule",
-          "Right internal capsule",
-          "Left pontine tegmentum",
-          "Ventromedial medulla on the right side",
-          "Ventromedial medulla on the left side"
-        ],
-        "c": 0,
-        "l": "A lesion in the left internal capsule causes contralateral motor deficits including face, limbs, and tongue deviation without LMN signs.",
-        "h": "UMN signs (no atrophy) = internal capsule"
-      },
-      {
-        "q": "A 72-year-old right-handed man with a history of atrial fibrillation and diabetes mellitus is brought to the emergency department by his family. His son describes that when his father awoke that morning, he was unable to use words or sentences that made any sense. On examination, the patient has spontaneous, fluent speech, with normal grammatical constructs and prosody. However, the majority of what he says is meaningless. He is unable to follow commands, except to close his eyes. When asked to identify objects, he uses inappropriate substitutions of words. He also fails to repeat words and is unable to read. A lesion of which of the following areas would most likely account for his language deficits?",
-        "a": [
-          "Inferior frontal gyrus",
-          "Crus cerebri",
-          "Prefrontal cortex",
-          "Superior temporal gyrus"
-        ],
-        "c": 3,
-        "l": "Wernicke’s aphasia is caused by a lesion in the superior temporal gyrus, leading to fluent but meaningless speech with poor comprehension.",
-        "h": "Fluent but nonsense = Wernicke (superior temporal)"
-      },
-      {
-        "q": "A 66 year old woman developed headaches and vomiting in the past month. She walked on a broad base and often staggered to her left side. The neurologic exam indicated bilateral papilledema. Her pupils reacted normally to light. On attempted lateral gaze to the left, there was nystagmus. Cranial nerve exam was normal. Muscle strength in the limbs, deep tendon responses and muscle tone were reduced slightly on the left. There was also intention tremor, incoordination of finger-to-nose and heel-to-shin tests. There was disorganization in alternating movement tests of the left hand (dysdiadochokinesia). Sensory exam was normal However she demonstrated a positive Romberg sign when standing with heels together with eyes open or closed.\n\nWhich of the following regions most likely contains the lesion?",
-        "a": [
-          "Flocculonodular lobe of the cerebellum",
-          "Vermal region of the anterior cerebellar lobe",
-          "Cerebellar Hemisphere",
-          "Fastigial nucleus"
-        ],
-        "c": 2,
-        "l": "Cerebellar hemisphere lesions cause ipsilateral limb ataxia, intention tremor, and dysdiadochokinesia.",
-        "h": "Limb coordination = cerebellar hemisphere"
-      },
-      {
-        "q": "As a result of a dysfunction in development, a 4-year-old boy has difficulty walking and maintaining balance. It is later determined that there is significant loss of neurons in the cerebellum that disrupts the neuronal organization of the cerebellar glomerulus. Which of the following best characterizes this glomerulus?",
-        "a": [
-          "Climbing fiber terminals, Golgi axons, and granule cell dendrites",
-          "Mossy fiber terminals, Purkinje cell axons, and granule cell dendrites",
-          "Mossy fiber terminals, purkinje and granule cell dendrites, and Golgi cell axon terminals",
-          "Climbing fiber terminals, Golgi cell dendrites, Purkinje cell dendrites, and axon terminals of parallel fibers",
-          "Mossy fiber terminals, Golgi axons, and axon terminals of granule cells"
-        ],
-        "c": 4,
-        "l": "The cerebellar glomerulus consists of mossy fiber terminals, Golgi cell axons, and granule cell dendrites.",
-        "h": "Glomerulus = mossy + Golgi + granule dendrites"
-      },
-      {
-        "q": "A 64-year-old woman had a cerebrovascular accident 6 months ago. Her past medical history is remarkable for hyperthyroidism and atrial fibrillation. She initially presented with slurred speech and right hemiparesis. The hemiparesis resolved, but her speech is still agrammatic and nonfluent, and she has difficulty finding words and completing sentences. Her comprehension is intact, and she appears frustrated when she attempts to speak. The remainder of the neurologic examination is normal. Which of the following best describes her deficit?",
-        "a": [
-          "Apraxia",
-          "Broca aphasia",
-          "Ataxia",
-          "Wernicke aphasia"
-        ],
-        "c": 1,
-        "l": "Nonfluent, agrammatic speech with intact comprehension is characteristic of Broca aphasia.",
-        "h": "Nonfluent + good comprehension = Broca"
-      },
-      {
-        "q": "Which of the following is considered a primary output of the VA nucleus?",
-        "a": [
-          "Prefrontal cortex",
-          "Precentral and post central gyri",
-          "Posterior parietal lobe",
-          "Middle temporal gyrus",
-          "Wernicke’s area"
-        ],
-        "c": 0,
-        "l": "The ventral anterior (VA) nucleus of the thalamus projects primarily to the prefrontal cortex and is involved in motor planning.",
-        "h": "VA → prefrontal cortex"
-      },
-      {
-        "q": "A 59-year-old male suffered a stroke and later presented with a spastic paralysis. Which of the following structures was affected by the stroke that accounts for the spasticity?",
-        "a": [
-          "Ventral horn cells",
-          "Corpus callosum",
-          "Post central gyrus",
-          "Internal capsule",
-          "Substantia nigra"
-        ],
-        "c": 3,
-        "l": "Spastic paralysis results from upper motor neuron lesions, commonly due to damage to corticospinal fibers in the internal capsule.",
-        "h": "UMN lesion = internal capsule"
-      },
-      {
-        "q": "Considering the basal ganglia structures, which one of the following parts are believed to receive all inputs to the basal ganglia?",
-        "a": [
-          "Caudate-putamen",
-          "Globus pallidus-subthalamic nucleus",
-          "Globus pallidus-substantia nigra",
-          "Nucleus accumbens-amygdala"
-        ],
-        "c": 2,
-        "l": "The globus pallidus and substantia nigra serve as major output nuclei of the basal ganglia receiving processed input.",
-        "h": "Output nuclei = GP + SN"
-      },
-      {
-        "q": "Patients with basal ganglia lesions can have either hyperkinetic or hypokinetic movement disorders. Which of the following diseases cause hyperkinetic uncontrolled involuntary movements which produce a random pattern of jerks and twists?",
-        "a": [
-          "Parkinson’s disease",
-          "Huntington’s disease",
-          "None of above"
-        ],
-        "c": 1,
-        "l": "Huntington’s disease causes chorea, characterized by random, jerky, hyperkinetic movements.",
-        "h": "Chorea = Huntington"
-      },
-      {
-        "q": "After his wife had a stroke, a husband notices that his wife's hair is always tangled and uncombed on the left side of her head, although on the right her hair is straightened and orderly. The left side of her face is usually dirty from food remaining there, but the right face is always clean. She has stopped putting her ring and watch on her left hand. When eating, she never uses her fork on the left side of her plate and, surprisingly, she often asks why she was not given a fork to eat with. This woman's stroke most likely damaged the:",
-        "a": [
-          "Parietal lobe",
-          "Temporal lobe",
-          "Occipital lobe",
-          "Premotor cortex of frontal lobe",
-          "Orbitomedial cortex of frontal lobe"
-        ],
-        "c": 0,
-        "l": "Contralateral neglect syndrome is caused by damage to the parietal lobe, especially in the nondominant hemisphere.",
-        "h": "Neglect = parietal lobe"
-      },
-      {
-        "q": "Area no 39 is situated in which of the following gyrus?",
-        "a": [
-          "Supra marginal gyrus",
-          "Angular gyrus",
-          "Inferior temporal gyrus",
-          "None of above"
-        ],
-        "c": 1,
-        "l": "Brodmann area 39 corresponds to the angular gyrus, involved in language and spatial cognition.",
-        "h": "BA39 = angular gyrus"
-      },
-      {
-        "q": "The projections of the dorsomedial nucleus of the thalamus are primarily related to:",
-        "a": [
-          "The cingulate gyrus.",
-          "The parietal lobe.",
-          "The prefrontal cortex.",
-          "The entorhinal cortex.",
-          "The temporal lobe"
-        ],
-        "c": 1,
-        "l": "The dorsomedial nucleus of the thalamus projects to association cortices including parietal regions involved in higher processing.",
-        "h": "DM nucleus → association cortex"
-      },
-      {
-        "q": "A 45-year-old man is admitted to the emergency department with a worsening headache, nystagmus, and gait ataxia. An MRI of the brain demonstrates a large infarction involving cerebellum. During the neurologic examination, the doctor asks the patient to first touch his nose and then the examiner’s finger. Which of the following phenomena is most likely to be seen with this test?",
-        "a": [
-          "Hypotonia",
-          "Cerebellar intention tremor",
-          "Dysarthria (speech problem)",
-          "Hypertonia"
-        ],
-        "c": 1,
-        "l": "Cerebellar lesions cause intention tremor during goal-directed movements such as finger-to-nose testing.",
-        "h": "Finger-to-nose → intention tremor"
-      },
-      {
-        "q": "Considering the basal ganglia structures, which one of the following parts are believed to receive all inputs to the basal ganglia?",
-        "a": [
-          "Caudate-putamen",
-          "Globus pallidus-subthalamic nucleus",
-          "Globus pallidus-substantia nigra",
-          "Nucleus accumbens-amygdala"
-        ],
-        "c": 2,
-        "l": "Globus pallidus and substantia nigra are major output structures integrating basal ganglia signals.",
-        "h": "Output nuclei = GP + SN"
-      },
-      {
-        "q": "A patient delays initiation of movement, displays an uneven trajectory in moving her hand from above her head to touch her nose, and is uneven in her attempts to demonstrate rapid alternation of pronating and supinating movements of the hand and forearm. Which of the following regions most likely contains the lesion?",
-        "a": [
-          "Hemispheres of the posterior cerebellar lobe",
-          "Flocculonodular lobe of the cerebellum",
-          "Vermal region of the anterior cerebellar lobe",
-          "Fastigial nucleus",
-          "Ventral spinocerebellar tract"
-        ],
-        "c": 0,
-        "l": "Cerebellar hemisphere lesions cause limb ataxia, dysmetria, and dysdiadochokinesia.",
-        "h": "Limb ataxia → cerebellar hemispheres"
-      },
-      {
-        "q": "A 39 year-old baseball player noticed the abrupt onset of involuntary movements on his right side. His right arm would make large, violent, flailing or ballistic movements that interfered with his game. The most likely site of the damage was the:",
-        "a": [
-          "left substantia nigra",
-          "left globus pallidus",
-          "right globus pallidus",
-          "left subthalamic nucleus",
-          "right subthalamic nucleus"
-        ],
-        "c": 3,
-        "l": "Hemiballismus is caused by a lesion of the contralateral subthalamic nucleus.",
-        "h": "Hemiballismus → STN lesion"
-      },
-      {
-        "q": "Cynthia is a 75-year-old woman who has had high blood pressure and diabetes for more than 15 years. One day, as she was reaching for a switch to put on the light she collapsed. While trying to get up from the floor, she noticed that she was unable to move her right arm or leg. Katherine attempted to cry for help because she was unable to reach the telephone; however, her speech was slurred and rather unintelligible. She lay on the floor and waited for help to arrive. Cynthia’s son began to worry about his usually prompt mother when she didn’t arrive for his Birthday. After several attempts to telephone her apartment without getting an answer, he drove there and found her lying on the floor. She attempted to tell him what had happened, but her speech was too slurred to comprehend. Assuming that his mother had had a stroke, the son called an ambulance to take her to the nearest emergency room (ER). A neurology resident was called to see Cynthia in the emergency room because the physicians there likewise thought that she had a stroke. The resident noted that Cynthia followed commands very well, and, although her speech was very slurred, it was logical in organization. The lower two-thirds of her face drooped on the right. Her tongue pointed to the right side when she was asked to protrude it. Her right arm and leg were severely, but equally, weak; her left side had normal strength. She felt a pin and a vibrating tuning fork equally on both sides.\n\nWhere did Cynthia’s stroke most likely happened?",
-        "a": [
-          "Left precentral gyrus",
-          "Right precentral gyrus",
-          "left internal capsule",
-          "Right putamen or globus pallidus",
-          "Left thalamus"
-        ],
-        "c": 2,
-        "l": "Pure motor stroke with cranial involvement and no sensory loss suggests internal capsule lesion.",
-        "h": "Pure motor = internal capsule"
-      },
-      {
-        "q": "By looking at the patient's condition and physical findings. What is your diagnosis?",
-        "a": [
-          "Lateral Medullar syndrome.",
-          "Sign of cerebellar lesion.",
-          "Parkinson's disease.",
-          "Unable to diagnose."
-        ],
-        "c": 2,
-        "l": "Resting tremor, rigidity, and bradykinesia indicate Parkinson’s disease.",
-        "h": "TRAP → Parkinson"
-      },
-      {
-        "q": "Gamma aminobutyric acid (GABA) is considered the predominant neurotransmitter in all of the following except.",
-        "a": [
-          "Strionigral fibers",
-          "Striopallidal fibers",
-          "Subthalamopallidal fibers",
-          "Corticostriate fibers",
-          "Pallidonigral fibers."
-        ],
-        "c": 3,
-        "l": "Corticostriatal fibers are glutamatergic, not GABAergic.",
-        "h": "Cortex → glutamate"
-      },
-      {
-        "q": "Which of the following statements is TRUE regarding the striatum?",
-        "a": [
-          "Receives inhibitory input from the cortex",
-          "Consists of the lenticular nucleus and the putamen",
-          "Receives Dopaminergic input from the substantia nigra pars compacta",
-          "Contains cells that use glutamate as their transmitter"
-        ],
-        "c": 2,
-        "l": "The striatum receives dopaminergic input from the substantia nigra pars compacta.",
-        "h": "SNc → dopamine → striatum"
-      },
-      {
-        "q": "A 45 year old woman was brought to the ED after being found collapsed on the floor by her daughter. When the woman was examined, her deficits included weakness of the left upper and lower limb with increased tone and increased deep tendon reflexes. Her left upper limb was held in a flexed position and her left lower limb was extended. This condition is an example of:",
-        "a": [
-          "Spasticity",
-          "Hypotonia",
-          "Cog wheel rigidity",
-          "Clonus"
-        ],
-        "c": 0,
-        "l": "Upper motor neuron lesions cause spasticity with increased tone and reflexes.",
-        "h": "UMN → spasticity"
-      },
-      {
-        "q": "In the above case, further examination revealed a decreased nasolabial fold and drooping mouth on the left although she blinked both eyes and raised both eye brows normally. Tactile and pin prick sensation were normal and no other symptoms were observed. The most likely location of the lesion would be:",
-        "a": [
-          "cortex",
-          "internal capsule",
-          "midbrain",
-          "rostral medulla",
-          "caudal medulla"
-        ],
-        "c": 3,
-        "l": "Facial weakness sparing forehead suggests upper motor neuron lesion likely above facial nucleus, consistent with rostral medulla involvement.",
-        "h": "Forehead spared → UMN lesion"
-      },
-      {
-        "q": "Which of the following statements is TRUE?",
-        "a": [
-          "Hemiballism occurs ipsilateral to the lesion in the subthalamic nucleus (SUB)",
-          "A person with Hemiballism could be helped by administration of a cholinergic agonist",
-          "A person with Hemiballism could be helped by administration of a cholinergic antagonist",
-          "A person with Hemiballism could be helped by administration of a DA agonist"
-        ],
-        "c": 2,
-        "l": "Hemiballismus is treated by reducing excessive movement; cholinergic antagonists can help reduce hyperkinesia.",
-        "h": "Hyperkinetic → ↓ACh"
-      },
-      {
-        "q": "Which of the following statement is TRUE?",
-        "a": [
-          "The direct pathway increases movement",
-          "Activity in the direct pathway through the basal ganglia results in reduced firing of thalamic neurons (VA/VL)",
-          "The striatum is defined as the globus pallidus and the putamen",
-          "Cells in the striatum project directly to the VA/VL",
-          "GPi excites the thalamus"
-        ],
-        "c": 0,
-        "l": "The direct pathway disinhibits the thalamus, increasing movement.",
-        "h": "Direct = GO pathway"
-      },
-      {
-        "q": "The following statement is not true in regard to cerebellar lesions.",
-        "a": [
-          "Tremor is present during movements (intention tremor)",
-          "The patient is unable to perform rapid alternating movements (adiadochokinesis)",
-          "Movements are not fluid but are broken up into separate joint movements (decomposition of movements)",
-          "All deficits are Contralateral to the lesion"
-        ],
-        "c": 3,
-        "l": "Cerebellar lesions produce ipsilateral deficits, not contralateral.",
-        "h": "Cerebellum = ipsilateral"
-      },
-      {
-        "q": "Peter is a 62-year-old man, previously healthy, who was brought to a neurologist by his daughter because of increasing difficulty in walking. His daughter noticed that for the past year, he had difficulty getting out of a chair and took a lot of time to begin to walk. When he did walk, he walked with a slow, shuffling gait. In addition, she had noticed some changes in his face, and that he had been drooling excessively. His signature on checks became progressively smaller from the beginning of his name to the end, and he had developed a new tremor. The neurologist examined Peter and noticed immediately that Peter’s facial expression was masklike, with few eye blinks. His speech was soft and monotonous, and he had a slow, resting pill-rolling tremor in both of his hands. He had very little spontaneous movement, and his arms, legs, and trunk were stiff. When the neurologist tried to flex his arm, he felt many catches, similar to a cogwheel. There was no weakness, sensory problems, or abnormalities in his reflexes. When asked to walk, Peter took many tries to rise from his chair. When he finally stood up, his posture was stooped and flexed. His gait was slow, his feet shuffled when he walked, and his arms didn’t swing with his steps.\n\nDamage to which of the following structures causes Peter’s problem with movement?",
-        "a": [
-          "Substantia gelatinosa",
-          "Substantia nigra, pars reticularis",
-          "Substantia nigra, pars compacta",
-          "Caudate nucleus",
-          "Thalamus"
-        ],
-        "c": 2,
-        "l": "Parkinson disease is due to degeneration of dopaminergic neurons in substantia nigra pars compacta.",
-        "h": "Parkinson → SNc"
-      },
-      {
-        "q": "In Huntington’s disease, there is a loss of",
-        "a": [
-          "Dopamine in the neostriatum",
-          "Substance P in the substantia nigra",
-          "ACh and GABA in intrastriatal and cortical neurons",
-          "Serotonin in the neostriatum",
-          "Most of the pallidal neurons"
-        ],
-        "c": 2,
-        "l": "Huntington disease involves degeneration of GABAergic and cholinergic neurons in the striatum.",
-        "h": "Huntington = ↓GABA + ↓ACh"
-      },
-      {
-        "q": "On examination, you find that a patient's eyes have the position at rest shown on the right. This is most likely due to a lesion of: (As Shown In the Pic)",
-        "a": [
-          "Right cranial nerve VI nucleus",
-          "Left cranial nerve VI nucleus",
-          "MLF",
-          "Left cranial nerve III",
-          "Right cranial nerve III"
-        ],
-        "c": 4,
-        "l": "CN III lesion causes 'down and out' eye due to unopposed lateral rectus and superior oblique.",
-        "h": "Down & out → CN III"
-      },
-      {
-        "q": "Which of the following statements is TRUE regarding Parkinson’s disease?",
-        "a": [
-          "Spasticity",
-          "Atrophy",
-          "Hypotonia",
-          "decreased movement/hypokinesia/bradykinesia",
-          "Movement (intention) tremor"
-        ],
-        "c": 3,
-        "l": "Parkinson disease is characterized by bradykinesia and hypokinesia.",
-        "h": "TRAP → bradykinesia"
-      },
-      {
-        "q": "Since motor dysfunctions associated with disturbances of basal ganglia are expressed on the contralateral side of the body, one may conclude that the basal ganglia project",
-        "a": [
-          "Fibers to the spinal cord that are crossed",
-          "Fibers to motor nuclei of the brainstem whose axons then project to the contralateral spinal cord",
-          "Fibers to structures that ultimately influence motor regions of the ipsilateral cerebral cortex",
-          "Axons to the cerebellum, whose outputs are known to modulate the contralateral side of the body",
-          "Fibers directly to the contralateral motor cortex"
-        ],
-        "c": 2,
-        "l": "Basal ganglia influence ipsilateral cortex, which then controls contralateral body.",
-        "h": "BG → ipsilateral cortex → contralateral body"
-      }
+    "c": 1,
+    "l": "Cytokines are low-molecular-weight chemical signaling proteins secreted by immune cells that regulate the intensity, duration, and direction of immune responses.",
+    "h": "Think of the broad category of molecular messengers that includes interleukins and interferons."
+  },
+  {
+    "q": "Which of the following specific subcategories of cytokines acts strictly as molecular communication signals directly between different white blood cells (leukocytes)?",
+    "a": [
+      "Chemokines",
+      "Interleukins (IL)",
+      "Granzymes",
+      "Perforins",
+      "Caspases"
     ],
-    "neuro_batch5": [
-      {
-        "q": "A lesion in the right paramedian pontine reticular formation (PPRF) would most likely result in:",
-        "a": [
-          "Inability of both eyes to look to the right",
-          "Inability of the right eye to adduct",
-          "Inability of the left eye to abduct",
-          "Loss of vertical gaze"
-        ],
-        "c": 0,
-        "l": "The PPRF is the horizontal gaze center. A lesion causes ipsilateral gaze palsy, meaning neither eye can look toward the side of the lesion.",
-        "h": "PPRF = horizontal gaze center → both eyes move together"
-      },
-      {
-        "q": "Which structure must be activated to initiate voluntary gaze to the left?",
-        "a": [
-          "Left frontal eye field",
-          "Right frontal eye field",
-          "Left abducens nucleus",
-          "Right oculomotor nucleus"
-        ],
-        "c": 1,
-        "l": "Frontal eye fields control contralateral gaze. The right frontal eye field activates the left PPRF to initiate leftward gaze.",
-        "h": "Frontal eye field → opposite direction gaze"
-      },
-      {
-        "q": "A destructive lesion of the left frontal eye field (Area 8) would cause the eyes to deviate:",
-        "a": [
-          "To the right",
-          "To the left",
-          "Upward",
-          "Downward"
-        ],
-        "c": 1,
-        "l": "A destructive lesion of the frontal eye field causes the eyes to deviate toward the side of the lesion due to unopposed activity of the opposite side.",
-        "h": "Destructive FEF lesion → eyes look toward lesion"
-      },
-      {
-        "q": "A lesion of the right medial longitudinal fasciculus (MLF) would most likely produce which of the following findings when attempting left gaze?",
-        "a": [
-          "Right eye fails to adduct and left eye shows nystagmus",
-          "Left eye fails to abduct",
-          "Both eyes fail to move",
-          "Right eye deviates downward and outward"
-        ],
-        "c": 0,
-        "l": "In internuclear ophthalmoplegia (INO), the eye on the side of the MLF lesion cannot adduct, and the contralateral abducting eye develops nystagmus.",
-        "h": "INO = ipsilateral adduction failure + contralateral nystagmus"
-      },
-      {
-        "q": "Which feature distinguishes internuclear ophthalmoplegia (INO) from an oculomotor nerve (CN III) palsy?",
-        "a": [
-          "Presence of ptosis",
-          "Impaired pupillary reflex",
-          "Preserved convergence",
-          "Eye deviated down and out"
-        ],
-        "c": 2,
-        "l": "In INO, convergence is preserved because it uses a pathway independent of the MLF, unlike CN III palsy where convergence is impaired.",
-        "h": "INO = convergence intact"
-      },
-      {
-        "q": "A young adult presents with bilateral internuclear ophthalmoplegia. What is the most likely underlying cause?",
-        "a": [
-          "Posterior communicating artery aneurysm",
-          "Multiple sclerosis",
-          "Basilar artery thrombosis",
-          "Diabetic neuropathy"
-        ],
-        "c": 1,
-        "l": "Bilateral INO is classically associated with multiple sclerosis, especially in younger patients.",
-        "h": "Young + bilateral INO = MS"
-      },
-      {
-        "q": "A lesion affecting both the right PPRF and right MLF would most likely result in which of the following findings?",
-        "a": [
-          "Neither eye can look right, and the right eye cannot adduct on left gaze",
-          "Both eyes cannot look left",
-          "Right eye cannot abduct and left eye cannot adduct",
-          "Only vertical gaze is impaired"
-        ],
-        "c": 0,
-        "l": "One-and-a-half syndrome combines ipsilateral gaze palsy (PPRF lesion) and INO (MLF lesion). Thus, neither eye looks toward the lesion, and the ipsilateral eye cannot adduct when looking away.",
-        "h": "One = gaze palsy, Half = INO"
-      },
-      {
-        "q": "In one-and-a-half syndrome, which eye movement is preserved?",
-        "a": [
-          "Adduction of the ipsilateral eye",
-          "Abduction of the contralateral eye",
-          "Adduction of the contralateral eye",
-          "All horizontal eye movements"
-        ],
-        "c": 1,
-        "l": "The only preserved movement is abduction of the contralateral eye, as the ipsilateral PPRF and MLF are both damaged.",
-        "h": "Only ONE eye moves ONE way"
-      },
-      {
-        "q": "A patient with one-and-a-half syndrome attempts to look away from the lesion side. What is observed?",
-        "a": [
-          "Ipsilateral eye fails to adduct, contralateral eye abducts with nystagmus",
-          "Both eyes fail to move",
-          "Ipsilateral eye abducts normally",
-          "Both eyes adduct normally"
-        ],
-        "c": 0,
-        "l": "When looking away from the lesion, the ipsilateral MLF lesion prevents adduction, while the contralateral eye abducts and often shows nystagmus (INO component).",
-        "h": "INO component = ipsilateral adduction failure"
-      },
-      {
-        "q": "A lesion in the facial colliculus region of the pons results in one-and-a-half syndrome plus ipsilateral facial paralysis. What is this condition called?",
-        "a": [
-          "Millard-Gubler syndrome",
-          "Eight-and-a-half syndrome",
-          "Wallenberg syndrome",
-          "Foville syndrome"
-        ],
-        "c": 1,
-        "l": "Eight-and-a-half syndrome is defined as one-and-a-half syndrome plus ipsilateral CN VII palsy due to involvement of the facial nerve fibers looping around the abducens nucleus.",
-        "h": "1½ + 7 = 8½ syndrome"
-      },
-      {
-        "q": "Which additional deficit distinguishes eight-and-a-half syndrome from one-and-a-half syndrome?",
-        "a": [
-          "Loss of vertical gaze",
-          "Ipsilateral lower motor neuron facial paralysis",
-          "Contralateral hemiplegia",
-          "Bilateral pupillary dilation"
-        ],
-        "c": 1,
-        "l": "Eight-and-a-half syndrome includes ipsilateral CN VII palsy, resulting in complete facial weakness on the same side.",
-        "h": "Add CN VII palsy"
-      },
-      {
-        "q": "A patient presents with inability to gaze toward the right, failure of the right eye to adduct on left gaze, and right-sided facial paralysis involving the forehead. Where is the lesion located?",
-        "a": [
-          "Left midbrain",
-          "Right pons",
-          "Left medulla",
-          "Right cerebellum"
-        ],
-        "c": 1,
-        "l": "This presentation is classic for eight-and-a-half syndrome, which localizes to the ipsilateral pons involving the PPRF, MLF, and CN VII fibers.",
-        "h": "One-and-a-half + facial palsy → pons"
-      },
-      {
-        "q": "Shining light in one eye normally causes constriction of both pupils. This is due to projections from the pretectal nucleus to:",
-        "a": [
-          "Only the ipsilateral Edinger-Westphal nucleus",
-          "Only the contralateral Edinger-Westphal nucleus",
-          "Bilateral Edinger-Westphal nuclei",
-          "The oculomotor nuclei only"
-        ],
-        "c": 2,
-        "l": "The pretectal nucleus sends bilateral projections to both Edinger-Westphal nuclei, producing both direct and consensual pupillary constriction.",
-        "h": "Pretectal → BOTH EW nuclei"
-      },
-      {
-        "q": "Which structure serves as the afferent limb of the pupillary light reflex?",
-        "a": [
-          "Oculomotor nerve (CN III)",
-          "Optic nerve (CN II)",
-          "Ciliary ganglion",
-          "Short ciliary nerves"
-        ],
-        "c": 1,
-        "l": "The afferent limb of the pupillary light reflex is carried by the optic nerve (CN II), which transmits light information to the pretectal nucleus.",
-        "h": "Afferent = CN II"
-      },
-      {
-        "q": "A lesion of the pretectal nucleus would most likely result in which of the following findings when light is shined in one eye?",
-        "a": [
-          "Only ipsilateral pupillary constriction",
-          "Only contralateral pupillary constriction",
-          "No direct or consensual pupillary constriction",
-          "Normal pupillary constriction in both eyes"
-        ],
-        "c": 2,
-        "l": "The pretectal nucleus is essential for relaying signals to both Edinger-Westphal nuclei. Damage results in loss of both direct and consensual light reflexes.",
-        "h": "Pretectal lesion → no light reflex at all"
-      }
-    ]
+    "c": 1,
+    "l": "Interleukins (IL) are a specific group of cytokines that act as chemical signals traveling between leukocytes to direct polarization, growth, and activation.",
+    "h": "Look for the cytokine abbreviation that literally means 'between white blood cells'."
+  },
+  {
+    "q": "Which subcategory of antiviral cytokines is secreted by virus-infected host cells or immune cells to 'interfere' with viral replication and protect adjacent uninfected cells?",
+    "a": [
+      "Interleukins",
+      "Interferons (IFN)",
+      "Perforins",
+      "Granzymes",
+      "Chemokines"
+    ],
+    "c": 1,
+    "l": "Interferons (IFNs) are dedicated signaling proteins released in response to viral infections that establish an antiviral state in neighboring host cells.",
+    "h": "Identify the cytokine class named for its ability to directly interfere with viral translation."
+  },
+  {
+    "q": "Which of the following terms describes large, specialized protein structures on host cell surfaces that serve as specialized 'display platters' to hold and exhibit processed antigens to T cells?",
+    "a": [
+      "T-cell Receptors",
+      "Major Histocompatibility Complex (MHC)",
+      "Adhesion molecules",
+      "Fc receptors",
+      "Costimulators"
+    ],
+    "c": 1,
+    "l": "The Major Histocompatibility Complex (MHC) consists of cell-surface proteins that bind peptide fragments of degraded pathogens and present them for T cell recognition.",
+    "h": "Identify the genetic complex that provides Class I and Class II presentation machinery."
+  },
+  {
+    "q": "Which of the following specific classes of display molecules is found on all nucleated host cells and functions specifically to showcase internal cytosolic antigens to cytotoxic cells?",
+    "a": [
+      "MHC Class I",
+      "MHC Class II",
+      "CD40",
+      "B7-1",
+      "ICAM-1"
+    ],
+    "c": 0,
+    "l": "MHC Class I molecules are expressed on all nucleated cells and display internal cytosolic antigens (like viral proteins) to CD8+ cytotoxic T cells.",
+    "h": "Think of the display platter paired with the CD8 coreceptor on cytotoxic T cells."
+  },
+  {
+    "q": "Which of the following specific classes of display molecules is restricted to professional antigen-presenting cells (APCs) to showcase extracellularly derived antigens to helper cells?",
+    "a": [
+      "MHC Class I",
+      "MHC Class II",
+      "CD28",
+      "CTLA-4",
+      "PD-1"
+    ],
+    "c": 1,
+    "l": "MHC Class II molecules are expressed exclusively on professional APCs (like dendritic cells, macrophages, and B cells) to display exogenous antigens to CD4+ T helper cells.",
+    "h": "Identify the display platter paired with the CD4 coreceptor on helper T cells."
+  },
+  {
+    "q": "Which specialized elite group of innate white blood cells scans host tissues for the absence of MHC Class I display markers to rapidly kill infected or malignant target cells?",
+    "a": [
+      "Helper T cells",
+      "Cytotoxic T Lymphocytes",
+      "Natural Killer (NK) cells",
+      "B lymphocytes",
+      "Neutrophils"
+    ],
+    "c": 2,
+    "l": "Natural Killer (NK) cells are innate lymphocytes that kill virus-infected or tumor cells when they sense a loss or downregulation of self-MHC Class I molecules.",
+    "h": "Identify the innate lymphocyte group that targets cells hiding from CD8+ CTLs."
+  },
+  {
+    "q": "Which specific cytolytic protein is stored inside cytotoxic granules and functions to physically punch structural holes through a target cell's outer plasma membrane?",
+    "a": [
+      "Granzyme",
+      "Perforin",
+      "Caspase",
+      "Interleukin",
+      "Selectin"
+    ],
+    "c": 1,
+    "l": "Perforin is a granule-stored cytolytic protein that polymerizes upon release to form structural holes or channels in the membrane of an infected target cell.",
+    "h": "Think of the protein whose name explicitly tells you it 'perforates' target membranes."
+  },
+  {
+    "q": "Which specific family of toxic serine proteases enters through target cell membrane pores to directly degrade cellular proteins and launch programmed cell suicide?",
+    "a": [
+      "Perforins",
+      "Granzymes",
+      "Interferons",
+      "Chemokines",
+      "Immunoglobulins"
+    ],
+    "c": 1,
+    "l": "Granzymes are granule-derived proteases that gain access to the target cell cytoplasm via perforin channels to enzymatically activate apoptotic pathways.",
+    "h": "Identify the enzymes inside killer cell granules that digest internal components of infected targets."
+  },
+  {
+    "q": "Which of the following terms defines the tidy, controlled, and programmed mechanism of cellular suicide that destroys infected or mutated host cells without spilling inflammatory content?",
+    "a": [
+      "Necrosis",
+      "Apoptosis",
+      "Anergy",
+      "Phagocytosis",
+      "Fibrosis"
+    ],
+    "c": 1,
+    "l": "Apoptosis is programmed cell death characterized by clean nuclear fragmentation and cellular packaging, avoiding the tissue damage linked to messy necrosis.",
+    "h": "Think of the systematic cellular mechanism often triggered by the activation of internal caspases."
+  },
+  {
+    "q": "Which specific family of intracellular cysteine proteases acts as the essential structural executioners of programmed cell death once activated by granzymes or death receptors?",
+    "a": [
+      "Caspases",
+      "Selectins",
+      "Interleukins",
+      "Integrins",
+      "Complements"
+    ],
+    "c": 0,
+    "l": "Caspases are the enzymatic executioners of apoptosis that cleave vital internal structural targets, leading to safe and controlled cell death.",
+    "h": "Identify the internal execution enzymes that are targeted by granzymes to dismantle an infected host cell."
+  },
+  {
+    "q": "Which of the following terms defines the local or systemic response to cellular injury, marked by redness, warmth, swelling, and pain, designed to deliver protective elements directly to a site of insult?",
+    "a": [
+      "Adaptive immunity",
+      "Inflammation",
+      "Immune tolerance",
+      "Humoral response",
+      "Clonal selection"
+    ],
+    "c": 1,
+    "l": "Inflammation is a complex vascular and cellular response to injury or infection that facilitates the rapid delivery of leukocytes, complement, and plasma proteins to damaged tissue.",
+    "h": "Think of the vascular tissue response mediated initially by pro-inflammatory cytokines like IL-1 and TNF."
+  },
+  {
+    "q": "Which of the following terms describes the large, ancient cascade of circulating plasma proteins that can punch holes in bacterial walls, promote opsonization, and recruit phagocytic cells?",
+    "a": [
+      "Antibody system",
+      "Complement system",
+      "Cytokine network",
+      "Major Histocompatibility Complex",
+      "Transcription factors"
+    ],
+    "c": 1,
+    "l": "The complement system is a group of circulating plasma proteins that undergo sequential activation to promote cell lysis via the membrane attack complex, opsonization, and leukocyte recruitment.",
+    "h": "Think of the innate system composed of numbered plasma proteins (like C1 through C9) that 'complements' adaptive clearance."
+  },
+  {
+    "q": "Which of the following terms describes the unique structural molecules on or within a host cell that bind specifically to a matching chemical signal to transmit a message across the cell membrane?",
+    "a": [
+      "Antigen",
+      "Receptor",
+      "Ligand",
+      "Opsonin",
+      "Antibody"
+    ],
+    "c": 1,
+    "l": "A receptor is a specific protein molecule shaped to bind a matching chemical messenger (ligand) to induce a downstream signal transduction event within the cell.",
+    "h": "Think of structures like TCR, BCR, IL-2R, or CD28 that look for matching pairs."
+  },
+  {
+    "q": "Which specific branch of the adaptive immune system relies on B cell differentiation and the generation of circulating antibodies to target and neutralize extracellular pathogens?",
+    "a": [
+      "Cell-mediated immunity",
+      "Humoral immunity",
+      "Innate immunity",
+      "Alternative activation",
+      "Granulomatous immunity"
+    ],
+    "c": 1,
+    "l": "Humoral immunity is the arm of adaptive defense mediated by secreted antibodies, providing protection against extracellular pathogens in body fluids (humors).",
+    "h": "Identify the branch of adaptive defense focused on bodily fluids and antibody synthesis rather than active killer cell engagement."
+  },
+  {
+    "q": "Which specific branch of the adaptive immune system is driven by T lymphocytes to combat intracellular hidden threats like viruses, facultative bacteria, and mutated tumor cells?",
+    "a": [
+      "Humoral immunity",
+      "Cell-mediated immunity (CMI)",
+      "Complement cascade",
+      "Innate mucosal response",
+      "Alternative macrophage pathway"
+    ],
+    "c": 1,
+    "l": "Cell-mediated immunity (CMI) is the adaptive arm driven by T lymphocytes (helper and cytotoxic subsets) to target intracellular pathogens and abnormal host cells.",
+    "h": "Think of the defense mechanism highlighted when T cells activate phagocytes or execute direct target apoptosis."
+  },
+  {
+    "q": "Which of the following terms describes long-lived, specialized adaptive lymphocytes generated during a primary infection that remain dormant but provide rapid, heightened protection upon re-exposure?",
+    "a": [
+      "Naive T cells",
+      "Memory cells",
+      "Effector cells",
+      "Classically activated macrophages",
+      "Professional APCs"
+    ],
+    "c": 1,
+    "l": "Memory cells (both B and T lineages) are long-lived differentiated cells that persist after an infection clears to execute a rapid, robust recall response upon re-challenge.",
+    "h": "Identify the specific lymphocyte group responsible for long-term immunity and rapid vaccine responses."
+  },
+  {
+    "q": "Which fundamental immunological concept describes the state of unresponsiveness where the adaptive immune system recognizes self-antigens but intentionally avoids attacking the body's own tissues?",
+    "a": [
+      "Anergy",
+      "Immune tolerance",
+      "Clonal expansion",
+      "Inflammation",
+      "Cross-regulation"
+    ],
+    "c": 1,
+    "l": "Immune tolerance is the deliberate state of structural non-responsiveness to self-antigens, managed via central deletion or peripheral suppression to prevent autoimmune damage.",
+    "h": "Think of the protective setting that prevents autoimmunity, controlled in part by FoxP3+ regulatory T cells."
+  },
+  {
+    "q": "Which specific functional state of an active lymphocyte marks it as actively executing defensive duties (such as secreting cytokines or killing cells) rather than remaining naive or waiting as memory?",
+    "a": [
+      "Anergetic state",
+      "Effector state",
+      "Dormant state",
+      "Naive state",
+      "Stem-like state"
+    ],
+    "c": 1,
+    "l": "An effector cell is a fully differentiated lymphocyte that actively carries out specific immune actions to clear an infection, such as helper Th subsets or active cytotoxic T cells.",
+    "h": "Look for the term that denotes a cell actively exerting an 'effect' against a pathogen."
+  },
+  {
+    "q": "Which category of specialized immune cells is uniquely equipped to capture antigens from entry barriers, process them into peptides, and carry them to lymph nodes to activate naive T cells?",
+    "a": [
+      "Natural Killer cells",
+      "Antigen-Presenting Cells (APCs)",
+      "Eosinophils",
+      "Basophils",
+      "Erythrocytes"
+    ],
+    "c": 1,
+    "l": "Antigen-Presenting Cells (APCs), such as dendritic cells, macrophages, and B cells, link the innate and adaptive systems by displaying foreign peptides bound to MHC molecules.",
+    "h": "Identify the umbrella group that serves as the essential 'courier' or 'teacher' to naive T cells."
+  },
+  {
+    "q": "Which of the following terms describes an inactive lymphocyte that has successfully developed in the bone marrow or thymus but has not yet encountered its specific matching antigen in a peripheral lymphoid organ?",
+    "a": [
+      "Effector T cell",
+      "Memory B cell",
+      "Naive lymphocyte",
+      "Activated macrophage",
+      "Plasma cell"
+    ],
+    "c": 2,
+    "l": "A naive lymphocyte is a mature cell that has cleared central development but has never bound its specific foreign antigen, circulating through lymphoid tissues until activated.",
+    "h": "Think of a structurally mature but immunologically 'inexperienced' lymphocyte."
+  },
+  {
+    "q": "Which of the following terms describes the structural match required for T cell activation where an accessorial pair of molecules on the T cell and APC must bind together alongside the TCR-MHC signal?",
+    "a": [
+      "Opsonization",
+      "Costimulation",
+      "Anergy",
+      "Apoptosis",
+      "Cross-regulation"
+    ],
+    "c": 1,
+    "l": "Costimulation is the 'second signal' required for full adaptive lymphocyte activation, preventing anergy by validating that the antigen presentation is due to a real infection.",
+    "h": "Think of the molecular handshake between CD28 on a T cell and B7 on an APC."
+  },
+  {
+    "q": "Which of the following terms describes the state of functional paralysis or permanent inactivation that occurs when a naive T cell binds an antigen *without* receiving any costimulatory signals?",
+    "a": [
+      "Apoptosis",
+      "Anergy",
+      "Proliferation",
+      "Differentiation",
+      "Chemotaxis"
+    ],
+    "c": 1,
+    "l": "Anergy is a form of peripheral tolerance where a lymphocyte becomes non-responsive after binding an antigen without adequate costimulation.",
+    "h": "Identify the cellular state of unresponsiveness that protects against accidental self-activation."
+  },
+  {
+    "q": "Which of the following terms describes the explosive round of mitotic cell division where a single activated lymphocyte multiplies rapidly into thousands of identical copies to fight a specific threat?",
+    "a": [
+      "Clonal expansion (Proliferation)",
+      "Differentiation",
+      "Anergy induction",
+      "Opsonization",
+      "Chemotaxis"
+    ],
+    "c": 0,
+    "l": "Clonal expansion, driven by autocrine growth factors like IL-2, ensures that a tiny population of antigen-specific lymphocytes rapidly expands into an army of identical cells.",
+    "h": "Think of the mechanism that increases the absolute count of an antigen-specific T-cell line."
+  },
+  {
+    "q": "Which of the following terms describes the genetic and functional transformation process where an activated, proliferating T cell matures into a specific specialized functional subset?",
+    "a": [
+      "Proliferation",
+      "Differentiation",
+      "Anergy",
+      "Opsonization",
+      "Phagocytosis"
+    ],
+    "c": 1,
+    "l": "Differentiation is the developmental process where activated lymphocytes undergo changes in gene expression to mature into specialized effector lineages (such as Th1, Th2, or Th17).",
+    "h": "Think of the step where a generic Th0 cell matures into a specific, specialized functional player."
+  },
+  {
+    "q": "Which structural surface protein on a T cell serves as the specific primary sensor engineered to recognize and bind an antigen peptide cradled inside an MHC platter?",
+    "a": [
+      "B-cell Receptor (BCR)",
+      "T-cell Receptor (TCR)",
+      "CD40",
+      "B7 protein",
+      "CD28 receptor"
+    ],
+    "c": 1,
+    "l": "The T-cell Receptor (TCR) is a membrane-bound protein complex on T lymphocytes responsible for recognizing fragments of antigen presented by MHC molecules.",
+    "h": "Identify the specific core receptor defining the entire T lymphocyte lineage."
+  },
+  {
+    "q": "Which structural surface protein on a B lymphocyte functions as its primary membrane-bound sensor to directly capture intact, free-floating extracellular antigens?",
+    "a": [
+      "T-cell Receptor",
+      "B-cell Receptor (BCR)",
+      "MHC Class II",
+      "CD3 complex",
+      "CTLA-4"
+    ],
+    "c": 1,
+    "l": "The B-cell Receptor (BCR) is a membrane-bound immunoglobulin molecule on B cells that binds free, unprocessed extracellular antigens to initiate humoral responses.",
+    "h": "Identify the antibody-like structural receptor anchored on a B lymphocyte surface."
+  },
+  {
+    "q": "Which specific subset of CD4+ T helper cells is characterized by the production of Interferon-gamma to classically activate macrophages and clear intracellular vacuoles?",
+    "a": [
+      "Th1 subset",
+      "Th2 subset",
+      "Th17 subset",
+      "Treg subset",
+      "Naive Th0 cells"
+    ],
+    "c": 0,
+    "l": "Th1 cells differentiate under the influence of IL-12 and generate IFN-gamma to drive cell-mediated clearance of intracellular bacteria and viruses.",
+    "h": "Think of the helper lineage that handles pathogens like Mycobacterium tuberculosis and Listeria."
+  },
+  {
+    "q": "Which specific subset of CD4+ T helper cells is characterized by the production of IL-4 and IL-5 to drive antibody class-switching, eosinophil activation, and defense against helminthic worms?",
+    "a": [
+      "Th1 subset",
+      "Th2 subset",
+      "Th17 subset",
+      "Treg subset",
+      "M1 subset"
+    ],
+    "c": 1,
+    "l": "Th2 cells express GATA3 and produce IL-4, IL-5, and IL-13, which promote eosinophil recruitment, IgE production, and defense against parasites.",
+    "h": "Identify the helper subset associated with humoral responses, asthma, and anti-parasitic reactions."
+  },
+  {
+    "q": "Which specific group of specialized white blood cells is characterized by its ability to ingest, engulf, and break down particulate matter, dead cells, and whole foreign microbes inside specialized intracellular vacuoles?",
+    "a": [
+      "Phagocytes",
+      "T lymphocytes",
+      "B lymphocytes",
+      "Plasma cells",
+      "Erythrocytes"
+    ],
+    "c": 0,
+    "l": "Phagocytes, including macrophages and neutrophils, are cells capable of engulfing foreign particles and microbes via phagocytosis to protect the host.",
+    "h": "Look for the general cellular term that literally translates to 'eating cells'."
+  },
+  {
+    "q": "Which specific helper T-cell subset is optimized to secure epithelial borders against extracellular fungi and bacteria by selectively recruiting and activating a massive influx of neutrophils?",
+    "a": [
+      "Th1 subset",
+      "Th2 subset",
+      "Th17 subset",
+      "Treg subset",
+      "NK cell lineage"
+    ],
+    "c": 2,
+    "l": "Th17 cells express RORgammat and produce IL-17 and IL-22, which direct neutrophil recruitment to inflammatory sites to clear extracellular bacterial and fungal infections.",
+    "h": "Identify the helper subset named after its signature secretion of Interleukin-17."
+  },
+  {
+    "q": "Which specific subset of mature macrophages is classically activated by Interferon-gamma to execute highly destructive, pro-inflammatory microbicidal operations via ROS and nitric oxide?",
+    "a": [
+      "M1 Macrophages",
+      "M2 Macrophages",
+      "Dendritic cell precursors",
+      "Regulatory B cells",
+      "Anergetic monocytes"
+    ],
+    "c": 0,
+    "l": "M1 macrophages are classically activated by microbial components and IFN-gamma to initiate inflammation and kill phagocytosed pathogens via reactive oxygen species (ROS) and nitric oxide.",
+    "h": "Identify the macrophage configuration optimized for raw inflammatory microbial destruction."
+  },
+  {
+    "q": "Which specific subset of mature macrophages is alternatively activated by IL-4 and IL-13 to suppress active inflammation, coordinate tissue repair, deposit matrix, and drive fibrosis?",
+    "a": [
+      "M1 Macrophages",
+      "M2 Macrophages",
+      "Th17 effectors",
+      "Neutrophil aggregates",
+      "NK cells"
+    ],
+    "c": 1,
+    "l": "M2 macrophages are alternatively activated by IL-4 and IL-13 to downregulate inflammatory processes and promote wound healing, tissue repair, and matrix remodeling.",
+    "h": "Identify the macrophage configuration optimized for tissue healing and resolving inflammation."
+  },
+  {
+    "q": "Which master transcription factor acts as the key molecular switch that dictates the differentiation of a naive helper T cell into the pro-inflammatory, macrophage-activating Th1 subset?",
+    "a": [
+      "GATA3",
+      "RORgammat",
+      "T-bet",
+      "FoxP3",
+      "NF-kB"
+    ],
+    "c": 2,
+    "l": "T-bet is the master transcription factor that drives the expression of IFN-gamma and defines the functional programming of the Th1 effector lineage.",
+    "h": "Identify the transcription factor that coordinates defense against intracellular pathogens like Listeria."
+  },
+  {
+    "q": "Which master transcription factor acts as the signature molecular switch that drives the differentiation of naive CD4+ T cells into the Th17 lineage to manage extracellular fungal infections?",
+    "a": [
+      "T-bet",
+      "GATA3",
+      "RORgammat",
+      "FoxP3",
+      "STAT6"
+    ],
+    "c": 2,
+    "l": "RORgammat is the master transcription factor that drives the differentiation of Th17 cells and controls the production of their signature neutrophil-recruiting cytokines.",
+    "h": "Match the ROR-family transcription factor directly to the IL-17-producing lineage."
+  },
+  {
+    "q": "Which master transcription factor acts as the key molecular switch that programs regulatory T cells (Tregs) to maintain self-tolerance and suppress peripheral autoimmunity?",
+    "a": [
+      "T-bet",
+      "GATA3",
+      "RORgammat",
+      "FoxP3",
+      "CD25"
+    ],
+    "c": 3,
+    "l": "FoxP3 is the master transcription factor that defines regulatory T cells (Tregs). Mutations in FoxP3 cause systemic, severe autoimmune pathology.",
+    "h": "Identify the transcription factor whose absence results in severe IPEX syndrome due to a complete failure of active immune suppression."
+  },
+  {
+    "q": "Which of the following terms describes a pathogen that can replicate and survive either independently in extracellular spaces or hidden safely within host phagocytic vacuoles?",
+    "a": [
+      "Obligate intracellular pathogen",
+      "Facultative intracellular pathogen",
+      "Obligate aerobe",
+      "Commensal fungal spore",
+      "Helminthic parasite"
+    ],
+    "c": 1,
+    "l": "Facultative intracellular pathogens, such as Mycobacterium tuberculosis and Listeria monocytogenes, are capable of living and replicating either inside host cells or outside in extracellular environments.",
+    "h": "Think of a microbe that has the 'faculty' or choice to live either inside or outside host cells."
+  },
+  {
+    "q": "Which of the following terms describes a pathogen (such as all viruses, Chlamydia, and Rickettsia) that is completely incapable of reproducing outside of a living host cell?",
+    "a": [
+      "Facultative intracellular pathogen",
+      "Obligate intracellular pathogen",
+      "Extracellular bacteria",
+      "Saprophytic fungus",
+      "Free-living protozoan"
+    ],
+    "c": 1,
+    "l": "Obligate intracellular pathogens are entirely dependent on host cell machinery to replicate, meaning they are strictly 'obligated' to remain inside a host cell during their reproductive phase.",
+    "h": "Identify the classification that includes all viruses due to their absolute reliance on host internal structures."
+  },
+  {
+    "q": "Which of the following terms describes the structural process where a specific molecular coating (such as complement proteins or antibodies) acts as an optimization marker, binding to a pathogen to make it highly attractive to phagocytes?",
+    "a": [
+      "Apoptosis",
+      "Opsonization",
+      "Anergy",
+      "Chemotaxis",
+      "Degranulation"
+    ],
+    "c": 1,
+    "l": "Opsonization is the coating of a pathogen with molecules (opsonins like C3b or IgG) that can be easily recognized by specific receptors on phagocytes, greatly increasing ingestion efficiency.",
+    "h": "Think of an immune mechanism that functions to 'make a microbe tasty' to a macrophage."
+  },
+  {
+    "q": "Which specific receptor on immune cells (like NK cells, macrophages, and neutrophils) is designed to recognize and bind the structural 'tail' or constant region of an attached antibody during target cell clearance?",
+    "a": [
+      "T-cell Receptor",
+      "Fc Receptor",
+      "MHC Class I",
+      "CD28 receptor",
+      "Chemokine receptor"
+    ],
+    "c": 1,
+    "l": "Fc receptors are cell-surface proteins on leukocytes that bind the Fc (fragment, crystallizable) constant tail region of antibodies, allowing them to engage antibody-coated targets.",
+    "h": "Identify the receptor named after the constant constant-region piece of an immunoglobulin molecule."
+  },
+  {
+    "q": "Which specific cell surface marker combination is used professionally in laboratory panels to definitively isolate and identify Natural Killer (NK) cells from human blood samples?",
+    "a": [
+      "CD3 and CD4",
+      "CD3 and CD8",
+      "CD16 and CD56",
+      "CD19 and CD20",
+      "FoxP3 and CD25"
+    ],
+    "c": 2,
+    "l": "NK cells are immunologically identified by the presence of CD56 (NCAM) and CD16 (FcgammaRIII) on their surface, alongside the complete absence of CD3.",
+    "h": "Look for the markers that give NK cells their ability to bind IgG tails and track target surfaces."
+  },
+  {
+    "q": "Which specific transport protein complex located in the endoplasmic reticulum membrane is responsible for pumping processed cytosolic viral peptides into the ER lumen to be loaded onto MHC Class I platters?",
+    "a": [
+      "Caspase complex",
+      "Transporter associated with antigen processing (TAP)",
+      "B7 costimulatory channel",
+      "CD3 signaling chain",
+      "Perforin pore assembly"
+    ],
+    "c": 1,
+    "l": "The TAP transporter pumps degraded cytosolic peptides across the ER membrane, where they can fit into the binding groove of newly synthesized MHC Class I molecules.",
+    "h": "Identify the critical processing pump targeted and blocked by Herpes Simplex Virus (HSV) to evade CD8+ detection."
+  },
+  {
+    "q": "Which structural piece of the MHC Class I complex is encoded outside the human leukocyte antigen (HLA) locus and serves to structurally stabilize the single alpha chain on the cell surface?",
+    "a": [
+      "Invariant chain",
+      "Beta-2 Microglobulin (B2M)",
+      "CD3 epsilon chain",
+      "B7.1 costimulator",
+      "CLIP peptide"
+    ],
+    "c": 1,
+    "l": "MHC Class I molecules consist of an HLA-encoded polymorphic heavy alpha chain non-covalently linked to a constant stabilizer peptide called beta-2 microglobulin.",
+    "h": "Identify the constant structural partner required for proper MHC Class I configuration on a host cell surface."
+  },
+  {
+    "q": "Which of the following terms describes the local migration of leukocytes out of the bloodstream, crawling between endothelial cell junctions to directly enter an inflamed, damaged tissue space?",
+    "a": [
+      "Opsonization",
+      "Diapedesis (Extravasation)",
+      "Anergy induction",
+      "Clonal selection",
+      "Apoptotic packaging"
+    ],
+    "c": 1,
+    "l": "Diapedesis, or extravasation, is the multi-step process where leukocytes roll, adhere firmly via integrins, and squeeze through endothelial walls to reach an active site of tissue inflammation.",
+    "h": "Think of the structural movement term for white blood cells physically 'stepping through' blood vessel walls."
+  },
+  {
+    "q": "Which specific subcategory of low-molecular-weight cytokines acts explicitly as chemical homing beacons, forming a concentration gradient that guides white blood cells toward a specific site of infection?",
+    "a": [
+      "Interleukins",
+      "Chemokines",
+      "Granzymes",
+      "Caspases",
+      "Immunoglobulins"
+    ],
+    "c": 1,
+    "l": "Chemokines are specialized chemotactic cytokines (like IL-8) whose primary function is to draw leukocytes along a chemical gradient to the exact epicenter of an injury or infection.",
+    "h": "Look for the term that combines 'chemical' signaling with cellular 'movement' or kinetics."
+  },
+  {
+    "q": "Which structural molecule expressed on the surface of antigen-presenting cells acts as the core activating ligand for the CD28 receptor on a naive T cell to deliver Signal 2?",
+    "a": [
+      "CD40",
+      "B7 protein (CD80/CD86)",
+      "ICAM-1",
+      "MHC Class II",
+      "LFA-3"
+    ],
+    "c": 1,
+    "l": "B7-1 (CD80) and B7-2 (CD86) are costimulatory ligands expressed on mature APCs that interact directly with CD28 on T cells to permit full activation.",
+    "h": "Identify the ligand family that is up-regulated on an APC following exposure to a microbe."
+  },
+  {
+    "q": "Which of the following terms describes the cross-talk mechanism where a cytokine secreted by one immune pathway actively binds to and blocks the growth or action of an opposing immune pathway?",
+    "a": [
+      "Clonal selection",
+      "Cross-regulation",
+      "Autocrine signaling",
+      "Opsonization",
+      "Granulomatous hypersensitivity"
+    ],
+    "c": 1,
+    "l": "Cross-regulation occurs when products of one T-cell subset suppress the development of another, such as Th1-derived IFN-gamma directly blocking Th2 proliferation.",
+    "h": "Think of the process that maintains an optimal balance among active helper T-cell lineages."
+  },
+  {
+    "q": "Which term describes the process where an active lymphocyte secretes a chemical messenger that binds directly to receptors on its *own* surface to drive its own growth and activation?",
+    "a": [
+      "Paracrine signaling",
+      "Autocrine signaling",
+      "Endocrine signaling",
+      "Cross-regulation",
+      "Anergy induction"
+    ],
+    "c": 1,
+    "l": "Autocrine signaling refers to a cell producing a ligand that acts directly on its own receptors, illustrated perfectly by an activated T cell producing and binding its own IL-2.",
+    "h": "Look for the prefix that means 'self' or 'acting on oneself'."
+  },
+  {
+    "q": "Which term describes the signaling mechanism where an immune cell secretes a chemical messenger designed to travel a short distance to bind and alter adjacent, neighboring cells?",
+    "a": [
+      "Autocrine signaling",
+      "Paracrine signaling",
+      "Endocrine signaling",
+      "Anergy",
+      "Apoptosis"
+    ],
+    "c": 1,
+    "l": "Paracrine signaling involves the release of local chemical mediators that alter the behavior of neighboring cells, such as a macrophage releasing cytokines to alter nearby vascular endothelium.",
+    "h": "Look for the prefix that means 'beside' or 'near'."
+  },
+  {
+    "q": "Which specific surface receptor complex is non-covalently linked to every T-cell Receptor and functions as the indispensable structural signal transducer across the T-cell membrane?",
+    "a": [
+      "CD28 complex",
+      "CD3 complex",
+      "B7 complex",
+      "MHC platter",
+      "CD40 complex"
+    ],
+    "c": 1,
+    "l": "The CD3 complex, composed of gamma, delta, epsilon, and zeta chains, contains immunoreceptor tyrosine-based activation motifs (ITAMs) that transduce the signal when a TCR binds an antigen.",
+    "h": "Identify the multi-protein complex present on all mature T cells that acts as the primary signal engine for the TCR."
+  },
+  {
+    "q": "Which specialized surface molecule on a naive T helper cell functions specifically as a coreceptor to interact exclusively with MHC Class II proteins on an antigen-presenting cell?",
+    "a": [
+      "CD3",
+      "CD4",
+      "CD8",
+      "CD28",
+      "CD40L"
+    ],
+    "c": 1,
+    "l": "The CD4 glycoprotein is a specialized coreceptor on helper T cells that binds to invariant zones of MHC Class II molecules, strengthening and transducing activation signals.",
+    "h": "Identify the signature marker that defines the T helper cell lineage."
+  },
+  {
+    "q": "Which specialized surface molecule on a naive cytotoxic T cell functions specifically as a coreceptor to stabilize and lock onto MHC Class I platters on an APC or target cell?",
+    "a": [
+      "CD3",
+      "CD4",
+      "CD8",
+      "CD28",
+      "FasL"
+    ],
+    "c": 2,
+    "l": "The CD8 glycoprotein is a coreceptor on cytotoxic T cells that binds specifically to the constant region of MHC Class I molecules, anchoring the cell during target screening.",
+    "h": "Identify the signature marker that defines the cytotoxic T lymphocyte lineage."
+  },
+  {
+    "q": "Which specific cell surface protein on professional APCs interacts directly with CD40L (CD154) on an activated T cell to trigger advanced macrophage microbicidal activation or B cell class switching?",
+    "a": [
+      "CD28",
+      "CD40",
+      "B7-1",
+      "ICAM-1",
+      "CTLA-4"
+    ],
+    "c": 1,
+    "l": "CD40 is a critical receptor on APCs (macrophages, dendritic cells, B cells) that binds CD40L on T cells, delivering signals that activate the APC and drive immune responses.",
+    "h": "Identify the receptor on the APC that matches with the inducible CD154 ligand on an active T cell."
+  },
+  {
+    "q": "Which inducible ligand expressed on the surface of activated T helper cells binds to CD40 on an APC to drive maturation, upregulation of costimulators, and antibody class switching?",
+    "a": [
+      "CD28",
+      "CD40L (CD154)",
+      "B7-2",
+      "FasL",
+      "LFA-1"
+    ],
+    "c": 1,
+    "l": "CD40 Ligand (CD40L, or CD154) is temporarily expressed on activated T cells to engage CD40 on APCs, providing a powerful feedback loop for adaptive defense.",
+    "h": "Look for the molecule whose name means 'the matching ligand for CD40'."
+  },
+  {
+    "q": "Which prominent cell surface integrin on T cells binds to ICAM-1 on endothelial cells or APCs to mediate firm structural adhesion during antigen recognition or tissue migration?",
+    "a": [
+      "CD2",
+      "Leukocyte Function-Associated Antigen 1 (LFA-1)",
+      "CD58",
+      "CD28",
+      "VLA-4"
+    ],
+    "c": 1,
+    "l": "LFA-1 is a key integrin on leukocytes that binds to Intercellular Adhesion Molecule 1 (ICAM-1) to transform a weak rolling interaction into a tight, firm structural halt.",
+    "h": "Identify the primary integrin that pairs with the ICAM-1 adhesion platter."
+  },
+  {
+    "q": "Which cell surface adhesion molecule on professional antigen-presenting cells acts as the principal structural landing pad for the integrin LFA-1 on a migrating or scanning T cell?",
+    "a": [
+      "CD2",
+      "Intercellular Adhesion Molecule 1 (ICAM-1)",
+      "CD58",
+      "B7-1",
+      "CD40"
+    ],
+    "c": 1,
+    "l": "ICAM-1 (CD54) is a structural surface glycoprotein expressed on APCs and endothelial cells that binds the integrin LFA-1 to support firm cellular adhesion.",
+    "h": "Identify the structural molecule that pairs directly with LFA-1."
+  },
+  {
+    "q": "Which cell-surface adhesion molecule on a T cell binds directly to CD58 on an antigen-presenting cell to support early structural anchoring and cellular communication?",
+    "a": [
+      "CD2",
+      "LFA-1",
+      "ICAM-1",
+      "CD28",
+      "CD4"
+    ],
+    "c": 0,
+    "l": "CD2 is a T-cell surface adhesion molecule that binds to CD58 (LFA-3) on APCs to stabilize the physical contact zone between the two cells.",
+    "h": "Identify the simple numbered T-cell marker that anchors directly to CD58."
+  },
+  {
+    "q": "Which cell-surface adhesion partner expressed on professional antigen-presenting cells serves as the direct binding target for the CD2 molecule on a T cell?",
+    "a": [
+      "ICAM-1",
+      "CD58 (LFA-3)",
+      "B7-1",
+      "CD40",
+      "CD3"
+    ],
+    "c": 1,
+    "l": "CD58, also known as Leukocyte Function-Associated Antigen 3 (LFA-3), is an adhesion molecule on APCs that pairs with CD2 on T cells to strengthen intercellular contact.",
+    "h": "Identify the structural adhesion partner for CD2."
+  },
+  {
+    "q": "Which specific structural domain inside cell surface receptors (such as the chains of the CD3 complex) contains tyrosine residues that become phosphorylated to launch internal immune activation cascades?",
+    "a": [
+      "Inhibitory motif",
+      "Immunoreceptor Tyrosine-based Activation Motif (ITAM)",
+      "Death domain",
+      "Fc binding pocket",
+      "MHC binding groove"
+    ],
+    "c": 1,
+    "l": "ITAMs are conserved sequences located in the cytoplasmic tails of signaling molecules like CD3 that are phosphorylated by tyrosine kinases to initiate T-cell activation.",
+    "h": "Look for the structural activation motif abbreviation that contains 'Tyrosine-based' and 'Activation'."
+  },
+  {
+    "q": "Which structural motif found inside specific coinhibitory receptors (such as PD-1) undergoes phosphorylation to recruit phosphatases that shut down internal cell signaling?",
+    "a": [
+      "ITAM",
+      "Immunoreceptor Tyrosine-based Inhibitory Motif (ITIM)",
+      "Granzyme cleavage site",
+      "TAP channel groove",
+      "Fas domain"
+    ],
+    "c": 1,
+    "l": "ITIMs are signaling motifs found in the cytoplasmic domains of inhibitory receptors like PD-1 that recruit phosphatases to strip phosphate groups and stall activation cascades.",
+    "h": "Look for the structural motif abbreviation that explicitly contains the word 'Inhibitory'."
+  },
+  {
+    "q": "Which specific cell-surface coinhibitory receptor on activated T cells binds to PD-L1 or PD-L2 on tumor cells to trigger functional exhaustion and shut down ongoing effector clearance?",
+    "a": [
+      "CD28",
+      "Programmed Death-1 (PD-1)",
+      "CTLA-4",
+      "CD40",
+      "LFA-1"
+    ],
+    "c": 1,
+    "l": "PD-1 is an inhibitory checkpoint receptor expressed on chronically activated T cells that delivers negative regulatory loops when bound by its ligands, PD-L1 or PD-L2.",
+    "h": "Identify the receptor targeted by modern checkpoint inhibitors to rescue 'exhausted' tumor-specific T cells."
+  },
+  {
+    "q": "Which term describes the physical region of tight, organized structural contact between a T cell and an APC, where TCRs, MHCs, costimulators, and adhesion pairs cluster together?",
+    "a": [
+      "Phagolysosome",
+      "Immunological Synapse (SMAC)",
+      "Granulomatous focus",
+      "Complement pore",
+      "Lymphoid follicle"
+    ],
+    "c": 1,
+    "l": "The immunological synapse, or Supramolecular Activation Cluster (SMAC), is the highly structured physical junction formed between a lymphocyte and its target or APC during antigen scanning.",
+    "h": "Think of the immune equivalent to a neurological synapse used for cell-to-cell communication."
+  },
+  {
+    "q": "Which term describes a differentiated B cell that has transformed into a dedicated, efficient antibody manufacturing factory, pumping out thousands of immunoglobulins per second?",
+    "a": [
+      "Naive B cell",
+      "Plasma cell",
+      "Memory B cell",
+      "M1 Macrophage",
+      "Th2 effector cell"
+    ],
+    "c": 1,
+    "l": "A plasma cell is a fully differentiated, non-proliferating mature B-lineage cell optimized to secrete massive amounts of soluble antibodies into the circulation.",
+    "h": "Identify the specific terminal cell type responsible for producing soluble antibodies."
+  },
+  {
+    "q": "Which process describes the genetic shifting mechanism where an activated B cell alters the constant region of its heavy chain to transform an initial IgM response into a specialized IgG, IgA, or IgE response?",
+    "a": [
+      "Somatic hypermutation",
+      "Class-Switch Recombination (Isotype Switching)",
+      "Clonal expansion",
+      "Anergy induction",
+      "Alternative activation"
+    ],
+    "c": 1,
+    "l": "Isotype or Class switching is a permanent genetic recombination process in B cells that changes the antibody constant heavy chain, shifting the effector mechanism while retaining original antigen specificity.",
+    "h": "Think of the process that allows a B cell to change its antibody 'isotype' or class."
+  },
+  {
+    "q": "Which term describes the progressive enhancement of an antibody population's binding strength over time due to repeated rounds of somatic mutation and selection within germinal centers?",
+    "a": [
+      "Isotype switching",
+      "Affinity Maturation",
+      "Anergy",
+      "Apoptosis",
+      "Opsonization"
+    ],
+    "c": 1,
+    "l": "Affinity maturation is the selective process where B cells undergo rapid mutations in their variable regions, with those possessing the highest affinity for the antigen being selected to survive.",
+    "h": "Look for the term that denotes an antibody's binding 'affinity' becoming progressively more mature and tight."
+  },
+  {
+    "q": "Which specific helper T-cell cytokine functions as the definitive primary autocrine growth factor responsible for triggering the rapid multiplication and clonal expansion of activated T cells?",
+    "a": [
+      "Interleukin-2 (IL-2)",
+      "Interleukin-4 (IL-4)",
+      "Interleukin-5 (IL-5)",
+      "Interleukin-10 (IL-10)",
+      "Interferon-gamma"
+    ],
+    "c": 0,
+    "l": "IL-2 is secreted by activated T cells and binds back to high-affinity IL-2 receptors on those same cells, serving as the essential driver for autocrine T-cell clonal proliferation.",
+    "h": "Identify the classic interleukin targeted by immunosuppressive medications to block T-cell proliferation."
+  },
+  {
+    "q": "Which critical regulatory cytokine secreted by Tregs and M2 macrophages functions as an immunologic 'off-switch' to suppress macrophage activation and downregulate inflammatory cytokine synthesis?",
+    "a": [
+      "IL-1",
+      "IL-6",
+      "Interleukin-10 (IL-10)",
+      "IL-12",
+      "TNF-alpha"
+    ],
+    "c": 2,
+    "l": "IL-10 is a potent anti-inflammatory cytokine that downregulates the expression of Th1 cytokines, MHC Class II platters, and costimulators on macrophages, limiting collateral damage.",
+    "h": "Identify the classic anti-inflammatory partner of TGF-beta used to terminate responses."
+  },
+  {
+    "q": "Which master cytokine secreted by classically activated macrophages (M1) or dendritic cells is responsible for driving naive CD4+ T cells to differentiate into the Th1 subset?",
+    "a": [
+      "IL-4",
+      "IL-5",
+      "Interleukin-12 (IL-12)",
+      "IL-17",
+      "TGF-beta"
+    ],
+    "c": 2,
+    "l": "IL-12 is produced by APCs in response to intracellular microbes and acts as the definitive polarizing signal to turn on T-bet and drive Th1 cell differentiation.",
+    "h": "Identify the multi-subunit interleukin that links intracellular vacuole stress to a Th1 response."
+  },
+  {
+    "q": "Which signature helper T-cell cytokine is responsible for signaling B cells to class-switch to IgE, while also serving as the primary autocrine driver for Th2 lineage differentiation?",
+    "a": [
+      "IL-2",
+      "Interleukin-4 (IL-4)",
+      "IL-12",
+      "IFN-gamma",
+      "TNF-alpha"
+    ],
+    "c": 1,
+    "l": "IL-4 is the signature cytokine of the Th2 subset that acts on naive T cells to promote Th2 differentiation and drives B cells to undergo class switching to produce IgE.",
+    "h": "Identify the cytokine that controls the default helper differentiation pathway when IL-12 is missing."
+  },
+  {
+    "q": "Which cytokine secreted by Th2 effector cells serves as the primary master regulator for the bone marrow production, systemic recruitment, and tissue activation of eosinophils?",
+    "a": [
+      "IL-2",
+      "IL-4",
+      "Interleukin-5 (IL-5)",
+      "IL-10",
+      "IL-17"
+    ],
+    "c": 2,
+    "l": "IL-5 is an eosinophil-specific cytokine secreted by Th2 cells that drives eosinophil growth, survival, and degranulation during parasitic infections.",
+    "h": "Think of the interleukin numbered right after IL-4 that specifically handles eosinophilic activation."
+  },
+  {
+    "q": "Which cytokine, working alongside IL-1 and IL-6, is released in massive amounts by M1 macrophages to increase endothelial permeability, activate local leukocytes, and drive acute inflammation?",
+    "a": [
+      "IL-4",
+      "IL-10",
+      "Tumor Necrosis Factor-alpha (TNF-alpha)",
+      "TGF-beta",
+      "IL-35"
+    ],
+    "c": 2,
+    "l": "TNF-alpha is a major pro-inflammatory cytokine produced by macrophages that acts on endothelial cells to upregulate adhesion molecules and increase vascular permeability.",
+    "h": "Identify the cytokine named originally for its ability to induce necrosis in tumor models due to severe vascular collapse."
+  },
+  {
+    "q": "Which dual-purpose cytokine acts as an essential component for programming the pro-inflammatory Th17 lineage when combined with IL-6, but acts as a powerful anti-inflammatory agent when paired with IL-2?",
+    "a": [
+      "IFN-gamma",
+      "IL-12",
+      "Transforming Growth Factor-beta (TGF-beta)",
+      "TNF-alpha",
+      "IL-4"
+    ],
+    "c": 2,
+    "l": "TGF-beta is a pleiotropic cytokine that can repress immune responses and promote tissue repair, but in the presence of pro-inflammatory IL-6, it shifts to drive Th17 development.",
+    "h": "Identify the cytokine that coordinates both fibrosis in wound healing and peripheral self-tolerance in Tregs."
+  },
+  {
+    "q": "Which specific component of the complement cascade serves as the highly active, primary opsonin molecule that coats bacterial capsules to facilitate easy capture by macrophage complement receptors?",
+    "a": [
+      "C3a",
+      "C3b",
+      "C5a",
+      "C5b",
+      "C9"
+    ],
+    "c": 1,
+    "l": "C3b is generated by the cleavage of C3 and binds covalently to microbial surfaces, acting as a powerful opsonin that facilitates phagocytosis.",
+    "h": "Identify the split product of C3 that stays attached to the bacterial wall rather than floating away."
+  },
+  {
+    "q": "Which specific split-products of the complement cascade function as potent anaphylatoxins, floating away to drive mast cell degranulation, increase vascular permeability, and recruit neutrophils?",
+    "a": [
+      "C1 and C2",
+      "C3b and C4b",
+      "C3a and C5a",
+      "C5b and C6",
+      "C7 and C8"
+    ],
+    "c": 2,
+    "l": "C3a and C5a are soluble fragments that act as anaphylatoxins, binding to mast cells to release histamine and serving as powerful chemoattractants for neutrophils.",
+    "h": "Look for the small 'a' split-products that float away to mediate acute inflammatory responses."
+  },
+  {
+    "q": "Which final multi-protein assembly is formed by the sequential docking of complement components C5b, C6, C7, C8, and multiple C9 units to punch physical holes through a target microbe's envelope?",
+    "a": [
+      "Immunological Synapse",
+      "Membrane Attack Complex (MAC)",
+      "Phagolysosome pore",
+      "TAP channel assembly",
+      "TCR signaling column"
+    ],
+    "c": 1,
+    "l": "The Membrane Attack Complex (MAC), composed of C5b-9, forms a structural transmembrane pore in target cell walls, leading to osmotic lysis.",
+    "h": "Identify the structural pore complex that acts as the physical terminal end of the complement cascade."
+  },
+  {
+    "q": "Which cell surface death receptor belongs to the tumor necrosis factor receptor family and undergoes trimerization to launch immediate internal caspase cascades when bound by FasL?",
+    "a": [
+      "CD28",
+      "Fas (CD95)",
+      "CD40",
+      "MHC Class I",
+      "PD-1"
+    ],
+    "c": 1,
+    "l": "Fas (CD95) is a cell-surface death receptor that, when bound by FasL, recruits caspase-8 via death domains to execute target cell apoptosis.",
+    "h": "Identify the classic cell-surface receptor named directly after its role in launching 'apoptosis' or cell death."
+  },
+  {
+    "q": "Which inducible surface protein expressed primarily on activated CD8+ CTLs and NK cells acts as the structural key to lock onto the death receptor Fas (CD95) on a target host cell?",
+    "a": [
+      "CD28",
+      "Fas Ligand (FasL / CD178)",
+      "Perforin",
+      "Granzyme B",
+      "CTLA-4"
+    ],
+    "c": 1,
+    "l": "Fas Ligand (FasL) is an inducible type II transmembrane protein expressed on killer cells that delivers a death signal to target cells by binding to surface Fas receptors.",
+    "h": "Look for the molecule whose name tells you it is the specific 'ligand' designed to bind Fas."
+  },
+  {
+    "q": "Which structural piece of an antibody molecule is formed by the pairing of the amino-terminal domains of both the heavy and light chains, defining its unique antigen specificity?",
+    "a": [
+      "Constant fragment (Fc region)",
+      "Variable fragment (Fab region / Antigen-binding site)",
+      "Hinge region",
+      "Isotype junction",
+      "J-chain linker"
+    ],
+    "c": 1,
+    "l": "The Fab (fragment, antigen-binding) region contains the hypervariable loops that form the antigen-binding pocket, dictating the precise specificity of an antibody.",
+    "h": "Identify the active structural 'arms' of the Y-shaped antibody molecule."
+  },
+  {
+    "q": "Which structural piece of a secreted antibody molecule defines its functional class (isotype) and binds directly to leukocyte surface receptors or complement factor C1?",
+    "a": [
+      "Fab region",
+      "Fc region (Constant domain)",
+      "Hypervariable loop",
+      "Light chain variable domain",
+      "Antigen pocket"
+    ],
+    "c": 1,
+    "l": "The Fc region is composed of the constant heavy chain domains of an antibody, regulating tissue distribution, complement binding, and interaction with cellular Fc receptors.",
+    "h": "Identify the structural 'tail' or constant base of the Y-shaped antibody molecule."
+  },
+  {
+    "q": "Which structural surface molecule on professional APCs interacts with the coinhibitory receptor CTLA-4 to deliver an inhibitory signal that blocks active T cell expansion?",
+    "a": [
+      "CD40",
+      "B7 protein (CD80/CD86)",
+      "ICAM-1",
+      "CD58",
+      "MHC Class II"
+    ],
+    "c": 1,
+    "l": "CTLA-4 interacts with the exact same B7-1 and B7-2 ligands on APCs that CD28 does, but binds them with much higher affinity to suppress T cell responses.",
+    "h": "Recall that CTLA-4 competes directly with CD28 for the exact same APC surface partners."
+  },
+  {
+    "q": "Which term describes a structurally complete, processed antigenic fragment that fits directly into the structural groove of an MHC platter for specific presentation to a TCR?",
+    "a": [
+      "Opsonin",
+      "Peptide (Epitope)",
+      "Hapten",
+      "Adjuvant",
+      "Anaphylatoxin"
+    ],
+    "c": 1,
+    "l": "An epitope or peptide determinant is the precise sub-region or linear sequence of an antigen that makes direct physical contact with an immune receptor.",
+    "h": "Identify the chemical or protein sequence that sits inside the binding cleft of an MHC molecule."
+  },
+  {
+    "q": "Which intracellular acidic organelle is formed when a macrophage fuses its internalized microbe vacuole with a lysosome to expose the pathogen to a mixture of acid and lytic enzymes?",
+    "a": [
+      "Proteasome",
+      "Phagolysosome",
+      "Endoplasmic Reticulum",
+      "Golgi apparatus",
+      "Endosome"
+    ],
+    "c": 1,
+    "l": "A phagolysosome is formed by the fusion of a phagosome (containing ingested matter) with a lysosome, creating a highly destructive acidic pocket to digest microbes.",
+    "h": "Combine the structural terms for a 'phagocytic vacuole' and a 'lytic organelle'."
+  },
+  {
+    "q": "Which structural multi-protein enzyme complex located in the host cytoplasm is responsible for grinding down tagged cytosolic viral proteins into small peptide fragments for internal transport?",
+    "a": [
+      "Phagolysosome",
+      "Proteasome",
+      "TAP transporter",
+      "Complement cascade",
+      "MHC groove"
+    ],
+    "c": 1,
+    "l": "The proteasome is a cylinder-shaped protein complex that breaks down endogenous or cytosolic proteins into small peptide fragments suitable for MHC Class I loading.",
+    "h": "Identify the internal cellular shredder that handles proteins inside the cytosol."
+  },
+  {
+    "q": "Which specialized chemical group includes highly reactive, destructive oxygen radicals (such as superoxide and hydrogen peroxide) generated by M1 macrophages inside vacuoles to kill microbes?",
+    "a": [
+      "Lysosomal proteases",
+      "Reactive Oxygen Species (ROS)",
+      "Nitric Oxide intermediates",
+      "Anaphylatoxins",
+      "Chemokines"
+    ],
+    "c": 1,
+    "l": "Reactive Oxygen Species (ROS) are highly volatile oxygen radicals produced by phagocytes during the oxidative burst to destroy the structural components of internalized microbes.",
+    "h": "Identify the destructive radicals produced during a macrophage respiratory burst."
+  },
+  {
+    "q": "Which volatile gas molecule is manufactured by inducible nitric oxide synthase (iNOS) inside classically activated macrophages to act as a principal microbicidal weapon against vacuolar bacteria?",
+    "a": [
+      "Oxygen",
+      "Nitric Oxide (NO)",
+      "Carbon Dioxide",
+      "Hydrogen peroxide gas",
+      "Superoxide vapor"
+    ],
+    "c": 1,
+    "l": "Nitric Oxide (NO) is a gas radical produced from L-arginine by iNOS in activated macrophages, functioning as a potent toxic agent against intracellular bacteria and fungi.",
+    "h": "Look for the microbicidal nitrogen radical that shares an acronym with the word 'Number'."
+  },
+  {
+    "q": "Which core mechanism of peripheral tolerance involves the active generation of FoxP3+ regulatory T cells to physically clamp down on and suppress auto-reactive lymphocytes in tissues?",
+    "a": [
+      "Clonal deletion",
+      "Active Suppression",
+      "Anergy induction",
+      "Affinity maturation",
+      "Opsonization"
+    ],
+    "c": 1,
+    "l": "Active suppression is a key mechanism of peripheral tolerance where regulatory T cells secrete inhibitory cytokines (like TGF-beta and IL-10) to actively shut down self-reactive effector T cells.",
+    "h": "Think of the process where Tregs 'suppress' an ongoing immune response."
+  },
+  {
+    "q": "Which primary lymphoid organ serves as the mandatory structural school where immature T cell precursors undergo strict positive and negative selection to filter out auto-reactive lines?",
+    "a": [
+      "Bone marrow",
+      "Thymus",
+      "Spleen",
+      "Lymph node paracortex",
+      "Peyer's patch"
+    ],
+    "c": 1,
+    "l": "The thymus is the specialized primary lymphoid organ where T cell progenitors undergo maturation, TCR rearrangement, and rigorous screening for self-tolerance.",
+    "h": "Identify the primary lymphoid organ located in the superior mediastinum from which T cells get their name."
+  },
+  {
+    "q": "Which primary tissue space serves as the mandatory developmental home where B lymphocytes undergo early structural maturation and heavy-chain gene arrangements?",
+    "a": [
+      "Thymus",
+      "Bone Marrow",
+      "Spleen red pulp",
+      "Lymph node cortex",
+      "Marginal zone"
+    ],
+    "c": 1,
+    "l": "The bone marrow is the primary lymphoid organ responsible for hematopoiesis and the initial steps of B cell maturation and central tolerance screening.",
+    "h": "Identify the primary internal tissue space from which B cells get their name."
+  },
+  {
+    "q": "Which specific zone within a regional lymph node is characterized by a dense concentration of naive T cells and professional dendritic cells scanning for foreign antigens?",
+    "a": [
+      "Lymphoid follicle",
+      "Paracortex",
+      "Germinal center",
+      "Medullary sinus",
+      "Subcapsular space"
+    ],
+    "c": 1,
+    "l": "The paracortex is the T-cell rich zone of the lymph node located between the outer cortex and inner medulla, housing interdigitating dendritic cells.",
+    "h": "Identify the inner cortical lymph node zone where naive CD4+ and CD8+ T cells reside."
+  },
+  {
+    "q": "Which specific micro-architectural zones located within secondary lymphoid organs serve as the dedicated homes for B lymphocytes, transforming into active germinal centers during viral attacks?",
+    "a": [
+      "Paracortex cords",
+      "Lymphoid Follicles",
+      "Medullary cords",
+      "Periarteriolar lymphoid sheaths",
+      "Trabecular channels"
+    ],
+    "c": 1,
+    "l": "Lymphoid follicles are B-cell rich architectural zones within secondary lymphoid organs that develop germinal centers when B cells undergo rapid affinity maturation.",
+    "h": "Identify the spherical structures in the outer lymph node cortex packed with B cells."
+  },
+  {
+    "q": "Which specific micro-architectural zone develops inside an active lymphoid follicle where B cells undergo intensive proliferation, somatic hypermutation, and selection for affinity maturation?",
+    "a": [
+      "Paracortex",
+      "Germinal Center",
+      "Medullary sinus",
+      "Marginal zone",
+      "Red pulp cord"
+    ],
+    "c": 1,
+    "l": "Germinal centers are dynamic structures within lymphoid follicles that form during an ongoing immune response, acting as the site for B-cell somatic mutation and affinity maturation.",
+    "h": "Think of the structural hub where high-affinity antibody-producing plasma cells are generated."
+  },
+  {
+    "q": "Which specialized fluid transport network acts as the primary drainage system of the body, collecting interstitial fluid and captured antigens from peripheral barrier tissues to deliver them directly to regional lymph nodes?",
+    "a": [
+      "Arterial circulation",
+      "Lymphatic System",
+      "Venous return path",
+      "Cerebrospinal loop",
+      "Biliary tract"
+    ],
+    "c": 1,
+    "l": "The lymphatic system is a network of vessels and nodes that drains interstitial fluid from tissues, providing a critical conduit for tracking and transporting antigens to immune hubs.",
+    "h": "Identify the drainage network that brings lymph directly to the regional nodes."
+  },
+  {
+    "q": "Which structural vessels serve as the dedicated exit channels through which mature, activated effector T cells leave a regional lymph node to enter the systemic blood circulation?",
+    "a": [
+      "Afferent lymphatic vessels",
+      "Efferent lymphatic vessels",
+      "High endothelial venules",
+      "Splenic sinusoids",
+      "Capillary beds"
+    ],
+    "c": 1,
+    "l": "Efferent lymphatic vessels drain lymph and activated cells away from the lymph node, routing them back into the thoracic duct and into the blood circulation.",
+    "h": "Look for the anatomical prefix that explicitly means 'carrying away from' or exiting."
+  },
+  {
+    "q": "Which structural vessels serve as the dedicated entry channels through which peripheral tissue dendritic cells bring captured antigens *into* a regional lymph node?",
+    "a": [
+      "Afferent lymphatic vessels",
+      "Efferent lymphatic vessels",
+      "High endothelial venules",
+      "Thoracic duct",
+      "Portal veins"
+    ],
+    "c": 0,
+    "l": "Afferent lymphatic vessels penetrate the capsule of the lymph node, delivering lymph, free antigens, and mature dendritic cells directly into the subcapsular sinus.",
+    "h": "Look for the anatomical prefix that explicitly means 'carrying toward' or entering."
+  },
+  {
+    "q": "Which specialized microscopic vascular portals located within the lymph node paracortex allow circulating naive T cells to recognize adhesion cues and squeeze directly into the lymphoid tissue?",
+    "a": [
+      "Afferent vessels",
+      "High Endothelial Venules (HEVs)",
+      "Fenestrated capillaries",
+      "Splenic cords",
+      "Medullary sinuses"
+    ],
+    "c": 1,
+    "l": "High Endothelial Venules (HEVs) are specialized post-capillary venules with plump, cuboidal endothelial cells optimized to facilitate lymphocyte extravasation into the lymph node.",
+    "h": "Identify the specialized lymph node venules lined with 'tall' or 'high' cuboidal cells."
+  },
+  {
+    "q": "Which of the following terms describes the selective mechanism where the immune system scans a massive mix of randomly generated lymphocytes and selectively drives the proliferation of *only* the single clone that perfectly matches the presenting threat?",
+    "a": [
+      "Anergy induction",
+      "Clonal Selection",
+      "Affinity maturation",
+      "Opsonization",
+      "Alternative activation"
+    ],
+    "c": 1,
+    "l": "Clonal selection theory states that individual lymphocytes express unique pre-formed receptors; antigen binding selectively drives that single specific cell line to multiply.",
+    "h": "Think of the fundamental adaptive process where an antigen 'selects' its matching 'clone'."
+  },
+  {
+    "q": "Which fundamental branch of the immune system provides the immediate, rapid, but non-specific first line of defense using hardcoded barriers, phagocytes, and complement proteins without creating memory?",
+    "a": [
+      "Adaptive immunity",
+      "Innate Immunity",
+      "Humoral loop",
+      "Cell-mediated pathway",
+      "Somatic hypermutation branch"
+    ],
+    "c": 1,
+    "l": "Innate immunity is the primitive, non-specific arm of defense that responds identically to repeated exposures, using encoded germline pattern receptors.",
+    "h": "Identify the arm of host defense you are born with that responds within minutes to an infection."
+  },
+  {
+    "q": "Which advanced branch of host defense adapts uniquely to specific pathogens over several days, utilizing variable antigen receptors to execute targeted clearance and create protective memory?",
+    "a": [
+      "Innate immunity",
+      "Adaptive Immunity",
+      "Vascular inflammatory loop",
+      "Alternative macrophage line",
+      "Complement cascade"
+    ],
+    "c": 1,
+    "l": "Adaptive immunity provides highly specific protection mediated by B and T lymphocytes, featuring somatic gene adjustments, clonal expansion, and immunological memory.",
+    "h": "Identify the branch of defense that 'adapts' uniquely to a novel virus or vaccine exposure."
+  },
+  {
+    "q": "Which specific antibody class is manufactured as a heavy, five-subunit pentamer molecule, serving as the default primary antibody secreted during an early primary adaptive immune response?",
+    "a": [
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgG",
+      "Immunoglobulin M (IgM)"
+    ],
+    "c": 4,
+    "l": "IgM is the first antibody isotype secreted during a primary immune response, forming a large pentameric star shape with ten antigen-binding sites.",
+    "h": "Identify the high-molecular-weight pentameric antibody class that is generated first before class-switching occurs."
+  },
+  {
+    "q": "Which specific antibody class is the most abundant isotype in serum, possesses a long half-life, crosses the placenta to protect a fetus, and acts as a powerful opsonin for phagocytosis?",
+    "a": [
+      "IgA",
+      "IgE",
+      "Immunoglobulin G (IgG)",
+      "IgM",
+      "IgD"
+    ],
+    "c": 2,
+    "l": "IgG is the predominant antibody class in secondary immune responses, providing systemic opsonization, complement activation, and neonatal passive immunity.",
+    "h": "Identify the primary monomeric antibody class that dominates long-term adaptive memory."
+  },
+  {
+    "q": "Which specific antibody class forms a stable dimer structure specialized to cross mucosal surfaces, providing the primary immunological shield in tears, saliva, breast milk, and gut secretions?",
+    "a": [
+      "Immunoglobulin A (IgA)",
+      "IgD",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "c": 0,
+    "l": "IgA is the principal mucosal antibody class, secreted as a dimer with a protective secretory component to shield mucosal borders against colonization.",
+    "h": "Identify the antibody class that provides primary protective coverage across epithelial boundaries."
+  },
+  {
+    "q": "Which specific monomeric antibody class is found in low concentrations in serum but binds tightly to Fc receptors on mast cells and eosinophils to orchestrate defense against parasitic worms?",
+    "a": [
+      "IgA",
+      "IgD",
+      "Immunoglobulin E (IgE)",
+      "IgG",
+      "IgM"
+    ],
+    "c": 2,
+    "l": "IgE is the specialized antibody isotype that clears helminthic infections via eosinophil activation, but also mediates type I immediate hypersensitivity (allergies).",
+    "h": "Identify the antibody isotype directly responsible for systemic anaphylaxis and seasonal allergies."
+  },
+  {
+    "q": "Which cell surface coreceptor molecule is found uniformly on all mature T lymphocytes, working alongside the TCR to lock onto and stabilize the CD3 signaling apparatus?",
+    "a": [
+      "CD4",
+      "CD8",
+      "CD3 complex chains",
+      "CD28",
+      "CD40"
+    ],
+    "c": 2,
+    "l": "The CD3 signaling complex is composed of multiple invariant invariant chains that associate directly with the TCR alpha/beta heterodimer to form a functional antigen receptor.",
+    "h": "Identify the definitive pan-T-cell structural marker used in pathology to count total T lymphocyte numbers."
+  },
+  {
+    "q": "Which specific leukocyte cell markers are used uniformly in flow cytometry to identify and monitor the absolute numbers of mature B lymphocytes in peripheral blood?",
+    "a": [
+      "CD3 and CD4",
+      "CD8 and CD56",
+      "CD19 and CD20",
+      "CD14 and CD16",
+      "CD40 and CD154"
+    ],
+    "c": 2,
+    "l": "CD19 and CD20 are pan-B-cell lineage markers expressed throughout B cell development, making them ideal targets for therapeutic monoclonal antibodies.",
+    "h": "Identify the classic cell-surface targets used by clinicians to monitor or therapeutically deplete B cell lines."
+  },
+  {
+    "q": "Which specific cell surface marker is highly expressed on monocytes and macrophages, serving as a co-receptor for pattern recognition of bacterial lipopolysaccharide (LPS)?",
+    "a": [
+      "CD3",
+      "CD4",
+      "CD14",
+      "CD19",
+      "CD56"
+    ],
+    "c": 2,
+    "l": "CD14 is a surface anchor protein expressed predominantly on macrophages and monocytes that acts as a coreceptor for endotoxin (LPS) recognition.",
+    "h": "Identify the classic diagnostic surface marker used in laboratory flow cytometry to isolate the monocyte population."
+  },
+  {
+    "q": "Which of the following terms describes a highly structured tissue wall composed of aggregated macrophages, epithelioid cells, and T lymphocytes, built by the body to permanently sequester an indestructible intracellular invader?",
+    "a": [
+      "Abscess",
+      "Granuloma",
+      "Scar",
+      "Thrombus",
+      "Fibrin clot"
+    ],
+    "c": 1,
+    "l": "A granuloma is a focus of chronic inflammation consisting of a microscopic aggregation of macrophages transformed into epithelioid cells, surrounded by a collar of lymphocytes.",
+    "h": "Think of the structural nodule built by Th1 cells and macrophages to contain latent tuberculosis."
+  },
+  {
+    "q": "Which specific term describes an inactive pro-enzyme or precursor protein that must undergo precise enzymatic cleavage to transform into a fully functional, active enzyme?",
+    "a": [
+      "Zymogen",
+      "Cytokine",
+      "Receptor",
+      "Opsonin",
+      "Anaphylatoxin"
+    ],
+    "c": 0,
+    "l": "A zymogen is an inactive enzyme precursor that requires biochemical cleavage to alter its structure and reveal its active catalytic site, seen throughout the complement cascade.",
+    "h": "Identify the general enzymatic term for inactive structural precursors like pro-caspases or complement factors."
+  }
+]
   }
 }
