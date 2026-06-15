@@ -2079,7 +2079,152 @@
     "h": "Normal DHR"
   }
 ],
-    "3_cell_mediated_immune_response":
+
+"3_compliments_and_cytokine" : [
+  
+  {
+"q": "How many plasma proteins are present in the complement system?",
+"a": ["5", "9", "15", ">20", "50"],
+"c": 3,
+"l": "The complement system contains more than 20 plasma proteins.",
+"h": "C1-C9"
+},
+{
+"q": "In what form do complement proteins circulate in serum?",
+"a": ["Active", "Inactive", "Bound", "Degraded", "Phagocytic"],
+"c": 1,
+"l": "Complement proteins circulate in an inactive form until activated.",
+"h": "Inactive state"
+},
+{
+"q": "Complement functions in which types of immunity?",
+"a": ["Innate only", "Adaptive only", "Innate and Adaptive", "Humoral only", "Cell-mediated only"],
+"c": 2,
+"l": "Complement participates in both innate and adaptive immunity.",
+"h": "Dual immunity"
+},
+{
+"q": "What is the main mechanism of complement activation?",
+"a": ["Hormonal cascade", "Enzymatic cascade", "Neural stimulation", "Phagocytosis", "Osmosis"],
+"c": 1,
+"l": "Complement activation occurs through an enzymatic cascade with amplification.",
+"h": "Cascade"
+},
+{
+"q": "Which is NOT a function of the complement system?",
+"a": ["Opsonization", "Chemotaxis", "Cell lysis", "DNA replication", "Inflammation"],
+"c": 3,
+"l": "Complement functions include opsonization, inflammation, chemotaxis and lysis.",
+"h": "Functions"
+},
+{
+"q": "How many pathways activate complement?",
+"a": ["1", "2", "3", "4", "5"],
+"c": 2,
+"l": "Complement is activated by the Classical, Alternative and Lectin pathways.",
+"h": "Three pathways"
+},
+{
+"q": "All complement pathways converge at the cleavage of which components?",
+"a": ["C1 and C2", "C2 and C4", "C3 and C5", "C5 and C9", "C6 and C7"],
+"c": 2,
+"l": "All three pathways converge at C3 and C5 cleavage.",
+"h": "Convergence"
+},
+{
+"q": "Which complement pathway requires antibodies?",
+"a": ["Alternative", "Lectin", "Classical", "Terminal", "Properdin"],
+"c": 2,
+"l": "The classical pathway is the only pathway that requires antibodies.",
+"h": "Antibody pathway"
+},
+{
+"q": "Which immunoglobulins activate the classical pathway?",
+"a": ["IgA and IgE", "IgG and IgM", "IgD and IgE", "IgA and IgD", "IgE and IgM"],
+"c": 1,
+"l": "Classical pathway activation occurs via IgG or IgM antigen-antibody complexes.",
+"h": "IgG/IgM"
+},
+{
+"q": "Which components make up C1?",
+"a": ["C1a,C1b,C1c", "C1q,C1r,C1s", "C1,C2,C3", "C1q,C2,C3", "C1r,C2,C4"],
+"c": 1,
+"l": "C1 consists of C1q, C1r and C1s.",
+"h": "C1 structure"
+},
+{
+"q": "Which part of an antibody does C1q bind?",
+"a": ["Fab", "Fc", "Light chain", "Variable region", "Hinge region"],
+"c": 1,
+"l": "C1q binds the Fc portion of IgG or IgM.",
+"h": "Fc binding"
+},
+{
+"q": "Activated C1s cleaves which complement components?",
+"a": ["C1 and C3", "C2 and C4", "C3 and C5", "C5 and C6", "C7 and C8"],
+"c": 1,
+"l": "Activated C1s cleaves C2 and C4.",
+"h": "C1s action"
+},
+{
+"q": "Which molecule regulates the classical pathway?",
+"a": ["Properdin", "Factor B", "Factor D", "C1 INH", "C3b"],
+"c": 3,
+"l": "C1 esterase inhibitor regulates the classical pathway.",
+"h": "Regulator"
+},
+{
+"q": "Deficiency of C1 INH causes which disease?",
+"a": ["PNH", "SLE", "Hereditary angioedema", "SCID", "Chediak-Higashi"],
+"c": 2,
+"l": "C1 INH deficiency causes hereditary angioedema.",
+"h": "HAE"
+},
+{
+"q": "Which complement levels are decreased in hereditary angioedema?",
+"a": ["C1 and C3", "C3 and C5", "C4 and C2", "C5 and C9", "C7 and C8"],
+"c": 2,
+"l": "Hereditary angioedema is associated with low C4 and C2 levels.",
+"h": "Low C4"
+},
+{
+"q": "Excess of which mediator causes hereditary angioedema?",
+"a": ["Histamine", "Bradykinin", "Serotonin", "Leukotriene", "TNF"],
+"c": 1,
+"l": "Hereditary angioedema results from excessive bradykinin production.",
+"h": "Bradykinin"
+},
+{
+"q": "Which drugs are contraindicated in hereditary angioedema?",
+"a": ["NSAIDs", "Beta blockers", "ACE inhibitors", "Statins", "Diuretics"],
+"c": 2,
+"l": "ACE inhibitors worsen bradykinin accumulation in hereditary angioedema.",
+"h": "ACEI"
+},
+{
+"q": "Which complement pathway does not require antibodies?",
+"a": ["Classical", "Alternative", "Both Alternative and Lectin", "Terminal", "None"],
+"c": 2,
+"l": "Both the Alternative and Lectin pathways are antibody-independent.",
+"h": "No antibodies"
+},
+{
+"q": "What activates the alternative pathway?",
+"a": ["IgG", "IgM", "PAMPs", "CRP", "C1q"],
+"c": 2,
+"l": "The alternative pathway is activated by microbial PAMPs.",
+"h": "PAMPs"
+},
+{
+"q": "Which complement component is spontaneously cleaved to initiate the alternative pathway?",
+"a": ["C1", "C2", "C3", "C4", "C5"],
+"c": 2,
+"l": "Spontaneous cleavage of C3 initiates the alternative pathway.",
+"h": "Initiator"
+}
+],
+
+"8_cell_mediated_immune_response":
     [
   {
     "q": "A 5-year-old boy presents to his pediatrician with recurrent sinopulmonary infections. Lab testing reveals normal numbers of T and B lymphocytes, but further evaluation demonstrates that his antigen-presenting cells are unable to stabilize firm interactions with T cells during antigen presentation. A genetic mutation disrupting which of the following cell surface molecules is most likely responsible for this child's condition?",
