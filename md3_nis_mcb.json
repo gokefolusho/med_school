@@ -2082,51 +2082,58 @@
 
 "3_compliments_and_cytokine" : [
   
-  {
+ {
 "q": "How many plasma proteins are present in the complement system?",
-"a": ["5", "9", "15", ">20", "50"],
+"a": ["5", "9", "15", ">20", "100"],
 "c": 3,
-"l": "The complement system contains more than 20 plasma proteins.",
-"h": "C1-C9"
+"l": "The complement system consists of more than 20 plasma proteins.",
+"h": "Complement proteins"
 },
 {
-"q": "In what form do complement proteins circulate in serum?",
-"a": ["Active", "Inactive", "Bound", "Degraded", "Phagocytic"],
+"q": "In what form are complement proteins present in serum?",
+"a": ["Active", "Inactive", "Bound", "Degraded", "Denatured"],
 "c": 1,
-"l": "Complement proteins circulate in an inactive form until activated.",
+"l": "Complement proteins circulate in inactive form until activated.",
 "h": "Inactive state"
 },
 {
-"q": "Complement functions in which types of immunity?",
+"q": "The complement system functions in which types of immunity?",
 "a": ["Innate only", "Adaptive only", "Innate and Adaptive", "Humoral only", "Cell-mediated only"],
 "c": 2,
-"l": "Complement participates in both innate and adaptive immunity.",
+"l": "Complement functions in both innate and adaptive immunity.",
 "h": "Dual immunity"
 },
 {
-"q": "What is the main mechanism of complement activation?",
-"a": ["Hormonal cascade", "Enzymatic cascade", "Neural stimulation", "Phagocytosis", "Osmosis"],
-"c": 1,
-"l": "Complement activation occurs through an enzymatic cascade with amplification.",
+"q": "How is the complement system activated?",
+"a": ["Hormonal cascade", "Neural stimulation", "Enzymatic cascade", "Phagocytosis", "Osmosis"],
+"c": 2,
+"l": "Complement is activated through an enzymatic cascade with amplification.",
 "h": "Cascade"
 },
 {
-"q": "Which is NOT a function of the complement system?",
-"a": ["Opsonization", "Chemotaxis", "Cell lysis", "DNA replication", "Inflammation"],
-"c": 3,
-"l": "Complement functions include opsonization, inflammation, chemotaxis and lysis.",
-"h": "Functions"
+"q": "Which of the following is a function of the complement system?",
+"a": ["DNA replication", "Opsonization", "Protein synthesis", "Cell division", "Transcription"],
+"c": 1,
+"l": "Complement promotes opsonization, inflammation, chemotaxis, and cell lysis.",
+"h": "Function"
 },
 {
-"q": "How many pathways activate complement?",
+"q": "How many pathways activate the complement system?",
 "a": ["1", "2", "3", "4", "5"],
 "c": 2,
-"l": "Complement is activated by the Classical, Alternative and Lectin pathways.",
+"l": "Three pathways activate complement: Classical, Alternative, and Lectin.",
 "h": "Three pathways"
 },
 {
+"q": "Which pathways activate complement?",
+"a": ["Intrinsic, Extrinsic, Common", "Classical, Alternative, Lectin", "Humoral, Cellular, Innate", "C1, C2, C3", "B, T, NK"],
+"c": 1,
+"l": "The three complement pathways are Classical, Alternative, and Lectin.",
+"h": "Pathways"
+},
+{
 "q": "All complement pathways converge at the cleavage of which components?",
-"a": ["C1 and C2", "C2 and C4", "C3 and C5", "C5 and C9", "C6 and C7"],
+"a": ["C1 and C2", "C2 and C4", "C3 and C5", "C5 and C9", "C7 and C8"],
 "c": 2,
 "l": "All three pathways converge at C3 and C5 cleavage.",
 "h": "Convergence"
@@ -2139,78 +2146,92 @@
 "h": "Antibody pathway"
 },
 {
-"q": "Which immunoglobulins activate the classical pathway?",
-"a": ["IgA and IgE", "IgG and IgM", "IgD and IgE", "IgA and IgD", "IgE and IgM"],
+"q": "Which antibodies activate the classical pathway?",
+"a": ["IgA and IgE", "IgG and IgM", "IgD and IgA", "IgE and IgD", "IgA and IgG"],
 "c": 1,
-"l": "Classical pathway activation occurs via IgG or IgM antigen-antibody complexes.",
+"l": "The classical pathway is activated by IgG or IgM antigen-antibody complexes.",
 "h": "IgG/IgM"
 },
 {
-"q": "Which components make up C1?",
-"a": ["C1a,C1b,C1c", "C1q,C1r,C1s", "C1,C2,C3", "C1q,C2,C3", "C1r,C2,C4"],
-"c": 1,
-"l": "C1 consists of C1q, C1r and C1s.",
-"h": "C1 structure"
+"q": "What activates the classical complement pathway?",
+"a": ["PAMPs", "MBL", "IgG or IgM antigen-antibody complexes", "Factor B", "Properdin"],
+"c": 2,
+"l": "Classical pathway activation requires antigen-antibody complexes.",
+"h": "Classical activation"
 },
 {
-"q": "Which part of an antibody does C1q bind?",
-"a": ["Fab", "Fc", "Light chain", "Variable region", "Hinge region"],
+"q": "Which proteins make up C1?",
+"a": ["C1a,C1b,C1c", "C1q,C1r,C1s", "C1,C2,C3", "C1q,C2,C4", "C2,C3,C4"],
+"c": 1,
+"l": "C1 consists of C1q, C1r, and C1s.",
+"h": "C1 components"
+},
+{
+"q": "Which component of C1 binds antibodies?",
+"a": ["C1r", "C1s", "C1q", "C2", "C4"],
+"c": 2,
+"l": "C1q binds the Fc portion of IgG or IgM.",
+"h": "C1q"
+},
+{
+"q": "C1q binds to which part of IgG or IgM?",
+"a": ["Fab region", "Fc portion", "Light chain", "Variable region", "Hinge region"],
 "c": 1,
 "l": "C1q binds the Fc portion of IgG or IgM.",
 "h": "Fc binding"
 },
 {
-"q": "Activated C1s cleaves which complement components?",
-"a": ["C1 and C3", "C2 and C4", "C3 and C5", "C5 and C6", "C7 and C8"],
-"c": 1,
-"l": "Activated C1s cleaves C2 and C4.",
+"q": "Activated C1s cleaves which complement proteins?",
+"a": ["C3 and C5", "C1 and C2", "C4 and C2", "C5 and C9", "C6 and C7"],
+"c": 2,
+"l": "Activated C1s cleaves C4 and C2.",
 "h": "C1s action"
 },
 {
-"q": "Which molecule regulates the classical pathway?",
-"a": ["Properdin", "Factor B", "Factor D", "C1 INH", "C3b"],
+"q": "Which molecule regulates the classical complement pathway?",
+"a": ["Properdin", "Factor B", "Factor D", "C1 esterase inhibitor", "C3b"],
 "c": 3,
 "l": "C1 esterase inhibitor regulates the classical pathway.",
 "h": "Regulator"
 },
 {
-"q": "Deficiency of C1 INH causes which disease?",
-"a": ["PNH", "SLE", "Hereditary angioedema", "SCID", "Chediak-Higashi"],
+"q": "Deficiency of C1 esterase inhibitor causes which disease?",
+"a": ["PNH", "SCID", "Hereditary angioedema", "SLE", "CGD"],
 "c": 2,
 "l": "C1 INH deficiency causes hereditary angioedema.",
 "h": "HAE"
 },
 {
-"q": "Which complement levels are decreased in hereditary angioedema?",
-"a": ["C1 and C3", "C3 and C5", "C4 and C2", "C5 and C9", "C7 and C8"],
+"q": "Which complement components are decreased in hereditary angioedema?",
+"a": ["C1 and C3", "C3 and C5", "C4 and C2", "C5 and C9", "C6 and C7"],
 "c": 2,
 "l": "Hereditary angioedema is associated with low C4 and C2 levels.",
-"h": "Low C4"
+"h": "Low complement"
 },
 {
-"q": "Excess of which mediator causes hereditary angioedema?",
-"a": ["Histamine", "Bradykinin", "Serotonin", "Leukotriene", "TNF"],
+"q": "Excess production of which mediator causes hereditary angioedema?",
+"a": ["Histamine", "Bradykinin", "Serotonin", "Leukotriene", "TNF-α"],
 "c": 1,
-"l": "Hereditary angioedema results from excessive bradykinin production.",
+"l": "Hereditary angioedema results from excess bradykinin production.",
 "h": "Bradykinin"
 },
 {
 "q": "Which drugs are contraindicated in hereditary angioedema?",
-"a": ["NSAIDs", "Beta blockers", "ACE inhibitors", "Statins", "Diuretics"],
+"a": ["NSAIDs", "Beta blockers", "ACE inhibitors", "Statins", "Calcium channel blockers"],
 "c": 2,
-"l": "ACE inhibitors worsen bradykinin accumulation in hereditary angioedema.",
-"h": "ACEI"
+"l": "ACE inhibitors increase bradykinin and worsen hereditary angioedema.",
+"h": "ACE inhibitors"
 },
 {
 "q": "Which complement pathway does not require antibodies?",
 "a": ["Classical", "Alternative", "Both Alternative and Lectin", "Terminal", "None"],
 "c": 2,
-"l": "Both the Alternative and Lectin pathways are antibody-independent.",
+"l": "Both Alternative and Lectin pathways are antibody-independent.",
 "h": "No antibodies"
 },
 {
 "q": "What activates the alternative pathway?",
-"a": ["IgG", "IgM", "PAMPs", "CRP", "C1q"],
+"a": ["IgM", "IgG", "Microbial PAMPs", "MBL", "C1q"],
 "c": 2,
 "l": "The alternative pathway is activated by microbial PAMPs.",
 "h": "PAMPs"
@@ -2219,9 +2240,88 @@
 "q": "Which complement component is spontaneously cleaved to initiate the alternative pathway?",
 "a": ["C1", "C2", "C3", "C4", "C5"],
 "c": 2,
-"l": "Spontaneous cleavage of C3 initiates the alternative pathway.",
-"h": "Initiator"
+"l": "C3 is spontaneously cleaved to initiate the alternative pathway.",
+"h": "Initiation"
+},
+{
+"q": "Which factor binds to C3b in the alternative pathway?",
+"a": ["Factor H", "Factor I", "Factor B", "Factor D", "Properdin"],
+"c": 2,
+"l": "Factor B binds to C3b during alternative pathway activation.",
+"h": "Factor B"
+},
+{
+"q": "Factor D cleaves Factor B into which fragments?",
+"a": ["Ba and Bb", "C3a and C3b", "C4a and C4b", "C5a and C5b", "A and B"],
+"c": 0,
+"l": "Factor D cleaves Factor B into Ba and Bb.",
+"h": "Factor D"
+},
+{
+"q": "What is the C3 convertase of the alternative pathway?",
+"a": ["C4b2a", "C3bBb", "C1qrs", "MAC", "C5b-C9"],
+"c": 1,
+"l": "C3bBb is the C3 convertase of the alternative pathway.",
+"h": "C3 convertase"
+},
+{
+"q": "Which molecule stabilizes C3bBb?",
+"a": ["Factor H", "Factor I", "Properdin", "MASP", "C1 INH"],
+"c": 2,
+"l": "Properdin is the positive regulator that stabilizes C3bBb.",
+"h": "Properdin"
+},
+{
+"q": "Which factors negatively regulate the alternative pathway?",
+"a": ["Factor B and D", "Factor H and I", "C1r and C1s", "MASP and MBL", "C3a and C5a"],
+"c": 1,
+"l": "Factor H and Factor I are negative regulators of the alternative pathway.",
+"h": "Negative regulators"
+},
+{
+"q": "Factor I cleaves C3b into what product?",
+"a": ["Bb", "Ba", "iC3b", "C3a", "C5b"],
+"c": 2,
+"l": "Factor I cleaves C3b into iC3b.",
+"h": "iC3b"
+},
+{
+"q": "Which pathway is activated by Mannose Binding Lectin?",
+"a": ["Classical", "Alternative", "Lectin", "Terminal", "Properdin"],
+"c": 2,
+"l": "The lectin pathway is activated by MBL.",
+"h": "Lectin pathway"
+},
+{
+"q": "MBL binds which sugar on microbial surfaces?",
+"a": ["Glucose", "Galactose", "Mannose", "Fructose", "Lactose"],
+"c": 2,
+"l": "MBL binds mannose on bacterial and fungal surfaces.",
+"h": "Mannose"
+},
+{
+"q": "What enzyme is activated by MBL?",
+"a": ["Factor D", "MASP", "Properdin", "Factor H", "C1s"],
+"c": 1,
+"l": "MBL activates MASP in the lectin pathway.",
+"h": "MASP"
+},
+{
+"q": "MASP cleaves which complement proteins?",
+"a": ["C3 and C5", "C1 and C2", "C4 and C2", "C5 and C9", "C7 and C8"],
+"c": 2,
+"l": "MASP cleaves C4 and C2 like the classical pathway.",
+"h": "MASP action"
+},
+{
+"q": "Does the lectin pathway require antibodies?",
+"a": ["Yes", "No", "Only IgG", "Only IgM", "Sometimes"],
+"c": 1,
+"l": "The lectin pathway does not require antibodies.",
+"h": "Antibody independent"
 }
+
+
 ],
 
 "8_cell_mediated_immune_response":
