@@ -20,474 +20,434 @@
   ],
   "quizzes": {
 "1_neoplasia": [
-  {
-    "q": "What is a neoplasm (tumor)?",
-    "a": [
-      "Increase in cell size",
-      "Increase in cell number",
-      "Abnormal clonal proliferation of cells",
-      "Inflammatory mass",
-      "Metastatic lesion"
-    ],
-    "c": 2,
-    "l": "A neoplasm is an abnormal clonal proliferation of cells.",
-    "h": "Clonal proliferation"
-  },
-  {
-    "q": "Which feature is characteristic of a benign tumor?",
-    "a": [
-      "Metastasis",
-      "Poor differentiation",
-      "Localized and non-invasive",
-      "Anaplasia",
-      "Invasion"
-    ],
-    "c": 2,
-    "l": "Benign tumors are localized, well differentiated and non-invasive.",
-    "h": "Localized"
-  },
-  {
-    "q": "Which feature is characteristic of a malignant tumor?",
-    "a": [
-      "Localized growth",
-      "No metastasis",
-      "Well differentiated",
-      "Invasive and metastatic",
-      "Encapsulated"
-    ],
-    "c": 3,
-    "l": "Malignant tumors invade tissues and can metastasize.",
-    "h": "Invasive"
-  },
-  {
-    "q": "What is metastasis?",
-    "a": [
-      "Increase in cell size",
-      "Spread of malignant cells to distant sites",
-      "Benign growth",
-      "Hyperplasia",
-      "Hypertrophy"
-    ],
-    "c": 1,
-    "l": "Metastasis is spread of malignant cells to distant sites.",
-    "h": "Distant spread"
-  },
-  {
-    "q": "Hyperplasia is defined as?",
-    "a": [
-      "Increase in cell size",
-      "Increase in cell number",
-      "Cell death",
-      "Metastasis",
-      "Fibrosis"
-    ],
-    "c": 1,
-    "l": "Hyperplasia is an increase in the number of cells.",
-    "h": "More cells"
-  },
-  {
-    "q": "Hypertrophy is defined as?",
-    "a": [
-      "Increase in cell size",
-      "Increase in cell number",
-      "Neoplasia",
-      "Metaplasia",
-      "Dysplasia"
-    ],
-    "c": 0,
-    "l": "Hypertrophy is an increase in cell size.",
-    "h": "Bigger cells"
-  },
-  {
-    "q": "Neoplasia is best described as?",
-    "a": [
-      "Controlled growth",
-      "Autonomous uncontrolled growth",
-      "Inflammation",
-      "Repair process",
-      "Apoptosis"
-    ],
-    "c": 1,
-    "l": "Neoplasia is autonomous, uncontrolled and disorganized growth.",
-    "h": "Autonomous growth"
-  },
-  {
-    "q": "Goiter is caused by?",
-    "a": [
-      "Hyperplasia only",
-      "Hypertrophy only",
-      "Hyperplasia and hypertrophy",
-      "Metastasis",
-      "Fibrosis"
-    ],
-    "c": 2,
-    "l": "Goiter involves both hyperplasia and hypertrophy.",
-    "h": "Both"
-  },
-  {
-    "q": "Which component determines tumor behavior?",
-    "a": [
-      "Stroma",
-      "Parenchyma",
-      "Capsule",
-      "Blood vessels",
-      "Collagen"
-    ],
-    "c": 1,
-    "l": "Parenchyma determines tumor classification and behavior.",
-    "h": "Parenchyma"
-  },
-  {
-    "q": "The stroma primarily provides?",
-    "a": [
-      "Tumor classification",
-      "Blood supply and support",
-      "Metastasis",
-      "Anaplasia",
-      "Mutation"
-    ],
-    "c": 1,
-    "l": "Stroma provides structural support and blood supply.",
-    "h": "Support"
-  },
-  {
-    "q": "The suffix '-oma' usually indicates?",
-    "a": [
-      "Malignant tumor",
-      "Benign tumor",
-      "Inflammation",
-      "Infection",
-      "Granuloma"
-    ],
-    "c": 1,
-    "l": "Most tumors ending in -oma are benign.",
-    "h": "Usually benign"
-  },
-  {
-    "q": "Which '-oma' is actually malignant?",
-    "a": [
-      "Lipoma",
-      "Fibroma",
-      "Adenoma",
-      "Melanoma",
-      "Papilloma"
-    ],
-    "c": 3,
-    "l": "Melanoma is a malignant exception.",
-    "h": "Exception"
-  },
-  {
-    "q": "An adenoma is a benign tumor of?",
-    "a": [
-      "Connective tissue",
-      "Muscle",
-      "Glandular epithelium",
-      "Bone",
-      "Cartilage"
-    ],
-    "c": 2,
-    "l": "Adenoma is a benign epithelial gland-forming tumor.",
-    "h": "Gland"
-  },
-  {
-    "q": "Papilloma is characterized by?",
-    "a": [
-      "Bone formation",
-      "Finger-like projections",
-      "Fat formation",
-      "Cartilage formation",
-      "Necrosis"
-    ],
-    "c": 1,
-    "l": "Papillomas have finger-like projections.",
-    "h": "Finger-like"
-  },
-  {
-    "q": "A cystadenoma is a?",
-    "a": [
-      "Malignant gland tumor",
-      "Benign cystic epithelial tumor",
-      "Mesenchymal tumor",
-      "Bone tumor",
-      "Cartilage tumor"
-    ],
-    "c": 1,
-    "l": "Cystadenoma is a benign cystic epithelial tumor.",
-    "h": "Cystic"
-  },
-  {
-    "q": "A carcinoma arises from which tissue?",
-    "a": [
-      "Mesenchyme",
-      "Epithelium",
-      "Muscle",
-      "Bone",
-      "Cartilage"
-    ],
-    "c": 1,
-    "l": "Carcinoma is a malignant epithelial tumor.",
-    "h": "Epithelial"
-  },
-  {
-    "q": "A sarcoma arises from which tissue?",
-    "a": [
-      "Epithelium",
-      "Mesenchyme",
-      "Nerve",
-      "Skin",
-      "Lymphoid"
-    ],
-    "c": 1,
-    "l": "Sarcoma is a malignant mesenchymal tumor.",
-    "h": "Mesenchymal"
-  },
-  {
-    "q": "Which is an example of a sarcoma?",
-    "a": [
-      "Adenocarcinoma",
-      "Papilloma",
-      "Osteosarcoma",
-      "Adenoma",
-      "Melanocytic nevus"
-    ],
-    "c": 2,
-    "l": "Osteosarcoma is a malignant bone-forming sarcoma.",
-    "h": "Bone sarcoma"
-  },
-  {
-    "q": "Which is a mesenchymal tissue?",
-    "a": [
-      "Epithelium",
-      "Bone",
-      "Endometrium",
-      "Epidermis",
-      "Mesothelium"
-    ],
-    "c": 1,
-    "l": "Bone is derived from mesenchymal tissue.",
-    "h": "Bone"
-  },
-  {
-    "q": "Pleomorphic adenoma is a?",
-    "a": [
-      "Malignant salivary tumor",
-      "Benign mixed salivary gland tumor",
-      "Bone tumor",
-      "Lymphoma",
-      "Sarcoma"
-    ],
-    "c": 1,
-    "l": "Pleomorphic adenoma is a benign mixed salivary gland tumor.",
-    "h": "Mixed tumor"
-  },
-  {
-    "q": "Carcinoma ex pleomorphic adenoma is?",
-    "a": [
-      "Benign",
-      "Hyperplasia",
-      "Malignant mixed tumor",
-      "Hamartoma",
-      "Choristoma"
-    ],
-    "c": 2,
-    "l": "Carcinoma ex pleomorphic adenoma is malignant.",
-    "h": "Malignant mixed"
-  },
-  {
-    "q": "A teratoma contains tissues from?",
-    "a": [
-      "One germ layer",
-      "Two or more germ layers",
-      "Only ectoderm",
-      "Only mesoderm",
-      "Only endoderm"
-    ],
-    "c": 1,
-    "l": "Teratomas contain tissues from multiple germ layers.",
-    "h": "Multiple germ layers"
-  },
-  {
-    "q": "A mature cystic teratoma is usually?",
-    "a": [
-      "Malignant",
-      "Benign",
-      "Metastatic",
-      "Sarcomatous",
-      "Anaplastic"
-    ],
-    "c": 1,
-    "l": "Mature cystic teratomas are benign.",
-    "h": "Benign teratoma"
-  },
-  {
-    "q": "An immature teratoma is generally?",
-    "a": [
-      "Benign",
-      "Malignant",
-      "Inflammatory",
-      "Reactive",
-      "Hyperplastic"
-    ],
-    "c": 1,
-    "l": "Immature teratomas are malignant.",
-    "h": "Malignant teratoma"
-  },
-  {
-    "q": "More than 50 melanocytic nevi increases risk of?",
-    "a": [
-      "Basal cell carcinoma",
-      "Melanoma",
-      "Sarcoma",
-      "Adenoma",
-      "Lipoma"
-    ],
-    "c": 1,
-    "l": "Numerous nevi increase melanoma risk.",
-    "h": "Melanoma risk"
-  },
-  {
-    "q": "A primary tumor is one that?",
-    "a": [
-      "Has metastasized",
-      "Originates in the organ where found",
-      "Is benign",
-      "Is recurrent",
-      "Is secondary"
-    ],
-    "c": 1,
-    "l": "Primary tumors originate in the organ where they are found.",
-    "h": "Original site"
-  },
-  {
-    "q": "A secondary tumor is?",
-    "a": [
-      "Hyperplastic",
-      "Metastatic",
-      "Benign",
-      "Hamartomatous",
-      "Primary"
-    ],
-    "c": 1,
-    "l": "Secondary tumors are metastatic lesions.",
-    "h": "Metastatic"
-  },
-  {
-    "q": "Hamartoma is best defined as?",
-    "a": [
-      "Normal tissue in abnormal location",
-      "Normal tissue in abnormal arrangement",
-      "Malignant tumor",
-      "Metastatic lesion",
-      "Inflammatory mass"
-    ],
-    "c": 1,
-    "l": "Hamartoma is normal tissue arranged abnormally.",
-    "h": "Wrong arrangement"
-  },
-  {
-    "q": "Pulmonary hamartoma typically contains?",
-    "a": [
-      "Bone only",
-      "Cartilage, fat and connective tissue",
-      "Muscle only",
-      "Blood vessels only",
-      "Glands only"
-    ],
-    "c": 1,
-    "l": "Pulmonary hamartomas contain cartilage, fat and connective tissue.",
-    "h": "Coin lesion"
-  },
-  {
-    "q": "Choristoma is best defined as?",
-    "a": [
-      "Normal tissue in wrong arrangement",
-      "Normal tissue in wrong location",
-      "Malignant tissue",
-      "Metastatic tissue",
-      "Necrotic tissue"
-    ],
-    "c": 1,
-    "l": "Choristoma is normal tissue in an abnormal location.",
-    "h": "Wrong location"
-  },
-  {
-    "q": "Pancreatic tissue in the stomach wall is an example of?",
-    "a": [
-      "Hamartoma",
-      "Choristoma",
-      "Teratoma",
-      "Adenoma",
-      "Carcinoma"
-    ],
-    "c": 1,
-    "l": "Ectopic pancreatic tissue is a choristoma.",
-    "h": "Ectopic tissue"
-  },
-  {
-    "q": "What is a Ghon focus?",
-    "a": [
-      "TB hilar node",
-      "Primary subpleural TB lesion",
-      "Granuloma",
-      "Lung abscess",
-      "Fibrosis"
-    ],
-    "c": 1,
-    "l": "Ghon focus is the primary subpleural lesion of TB.",
-    "h": "Primary TB lesion"
-  },
-  {
-    "q": "What forms a Ghon complex?",
-    "a": [
-      "Granuloma only",
-      "Ghon focus + hilar lymph node",
-      "Two granulomas",
-      "Fibrosis + calcification",
-      "Pleural effusion"
-    ],
-    "c": 1,
-    "l": "Ghon complex = Ghon focus plus hilar lymph node involvement.",
-    "h": "Focus + node"
-  },
-  {
-    "q": "A granuloma is primarily composed of?",
-    "a": [
-      "Neutrophils",
-      "Activated macrophages",
-      "Eosinophils",
-      "Basophils",
-      "Platelets"
-    ],
-    "c": 1,
-    "l": "Granulomas are collections of activated macrophages.",
-    "h": "Macrophages"
-  },
-  {
-    "q": "Which cytokine promotes granuloma formation?",
-    "a": [
-      "IL-4",
-      "IL-10",
-      "IFN-γ",
-      "IL-5",
-      "TGF-β"
-    ],
-    "c": 2,
-    "l": "IFN-γ activates macrophages and promotes granuloma formation.",
-    "h": "IFN-gamma"
-  },
-  {
-    "q": "Multinodular goiter is caused by?",
-    "a": [
-      "Metastasis",
-      "Hyperplastic thyroid enlargement",
-      "Sarcoma",
-      "Carcinoma",
-      "Necrosis"
-    ],
-    "c": 1,
-    "l": "MNG is a hyperplastic enlargement of the thyroid gland.",
-    "h": "Hyperplastic thyroid"
-  }
+
+{
+"q": "What is a tumor (neoplasm)?",
+"a": ["Inflammation", "Abnormal clonal proliferation of cells", "Hyperplasia", "Hypertrophy", "Metastasis"],
+"c": 1,
+"l": "A tumor is an abnormal clonal proliferation of cells.",
+"h": "Neoplasm"
+},
+{
+"q": "Which feature best describes a benign tumor?",
+"a": ["Metastatic", "Poorly differentiated", "Localized and non-invasive", "Anaplastic", "Aggressive"],
+"c": 2,
+"l": "Benign tumors are localized, well differentiated and non-invasive.",
+"h": "Benign tumor"
+},
+{
+"q": "Which feature best describes a malignant tumor?",
+"a": ["Localized", "Encapsulated", "Invasive and metastatic", "Well differentiated", "Non-invasive"],
+"c": 2,
+"l": "Malignant tumors are invasive, poorly differentiated and capable of metastasis.",
+"h": "Malignant tumor"
+},
+{
+"q": "What is metastasis?",
+"a": ["Increase in cell size", "Increase in cell number", "Spread of malignant cells to distant sites", "Local growth", "Cell death"],
+"c": 2,
+"l": "Metastasis is the spread of malignant cells to distant sites.",
+"h": "Metastasis"
+},
+{
+"q": "What is hyperplasia?",
+"a": ["Increase in cell size", "Increase in cell number", "Decrease in cell size", "Cell death", "Metaplasia"],
+"c": 1,
+"l": "Hyperplasia is an increase in the number of cells.",
+"h": "Hyperplasia"
+},
+{
+"q": "What is hypertrophy?",
+"a": ["Increase in cell size", "Increase in cell number", "Cell death", "Metaplasia", "Dysplasia"],
+"c": 0,
+"l": "Hypertrophy is an increase in the size of cells.",
+"h": "Hypertrophy"
+},
+{
+"q": "What is neoplasia?",
+"a": ["Controlled growth", "Autonomous uncontrolled growth", "Repair process", "Inflammation", "Adaptation"],
+"c": 1,
+"l": "Neoplasia is autonomous, uncontrolled and disorganized growth of cells.",
+"h": "Neoplasia"
+},
+{
+"q": "Goiter results from which combination?",
+"a": ["Hyperplasia only", "Hypertrophy only", "Hyperplasia and hypertrophy", "Atrophy and hypertrophy", "Metaplasia"],
+"c": 2,
+"l": "Goiter is caused by hyperplasia and hypertrophy of thyroid follicular cells.",
+"h": "Goiter"
+},
+{
+"q": "What are the two major components of a tumor?",
+"a": ["Parenchyma and Stroma", "Capsule and Necrosis", "Blood and Lymphatics", "Epithelium and Muscle", "Bone and Cartilage"],
+"c": 0,
+"l": "Tumors consist of parenchyma and stroma.",
+"h": "Tumor components"
+},
+{
+"q": "Which component of a tumor determines its behavior and classification?",
+"a": ["Stroma", "Parenchyma", "Capsule", "Blood vessels", "Fibrosis"],
+"c": 1,
+"l": "Parenchyma determines tumor behavior and classification.",
+"h": "Parenchyma"
+},
+{
+"q": "What is the function of tumor stroma?",
+"a": ["Classification", "Mutation", "Blood supply and support", "Metastasis", "Anaplasia"],
+"c": 2,
+"l": "Stroma provides blood supply and structural support.",
+"h": "Stroma"
+},
+{
+"q": "The suffix '-oma' usually indicates what type of tumor?",
+"a": ["Malignant", "Benign", "Metastatic", "Anaplastic", "Secondary"],
+"c": 1,
+"l": "The suffix '-oma' usually indicates a benign tumor.",
+"h": "Oma"
+},
+{
+"q": "Which of the following is a malignant exception to the '-oma' rule?",
+"a": ["Lipoma", "Fibroma", "Melanoma", "Adenoma", "Papilloma"],
+"c": 2,
+"l": "Melanoma is malignant despite ending in '-oma'.",
+"h": "Exception"
+},
+{
+"q": "Which of the following is another malignant exception to the '-oma' rule?",
+"a": ["Adenoma", "Lymphoma", "Lipoma", "Fibroma", "Papilloma"],
+"c": 1,
+"l": "Lymphoma is malignant despite ending in '-oma'.",
+"h": "Exception"
+},
+{
+"q": "What is an adenoma?",
+"a": ["Malignant epithelial tumor", "Benign epithelial tumor forming glands", "Mesenchymal tumor", "Mixed tumor", "Vascular tumor"],
+"c": 1,
+"l": "An adenoma is a benign epithelial tumor arising from glandular tissue.",
+"h": "Adenoma"
+},
+{
+"q": "What is a papilloma?",
+"a": ["Cystic tumor", "Finger-like benign epithelial tumor", "Sarcoma", "Carcinoma", "Hamartoma"],
+"c": 1,
+"l": "Papilloma is a benign epithelial tumor with finger-like projections.",
+"h": "Papilloma"
+},
+{
+"q": "What is a cystadenoma?",
+"a": ["Malignant cystic tumor", "Benign cystic epithelial tumor", "Mesenchymal tumor", "Sarcoma", "Teratoma"],
+"c": 1,
+"l": "Cystadenoma is a benign cystic epithelial tumor.",
+"h": "Cystadenoma"
+},
+{
+"q": "What is a carcinoma?",
+"a": ["Benign epithelial tumor", "Malignant epithelial tumor", "Benign mesenchymal tumor", "Malignant mesenchymal tumor", "Mixed tumor"],
+"c": 1,
+"l": "Carcinoma is a malignant tumor of epithelial origin.",
+"h": "Carcinoma"
+},
+{
+"q": "Which of the following is an example of carcinoma?",
+"a": ["Fibrosarcoma", "Osteosarcoma", "Squamous cell carcinoma", "Lipoma", "Hamartoma"],
+"c": 2,
+"l": "Squamous cell carcinoma is a malignant epithelial tumor.",
+"h": "Carcinoma example"
+},
+{
+"q": "What is a sarcoma?",
+"a": ["Malignant epithelial tumor", "Benign epithelial tumor", "Malignant mesenchymal tumor", "Benign mesenchymal tumor", "Mixed tumor"],
+"c": 2,
+"l": "Sarcoma is a malignant tumor of mesenchymal origin.",
+"h": "Sarcoma"
+},
+{
+"q": "Which of the following is an example of a sarcoma?",
+"a": ["Adenocarcinoma", "Fibrosarcoma", "Papilloma", "Adenoma", "Melanoma"],
+"c": 1,
+"l": "Fibrosarcoma is a malignant tumor of mesenchymal origin.",
+"h": "Sarcoma example"
+},
+{
+"q": "Which of the following is another example of a sarcoma?",
+"a": ["Liposarcoma", "Papilloma", "Adenoma", "Carcinoma", "Lymphoma"],
+"c": 0,
+"l": "Liposarcoma is a malignant tumor arising from adipose tissue.",
+"h": "Liposarcoma"
+},
+{
+"q": "Osteosarcoma is a malignant tumor derived from which tissue?",
+"a": ["Cartilage", "Bone", "Fat", "Muscle", "Blood vessel"],
+"c": 1,
+"l": "Osteosarcoma is a malignant tumor of bone.",
+"h": "Bone tumor"
+},
+{
+"q": "Chondrosarcoma is a malignant tumor derived from which tissue?",
+"a": ["Bone", "Fat", "Cartilage", "Muscle", "Fibrous tissue"],
+"c": 2,
+"l": "Chondrosarcoma is a malignant tumor of cartilage.",
+"h": "Cartilage tumor"
+},
+{
+"q": "Which of the following is a mesenchymal tissue?",
+"a": ["Bone", "Liver", "Pancreas", "Skin", "Thyroid"],
+"c": 0,
+"l": "Bone is a mesenchymal tissue.",
+"h": "Mesenchyme"
+},
+{
+"q": "Which of the following is NOT a mesenchymal tissue?",
+"a": ["Cartilage", "Fat", "Muscle", "Connective tissue", "Thyroid epithelium"],
+"c": 4,
+"l": "Thyroid epithelium is epithelial, not mesenchymal.",
+"h": "Mesenchymal tissue"
+},
+{
+"q": "What is a pleomorphic adenoma?",
+"a": ["Malignant salivary tumor", "Benign mixed salivary gland tumor", "Bone tumor", "Cartilage tumor", "Vascular tumor"],
+"c": 1,
+"l": "Pleomorphic adenoma is a benign salivary gland mixed tumor.",
+"h": "Mixed tumor"
+},
+{
+"q": "Pleomorphic adenoma contains which elements?",
+"a": ["Only epithelial", "Only mesenchymal", "Epithelial and mesenchymal-like elements", "Bone and cartilage only", "Fat only"],
+"c": 2,
+"l": "Pleomorphic adenoma contains epithelial and mesenchymal-like elements.",
+"h": "Pleomorphic"
+},
+{
+"q": "What is the malignant counterpart of pleomorphic adenoma?",
+"a": ["Fibrosarcoma", "Carcinoma ex pleomorphic adenoma", "Adenocarcinoma", "Papilloma", "Hamartoma"],
+"c": 1,
+"l": "Carcinoma ex pleomorphic adenoma is the malignant mixed tumor.",
+"h": "Malignant mixed"
+},
+{
+"q": "What is a teratoma?",
+"a": ["Tumor from one germ layer", "Tumor from multiple germ layers", "Benign glandular tumor", "Mesenchymal tumor", "Inflammatory lesion"],
+"c": 1,
+"l": "Teratomas contain tissues derived from more than one germ layer.",
+"h": "Teratoma"
+},
+{
+"q": "What is another name for a mature cystic teratoma?",
+"a": ["Dermoid cyst", "Fibroma", "Lipoma", "Hamartoma", "Papilloma"],
+"c": 0,
+"l": "A mature cystic teratoma is also called a dermoid cyst.",
+"h": "Dermoid cyst"
+},
+{
+"q": "Which feature best describes a mature cystic teratoma?",
+"a": ["Malignant", "Poorly differentiated", "Benign and well differentiated", "Metastatic", "Anaplastic"],
+"c": 2,
+"l": "Mature cystic teratomas are benign and well differentiated.",
+"h": "Mature teratoma"
+},
+{
+"q": "Which type of teratoma is malignant?",
+"a": ["Mature teratoma", "Dermoid cyst", "Immature teratoma", "Cystadenoma", "Hamartoma"],
+"c": 2,
+"l": "Immature teratomas are malignant and contain immature tissues.",
+"h": "Immature teratoma"
+},
+{
+"q": "Having more than 50 melanocytic nevi increases the risk of which malignancy?",
+"a": ["Lymphoma", "Melanoma", "Mesothelioma", "Sarcoma", "Carcinoma"],
+"c": 1,
+"l": "More than 50 melanocytic nevi increase the risk of melanoma.",
+"h": "Melanoma risk"
+},
+{
+"q": "What is a primary tumor?",
+"a": ["Metastatic lesion", "Tumor originating in the organ where it is found", "Benign tumor", "Secondary tumor", "Hamartoma"],
+"c": 1,
+"l": "A primary tumor originates in the organ where it is found.",
+"h": "Primary tumor"
+},
+{
+"q": "What is a secondary tumor?",
+"a": ["Primary lesion", "Hyperplastic lesion", "Metastatic tumor", "Benign tumor", "Hamartoma"],
+"c": 2,
+"l": "A secondary tumor is a metastatic tumor from another site.",
+"h": "Secondary tumor"
+},
+{
+"q": "What is a hamartoma?",
+"a": ["Normal tissue in abnormal location", "Disorganized mature tissue native to the organ", "Malignant tumor", "Metastatic lesion", "Teratoma"],
+"c": 1,
+"l": "Hamartoma is normal tissue in an abnormal arrangement.",
+"h": "Hamartoma"
+},
+{
+"q": "Which phrase best describes a hamartoma?",
+"a": ["Normal tissue wrong location", "Normal tissue wrong arrangement", "Abnormal tissue normal location", "Malignant tissue", "Metastatic tissue"],
+"c": 1,
+"l": "Hamartoma is normal tissue in an abnormal arrangement.",
+"h": "Mnemonic"
+},
+{
+"q": "Pulmonary hamartoma classically appears as what on chest X-ray?",
+"a": ["Cavity", "Coin lesion", "Consolidation", "Pleural effusion", "Fibrosis"],
+"c": 1,
+"l": "Pulmonary hamartoma commonly presents as a coin lesion.",
+"h": "Coin lesion"
+},
+{
+"q": "Which tissues are commonly found in a pulmonary hamartoma?",
+"a": ["Bone and muscle", "Cartilage, fat and connective tissue", "Liver and pancreas", "Skin and hair", "Blood only"],
+"c": 1,
+"l": "Pulmonary hamartomas contain cartilage, fat and connective tissue.",
+"h": "Pulmonary hamartoma"
+},
+{
+"q": "What is a choristoma?",
+"a": ["Normal tissue in abnormal arrangement", "Normal tissue in abnormal location", "Malignant tumor", "Benign neoplasm", "Metastatic lesion"],
+"c": 1,
+"l": "A choristoma is normal tissue in an abnormal (ectopic) location.",
+"h": "Choristoma"
+},
+{
+"q": "Which phrase best describes a choristoma?",
+"a": ["Normal tissue wrong arrangement", "Normal tissue wrong location", "Abnormal tissue normal location", "Malignant tissue", "Metastatic tissue"],
+"c": 1,
+"l": "Choristoma is normal tissue in an abnormal location.",
+"h": "Mnemonic"
+},
+{
+"q": "Which is an example of a choristoma?",
+"a": ["Cartilage in lung", "Pancreatic tissue in stomach wall", "Lipoma", "Fibroma", "Adenoma"],
+"c": 1,
+"l": "Pancreatic tissue in the stomach wall is a classic choristoma.",
+"h": "Example"
+},
+{
+"q": "What is a Ghon focus?",
+"a": ["Metastatic lesion", "Primary subpleural lung lesion of tuberculosis", "Lung abscess", "Granuloma in liver", "Pleural effusion"],
+"c": 1,
+"l": "A Ghon focus is the primary subpleural lesion of tuberculosis.",
+"h": "TB lesion"
+},
+{
+"q": "What is a Ghon complex?",
+"a": ["Two lung lesions", "Ghon focus plus hilar lymph node involvement", "Cavitary lesion", "Pleural TB", "Miliary TB"],
+"c": 1,
+"l": "A Ghon complex consists of a Ghon focus and hilar lymph node involvement.",
+"h": "Ghon complex"
+},
+{
+"q": "What is a granuloma?",
+"a": ["Collection of neutrophils", "Collection of activated macrophages", "Collection of lymphocytes", "Collection of eosinophils", "Collection of plasma cells"],
+"c": 1,
+"l": "A granuloma is a collection of activated macrophages (epithelioid histiocytes).",
+"h": "Granuloma"
+},
+{
+"q": "Which cytokine activates macrophages and promotes granuloma formation?",
+"a": ["IL-4", "IL-5", "IFN-γ", "IL-10", "TNF-β"],
+"c": 2,
+"l": "Interferon-γ activates macrophages and promotes granuloma formation.",
+"h": "IFN-γ"
+},
+{
+"q": "What is multinodular goiter (MNG)?",
+"a": ["Malignant thyroid tumor", "Hyperplastic enlargement of thyroid gland", "Autoimmune thyroiditis", "Thyroid adenoma", "Thyroid cyst"],
+"c": 1,
+"l": "Multinodular goiter is a hyperplastic enlargement of the thyroid gland.",
+"h": "MNG"
+},
+{
+"q": "Which benign lesion is a common differential diagnosis of a coin lesion in the lung?",
+"a": ["Pulmonary hamartoma", "Melanoma", "Lymphoma", "Seminoma", "Mesothelioma"],
+"c": 0,
+"l": "Pulmonary hamartoma is a common cause of a coin lesion on chest X-ray.",
+"h": "Coin lesion"
+},
+{
+"q": "What is a Peutz-Jeghers polyp?",
+"a": ["Malignant polyp", "Hamartomatous polyp", "Adenocarcinoma", "Sarcoma", "Hyperplastic nodule"],
+"c": 1,
+"l": "Peutz-Jeghers syndrome is associated with hamartomatous polyps.",
+"h": "Peutz-Jeghers"
+},
+{
+"q": "What is a hemangioma?",
+"a": ["Tumor of lymphatics", "Accumulation of blood vessels", "Bone tumor", "Fat tumor", "Cartilage tumor"],
+"c": 1,
+"l": "Hemangioma is a benign proliferation of blood vessels.",
+"h": "Hemangioma"
+},
+{
+"q": "Trophoblastic tumors arise from which tissue?",
+"a": ["Bone", "Placental epithelium", "Cartilage", "Muscle", "Liver"],
+"c": 1,
+"l": "Trophoblastic tumors arise from placental epithelium.",
+"h": "Placenta"
+},
+{
+"q": "What is the benign counterpart of hepatocellular carcinoma?",
+"a": ["Hepatic adenoma", "Hemangioma", "Fibroma", "Hamartoma", "Choristoma"],
+"c": 0,
+"l": "The benign counterpart of hepatocellular carcinoma is hepatic adenoma.",
+"h": "Liver adenoma"
+},
+{
+"q": "A malignant epithelial tumor is called what?",
+"a": ["Sarcoma", "Carcinoma", "Adenoma", "Hamartoma", "Teratoma"],
+"c": 1,
+"l": "Malignant epithelial tumors are called carcinomas.",
+"h": "Rule"
+},
+{
+"q": "A malignant mesenchymal tumor is called what?",
+"a": ["Carcinoma", "Sarcoma", "Papilloma", "Adenoma", "Hamartoma"],
+"c": 1,
+"l": "Malignant mesenchymal tumors are called sarcomas.",
+"h": "Rule"
+},
+{
+"q": "The prefix 'Adeno-' refers to which structure?",
+"a": ["Bone", "Gland", "Cartilage", "Blood vessel", "Muscle"],
+"c": 1,
+"l": "Adeno refers to glandular tissue.",
+"h": "Adeno"
+},
+{
+"q": "Papilloma is characterized by what microscopic appearance?",
+"a": ["Cystic spaces", "Finger-like projections", "Bone formation", "Fat accumulation", "Cartilage formation"],
+"c": 1,
+"l": "Papillomas have finger-like epithelial projections.",
+"h": "Papilloma"
+},
+{
+"q": "Which phrase best describes a hamartoma?",
+"a": ["Normal tissue wrong location", "Normal tissue wrong arrangement", "Malignant tissue", "Metastatic tissue", "Anaplastic tissue"],
+"c": 1,
+"l": "Hamartoma is normal tissue in an abnormal arrangement.",
+"h": "Hamartoma rule"
+},
+{
+"q": "Which phrase best describes a choristoma?",
+"a": ["Normal tissue wrong arrangement", "Normal tissue wrong location", "Malignant tissue", "Hyperplastic tissue", "Neoplastic tissue"],
+"c": 1,
+"l": "Choristoma is normal tissue in an abnormal location.",
+"h": "Choristoma rule"
+},
+{
+"q": "What is the defining feature of a teratoma?",
+"a": ["Finger-like projections", "Multiple germ layers", "Blood vessel proliferation", "Gland formation", "Bone formation"],
+"c": 1,
+"l": "Teratomas contain tissues derived from multiple germ layers.",
+"h": "Teratoma rule"
+},
+{
+"q": "Goiter is best described as which combination?",
+"a": ["Hyperplasia only", "Hypertrophy only", "Hyperplasia and hypertrophy", "Atrophy and hypertrophy", "Metaplasia and dysplasia"],
+"c": 2,
+"l": "Goiter results from both hyperplasia and hypertrophy.",
+"h": "Goiter rule"
+}
 ]
   }
 }
