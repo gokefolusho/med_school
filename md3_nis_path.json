@@ -626,7 +626,6 @@
   "l": "Renal cell carcinoma can invade the renal vein and IVC.",
   "h": "RCC invasion"
 },
-```json id="m8k2pd"
 {
   "q": "Hepatocellular carcinoma commonly invades which veins?",
   "a": ["Pulmonary and renal veins", "Portal and hepatic veins", "Coronary veins", "Cerebral veins", "Subclavian veins"],
