@@ -801,7 +801,6 @@
   "l": "Hypercalcemia may cause renal stones, gastric ulcers, pancreatitis, and metastatic calcification.",
   "h": "Complications"
 },
-```json id="r7m4ke"
 {
   "q": "Which adhesion molecule is most commonly lost during metastasis?",
   "a": ["ICAM-1", "VCAM-1", "E-cadherin", "Selectin", "Integrin"],
@@ -977,7 +976,6 @@
   "l": "Tumor homing depends on adhesion molecules, chemokines and organ microenvironment.",
   "h": "Homing"
 },
-```json id="q9w7pl"
 {
   "q": "What do metastatic suppressor genes do?",
   "a": ["Promote metastasis", "Inhibit metastasis without affecting the primary tumor", "Cause apoptosis only", "Increase angiogenesis", "Increase invasion"],
@@ -1153,7 +1151,6 @@
   "l": "Dysplasia is a reversible pre-neoplastic lesion.",
   "h": "Dysplasia"
 },
-```json id="v6p9rt"
 {
   "q": "Which cancer commonly causes osteolytic metastases?",
   "a": ["Prostate carcinoma", "Renal cell carcinoma", "Papillary thyroid carcinoma", "Seminoma", "Fibroma"],
@@ -1329,7 +1326,6 @@
   "l": "Tumor cells often travel as emboli coated with platelets and leukocytes.",
   "h": "Travel"
 },
-```json id="k2n8xm"
 {
   "q": "Overexpression of which molecule favors metastatic spread?",
   "a": ["CD3", "CD4", "CD44", "CD8", "CD21"],
@@ -1505,7 +1501,6 @@
   "l": "Abundant atypical mitoses suggest malignancy.",
   "h": "Mitoses"
 },
-```json id="t4v9qn"
 {
   "q": "Tumor giant cells are commonly seen in which type of tumor?",
   "a": ["Benign tumors", "Malignant tumors", "Hamartomas", "Choristomas", "Cysts"],
@@ -1681,7 +1676,6 @@
   "l": "Carcinomas usually spread through lymphatics.",
   "h": "Carcinomas"
 },
-```json id="y5m2qa"
 {
   "q": "Which route is most commonly used by sarcomas?",
   "a": ["Lymphatic", "Hematogenous", "Transcoelomic", "Neural", "Direct"],
@@ -1829,7 +1823,7 @@
   "l": "Hypercalcemia may cause renal stones, gastric ulcers, pancreatitis, and metastatic calcification.",
   "h": "Complications"
 },
-```json id="d8n5vk"
+
 {
   "q": "Breast cancer commonly expresses which chemokine receptors?",
   "a": ["CD4 and CD8", "CXCR4 and CCR7", "CCR5 and CXCR3", "CD44 and CD21", "ICAM and VCAM"],
@@ -1970,7 +1964,6 @@
   "l": "Anaplasia refers to lack of differentiation.",
   "h": "Anaplasia"
 },
-```json id="f8w2mn"
 {
   "q": "Tumor giant cells are commonly seen in which type of tumor?",
   "a": ["Benign tumors", "Malignant tumors", "Hamartomas", "Choristomas", "Cysts"],
