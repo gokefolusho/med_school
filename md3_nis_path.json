@@ -19,7 +19,7 @@
     }
   ],
   "quizzes": {
-"1_neoplasia": [
+"1_neoplasia_tumor_naming": [
 
 {
 "q": "What is a tumor (neoplasm)?",
@@ -447,6 +447,1671 @@
 "c": 2,
 "l": "Goiter results from both hyperplasia and hypertrophy.",
 "h": "Goiter rule"
+}
+],
+
+"neoplasia_cancer_metastasis": [
+ ```json
+{
+  "q": "What is metastasis?",
+  "a": ["Increase in cell size", "Spread of tumor cells to a distant site", "Local invasion only", "Inflammation", "Cell death"],
+  "c": 1,
+  "l": "Metastasis is the spread of tumor cells from the primary site to a distant site.",
+  "h": "Definition"
+},
+{
+  "q": "What is the most important feature distinguishing benign from malignant tumors?",
+  "a": ["Size", "Color", "Metastasis", "Capsule", "Necrosis"],
+  "c": 2,
+  "l": "Metastasis is the most important feature distinguishing benign from malignant tumors.",
+  "h": "Key difference"
+},
+{
+  "q": "What are metastatic implants called?",
+  "a": ["Nodules", "Mets", "Plaques", "Cysts", "Granulomas"],
+  "c": 1,
+  "l": "Metastatic implants are called metastases (mets).",
+  "h": "Mets"
+},
+{
+  "q": "How does tumor size relate to metastasis risk?",
+  "a": ["No relationship", "Larger tumors have lower risk", "Larger aggressive tumors have higher risk", "Only benign tumors metastasize", "Only small tumors metastasize"],
+  "c": 2,
+  "l": "The larger and more aggressive the tumor, the greater the risk of metastasis.",
+  "h": "Risk"
+},
+{
+  "q": "Approximately what percentage of newly diagnosed malignant tumors already have metastases?",
+  "a": ["10%", "25%", "50%", "75%", "90%"],
+  "c": 2,
+  "l": "About 50% of newly diagnosed malignant tumors already have metastases.",
+  "h": "50%"
+},
+{
+  "q": "Metastasis may occur through which routes?",
+  "a": ["Blood only", "Lymphatics only", "Body cavities only", "Lymphatics, blood vessels, and body cavities", "Nerves only"],
+  "c": 3,
+  "l": "Metastasis occurs through lymphatics, blood vessels, or body cavities.",
+  "h": "Routes"
+},
+{
+  "q": "How many major routes of metastasis exist?",
+  "a": ["1", "2", "3", "4", "5"],
+  "c": 2,
+  "l": "Three routes of metastasis are lymphatic, hematogenous, and transcoelomic spread.",
+  "h": "Three routes"
+},
+{
+  "q": "Which route is most common for carcinoma metastasis?",
+  "a": ["Hematogenous", "Transcoelomic", "Lymphatic", "Neural", "Direct"],
+  "c": 2,
+  "l": "Lymphatic spread is the most common route for carcinomas.",
+  "h": "Carcinoma"
+},
+{
+  "q": "Which route is most common for sarcoma metastasis?",
+  "a": ["Lymphatic", "Hematogenous", "Transcoelomic", "Neural", "Direct"],
+  "c": 1,
+  "l": "Hematogenous spread is the most common route for sarcomas.",
+  "h": "Sarcoma"
+},
+{
+  "q": "Which thyroid carcinoma commonly spreads through blood vessels?",
+  "a": ["Papillary", "Medullary", "Follicular", "Anaplastic", "Hurthle cell"],
+  "c": 2,
+  "l": "Follicular thyroid carcinoma is an exception that spreads via blood.",
+  "h": "Exception"
+},
+{
+  "q": "Which kidney cancer commonly spreads through blood vessels?",
+  "a": ["Wilms tumor", "Renal cell carcinoma", "Oncocytoma", "Angiomyolipoma", "Urothelial carcinoma"],
+  "c": 1,
+  "l": "Renal cell carcinoma commonly spreads through blood vessels.",
+  "h": "RCC"
+},
+{
+  "q": "Which liver cancer frequently spreads hematogenously?",
+  "a": ["Hepatic adenoma", "Hemangioma", "Hepatocellular carcinoma", "FNH", "Cholangioma"],
+  "c": 2,
+  "l": "Hepatocellular carcinoma frequently spreads hematogenously.",
+  "h": "HCC"
+},
+{
+  "q": "What are regional lymph nodes considered in cancer spread?",
+  "a": ["Primary site", "First line of defense", "Secondary tumor", "Blood filter", "Target organ"],
+  "c": 1,
+  "l": "Regional lymph nodes are the first line of defense against cancer spread.",
+  "h": "Defense"
+},
+{
+  "q": "How are metastatic lymph nodes typically described?",
+  "a": ["Soft and tender", "Hard and non-tender", "Fluctuant", "Warm and painful", "Normal"],
+  "c": 1,
+  "l": "Metastatic lymph nodes are enlarged, hard, and non-tender.",
+  "h": "Nodes"
+},
+{
+  "q": "Lymphatic spread generally follows what pattern?",
+  "a": ["Random spread", "Blood flow", "Normal lymphatic drainage pathways", "Neural pathways", "Body cavities"],
+  "c": 2,
+  "l": "Lymphatic spread follows normal lymphatic drainage pathways.",
+  "h": "Drainage"
+},
+{
+  "q": "Breast carcinoma commonly spreads to which lymph nodes?",
+  "a": ["Cervical", "Inguinal", "Axillary", "Para-aortic", "Mediastinal"],
+  "c": 2,
+  "l": "Breast carcinoma commonly spreads to axillary lymph nodes.",
+  "h": "Breast"
+},
+{
+  "q": "Lung carcinoma commonly spreads to which lymph nodes?",
+  "a": ["Axillary", "Inguinal", "Bronchial and tracheal", "Mesenteric", "Para-aortic"],
+  "c": 2,
+  "l": "Lung carcinoma commonly spreads to bronchial and tracheal lymph nodes.",
+  "h": "Lung"
+},
+{
+  "q": "Which vessels are invaded more easily during metastasis?",
+  "a": ["Arteries", "Veins", "Capillaries", "Lymphatics", "Arterioles"],
+  "c": 1,
+  "l": "Veins are invaded more easily than arteries during metastasis.",
+  "h": "Veins"
+},
+{
+  "q": "Why do arteries resist tumor invasion?",
+  "a": ["No blood flow", "Thick walls", "High oxygen", "Low pressure", "Valves"],
+  "c": 1,
+  "l": "Arteries resist invasion because of their thick walls.",
+  "h": "Arteries"
+},
+{
+  "q": "Tumors entering the portal circulation commonly metastasize to which organ?",
+  "a": ["Brain", "Lung", "Liver", "Bone", "Kidney"],
+  "c": 2,
+  "l": "Tumors entering the portal circulation commonly metastasize to the liver.",
+  "h": "Portal"
+},
+{
+  "q": "GI tumors commonly metastasize to which organ through the portal vein?",
+  "a": ["Brain", "Lung", "Liver", "Bone", "Adrenal"],
+  "c": 2,
+  "l": "GI tumors commonly metastasize to the liver through the portal vein.",
+  "h": "GI tumors"
+},
+{
+  "q": "Tumors entering systemic veins most commonly metastasize to which organ?",
+  "a": ["Liver", "Brain", "Lung", "Kidney", "Spleen"],
+  "c": 2,
+  "l": "Tumors entering systemic veins commonly metastasize to the lungs.",
+  "h": "Systemic veins"
+},
+{
+  "q": "Which is more common: primary lung tumors or lung metastases?",
+  "a": ["Primary lung tumors", "Equal frequency", "Lung metastases", "Depends on age", "Unknown"],
+  "c": 2,
+  "l": "Lung metastases are more common than primary lung tumors.",
+  "h": "Lung mets"
+},
+{
+  "q": "Which is a common hematogenous metastatic site?",
+  "a": ["Liver", "Lung", "Bone", "Brain", "All of the above"],
+  "c": 4,
+  "l": "Common hematogenous metastatic sites include liver, lung, bone, brain, and adrenal glands.",
+  "h": "Sites"
+},
+{
+  "q": "Renal cell carcinoma commonly invades which vessel and major vein?",
+  "a": ["Portal vein and SVC", "Renal vein and IVC", "Pulmonary vein and IVC", "Aorta and IVC", "Hepatic vein and SVC"],
+  "c": 1,
+  "l": "Renal cell carcinoma can invade the renal vein and IVC.",
+  "h": "RCC invasion"
+},
+```json id="m8k2pd"
+{
+  "q": "Hepatocellular carcinoma commonly invades which veins?",
+  "a": ["Pulmonary and renal veins", "Portal and hepatic veins", "Coronary veins", "Cerebral veins", "Subclavian veins"],
+  "c": 1,
+  "l": "Hepatocellular carcinoma can invade portal and hepatic veins.",
+  "h": "HCC invasion"
+},
+{
+  "q": "Seeding of body cavities occurs when malignant cells do what?",
+  "a": ["Differentiate", "Exfoliate and implant", "Undergo apoptosis", "Calcify", "Encapsulate"],
+  "c": 1,
+  "l": "Seeding occurs when malignant cells exfoliate and implant on cavity surfaces.",
+  "h": "Seeding"
+},
+{
+  "q": "What is the most common site of transcoelomic spread?",
+  "a": ["Pleural cavity", "Pericardial cavity", "Peritoneal cavity", "Joint cavity", "Subarachnoid space"],
+  "c": 2,
+  "l": "The peritoneal cavity is the most common site of transcoelomic spread.",
+  "h": "Peritoneum"
+},
+{
+  "q": "Which cancers commonly seed the peritoneum?",
+  "a": ["Breast and thyroid", "Ovarian, GI, and pancreatic", "Kidney and bladder", "Skin and brain", "Bone and muscle"],
+  "c": 1,
+  "l": "Ovarian, GI, and pancreatic cancers commonly seed the peritoneum.",
+  "h": "Peritoneal spread"
+},
+{
+  "q": "Which cavity may be seeded by lung cancers?",
+  "a": ["Peritoneal", "Pleural", "Pericardial", "Joint", "Abdominal"],
+  "c": 1,
+  "l": "Lung cancers may seed the pleural cavity.",
+  "h": "Pleura"
+},
+{
+  "q": "Glioblastoma may spread through which space?",
+  "a": ["Pleural cavity", "Peritoneum", "Subarachnoid space", "Mediastinum", "Pericardium"],
+  "c": 2,
+  "l": "Glioblastoma may spread through the subarachnoid space.",
+  "h": "Glioblastoma"
+},
+{
+  "q": "What is a Krukenberg tumor?",
+  "a": ["Primary ovarian tumor", "Metastatic ovarian tumor with signet-ring cells", "Benign ovarian cyst", "Teratoma", "Fibroma"],
+  "c": 1,
+  "l": "Krukenberg tumor is a metastatic ovarian tumor containing signet-ring cells.",
+  "h": "Krukenberg"
+},
+{
+  "q": "Krukenberg tumors most commonly originate from which cancer?",
+  "a": ["Colon carcinoma", "Breast carcinoma", "Gastric carcinoma", "Lung carcinoma", "Pancreatic carcinoma"],
+  "c": 2,
+  "l": "Krukenberg tumors most commonly originate from gastric carcinoma.",
+  "h": "Origin"
+},
+{
+  "q": "What is the likely mechanism of spread in Krukenberg tumors?",
+  "a": ["Direct invasion", "Retrograde lymphatic spread", "Arterial spread", "Neural spread", "Implantation"],
+  "c": 1,
+  "l": "Retrograde lymphatic spread is the likely mechanism of Krukenberg tumors.",
+  "h": "Mechanism"
+},
+{
+  "q": "What is the most common site of bone metastasis?",
+  "a": ["Skull", "Vertebral column", "Femur", "Humerus", "Ribs"],
+  "c": 1,
+  "l": "The vertebral column is the most common site of bone metastasis.",
+  "h": "Bone mets"
+},
+{
+  "q": "Which venous plexus explains vertebral metastasis?",
+  "a": ["Pampiniform plexus", "Batson paravertebral venous plexus", "Portal plexus", "Coronary plexus", "Pulmonary plexus"],
+  "c": 1,
+  "l": "Batson paravertebral venous plexus explains vertebral metastasis.",
+  "h": "Batson plexus"
+},
+{
+  "q": "What is the second most common site of bone metastasis?",
+  "a": ["Humerus", "Pelvis", "Proximal femur", "Ribs", "Skull"],
+  "c": 2,
+  "l": "The proximal femur is the second most common site of bone metastasis.",
+  "h": "Femur"
+},
+{
+  "q": "What is the most common symptom of bone metastasis?",
+  "a": ["Fever", "Pain", "Paralysis", "Edema", "Weight gain"],
+  "c": 1,
+  "l": "Pain is the most common symptom of bone metastasis.",
+  "h": "Pain"
+},
+{
+  "q": "What is the best treatment for painful bone metastases?",
+  "a": ["Chemotherapy", "Surgery", "Local radiation therapy", "Antibiotics", "Observation"],
+  "c": 2,
+  "l": "Local radiation therapy is the best treatment for painful bone metastases.",
+  "h": "Treatment"
+},
+{
+  "q": "Bone metastases are classified into which two major types?",
+  "a": ["Benign and malignant", "Primary and secondary", "Osteoblastic and osteolytic", "Acute and chronic", "Focal and diffuse"],
+  "c": 2,
+  "l": "Bone metastases are classified as osteoblastic or osteolytic.",
+  "h": "Classification"
+},
+{
+  "q": "Osteoblastic metastases cause what change in bone?",
+  "a": ["Bone destruction", "Increased bone formation", "No change", "Cartilage formation", "Fibrosis"],
+  "c": 1,
+  "l": "Osteoblastic metastases produce increased bone formation.",
+  "h": "Osteoblastic"
+},
+{
+  "q": "Which cancer commonly causes osteoblastic metastases?",
+  "a": ["Renal cell carcinoma", "Prostate carcinoma", "Melanoma", "Lung carcinoma", "Glioblastoma"],
+  "c": 1,
+  "l": "Prostate carcinoma commonly causes osteoblastic metastases.",
+  "h": "Prostate"
+},
+{
+  "q": "How do osteoblastic metastases appear on X-ray?",
+  "a": ["Radiolucent", "Radiodense", "Normal", "Cystic", "Calcified fluid"],
+  "c": 1,
+  "l": "Osteoblastic metastases appear as radiodense lesions on X-ray.",
+  "h": "X-ray"
+},
+{
+  "q": "Which laboratory value is increased in osteoblastic metastases?",
+  "a": ["ALT", "AST", "Alkaline phosphatase", "Troponin", "Amylase"],
+  "c": 2,
+  "l": "Osteoblastic metastases increase serum alkaline phosphatase.",
+  "h": "ALP"
+},
+{
+  "q": "Osteolytic metastases produce what effect on bone?",
+  "a": ["Increased bone formation", "Bone destruction", "Cartilage formation", "No effect", "Fibrosis"],
+  "c": 1,
+  "l": "Osteolytic metastases destroy bone and create radiolucent lesions.",
+  "h": "Osteolytic"
+},
+{
+  "q": "Which cancer commonly produces osteolytic metastases?",
+  "a": ["Prostate carcinoma", "Renal cell carcinoma", "Thyroid adenoma", "Fibroma", "Lipoma"],
+  "c": 1,
+  "l": "Renal cell carcinoma commonly produces osteolytic metastases.",
+  "h": "RCC"
+},
+{
+  "q": "Which mediators activate osteoclasts in osteolytic metastases?",
+  "a": ["IL-2 and IFN-γ", "PGE₂ and IL-1", "TNF-β and IL-4", "IL-10 and IL-12", "TGF-β and IL-5"],
+  "c": 1,
+  "l": "Osteolytic metastases activate osteoclasts through PGE₂ and IL-1.",
+  "h": "Osteoclasts"
+},
+{
+  "q": "What fracture type is common in osteolytic metastases?",
+  "a": ["Greenstick", "Stress", "Pathological", "Compression only", "Spiral"],
+  "c": 2,
+  "l": "Pathological fractures are common in osteolytic metastases.",
+  "h": "Fracture"
+},
+{
+  "q": "Bone metastasis is the most common cause of what condition in elderly patients with bone pain?",
+  "a": ["Hypoglycemia", "Hypercalcemia", "Hyponatremia", "Anemia", "Leukopenia"],
+  "c": 1,
+  "l": "Bone metastasis is the most common cause of hypercalcemia with bone pain in the elderly.",
+  "h": "Hypercalcemia"
+},
+{
+  "q": "Hypercalcemia from bone metastasis may cause which complication?",
+  "a": ["Renal stones", "Gastric ulcers", "Pancreatitis", "Metastatic calcification", "All of the above"],
+  "c": 4,
+  "l": "Hypercalcemia may cause renal stones, gastric ulcers, pancreatitis, and metastatic calcification.",
+  "h": "Complications"
+},
+```json id="r7m4ke"
+{
+  "q": "Which adhesion molecule is most commonly lost during metastasis?",
+  "a": ["ICAM-1", "VCAM-1", "E-cadherin", "Selectin", "Integrin"],
+  "c": 2,
+  "l": "E-cadherin is the major cell adhesion molecule lost in metastasis.",
+  "h": "E-cadherin"
+},
+{
+  "q": "Loss of E-cadherin allows tumor cells to do what?",
+  "a": ["Differentiate", "Detach from one another", "Undergo apoptosis", "Calcify", "Encapsulate"],
+  "c": 1,
+  "l": "Loss of E-cadherin allows tumor cells to detach from one another.",
+  "h": "Detachment"
+},
+{
+  "q": "E-cadherin function is lost in most cancers of which origin?",
+  "a": ["Mesenchymal", "Epithelial", "Neural", "Muscular", "Lymphoid"],
+  "c": 1,
+  "l": "E-cadherin function is lost in most epithelial cancers.",
+  "h": "Epithelial"
+},
+{
+  "q": "Which transcription factors suppress E-cadherin expression?",
+  "a": ["MYC and RAS", "SNAIL and TWIST", "RB and p53", "NF-κB and AP-1", "BCL2 and BAX"],
+  "c": 1,
+  "l": "SNAIL and TWIST suppress E-cadherin expression.",
+  "h": "SNAIL/TWIST"
+},
+{
+  "q": "SNAIL and TWIST promote which process?",
+  "a": ["Apoptosis", "Angiogenesis", "EMT", "Necrosis", "Calcification"],
+  "c": 2,
+  "l": "SNAIL and TWIST promote epithelial-to-mesenchymal transition (EMT).",
+  "h": "EMT"
+},
+{
+  "q": "What does EMT stand for?",
+  "a": ["Epithelial Mesenchymal Transition", "Endothelial Migration Transport", "Extracellular Matrix Turnover", "Epithelial Mitotic Transformation", "Endothelial Mesenchymal Transport"],
+  "c": 0,
+  "l": "EMT stands for epithelial-to-mesenchymal transition.",
+  "h": "EMT"
+},
+{
+  "q": "EMT is essential for which tumor property?",
+  "a": ["Differentiation", "Metastasis", "Calcification", "Encapsulation", "Necrosis"],
+  "c": 1,
+  "l": "EMT is essential for tumor metastasis.",
+  "h": "Metastasis"
+},
+{
+  "q": "EMT downregulates which epithelial marker?",
+  "a": ["Vimentin", "Desmin", "E-cadherin", "CD44", "Fibronectin"],
+  "c": 2,
+  "l": "EMT downregulates epithelial markers such as E-cadherin.",
+  "h": "Marker"
+},
+{
+  "q": "EMT upregulates which mesenchymal marker?",
+  "a": ["E-cadherin", "Keratin", "Vimentin", "Claudin", "Occludin"],
+  "c": 2,
+  "l": "EMT upregulates mesenchymal markers such as vimentin.",
+  "h": "Vimentin"
+},
+{
+  "q": "Which enzyme degrades the basement membrane during tumor invasion?",
+  "a": ["Elastase", "Type IV collagenase", "Lipase", "Amylase", "Trypsin"],
+  "c": 1,
+  "l": "Type IV collagenase degrades basement membrane.",
+  "h": "Collagenase"
+},
+{
+  "q": "What are the key enzymes involved in tumor invasion?",
+  "a": ["Kinases", "Phosphatases", "Matrix metalloproteinases", "Transferases", "Ligases"],
+  "c": 2,
+  "l": "Matrix metalloproteinases (MMPs) are key enzymes in tumor invasion.",
+  "h": "MMPs"
+},
+{
+  "q": "MMP-9 belongs to which enzyme group?",
+  "a": ["Protease", "Gelatinase", "Lipase", "Kinase", "Oxidase"],
+  "c": 1,
+  "l": "MMP-9 is a type IV collagenase (gelatinase).",
+  "h": "MMP-9"
+},
+{
+  "q": "MMP-9 releases which growth factor trapped in the extracellular matrix?",
+  "a": ["EGF", "FGF", "VEGF", "PDGF", "TGF-β"],
+  "c": 2,
+  "l": "MMP-9 releases VEGF trapped within the extracellular matrix.",
+  "h": "VEGF"
+},
+{
+  "q": "Tumor cells attach to which basement membrane protein?",
+  "a": ["Collagen I", "Elastin", "Laminin", "Actin", "Keratin"],
+  "c": 2,
+  "l": "Tumor cells attach to laminin in the basement membrane.",
+  "h": "Laminin"
+},
+{
+  "q": "Tumor cells attach to which extracellular matrix protein?",
+  "a": ["Fibronectin", "Hemoglobin", "Albumin", "Myosin", "Tubulin"],
+  "c": 0,
+  "l": "Tumor cells attach to fibronectin in the extracellular matrix.",
+  "h": "Fibronectin"
+},
+{
+  "q": "Which tissues are relatively resistant to tumor invasion?",
+  "a": ["Liver and spleen", "Cartilage and elastic tissue", "Skin and muscle", "Brain and lung", "Bone and marrow"],
+  "c": 1,
+  "l": "Cartilage and elastic tissue are relatively resistant to tumor invasion.",
+  "h": "Resistance"
+},
+{
+  "q": "Tumor migration may occur through what type of movement?",
+  "a": ["Flagellar", "Ameboid", "Ciliary", "Rotational", "Passive"],
+  "c": 1,
+  "l": "Tumor migration can occur through ameboid movement without matrix degradation.",
+  "h": "Migration"
+},
+{
+  "q": "Tumor-derived cytokines primarily stimulate what process?",
+  "a": ["Apoptosis", "Cell locomotion", "Calcification", "Differentiation", "Necrosis"],
+  "c": 1,
+  "l": "Tumor-derived cytokines stimulate tumor cell locomotion.",
+  "h": "Locomotion"
+},
+{
+  "q": "Tumor cells in circulation are vulnerable to what?",
+  "a": ["Dehydration", "Immune destruction", "Calcification", "Fibrosis", "Necrosis"],
+  "c": 1,
+  "l": "Tumor cells are vulnerable to immune destruction while in circulation.",
+  "h": "Immune system"
+},
+{
+  "q": "Tumor cells often travel in circulation coated with which cells?",
+  "a": ["Platelets and leukocytes", "RBCs and platelets", "Neurons and glia", "Fibroblasts and chondrocytes", "Hepatocytes and macrophages"],
+  "c": 0,
+  "l": "Tumor cells often travel as emboli coated with platelets and leukocytes.",
+  "h": "Emboli"
+},
+{
+  "q": "Overexpression of which molecule favors metastatic spread?",
+  "a": ["CD3", "CD4", "CD44", "CD8", "CD21"],
+  "c": 2,
+  "l": "CD44 overexpression favors metastatic spread.",
+  "h": "CD44"
+},
+{
+  "q": "Most metastases occur in which location relative to circulation?",
+  "a": ["Last capillary bed", "First capillary bed encountered", "Bone marrow only", "Lymph node only", "Brain only"],
+  "c": 1,
+  "l": "Most metastases occur in the first capillary bed encountered.",
+  "h": "Capillary bed"
+},
+{
+  "q": "Breast cancer commonly expresses which chemokine receptors?",
+  "a": ["CD4 and CD8", "CXCR4 and CCR7", "CCR5 and CXCR3", "CD44 and CD21", "ICAM and VCAM"],
+  "c": 1,
+  "l": "Breast cancer commonly expresses CXCR4 and CCR7 chemokine receptors.",
+  "h": "Breast cancer"
+},
+{
+  "q": "Which chemokines help direct breast cancer metastasis?",
+  "a": ["IL-1 and TNF", "CXCL12 and CCL21", "IL-2 and IL-4", "IFN-γ and IL-12", "IL-5 and IL-10"],
+  "c": 1,
+  "l": "CXCL12 and CCL21 help direct breast cancer metastasis.",
+  "h": "Chemokines"
+},
+{
+  "q": "Tumor homing depends on which factors?",
+  "a": ["Adhesion molecules, chemokines and organ microenvironment", "Temperature only", "Blood pressure only", "Hormones only", "Calcium only"],
+  "c": 0,
+  "l": "Tumor homing depends on adhesion molecules, chemokines and organ microenvironment.",
+  "h": "Homing"
+},
+```json id="q9w7pl"
+{
+  "q": "What do metastatic suppressor genes do?",
+  "a": ["Promote metastasis", "Inhibit metastasis without affecting the primary tumor", "Cause apoptosis only", "Increase angiogenesis", "Increase invasion"],
+  "c": 1,
+  "l": "Metastatic suppressor genes inhibit metastasis without affecting the primary tumor.",
+  "h": "Suppressor genes"
+},
+{
+  "q": "Which microRNAs are examples of metastatic suppressor genes?",
+  "a": ["miR-10b and miR-21", "miR-335 and miR-126", "miR-155 and miR-21", "miR-17 and miR-19", "miR-200 and miR-205"],
+  "c": 1,
+  "l": "miR-335 and miR-126 are metastatic suppressor genes.",
+  "h": "miR suppressors"
+},
+{
+  "q": "What do metastatic oncogenes do?",
+  "a": ["Suppress metastasis", "Promote metastasis without affecting the primary tumor", "Prevent angiogenesis", "Cause differentiation", "Reduce invasion"],
+  "c": 1,
+  "l": "Metastatic oncogenes promote metastasis without affecting the primary tumor.",
+  "h": "Oncogenes"
+},
+{
+  "q": "Which microRNA is a metastatic oncogene?",
+  "a": ["miR-126", "miR-335", "miR-10b", "miR-34", "miR-15"],
+  "c": 2,
+  "l": "miR-10b is a metastatic oncogene.",
+  "h": "miR-10b"
+},
+{
+  "q": "Which transcription factors are considered metastasis-promoting oncogenes?",
+  "a": ["RB and p53", "SNAIL and TWIST", "MYC and RAS", "BCL2 and BAX", "NF-κB and AP-1"],
+  "c": 1,
+  "l": "SNAIL and TWIST are metastasis-promoting oncogenes.",
+  "h": "SNAIL/TWIST"
+},
+{
+  "q": "Tumor emboli form by aggregation with which cells?",
+  "a": ["RBCs only", "Platelets and leukocytes", "Fibroblasts", "Chondrocytes", "Neurons"],
+  "c": 1,
+  "l": "Tumor emboli form by aggregation with platelets and leukocytes.",
+  "h": "Tumor emboli"
+},
+{
+  "q": "What is the first step in the mechanism of metastasis?",
+  "a": ["Migration", "Attachment", "Detachment", "Circulation", "Homing"],
+  "c": 2,
+  "l": "Detachment of tumor cells is the first step in metastasis.",
+  "h": "Step 1"
+},
+{
+  "q": "What is the second step in the mechanism of metastasis?",
+  "a": ["Attachment", "Migration", "Basement membrane degradation", "Circulation", "Homing"],
+  "c": 2,
+  "l": "Basement membrane degradation follows detachment.",
+  "h": "Step 2"
+},
+{
+  "q": "What follows basement membrane degradation in metastasis?",
+  "a": ["Attachment", "Circulation", "Homing", "Angiogenesis", "Calcification"],
+  "c": 0,
+  "l": "Tumor cells next attach to extracellular matrix components.",
+  "h": "Step 3"
+},
+{
+  "q": "Which step comes after attachment during metastasis?",
+  "a": ["Migration", "Homing", "Colonization", "Intravasation", "Necrosis"],
+  "c": 0,
+  "l": "Migration follows attachment in the metastatic sequence.",
+  "h": "Step 4"
+},
+{
+  "q": "Which step follows migration during metastasis?",
+  "a": ["Homing", "Vascular invasion", "Secondary tumor formation", "Apoptosis", "Angiogenesis"],
+  "c": 1,
+  "l": "Tumor cells invade blood vessels after migration.",
+  "h": "Step 5"
+},
+{
+  "q": "What occurs after vascular invasion in metastasis?",
+  "a": ["Circulation", "Attachment", "Detachment", "Differentiation", "Necrosis"],
+  "c": 0,
+  "l": "Tumor cells enter and travel through the circulation.",
+  "h": "Step 6"
+},
+{
+  "q": "Which step occurs after circulation during metastasis?",
+  "a": ["Migration", "Homing", "Detachment", "EMT", "Apoptosis"],
+  "c": 1,
+  "l": "Homing to a distant organ follows circulation.",
+  "h": "Step 7"
+},
+{
+  "q": "What is the final step of metastasis?",
+  "a": ["Vascular invasion", "Homing", "Secondary tumor formation", "EMT", "Attachment"],
+  "c": 2,
+  "l": "Formation of a secondary tumor is the final step of metastasis.",
+  "h": "Final step"
+},
+{
+  "q": "Which sequence correctly describes metastasis?",
+  "a": ["Attachment → Migration → Detachment", "Detachment → Basement membrane degradation → Attachment → Migration → Vascular invasion → Circulation → Homing → Secondary tumor formation", "Migration → Detachment → Circulation", "Homing → Circulation → Attachment", "EMT → Necrosis → Metastasis"],
+  "c": 1,
+  "l": "The metastatic cascade follows a specific sequential pathway from detachment to secondary tumor formation.",
+  "h": "Metastatic cascade"
+},
+{
+  "q": "Malignant tumors typically show what degree of differentiation?",
+  "a": ["Well differentiated", "Poor differentiation", "Normal differentiation", "Hyperplasia", "Metaplasia"],
+  "c": 1,
+  "l": "Malignant tumors commonly show poor differentiation and anaplasia.",
+  "h": "Differentiation"
+},
+{
+  "q": "What is anaplasia?",
+  "a": ["Increase in cell number", "Lack of differentiation", "Increase in cell size", "Metastasis", "Necrosis"],
+  "c": 1,
+  "l": "Anaplasia refers to loss of differentiation.",
+  "h": "Anaplasia"
+},
+{
+  "q": "Differentiation refers to what?",
+  "a": ["Cell death", "Resemblance to normal parent tissue", "Metastasis", "Mutation", "Inflammation"],
+  "c": 1,
+  "l": "Differentiation is the resemblance of tumor cells to normal parent tissue.",
+  "h": "Differentiation"
+},
+{
+  "q": "Benign tumors are usually how differentiated?",
+  "a": ["Poorly differentiated", "Anaplastic", "Well differentiated", "Undifferentiated", "Pleomorphic"],
+  "c": 2,
+  "l": "Benign tumors are well differentiated and resemble host tissue.",
+  "h": "Benign"
+},
+{
+  "q": "Abundant atypical mitoses suggest what?",
+  "a": ["Benignity", "Malignancy", "Inflammation", "Healing", "Fibrosis"],
+  "c": 1,
+  "l": "Abundant atypical mitoses are a feature of malignant tumors.",
+  "h": "Mitoses"
+},
+{
+  "q": "Tumor giant cells are most commonly associated with which type of tumor?",
+  "a": ["Benign tumors", "Malignant tumors", "Hamartomas", "Choristomas", "Cysts"],
+  "c": 1,
+  "l": "Tumor giant cells are commonly seen in malignant tumors.",
+  "h": "Giant cells"
+},
+{
+  "q": "Cancer cells may demonstrate which abnormal mitotic pattern?",
+  "a": ["Bipolar only", "Tripolar or multipolar spindles", "No mitosis", "Meiosis", "Amitosis"],
+  "c": 1,
+  "l": "Cancer cells often show tripolar or multipolar mitotic spindles.",
+  "h": "Spindles"
+},
+{
+  "q": "Benign tumors are typically described as what?",
+  "a": ["Rapidly growing and invasive", "Slow growing, well demarcated and non-invasive", "Poorly differentiated", "Metastatic", "Anaplastic"],
+  "c": 1,
+  "l": "Benign tumors are slow growing, well demarcated and non-invasive.",
+  "h": "Benign features"
+},
+{
+  "q": "Benign tumors are usually surrounded by what?",
+  "a": ["Necrosis", "Capsule", "Granuloma", "Fibrosis only", "Calcification"],
+  "c": 1,
+  "l": "Benign tumors are usually encapsulated.",
+  "h": "Capsule"
+},
+{
+  "q": "What is dysplasia?",
+  "a": ["Malignant tumor", "Pre-neoplastic reversible lesion", "Metastasis", "Benign tumor", "Necrosis"],
+  "c": 1,
+  "l": "Dysplasia is a reversible pre-neoplastic lesion.",
+  "h": "Dysplasia"
+},
+```json id="v6p9rt"
+{
+  "q": "Which cancer commonly causes osteolytic metastases?",
+  "a": ["Prostate carcinoma", "Renal cell carcinoma", "Papillary thyroid carcinoma", "Seminoma", "Fibroma"],
+  "c": 1,
+  "l": "Renal cell carcinoma commonly causes osteolytic metastases.",
+  "h": "Osteolytic"
+},
+{
+  "q": "How do osteolytic metastases appear on X-ray?",
+  "a": ["Radiodense", "Radiolucent", "Normal", "Calcified", "Opaque"],
+  "c": 1,
+  "l": "Osteolytic metastases produce radiolucent lesions.",
+  "h": "Radiolucent"
+},
+{
+  "q": "Which mediators activate osteoclasts in osteolytic metastases?",
+  "a": ["IL-2 and IFN-γ", "PGE₂ and IL-1", "IL-4 and IL-5", "TNF-β and IL-10", "TGF-β and IL-6"],
+  "c": 1,
+  "l": "Osteolytic metastases activate osteoclasts through PGE₂ and IL-1.",
+  "h": "Osteoclasts"
+},
+{
+  "q": "What complication is common in osteolytic metastases?",
+  "a": ["Hypertension", "Pathological fractures", "Polycythemia", "Jaundice", "Bradycardia"],
+  "c": 1,
+  "l": "Pathological fractures are common in osteolytic metastases.",
+  "h": "Fractures"
+},
+{
+  "q": "Bone metastasis is the most common cause of what condition in elderly patients with bone pain?",
+  "a": ["Hypocalcemia", "Hypercalcemia", "Hypoglycemia", "Anemia", "Leukopenia"],
+  "c": 1,
+  "l": "Bone metastasis is the most common cause of hypercalcemia with bone pain in the elderly.",
+  "h": "Hypercalcemia"
+},
+{
+  "q": "Hypercalcemia from bone metastasis may cause which complication?",
+  "a": ["Renal stones", "Pancreatitis", "Metastatic calcification", "Gastric ulcers", "All of the above"],
+  "c": 4,
+  "l": "Hypercalcemia may cause renal stones, gastric ulcers, pancreatitis, and metastatic calcification.",
+  "h": "Complications"
+},
+{
+  "q": "Which adhesion molecule is most commonly lost during metastasis?",
+  "a": ["VCAM-1", "ICAM-1", "E-cadherin", "Selectin", "Integrin"],
+  "c": 2,
+  "l": "E-cadherin is the major adhesion molecule lost during metastasis.",
+  "h": "E-cadherin"
+},
+{
+  "q": "Loss of E-cadherin allows tumor cells to do what?",
+  "a": ["Differentiate", "Detach from each other", "Calcify", "Apoptose", "Encapsulate"],
+  "c": 1,
+  "l": "Loss of E-cadherin allows tumor cells to detach from each other.",
+  "h": "Detachment"
+},
+{
+  "q": "Loss of E-cadherin function is seen in most cancers of which origin?",
+  "a": ["Mesenchymal", "Epithelial", "Neural", "Muscular", "Lymphoid"],
+  "c": 1,
+  "l": "E-cadherin function is lost in most epithelial cancers.",
+  "h": "Epithelial"
+},
+{
+  "q": "Which transcription factors suppress E-cadherin expression?",
+  "a": ["MYC and RAS", "SNAIL and TWIST", "RB and p53", "BCL2 and BAX", "APC and KRAS"],
+  "c": 1,
+  "l": "SNAIL and TWIST suppress E-cadherin expression.",
+  "h": "SNAIL/TWIST"
+},
+{
+  "q": "SNAIL and TWIST promote which process?",
+  "a": ["Necrosis", "Apoptosis", "EMT", "Calcification", "Differentiation"],
+  "c": 2,
+  "l": "SNAIL and TWIST promote epithelial-to-mesenchymal transition (EMT).",
+  "h": "EMT"
+},
+{
+  "q": "EMT is essential for which process?",
+  "a": ["Inflammation", "Metastasis", "Calcification", "Fibrosis", "Healing"],
+  "c": 1,
+  "l": "EMT is essential for metastasis.",
+  "h": "Metastasis"
+},
+{
+  "q": "Which epithelial marker is downregulated during EMT?",
+  "a": ["Vimentin", "Desmin", "E-cadherin", "CD44", "Fibronectin"],
+  "c": 2,
+  "l": "EMT downregulates epithelial markers such as E-cadherin.",
+  "h": "Marker"
+},
+{
+  "q": "Which mesenchymal marker is upregulated during EMT?",
+  "a": ["Keratin", "E-cadherin", "Vimentin", "Occludin", "Claudin"],
+  "c": 2,
+  "l": "EMT upregulates mesenchymal markers such as vimentin.",
+  "h": "Vimentin"
+},
+{
+  "q": "Which enzyme degrades the basement membrane during invasion?",
+  "a": ["Lipase", "Type IV collagenase", "Amylase", "Trypsin", "Elastase"],
+  "c": 1,
+  "l": "Type IV collagenase degrades the basement membrane.",
+  "h": "Collagenase"
+},
+{
+  "q": "What are the key enzymes involved in tumor invasion?",
+  "a": ["Kinases", "Transferases", "Matrix metalloproteinases", "Ligases", "Polymerases"],
+  "c": 2,
+  "l": "Matrix metalloproteinases are key enzymes in tumor invasion.",
+  "h": "MMPs"
+},
+{
+  "q": "MMP-9 belongs to which enzyme group?",
+  "a": ["Lipase", "Gelatinase", "Kinase", "Transferase", "Oxidase"],
+  "c": 1,
+  "l": "MMP-9 is a type IV collagenase known as gelatinase.",
+  "h": "MMP-9"
+},
+{
+  "q": "MMP-9 releases which growth factor trapped in the extracellular matrix?",
+  "a": ["EGF", "PDGF", "VEGF", "FGF", "TGF-β"],
+  "c": 2,
+  "l": "MMP-9 releases VEGF trapped within the extracellular matrix.",
+  "h": "VEGF"
+},
+{
+  "q": "Tumor cells attach to which basement membrane protein?",
+  "a": ["Collagen I", "Elastin", "Laminin", "Keratin", "Actin"],
+  "c": 2,
+  "l": "Tumor cells attach to laminin in the basement membrane.",
+  "h": "Laminin"
+},
+{
+  "q": "Tumor cells attach to which extracellular matrix protein?",
+  "a": ["Albumin", "Fibronectin", "Hemoglobin", "Tubulin", "Myosin"],
+  "c": 1,
+  "l": "Tumor cells attach to fibronectin in the extracellular matrix.",
+  "h": "Fibronectin"
+},
+{
+  "q": "Which tissues are relatively resistant to tumor invasion?",
+  "a": ["Liver and lung", "Cartilage and elastic tissue", "Brain and kidney", "Skin and muscle", "Bone and marrow"],
+  "c": 1,
+  "l": "Cartilage and elastic tissue are relatively resistant to tumor invasion.",
+  "h": "Resistance"
+},
+{
+  "q": "Tumor migration can occur through what type of movement?",
+  "a": ["Ciliary", "Ameboid", "Flagellar", "Rotational", "Passive"],
+  "c": 1,
+  "l": "Tumor migration can occur through ameboid movement without matrix degradation.",
+  "h": "Migration"
+},
+{
+  "q": "Tumor-derived cytokines stimulate which process?",
+  "a": ["Apoptosis", "Cell locomotion", "Necrosis", "Calcification", "Differentiation"],
+  "c": 1,
+  "l": "Tumor-derived cytokines stimulate tumor cell locomotion.",
+  "h": "Locomotion"
+},
+{
+  "q": "Tumor cells in circulation are particularly vulnerable to what?",
+  "a": ["Fibrosis", "Immune destruction", "Calcification", "Differentiation", "Angiogenesis"],
+  "c": 1,
+  "l": "Tumor cells are vulnerable to immune destruction while in circulation.",
+  "h": "Immunity"
+},
+{
+  "q": "Tumor cells often travel in circulation coated with what?",
+  "a": ["RBCs only", "Platelets and leukocytes", "Fibroblasts", "Hepatocytes", "Neurons"],
+  "c": 1,
+  "l": "Tumor cells often travel as emboli coated with platelets and leukocytes.",
+  "h": "Travel"
+},
+```json id="k2n8xm"
+{
+  "q": "Overexpression of which molecule favors metastatic spread?",
+  "a": ["CD3", "CD4", "CD44", "CD8", "CD21"],
+  "c": 2,
+  "l": "CD44 overexpression favors metastatic spread.",
+  "h": "CD44"
+},
+{
+  "q": "Most metastases occur in which location?",
+  "a": ["Last capillary bed encountered", "First capillary bed encountered", "Bone marrow only", "Lymph nodes only", "Brain only"],
+  "c": 1,
+  "l": "Most metastases occur in the first capillary bed encountered.",
+  "h": "Capillary bed"
+},
+{
+  "q": "Breast cancer commonly expresses which chemokine receptors?",
+  "a": ["CD4 and CD8", "CXCR4 and CCR7", "CCR5 and CXCR3", "CD44 and CD21", "ICAM and VCAM"],
+  "c": 1,
+  "l": "Breast cancer commonly expresses CXCR4 and CCR7 chemokine receptors.",
+  "h": "Breast cancer"
+},
+{
+  "q": "Which chemokines help direct breast cancer metastasis?",
+  "a": ["IL-1 and TNF", "CXCL12 and CCL21", "IL-2 and IL-4", "IFN-γ and IL-12", "IL-5 and IL-10"],
+  "c": 1,
+  "l": "CXCL12 and CCL21 help direct breast cancer metastasis.",
+  "h": "Chemokines"
+},
+{
+  "q": "Tumor homing depends on which factors?",
+  "a": ["Adhesion molecules, chemokines and organ microenvironment", "Temperature only", "Blood pressure only", "Hormones only", "Calcium only"],
+  "c": 0,
+  "l": "Tumor homing depends on adhesion molecules, chemokines and organ microenvironment.",
+  "h": "Homing"
+},
+{
+  "q": "What do metastatic suppressor genes do?",
+  "a": ["Promote metastasis", "Inhibit metastasis without affecting the primary tumor", "Increase angiogenesis", "Cause invasion", "Cause EMT"],
+  "c": 1,
+  "l": "Metastatic suppressor genes inhibit metastasis without affecting the primary tumor.",
+  "h": "Suppressors"
+},
+{
+  "q": "Which microRNAs are metastatic suppressor genes?",
+  "a": ["miR-10b and miR-21", "miR-335 and miR-126", "miR-17 and miR-19", "miR-200 and miR-205", "miR-34 and miR-9"],
+  "c": 1,
+  "l": "miR-335 and miR-126 are metastatic suppressor genes.",
+  "h": "miRNAs"
+},
+{
+  "q": "What do metastatic oncogenes do?",
+  "a": ["Suppress metastasis", "Promote metastasis without affecting the primary tumor", "Cause differentiation", "Prevent invasion", "Prevent EMT"],
+  "c": 1,
+  "l": "Metastatic oncogenes promote metastasis without affecting the primary tumor.",
+  "h": "Oncogenes"
+},
+{
+  "q": "Which microRNA is a metastatic oncogene?",
+  "a": ["miR-126", "miR-335", "miR-10b", "miR-34", "miR-200"],
+  "c": 2,
+  "l": "miR-10b is a metastatic oncogene.",
+  "h": "miR-10b"
+},
+{
+  "q": "Which transcription factors are metastasis-promoting oncogenes?",
+  "a": ["RB and p53", "SNAIL and TWIST", "MYC and APC", "BCL2 and BAX", "KRAS and EGFR"],
+  "c": 1,
+  "l": "SNAIL and TWIST are metastasis-promoting oncogenes.",
+  "h": "SNAIL/TWIST"
+},
+{
+  "q": "Tumor emboli form by aggregation with which cells?",
+  "a": ["RBCs only", "Platelets and leukocytes", "Fibroblasts", "Chondrocytes", "Neurons"],
+  "c": 1,
+  "l": "Tumor emboli form by aggregation with platelets and leukocytes.",
+  "h": "Emboli"
+},
+{
+  "q": "What is the first step in metastasis?",
+  "a": ["Migration", "Attachment", "Detachment", "Circulation", "Homing"],
+  "c": 2,
+  "l": "Detachment of tumor cells is the first step in metastasis.",
+  "h": "Step 1"
+},
+{
+  "q": "What follows detachment in the metastatic cascade?",
+  "a": ["Attachment", "Basement membrane degradation", "Circulation", "Homing", "Colonization"],
+  "c": 1,
+  "l": "Basement membrane degradation follows detachment.",
+  "h": "Step 2"
+},
+{
+  "q": "What follows basement membrane degradation in metastasis?",
+  "a": ["Attachment", "Necrosis", "Apoptosis", "Fibrosis", "Mutation"],
+  "c": 0,
+  "l": "Tumor cells next attach to extracellular matrix components.",
+  "h": "Step 3"
+},
+{
+  "q": "What follows attachment during metastasis?",
+  "a": ["Migration", "Circulation", "Homing", "Angiogenesis", "Necrosis"],
+  "c": 0,
+  "l": "Migration follows attachment in the metastatic sequence.",
+  "h": "Step 4"
+},
+{
+  "q": "What follows migration during metastasis?",
+  "a": ["Homing", "Vascular invasion", "Secondary tumor formation", "Differentiation", "Apoptosis"],
+  "c": 1,
+  "l": "Tumor cells invade blood vessels after migration.",
+  "h": "Step 5"
+},
+{
+  "q": "What follows vascular invasion in metastasis?",
+  "a": ["Circulation", "Attachment", "Detachment", "EMT", "Necrosis"],
+  "c": 0,
+  "l": "Tumor cells enter and travel through the circulation.",
+  "h": "Step 6"
+},
+{
+  "q": "What follows circulation during metastasis?",
+  "a": ["Migration", "Homing", "Detachment", "EMT", "Apoptosis"],
+  "c": 1,
+  "l": "Homing to a distant organ follows circulation.",
+  "h": "Step 7"
+},
+{
+  "q": "What is the final step of metastasis?",
+  "a": ["Vascular invasion", "Homing", "Secondary tumor formation", "Attachment", "Migration"],
+  "c": 2,
+  "l": "Formation of a secondary tumor is the final step of metastasis.",
+  "h": "Final step"
+},
+{
+  "q": "Which sequence correctly describes the metastatic cascade?",
+  "a": ["Attachment → Migration → Detachment", "Detachment → Basement membrane degradation → Attachment → Migration → Vascular invasion → Circulation → Homing → Secondary tumor formation", "Migration → Detachment → Circulation", "Homing → Circulation → Attachment", "EMT → Necrosis → Metastasis"],
+  "c": 1,
+  "l": "The metastatic cascade follows a specific sequence from detachment to secondary tumor formation.",
+  "h": "Cascade"
+},
+{
+  "q": "Malignant tumors typically show what degree of differentiation?",
+  "a": ["Well differentiated", "Poorly differentiated", "Normally differentiated", "Hyperplastic", "Metaplastic"],
+  "c": 1,
+  "l": "Malignant tumors commonly show poor differentiation and anaplasia.",
+  "h": "Malignant"
+},
+{
+  "q": "What is anaplasia?",
+  "a": ["Increase in cell number", "Lack of differentiation", "Increase in cell size", "Metastasis", "Necrosis"],
+  "c": 1,
+  "l": "Anaplasia refers to lack of differentiation.",
+  "h": "Anaplasia"
+},
+{
+  "q": "What is differentiation?",
+  "a": ["Cell death", "Resemblance to normal parent tissue", "Mutation", "Metastasis", "Inflammation"],
+  "c": 1,
+  "l": "Differentiation is the resemblance of tumor cells to normal parent tissue.",
+  "h": "Differentiation"
+},
+{
+  "q": "How are benign tumors usually differentiated?",
+  "a": ["Poorly differentiated", "Undifferentiated", "Well differentiated", "Anaplastic", "Pleomorphic"],
+  "c": 2,
+  "l": "Benign tumors are well differentiated and resemble host tissue.",
+  "h": "Benign"
+},
+{
+  "q": "Abundant atypical mitoses are suggestive of what?",
+  "a": ["Benignity", "Malignancy", "Healing", "Fibrosis", "Inflammation"],
+  "c": 1,
+  "l": "Abundant atypical mitoses suggest malignancy.",
+  "h": "Mitoses"
+},
+```json id="t4v9qn"
+{
+  "q": "Tumor giant cells are commonly seen in which type of tumor?",
+  "a": ["Benign tumors", "Malignant tumors", "Hamartomas", "Choristomas", "Cysts"],
+  "c": 1,
+  "l": "Tumor giant cells are commonly seen in malignant tumors.",
+  "h": "Giant cells"
+},
+{
+  "q": "Cancer cells may demonstrate which abnormal mitotic pattern?",
+  "a": ["Bipolar only", "Tripolar or multipolar spindles", "No mitosis", "Meiosis", "Amitosis"],
+  "c": 1,
+  "l": "Cancer cells may show tripolar or multipolar mitotic spindles.",
+  "h": "Spindles"
+},
+{
+  "q": "Benign tumors are typically described as what?",
+  "a": ["Rapidly growing and invasive", "Slow growing, well demarcated and non-invasive", "Poorly differentiated", "Metastatic", "Anaplastic"],
+  "c": 1,
+  "l": "Benign tumors are slow growing, well demarcated and non-invasive.",
+  "h": "Benign features"
+},
+{
+  "q": "Benign tumors are usually surrounded by what?",
+  "a": ["Necrosis", "Capsule", "Granuloma", "Fibrosis", "Calcification"],
+  "c": 1,
+  "l": "Benign tumors are usually encapsulated.",
+  "h": "Capsule"
+},
+{
+  "q": "What is dysplasia?",
+  "a": ["Malignant tumor", "Pre-neoplastic reversible lesion", "Metastasis", "Benign tumor", "Necrosis"],
+  "c": 1,
+  "l": "Dysplasia is a pre-neoplastic lesion and is reversible.",
+  "h": "Dysplasia"
+},
+{
+  "q": "Is dysplasia reversible or irreversible?",
+  "a": ["Irreversible", "Reversible", "Always malignant", "Always metastatic", "Always benign"],
+  "c": 1,
+  "l": "Dysplasia is a reversible lesion.",
+  "h": "Reversible"
+},
+{
+  "q": "What is carcinoma in situ?",
+  "a": ["Benign neoplasm", "Severe dysplasia involving full epithelial thickness", "Metastatic carcinoma", "Mesenchymal tumor", "Granuloma"],
+  "c": 1,
+  "l": "Carcinoma in situ is severe dysplasia involving the full epithelial thickness.",
+  "h": "CIS"
+},
+{
+  "q": "What layer involvement characterizes carcinoma in situ?",
+  "a": ["Basement membrane invasion", "Full epithelial thickness", "Subcutaneous tissue", "Muscle layer", "Blood vessels"],
+  "c": 1,
+  "l": "Carcinoma in situ involves the full thickness of the epithelium.",
+  "h": "Full thickness"
+},
+{
+  "q": "What is the most important feature distinguishing benign from malignant tumors?",
+  "a": ["Size", "Capsule", "Metastasis", "Necrosis", "Color"],
+  "c": 2,
+  "l": "Metastasis is the most important feature distinguishing benign from malignant tumors.",
+  "h": "Key difference"
+},
+{
+  "q": "What is metastasis?",
+  "a": ["Increase in cell size", "Spread of tumor cells to distant sites", "Inflammation", "Fibrosis", "Cell death"],
+  "c": 1,
+  "l": "Metastasis is the spread of tumor cells to distant sites.",
+  "h": "Metastasis"
+},
+{
+  "q": "Lymphatic spread is the most common route of metastasis for which tumors?",
+  "a": ["Sarcomas", "Carcinomas", "Lymphomas", "Leukemias", "Gliomas"],
+  "c": 1,
+  "l": "Lymphatic spread is the most common route of metastasis for carcinomas.",
+  "h": "Carcinomas"
+},
+{
+  "q": "Lymph nodes serve as what in cancer spread?",
+  "a": ["Primary tumor site", "First line of defense", "Secondary tumor", "Blood reservoir", "Metastatic focus"],
+  "c": 1,
+  "l": "Lymph nodes are the first line of defense against cancer spread.",
+  "h": "Defense"
+},
+{
+  "q": "Strong lymph node immune responses may have what effect?",
+  "a": ["Reduce survival", "Improve survival", "Cause metastasis", "Cause anemia", "Cause cachexia"],
+  "c": 1,
+  "l": "Strong lymph node immune responses may improve survival.",
+  "h": "Survival"
+},
+{
+  "q": "How are metastatic lymph nodes typically described?",
+  "a": ["Soft and tender", "Hard and non-tender", "Fluctuant", "Warm and painful", "Normal"],
+  "c": 1,
+  "l": "Metastatic lymph nodes are enlarged, hard, and non-tender.",
+  "h": "Nodes"
+},
+{
+  "q": "Lymphomas classically present as what?",
+  "a": ["Painful lymphadenopathy", "Painless lymphadenopathy", "Skin nodules", "Bone pain", "Pleural effusion"],
+  "c": 1,
+  "l": "Lymphomas classically present as painless lymphadenopathy.",
+  "h": "Lymphoma"
+},
+{
+  "q": "Rhabdomyosarcoma is a malignant tumor of which tissue?",
+  "a": ["Smooth muscle", "Skeletal muscle", "Bone", "Cartilage", "Fat"],
+  "c": 1,
+  "l": "Rhabdomyosarcoma is a malignant tumor of skeletal muscle.",
+  "h": "Rhabdo"
+},
+{
+  "q": "Leiomyosarcoma is a malignant tumor of which tissue?",
+  "a": ["Skeletal muscle", "Smooth muscle", "Bone", "Fat", "Cartilage"],
+  "c": 1,
+  "l": "Leiomyosarcoma is a malignant tumor of smooth muscle.",
+  "h": "Leiomyo"
+},
+{
+  "q": "Which carcinoma commonly invades the renal vein and IVC?",
+  "a": ["Hepatocellular carcinoma", "Renal cell carcinoma", "Colon carcinoma", "Breast carcinoma", "Lung carcinoma"],
+  "c": 1,
+  "l": "Renal cell carcinoma commonly invades the renal vein and IVC.",
+  "h": "RCC"
+},
+{
+  "q": "Which organs are common blood-borne metastatic sites?",
+  "a": ["Liver, lung, bone, brain, adrenal glands", "Heart, spleen, thymus", "Pancreas, thyroid, pituitary", "Skin, lens, cornea", "Esophagus, stomach, colon"],
+  "c": 0,
+  "l": "Major blood-borne metastatic sites are liver, lung, bone, brain, and adrenal glands.",
+  "h": "Sites"
+},
+{
+  "q": "What are tumor emboli?",
+  "a": ["Benign nodules", "Clusters of malignant cells circulating in blood vessels", "Granulomas", "Necrotic tissue", "Inflammatory cells"],
+  "c": 1,
+  "l": "Tumor emboli are clusters of malignant cells circulating in blood vessels.",
+  "h": "Emboli"
+},
+{
+  "q": "Krukenberg tumor is a metastatic tumor involving which organ?",
+  "a": ["Liver", "Ovary", "Lung", "Brain", "Kidney"],
+  "c": 1,
+  "l": "Krukenberg tumor is a metastatic ovarian tumor with signet-ring cells.",
+  "h": "Ovary"
+},
+{
+  "q": "Which cells characterize a Krukenberg tumor?",
+  "a": ["Reed-Sternberg cells", "Signet-ring cells", "Foam cells", "Plasma cells", "Giant cells"],
+  "c": 1,
+  "l": "Krukenberg tumors contain signet-ring cells.",
+  "h": "Signet-ring"
+},
+{
+  "q": "What is the most common primary site of a Krukenberg tumor?",
+  "a": ["Colon", "Breast", "Stomach", "Lung", "Pancreas"],
+  "c": 2,
+  "l": "The stomach is the most common primary site of a Krukenberg tumor.",
+  "h": "Stomach"
+},
+{
+  "q": "What are the three major routes of metastasis?",
+  "a": ["Direct, neural, arterial", "Lymphatic, hematogenous, seeding of body cavities", "Venous, arterial, lymphatic", "Local, regional, distant", "Primary, secondary, tertiary"],
+  "c": 1,
+  "l": "Routes of metastasis are lymphatic spread, hematogenous spread, and seeding of body cavities.",
+  "h": "Routes"
+},
+{
+  "q": "Which route is most commonly used by carcinomas?",
+  "a": ["Hematogenous", "Lymphatic", "Transcoelomic", "Neural", "Direct"],
+  "c": 1,
+  "l": "Carcinomas usually spread through lymphatics.",
+  "h": "Carcinomas"
+},
+```json id="y5m2qa"
+{
+  "q": "Which route is most commonly used by sarcomas?",
+  "a": ["Lymphatic", "Hematogenous", "Transcoelomic", "Neural", "Direct"],
+  "c": 1,
+  "l": "Sarcomas usually spread through blood vessels.",
+  "h": "Sarcomas"
+},
+{
+  "q": "Which vessels are the principal route of hematogenous spread?",
+  "a": ["Arteries", "Veins", "Capillaries", "Lymphatics", "Venules"],
+  "c": 1,
+  "l": "Veins are the principal route of hematogenous spread.",
+  "h": "Veins"
+},
+{
+  "q": "Why are arteries less commonly invaded by tumors?",
+  "a": ["High oxygen", "Thicker walls", "Low pressure", "Valves", "No endothelium"],
+  "c": 1,
+  "l": "Arteries are less commonly invaded because of their thicker walls.",
+  "h": "Arteries"
+},
+{
+  "q": "Metastases are usually what?",
+  "a": ["Solitary", "Multiple", "Benign", "Encapsulated", "Localized"],
+  "c": 1,
+  "l": "Metastases are usually multiple rather than solitary.",
+  "h": "Multiple"
+},
+{
+  "q": "What are cannonball lesions?",
+  "a": ["Primary lung cancers", "Multiple rounded pulmonary metastases", "Tuberculous nodules", "Lung abscesses", "Hamartomas"],
+  "c": 1,
+  "l": "Cannonball lesions are multiple rounded pulmonary metastases.",
+  "h": "Cannonball"
+},
+{
+  "q": "What is the most common site of bone metastasis?",
+  "a": ["Skull", "Vertebral column", "Femur", "Ribs", "Pelvis"],
+  "c": 1,
+  "l": "The vertebral column is the most common site of bone metastasis.",
+  "h": "Vertebrae"
+},
+{
+  "q": "Which venous plexus explains vertebral metastases?",
+  "a": ["Pampiniform plexus", "Batson paravertebral venous plexus", "Portal plexus", "Coronary plexus", "Pulmonary plexus"],
+  "c": 1,
+  "l": "Batson paravertebral venous plexus explains vertebral metastases.",
+  "h": "Batson"
+},
+{
+  "q": "What is the second most common site of bone metastasis?",
+  "a": ["Humerus", "Pelvis", "Proximal femur", "Skull", "Ribs"],
+  "c": 2,
+  "l": "The proximal femur is the second most common site of bone metastasis.",
+  "h": "Femur"
+},
+{
+  "q": "What is the most common symptom of bone metastasis?",
+  "a": ["Fever", "Pain", "Weight gain", "Edema", "Jaundice"],
+  "c": 1,
+  "l": "Pain is the most common symptom of bone metastasis.",
+  "h": "Pain"
+},
+{
+  "q": "What is the best treatment for painful bone metastases?",
+  "a": ["Chemotherapy", "Surgery", "Local radiation therapy", "Antibiotics", "Observation"],
+  "c": 2,
+  "l": "Local radiation therapy is the best treatment for painful bone metastases.",
+  "h": "Treatment"
+},
+{
+  "q": "Bone metastases are classified into which two categories?",
+  "a": ["Primary and secondary", "Osteoblastic and osteolytic", "Acute and chronic", "Benign and malignant", "Focal and diffuse"],
+  "c": 1,
+  "l": "Bone metastases are classified as osteoblastic or osteolytic.",
+  "h": "Classification"
+},
+{
+  "q": "What do osteoblastic metastases cause?",
+  "a": ["Bone destruction", "Increased bone formation", "Cartilage formation", "No change", "Fibrosis"],
+  "c": 1,
+  "l": "Osteoblastic metastases produce increased bone formation.",
+  "h": "Osteoblastic"
+},
+{
+  "q": "Which cancer commonly causes osteoblastic metastases?",
+  "a": ["Renal cell carcinoma", "Prostate carcinoma", "Melanoma", "Glioblastoma", "Hepatocellular carcinoma"],
+  "c": 1,
+  "l": "Prostate carcinoma commonly causes osteoblastic metastases.",
+  "h": "Prostate"
+},
+{
+  "q": "How do osteoblastic metastases appear on X-ray?",
+  "a": ["Radiolucent", "Radiodense", "Normal", "Cystic", "Calcified fluid"],
+  "c": 1,
+  "l": "Osteoblastic metastases appear as radiodense lesions on X-ray.",
+  "h": "Radiodense"
+},
+{
+  "q": "Which laboratory value increases in osteoblastic metastases?",
+  "a": ["ALT", "AST", "Alkaline phosphatase", "Amylase", "Troponin"],
+  "c": 2,
+  "l": "Osteoblastic metastases increase serum alkaline phosphatase.",
+  "h": "ALP"
+},
+{
+  "q": "What do osteolytic metastases cause?",
+  "a": ["Increased bone formation", "Bone destruction", "Cartilage formation", "Fibrosis", "No effect"],
+  "c": 1,
+  "l": "Osteolytic metastases destroy bone and create radiolucent lesions.",
+  "h": "Osteolytic"
+},
+{
+  "q": "Which cancer commonly produces osteolytic metastases?",
+  "a": ["Prostate carcinoma", "Renal cell carcinoma", "Fibroma", "Lipoma", "Seminoma"],
+  "c": 1,
+  "l": "Renal cell carcinoma commonly produces osteolytic metastases.",
+  "h": "RCC"
+},
+{
+  "q": "Which mediators activate osteoclasts in osteolytic metastases?",
+  "a": ["IL-2 and IFN-γ", "PGE₂ and IL-1", "IL-4 and IL-5", "TNF-β and IL-10", "TGF-β and IL-6"],
+  "c": 1,
+  "l": "Osteolytic metastases activate osteoclasts through PGE₂ and IL-1.",
+  "h": "Osteoclasts"
+},
+{
+  "q": "What fracture type is common in osteolytic metastases?",
+  "a": ["Greenstick", "Stress", "Pathological", "Compression only", "Spiral"],
+  "c": 2,
+  "l": "Pathological fractures are common in osteolytic metastases.",
+  "h": "Fracture"
+},
+{
+  "q": "Bone metastasis is the most common cause of what condition in elderly patients with bone pain?",
+  "a": ["Hypocalcemia", "Hypercalcemia", "Hypoglycemia", "Anemia", "Leukopenia"],
+  "c": 1,
+  "l": "Bone metastasis is the most common cause of hypercalcemia with bone pain in the elderly.",
+  "h": "Hypercalcemia"
+},
+{
+  "q": "Hypercalcemia from bone metastasis may cause which complication?",
+  "a": ["Renal stones", "Gastric ulcers", "Pancreatitis", "Metastatic calcification", "All of the above"],
+  "c": 4,
+  "l": "Hypercalcemia may cause renal stones, gastric ulcers, pancreatitis, and metastatic calcification.",
+  "h": "Complications"
+},
+```json id="d8n5vk"
+{
+  "q": "Breast cancer commonly expresses which chemokine receptors?",
+  "a": ["CD4 and CD8", "CXCR4 and CCR7", "CCR5 and CXCR3", "CD44 and CD21", "ICAM and VCAM"],
+  "c": 1,
+  "l": "Breast cancer commonly expresses CXCR4 and CCR7 chemokine receptors.",
+  "h": "CXCR4/CCR7"
+},
+{
+  "q": "Which chemokines help direct breast cancer metastasis?",
+  "a": ["IL-1 and TNF", "CXCL12 and CCL21", "IL-2 and IL-4", "IFN-γ and IL-12", "IL-5 and IL-10"],
+  "c": 1,
+  "l": "CXCL12 and CCL21 help direct breast cancer metastasis.",
+  "h": "Chemokines"
+},
+{
+  "q": "Tumor homing depends on which factors?",
+  "a": ["Temperature only", "Blood pressure only", "Adhesion molecules, chemokines and organ microenvironment", "Hormones only", "Calcium only"],
+  "c": 2,
+  "l": "Tumor homing depends on adhesion molecules, chemokines and organ microenvironment.",
+  "h": "Homing"
+},
+{
+  "q": "What do metastatic suppressor genes do?",
+  "a": ["Promote metastasis", "Inhibit metastasis without affecting the primary tumor", "Increase angiogenesis", "Cause invasion", "Cause EMT"],
+  "c": 1,
+  "l": "Metastatic suppressor genes inhibit metastasis without affecting the primary tumor.",
+  "h": "Suppressor"
+},
+{
+  "q": "Which microRNAs are metastatic suppressor genes?",
+  "a": ["miR-10b and miR-21", "miR-335 and miR-126", "miR-17 and miR-19", "miR-200 and miR-205", "miR-34 and miR-9"],
+  "c": 1,
+  "l": "miR-335 and miR-126 are metastatic suppressor genes.",
+  "h": "miRNAs"
+},
+{
+  "q": "What do metastatic oncogenes do?",
+  "a": ["Suppress metastasis", "Promote metastasis without affecting the primary tumor", "Cause differentiation", "Prevent invasion", "Prevent EMT"],
+  "c": 1,
+  "l": "Metastatic oncogenes promote metastasis without affecting the primary tumor.",
+  "h": "Oncogene"
+},
+{
+  "q": "Which microRNA is a metastatic oncogene?",
+  "a": ["miR-126", "miR-335", "miR-10b", "miR-34", "miR-200"],
+  "c": 2,
+  "l": "miR-10b is a metastatic oncogene.",
+  "h": "miR-10b"
+},
+{
+  "q": "Which transcription factors are metastasis-promoting oncogenes?",
+  "a": ["RB and p53", "SNAIL and TWIST", "MYC and APC", "BCL2 and BAX", "KRAS and EGFR"],
+  "c": 1,
+  "l": "SNAIL and TWIST are metastasis-promoting oncogenes.",
+  "h": "SNAIL/TWIST"
+},
+{
+  "q": "Tumor emboli form by aggregation with which cells?",
+  "a": ["RBCs only", "Platelets and leukocytes", "Fibroblasts", "Chondrocytes", "Neurons"],
+  "c": 1,
+  "l": "Tumor emboli form by aggregation with platelets and leukocytes.",
+  "h": "Emboli"
+},
+{
+  "q": "What is the first step in metastasis?",
+  "a": ["Migration", "Attachment", "Detachment", "Circulation", "Homing"],
+  "c": 2,
+  "l": "Detachment of tumor cells is the first step in metastasis.",
+  "h": "Step 1"
+},
+{
+  "q": "What follows detachment in the metastatic cascade?",
+  "a": ["Attachment", "Basement membrane degradation", "Circulation", "Homing", "Colonization"],
+  "c": 1,
+  "l": "Basement membrane degradation follows detachment.",
+  "h": "Step 2"
+},
+{
+  "q": "What follows basement membrane degradation in metastasis?",
+  "a": ["Attachment", "Necrosis", "Apoptosis", "Fibrosis", "Mutation"],
+  "c": 0,
+  "l": "Tumor cells next attach to extracellular matrix components.",
+  "h": "Step 3"
+},
+{
+  "q": "What follows attachment during metastasis?",
+  "a": ["Migration", "Circulation", "Homing", "Angiogenesis", "Necrosis"],
+  "c": 0,
+  "l": "Migration follows attachment in the metastatic sequence.",
+  "h": "Step 4"
+},
+{
+  "q": "What follows migration during metastasis?",
+  "a": ["Homing", "Vascular invasion", "Secondary tumor formation", "Differentiation", "Apoptosis"],
+  "c": 1,
+  "l": "Tumor cells invade blood vessels after migration.",
+  "h": "Step 5"
+},
+{
+  "q": "What follows vascular invasion in metastasis?",
+  "a": ["Circulation", "Attachment", "Detachment", "EMT", "Necrosis"],
+  "c": 0,
+  "l": "Tumor cells enter and travel through the circulation.",
+  "h": "Step 6"
+},
+{
+  "q": "What follows circulation during metastasis?",
+  "a": ["Migration", "Homing", "Detachment", "EMT", "Apoptosis"],
+  "c": 1,
+  "l": "Homing to a distant organ follows circulation.",
+  "h": "Step 7"
+},
+{
+  "q": "What is the final step of metastasis?",
+  "a": ["Vascular invasion", "Homing", "Secondary tumor formation", "Attachment", "Migration"],
+  "c": 2,
+  "l": "Formation of a secondary tumor is the final step of metastasis.",
+  "h": "Final step"
+},
+{
+  "q": "Which sequence correctly describes the metastatic cascade?",
+  "a": ["Attachment → Migration → Detachment", "Migration → Detachment → Circulation", "Detachment → Basement membrane degradation → Attachment → Migration → Vascular invasion → Circulation → Homing → Secondary tumor formation", "Homing → Circulation → Attachment", "EMT → Necrosis → Metastasis"],
+  "c": 2,
+  "l": "The metastatic cascade follows a specific sequence from detachment to secondary tumor formation.",
+  "h": "Cascade"
+},
+{
+  "q": "Malignant tumors typically show what degree of differentiation?",
+  "a": ["Well differentiated", "Poorly differentiated", "Normally differentiated", "Hyperplastic", "Metaplastic"],
+  "c": 1,
+  "l": "Malignant tumors commonly show poor differentiation and anaplasia.",
+  "h": "Malignant"
+},
+{
+  "q": "What is anaplasia?",
+  "a": ["Increase in cell number", "Lack of differentiation", "Increase in cell size", "Metastasis", "Necrosis"],
+  "c": 1,
+  "l": "Anaplasia refers to lack of differentiation.",
+  "h": "Anaplasia"
+},
+```json id="f8w2mn"
+{
+  "q": "Tumor giant cells are commonly seen in which type of tumor?",
+  "a": ["Benign tumors", "Malignant tumors", "Hamartomas", "Choristomas", "Cysts"],
+  "c": 1,
+  "l": "Tumor giant cells are commonly seen in malignant tumors.",
+  "h": "Giant cells"
+},
+{
+  "q": "Cancer cells may demonstrate which abnormal mitotic pattern?",
+  "a": ["Bipolar only", "Tripolar or multipolar spindles", "No mitosis", "Meiosis", "Amitosis"],
+  "c": 1,
+  "l": "Cancer cells may show tripolar or multipolar mitotic spindles.",
+  "h": "Spindles"
+},
+{
+  "q": "Benign tumors are typically described as what?",
+  "a": ["Rapidly growing and invasive", "Slow growing, well demarcated and non-invasive", "Poorly differentiated", "Metastatic", "Anaplastic"],
+  "c": 1,
+  "l": "Benign tumors are slow growing, well demarcated and non-invasive.",
+  "h": "Benign features"
+},
+{
+  "q": "Benign tumors are usually surrounded by what?",
+  "a": ["Necrosis", "Capsule", "Granuloma", "Fibrosis", "Calcification"],
+  "c": 1,
+  "l": "Benign tumors are usually encapsulated.",
+  "h": "Capsule"
+},
+{
+  "q": "What is dysplasia?",
+  "a": ["Malignant tumor", "Pre-neoplastic reversible lesion", "Metastasis", "Benign tumor", "Necrosis"],
+  "c": 1,
+  "l": "Dysplasia is a pre-neoplastic lesion and is reversible.",
+  "h": "Dysplasia"
+},
+{
+  "q": "Is dysplasia reversible or irreversible?",
+  "a": ["Irreversible", "Reversible", "Always malignant", "Always metastatic", "Always benign"],
+  "c": 1,
+  "l": "Dysplasia is a reversible lesion.",
+  "h": "Reversible"
+},
+{
+  "q": "What is carcinoma in situ?",
+  "a": ["Benign neoplasm", "Severe dysplasia involving full epithelial thickness", "Metastatic carcinoma", "Mesenchymal tumor", "Granuloma"],
+  "c": 1,
+  "l": "Carcinoma in situ is severe dysplasia involving the full epithelial thickness.",
+  "h": "CIS"
+},
+{
+  "q": "What layer involvement characterizes carcinoma in situ?",
+  "a": ["Basement membrane invasion", "Full epithelial thickness", "Subcutaneous tissue", "Muscle layer", "Blood vessels"],
+  "c": 1,
+  "l": "Carcinoma in situ involves the full thickness of the epithelium.",
+  "h": "Full thickness"
+},
+{
+  "q": "Lymph nodes serve as what in cancer spread?",
+  "a": ["Primary tumor site", "First line of defense", "Secondary tumor", "Blood reservoir", "Metastatic focus"],
+  "c": 1,
+  "l": "Lymph nodes are the first line of defense against cancer spread.",
+  "h": "Defense"
+},
+{
+  "q": "Strong lymph node immune responses may have what effect?",
+  "a": ["Reduce survival", "Improve survival", "Cause metastasis", "Cause anemia", "Cause cachexia"],
+  "c": 1,
+  "l": "Strong lymph node immune responses may improve survival.",
+  "h": "Survival"
+},
+{
+  "q": "Lymphomas classically present as what?",
+  "a": ["Painful lymphadenopathy", "Painless lymphadenopathy", "Skin nodules", "Bone pain", "Pleural effusion"],
+  "c": 1,
+  "l": "Lymphomas classically present as painless lymphadenopathy.",
+  "h": "Lymphoma"
+},
+{
+  "q": "Rhabdomyosarcoma is a malignant tumor of which tissue?",
+  "a": ["Smooth muscle", "Skeletal muscle", "Bone", "Cartilage", "Fat"],
+  "c": 1,
+  "l": "Rhabdomyosarcoma is a malignant tumor of skeletal muscle.",
+  "h": "Rhabdo"
+},
+{
+  "q": "Leiomyosarcoma is a malignant tumor of which tissue?",
+  "a": ["Skeletal muscle", "Smooth muscle", "Bone", "Fat", "Cartilage"],
+  "c": 1,
+  "l": "Leiomyosarcoma is a malignant tumor of smooth muscle.",
+  "h": "Leiomyo"
+},
+{
+  "q": "Which carcinoma commonly invades the renal vein and IVC?",
+  "a": ["Hepatocellular carcinoma", "Renal cell carcinoma", "Colon carcinoma", "Breast carcinoma", "Lung carcinoma"],
+  "c": 1,
+  "l": "Renal cell carcinoma commonly invades the renal vein and IVC.",
+  "h": "RCC"
+},
+{
+  "q": "Which organs are common blood-borne metastatic sites?",
+  "a": ["Liver, lung, bone, brain, adrenal glands", "Heart, spleen, thymus", "Pancreas, thyroid, pituitary", "Skin, lens, cornea", "Esophagus, stomach, colon"],
+  "c": 0,
+  "l": "Major blood-borne metastatic sites are liver, lung, bone, brain, and adrenal glands.",
+  "h": "Sites"
+},
+{
+  "q": "What are tumor emboli?",
+  "a": ["Benign nodules", "Clusters of malignant cells circulating in blood vessels", "Granulomas", "Necrotic tissue", "Inflammatory cells"],
+  "c": 1,
+  "l": "Tumor emboli are clusters of malignant cells circulating in blood vessels.",
+  "h": "Emboli"
+},
+{
+  "q": "Krukenberg tumor is a metastatic tumor involving which organ?",
+  "a": ["Liver", "Ovary", "Lung", "Brain", "Kidney"],
+  "c": 1,
+  "l": "Krukenberg tumor is a metastatic ovarian tumor with signet-ring cells.",
+  "h": "Ovary"
+},
+{
+  "q": "Which cells characterize a Krukenberg tumor?",
+  "a": ["Reed-Sternberg cells", "Signet-ring cells", "Foam cells", "Plasma cells", "Giant cells"],
+  "c": 1,
+  "l": "Krukenberg tumors contain signet-ring cells.",
+  "h": "Signet-ring"
+},
+{
+  "q": "What is the most common primary site of a Krukenberg tumor?",
+  "a": ["Colon", "Breast", "Stomach", "Lung", "Pancreas"],
+  "c": 2,
+  "l": "The stomach is the most common primary site of a Krukenberg tumor.",
+  "h": "Stomach"
+},
+{
+  "q": "What are the three major routes of metastasis?",
+  "a": ["Direct, neural, arterial", "Lymphatic, hematogenous, seeding of body cavities", "Venous, arterial, lymphatic", "Local, regional, distant", "Primary, secondary, tertiary"],
+  "c": 1,
+  "l": "Routes of metastasis are lymphatic spread, hematogenous spread, and seeding of body cavities.",
+  "h": "Routes"
 }
 ]
   }
