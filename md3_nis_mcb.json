@@ -2911,6 +2911,501 @@
     "l": "PD-1 is an essential inhibitory receptor expressed on activated T cells that contains an inhibitory motif and recognizes two structurally related ligands, PD-L1 and PD-L2.",
     "h": "Identify the T-cell coinhibitory molecule that pairs with the PD-L1 and PD-L2 ligands."
   }
+],
+
+"11_immunization": [
+  {
+    "q": "Which type of immunity occurs when the body produces its own antibodies after exposure to an antigen?",
+    "a": ["Passive immunity", "Innate immunity", "Active immunity", "Maternal immunity", "Artificial immunity"],
+    "c": 2,
+    "l": "Active immunity develops when the individual produces their own immune response.",
+    "h": "Think: your body makes the antibodies."
+  },
+  {
+    "q": "Which type of immunity is produced by administering preformed antibodies?",
+    "a": ["Active immunity", "Passive immunity", "Cellular immunity", "Natural immunity", "Adaptive immunity"],
+    "c": 1,
+    "l": "Passive immunity results from receiving antibodies made elsewhere.",
+    "h": "Think: antibodies are given, not made."
+  },
+  {
+    "q": "What is the main advantage of passive immunity?",
+    "a": ["Memory formation", "Long-lasting protection", "Immediate protection", "T-cell activation", "Class switching"],
+    "c": 2,
+    "l": "Passive immunity provides rapid protection because antibodies are already present.",
+    "h": "No waiting for antibody production."
+  },
+  {
+    "q": "What is the major disadvantage of active immunity?",
+    "a": ["No memory cells", "Short duration", "Slow onset", "No antibodies", "No T-cell response"],
+    "c": 2,
+    "l": "Active immunity requires time for the immune system to respond.",
+    "h": "Primary response takes time."
+  },
+  {
+    "q": "Which immunoglobulin crosses the placenta?",
+    "a": ["IgA", "IgM", "IgE", "IgG", "IgD"],
+    "c": 3,
+    "l": "IgG provides passive immunity to the fetus.",
+    "h": "Only one antibody crosses placenta."
+  },
+  {
+    "q": "Which immunoglobulin is present in breast milk?",
+    "a": ["IgM", "IgG", "IgA", "IgE", "IgD"],
+    "c": 2,
+    "l": "Secretory IgA protects mucosal surfaces in the neonate.",
+    "h": "Breast milk = mucosal immunity."
+  },
+  {
+    "q": "Natural active immunity is best acquired through:",
+    "a": ["Vaccination", "Maternal antibodies", "Infection and recovery", "Antitoxin administration", "HBIG"],
+    "c": 2,
+    "l": "Natural active immunity follows infection and recovery.",
+    "h": "Body fights infection itself."
+  },
+  {
+    "q": "Artificial active immunity refers to:",
+    "a": ["Breastfeeding", "Placental transfer", "Vaccination", "Antivenom", "Immunoglobulin therapy"],
+    "c": 2,
+    "l": "Vaccination stimulates active immune responses.",
+    "h": "Artificially exposed to antigen."
+  },
+  {
+    "q": "Which of the following is an example of artificial passive immunity?",
+    "a": ["MMR vaccine", "Breast milk IgA", "Antivenom", "Natural infection", "Rotavirus vaccine"],
+    "c": 2,
+    "l": "Antivenom contains preformed antibodies.",
+    "h": "Given antibodies."
+  },
+  {
+    "q": "Which immunity involves both antibodies and T cells?",
+    "a": ["Passive immunity", "Active immunity", "Maternal immunity", "Humoral immunity only", "Artificial passive immunity"],
+    "c": 1,
+    "l": "Active immunity generates both humoral and cellular responses.",
+    "h": "Memory cells involved."
+  },
+  {
+    "q": "Rabies post-exposure prophylaxis consists of:",
+    "a": ["RIG only", "Vaccine only", "Inactivated vaccine + RIG", "HBIG + vaccine", "Toxoid only"],
+    "c": 2,
+    "l": "Rabies requires both passive and active immunization.",
+    "h": "Immediate + long-term protection."
+  },
+  {
+    "q": "Hepatitis B post-exposure prophylaxis consists of:",
+    "a": ["HBIG only", "HBIG + recombinant vaccine", "RIG + vaccine", "Toxoid + antitoxin", "MMR"],
+    "c": 1,
+    "l": "HBIG provides immediate protection while vaccine induces immunity.",
+    "h": "Needle-stick injury."
+  },
+  {
+    "q": "Tetanus post-exposure prophylaxis consists of:",
+    "a": ["Toxoid vaccine + tetanus immunoglobulin", "RIG + vaccine", "HBIG only", "MMR", "Sabin vaccine"],
+    "c": 0,
+    "l": "Both active and passive immunization are used.",
+    "h": "Antitoxin acts first."
+  },
+  {
+    "q": "A tetanus booster is generally recommended after how many years?",
+    "a": ["2", "5", "10", "15", "20"],
+    "c": 2,
+    "l": "Booster is recommended if more than 10 years have elapsed.",
+    "h": "10-year rule."
+  },
+  {
+    "q": "Live attenuated vaccines contain:",
+    "a": ["Dead organisms", "Purified proteins", "Weakened live organisms", "Only antibodies", "Polysaccharides only"],
+    "c": 2,
+    "l": "Live attenuated organisms can still replicate.",
+    "h": "Alive but weakened."
+  },
+  {
+    "q": "Live attenuated vaccines generally induce:",
+    "a": ["Humoral immunity only", "Cellular immunity only", "Both humoral and cellular immunity", "No memory", "IgM only"],
+    "c": 2,
+    "l": "Live vaccines closely mimic natural infection.",
+    "h": "Strongest response."
+  },
+  {
+    "q": "Which vaccine is live attenuated?",
+    "a": ["Rabies", "Hepatitis A", "MMR", "Salk polio", "HPV"],
+    "c": 2,
+    "l": "MMR is a classic live attenuated vaccine.",
+    "h": "Measles, Mumps, Rubella."
+  },
+  {
+    "q": "Which polio vaccine is live attenuated?",
+    "a": ["Salk", "Sabin", "HBV", "MMR", "Rabies"],
+    "c": 1,
+    "l": "Sabin vaccine is the oral live attenuated polio vaccine.",
+    "h": "Oral polio."
+  },
+  {
+    "q": "Which vaccine induces mucosal IgA?",
+    "a": ["Salk polio", "Rabies", "Sabin polio", "HPV", "Hepatitis A"],
+    "c": 2,
+    "l": "Oral Sabin vaccine induces intestinal IgA.",
+    "h": "Oral vaccine."
+  },
+  {
+    "q": "Which vaccine is inactivated (killed)?",
+    "a": ["MMR", "Varicella", "Yellow fever", "Rabies", "Rotavirus"],
+    "c": 3,
+    "l": "Rabies vaccine is inactivated.",
+    "h": "Killed vaccine."
+  },
+  {
+    "q": "Which polio vaccine induces serum IgG?",
+    "a": ["Sabin", "Salk", "MMR", "BCG", "Rotavirus"],
+    "c": 1,
+    "l": "Injected Salk vaccine produces serum IgG.",
+    "h": "Injection."
+  },
+  {
+    "q": "Which vaccine is safer in immunocompromised patients?",
+    "a": ["Live attenuated", "Killed vaccine", "MMR", "Varicella", "Sabin"],
+    "c": 1,
+    "l": "Killed vaccines cannot replicate and are safer.",
+    "h": "No live organisms."
+  },
+  {
+    "q": "Which vaccine type carries a risk of reversion to virulence?",
+    "a": ["Killed vaccine", "Subunit vaccine", "Live attenuated vaccine", "Toxoid", "Conjugate"],
+    "c": 2,
+    "l": "Live vaccines can rarely revert to pathogenic forms.",
+    "h": "Reason Sabin fell out of favor."
+  },
+  {
+    "q": "Killed vaccines primarily induce:",
+    "a": ["Cellular immunity", "Humoral immunity", "No immunity", "IgE response", "Tolerance"],
+    "c": 1,
+    "l": "Killed vaccines mainly stimulate antibody production.",
+    "h": "Mostly antibodies."
+  },
+  {
+    "q": "Killed vaccines usually require:",
+    "a": ["One dose only", "No boosters", "Multiple doses", "No memory", "Passive immunity"],
+    "c": 2,
+    "l": "Their weaker immune response requires boosters.",
+    "h": "Repeated doses."
+  },
+  {
+    "q": "Which vaccine is recombinant?",
+    "a": ["Hepatitis B", "MMR", "Varicella", "Yellow fever", "Sabin"],
+    "c": 0,
+    "l": "HBV vaccine uses recombinant surface antigen.",
+    "h": "Made using genetic engineering."
+  },
+  {
+    "q": "The Hepatitis B vaccine contains:",
+    "a": ["Whole virus", "Surface antigen", "Core antigen", "HBIG", "DNA virus"],
+    "c": 1,
+    "l": "HBsAg is used in the recombinant vaccine.",
+    "h": "Surface antigen."
+  },
+  {
+    "q": "Toxoids are:",
+    "a": ["Live organisms", "Killed bacteria", "Inactivated toxins", "Antibodies", "Polysaccharides"],
+    "c": 2,
+    "l": "Toxoids retain antigenicity but lose toxicity.",
+    "h": "Inactivated toxin."
+  },
+  {
+    "q": "DTaP contains protection against how many organisms?",
+    "a": ["1", "2", "3", "4", "5"],
+    "c": 2,
+    "l": "Diphtheria, Tetanus, and Pertussis.",
+    "h": "Three diseases."
+  },
+  {
+    "q": "Hib vaccine is an example of a:",
+    "a": ["Live vaccine", "Conjugate vaccine", "mRNA vaccine", "Viral vector vaccine", "Toxoid"],
+    "c": 1,
+    "l": "Hib links polysaccharide to protein.",
+    "h": "Class switching."
+  },
+  {
+    "q": "PCV13 is a:",
+    "a": ["Conjugate vaccine", "Toxoid", "Live vaccine", "mRNA vaccine", "Viral vector"],
+    "c": 0,
+    "l": "Pneumococcal conjugate vaccine.",
+    "h": "Children."
+  },
+  {
+    "q": "PPSV23 is primarily associated with:",
+    "a": ["Class switching", "Memory cells", "IgM response", "T-cell activation", "Live vaccine"],
+    "c": 2,
+    "l": "It is an unconjugated polysaccharide vaccine.",
+    "h": "Adult pneumococcal."
+  },
+  {
+    "q": "Why are polysaccharide vaccines conjugated to proteins?",
+    "a": ["To reduce toxicity", "To improve storage", "To promote T-cell activation", "To prevent IgG formation", "To create passive immunity"],
+    "c": 2,
+    "l": "Conjugation makes the response T-cell dependent.",
+    "h": "Class switching."
+  },
+  {
+    "q": "A pure polysaccharide antigen usually produces:",
+    "a": ["IgA", "IgG", "IgE", "IgM", "No antibodies"],
+    "c": 3,
+    "l": "T-independent responses mainly generate IgM.",
+    "h": "No class switching."
+  },
+  {
+    "q": "Which vaccine is unconjugated?",
+    "a": ["Hib", "PCV13", "MCV4", "PPSV23", "DTaP"],
+    "c": 3,
+    "l": "PPSV23 lacks a protein carrier.",
+    "h": "Adult pneumococcal."
+  },
+  {
+    "q": "Which vaccine covers Neisseria meningitidis?",
+    "a": ["DTaP", "Hib", "PCV13", "MCV4", "PPSV23"],
+    "c": 3,
+    "l": "MCV4 is the meningococcal conjugate vaccine.",
+    "h": "A, C, Y, W-135."
+  },
+  {
+    "q": "Viral vector vaccines use:",
+    "a": ["Preformed antibodies", "Modified viruses", "Dead bacteria", "Polysaccharides", "Toxins"],
+    "c": 1,
+    "l": "Modified harmless viruses deliver genetic instructions.",
+    "h": "Vector carries code."
+  },
+  {
+    "q": "Which COVID-19 vaccine platform uses a viral vector?",
+    "a": ["Pfizer", "Moderna", "Janssen", "None", "HPV"],
+    "c": 2,
+    "l": "Janssen uses an adenoviral vector.",
+    "h": "Adenovirus."
+  },
+  {
+    "q": "mRNA vaccines work by:",
+    "a": ["Delivering antibodies", "Delivering antigen protein", "Delivering mRNA instructions", "Delivering toxins", "Delivering B cells"],
+    "c": 2,
+    "l": "Host cells produce the antigen from mRNA.",
+    "h": "Genetic instructions."
+  },
+  {
+    "q": "Which COVID-19 vaccines are mRNA vaccines?",
+    "a": ["Sputnik V and Janssen", "Pfizer and Moderna", "Rabies and HBV", "MMR and Varicella", "Sabin and Salk"],
+    "c": 1,
+    "l": "Comirnaty and Spikevax are mRNA vaccines.",
+    "h": "Pfizer and Moderna."
+  },
+  {
+    "q": "Which vaccine provides the best example of herd immunity?",
+    "a": ["Rabies", "HBV", "Sabin polio", "Salk polio", "HPV"],
+    "c": 2,
+    "l": "Sabin vaccine induces intestinal IgA and reduces transmission.",
+    "h": "Herd immunity"
+  },
+  {
+    "q": "Herd immunity protects which group of people?",
+    "a": ["Only vaccinated individuals", "Only healthcare workers", "Unvaccinated individuals", "Only children", "Only elderly"],
+    "c": 2,
+    "l": "Herd immunity decreases transmission and protects susceptible individuals.",
+    "h": "Community protection"
+  },
+  {
+    "q": "Cross-reactivity occurs when antibodies bind to:",
+    "a": ["Only the original antigen", "Structurally similar antigens", "T cells", "B cells", "Complement"],
+    "c": 1,
+    "l": "Cross-reactivity occurs when antibodies recognize similar antigens.",
+    "h": "Similar structures"
+  },
+  {
+    "q": "Antitoxin antibodies primarily function by:",
+    "a": ["Activating T cells", "Neutralizing toxins", "Producing cytokines", "Activating complement", "Stimulating NK cells"],
+    "c": 1,
+    "l": "Antitoxin antibodies bind and neutralize toxins.",
+    "h": "Neutralization"
+  },
+  {
+    "q": "Which vaccine type induces the strongest immune response?",
+    "a": ["Killed", "Subunit", "Live attenuated", "Polysaccharide", "Toxoid"],
+    "c": 2,
+    "l": "Live attenuated vaccines mimic natural infection.",
+    "h": "Strong response"
+  },
+  {
+    "q": "Which vaccine type is contraindicated in pregnancy?",
+    "a": ["Killed", "Subunit", "Live attenuated", "Toxoid", "Conjugate"],
+    "c": 2,
+    "l": "Live attenuated vaccines should not be given during pregnancy.",
+    "h": "Pregnancy"
+  },
+  {
+    "q": "Which vaccine type is contraindicated in immunocompromised patients?",
+    "a": ["Killed", "Conjugate", "Live attenuated", "Toxoid", "Subunit"],
+    "c": 2,
+    "l": "Live attenuated vaccines may cause disease in immunocompromised hosts.",
+    "h": "Immunodeficiency"
+  },
+  {
+    "q": "Which vaccine is associated with reversion to virulence?",
+    "a": ["Salk", "HBV", "Sabin", "Rabies", "HPV"],
+    "c": 2,
+    "l": "Sabin vaccine may rarely revert to virulence.",
+    "h": "Polio"
+  },
+  {
+    "q": "Which vaccine induces both humoral and cellular immunity?",
+    "a": ["Killed", "Polysaccharide", "Live attenuated", "Toxoid", "Subunit"],
+    "c": 2,
+    "l": "Live attenuated vaccines activate both arms of adaptive immunity.",
+    "h": "Both responses"
+  },
+  {
+    "q": "Which vaccine mainly induces humoral immunity?",
+    "a": ["Live attenuated", "Killed", "Varicella", "MMR", "Sabin"],
+    "c": 1,
+    "l": "Killed vaccines primarily stimulate antibody production.",
+    "h": "Humoral"
+  },
+  {
+    "q": "What is the protein carrier in conjugate vaccines used for?",
+    "a": ["Reduce toxicity", "Activate T cells", "Produce IgE", "Destroy antigen", "Activate complement"],
+    "c": 1,
+    "l": "Protein carriers convert a T-independent response into a T-dependent response.",
+    "h": "T-cell help"
+  },
+  {
+    "q": "Conjugate vaccines promote which process?",
+    "a": ["Tolerance", "Class switching", "Necrosis", "Anergy", "Apoptosis"],
+    "c": 1,
+    "l": "Conjugate vaccines allow class switching and memory formation.",
+    "h": "IgG production"
+  },
+  {
+    "q": "Which vaccine induces a predominantly IgM response?",
+    "a": ["Hib", "PCV13", "MCV4", "PPSV23", "DTaP"],
+    "c": 3,
+    "l": "PPSV23 is an unconjugated polysaccharide vaccine producing mainly IgM.",
+    "h": "No memory"
+  },
+  {
+    "q": "Which vaccine generates strong memory cell formation?",
+    "a": ["PPSV23", "Conjugate vaccines", "Passive immunization", "Antitoxin", "HBIG"],
+    "c": 1,
+    "l": "Conjugate vaccines stimulate T-cell dependent immunity and memory.",
+    "h": "Memory cells"
+  },
+  {
+    "q": "Which vaccine contains 13 pneumococcal serotypes?",
+    "a": ["PPSV23", "PCV13", "Hib", "MCV4", "DTaP"],
+    "c": 1,
+    "l": "PCV13 contains 13 pneumococcal capsular serotypes.",
+    "h": "Children"
+  },
+  {
+    "q": "Which vaccine contains 23 pneumococcal serotypes?",
+    "a": ["PCV13", "MCV4", "PPSV23", "Hib", "HBV"],
+    "c": 2,
+    "l": "PPSV23 contains 23 pneumococcal serotypes.",
+    "h": "Adults"
+  },
+  {
+    "q": "Which vaccine protects against Haemophilus influenzae type b?",
+    "a": ["HBV", "Hib", "MCV4", "PPSV23", "MMR"],
+    "c": 1,
+    "l": "Hib vaccine protects against encapsulated H. influenzae type b.",
+    "h": "Hib"
+  },
+  {
+    "q": "Which vaccine protects against Neisseria meningitidis serogroups A, C, Y, and W-135?",
+    "a": ["Hib", "PCV13", "MCV4", "PPSV23", "DTaP"],
+    "c": 2,
+    "l": "MCV4 is the meningococcal conjugate vaccine.",
+    "h": "Meningococcus"
+  },
+  {
+    "q": "Which component of DTaP is acellular?",
+    "a": ["Diphtheria", "Tetanus", "Pertussis", "All three", "None"],
+    "c": 2,
+    "l": "The pertussis component is acellular.",
+    "h": "aP"
+  },
+  {
+    "q": "What does the 'T' in DTaP stand for?",
+    "a": ["Typhoid", "Tetanus", "Toxoplasma", "Tuberculosis", "Tularemia"],
+    "c": 1,
+    "l": "T = Tetanus toxoid.",
+    "h": "Tetanus"
+  },
+  {
+    "q": "Which vaccine is an example of a toxoid vaccine?",
+    "a": ["Rabies", "HBV", "DTaP", "MMR", "Rotavirus"],
+    "c": 2,
+    "l": "DTaP contains diphtheria and tetanus toxoids.",
+    "h": "Toxoid"
+  },
+  {
+    "q": "Which vaccine is given orally?",
+    "a": ["Salk", "HBV", "Sabin", "Rabies", "HPV"],
+    "c": 2,
+    "l": "Sabin is the oral polio vaccine.",
+    "h": "Oral"
+  },
+  {
+    "q": "Which vaccine is administered by injection and produces serum IgG?",
+    "a": ["Sabin", "Salk", "Rotavirus", "MMR", "Varicella"],
+    "c": 1,
+    "l": "Salk is the injectable inactivated polio vaccine.",
+    "h": "Injection"
+  },
+  {
+    "q": "Which vaccine may be neutralized by maternal antibodies?",
+    "a": ["Killed vaccine", "Live attenuated vaccine", "Toxoid", "Conjugate", "Subunit"],
+    "c": 1,
+    "l": "Maternal antibodies can interfere with live attenuated vaccines.",
+    "h": "Maternal IgG"
+  },
+  {
+    "q": "What is the main purpose of post-exposure prophylaxis?",
+    "a": ["Prevent memory formation", "Provide immediate and long-term protection", "Cause inflammation", "Stimulate IgE", "Activate complement"],
+    "c": 1,
+    "l": "PEP combines immediate protection with future immunity.",
+    "h": "PEP"
+  },
+  {
+    "q": "Which component of rabies PEP provides immediate protection?",
+    "a": ["Rabies vaccine", "RIG", "T cells", "Memory B cells", "Interferons"],
+    "c": 1,
+    "l": "Rabies immunoglobulin provides immediate antibodies.",
+    "h": "Immediate"
+  },
+  {
+    "q": "Which component of HBV PEP provides immediate protection?",
+    "a": ["HBV vaccine", "HBIG", "IgA", "Memory cells", "CD8 cells"],
+    "c": 1,
+    "l": "HBIG supplies immediate antibodies against HBV.",
+    "h": "HBIG"
+  },
+  {
+    "q": "Which component of tetanus PEP provides long-term immunity?",
+    "a": ["TIG", "Tetanus toxoid", "IgG", "IgM", "Antitoxin"],
+    "c": 1,
+    "l": "The toxoid stimulates active immunity and memory formation.",
+    "h": "Long-term"
+  },
+  {
+    "q": "Which vaccine platform delivers mRNA encoding an antigen?",
+    "a": ["Live attenuated", "mRNA vaccine", "Toxoid", "Conjugate", "Killed"],
+    "c": 1,
+    "l": "mRNA vaccines deliver instructions for antigen synthesis.",
+    "h": "mRNA"
+  },
+  {
+    "q": "Which vaccine platform uses a harmless virus to deliver genetic material?",
+    "a": ["mRNA", "Subunit", "Viral vector", "Toxoid", "Polysaccharide"],
+    "c": 2,
+    "l": "Viral vector vaccines use modified viruses as delivery vehicles.",
+    "h": "Vector"
+  }
 ]
+
+
   }
 }
