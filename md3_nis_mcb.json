@@ -2324,6 +2324,261 @@
 
 ],
 
+"4_antigen_antibody" : [
+  {
+    "q": "What is a hapten?",
+    "a": ["Complete immunogen", "Incomplete immunogen", "Superantigen", "Epitope", "Adjuvant"],
+    "c": 1,
+    "l": "Haptens are too small to induce an immune response alone.",
+    "h": "Small molecule"
+  },
+  {
+    "q": "A hapten becomes immunogenic when attached to a:",
+    "a": ["Lipid", "Carbohydrate", "Carrier protein", "Nucleic acid", "Steroid"],
+    "c": 2,
+    "l": "Carrier proteins convert haptens into immunogens.",
+    "h": "Penicillin example"
+  },
+  {
+    "q": "Which toxin is a classic superantigen?",
+    "a": ["Diphtheria toxin", "Botulinum toxin", "TSST-1", "Tetanus toxin", "Cholera toxin"],
+    "c": 2,
+    "l": "TSST-1 from S. aureus acts as a superantigen.",
+    "h": "Toxic shock"
+  },
+  {
+    "q": "Superantigens bind directly to which MHC molecule?",
+    "a": ["MHC I", "MHC II", "CD8", "CD28", "BCR"],
+    "c": 1,
+    "l": "Superantigens bind directly to MHC II without processing.",
+    "h": "APC interaction"
+  },
+  {
+    "q": "Superantigens bind the Vβ region of which receptor?",
+    "a": ["BCR", "Fc receptor", "TCR", "CR2", "CD40"],
+    "c": 2,
+    "l": "Superantigens cross-link MHC II and TCR Vβ.",
+    "h": "T-cell receptor"
+  },
+  {
+    "q": "The systemic toxicity of superantigens is due to massive release of:",
+    "a": ["Histamine", "Complement", "Cytokines", "Antibodies", "Prostaglandins"],
+    "c": 2,
+    "l": "Superantigens trigger a cytokine storm.",
+    "h": "Cytokine storm"
+  },
+  {
+    "q": "Which cytokine is massively released from T cells by superantigens?",
+    "a": ["IL-2", "IL-4", "IL-5", "IL-10", "IL-13"],
+    "c": 0,
+    "l": "IL-2 is a major cytokine released during superantigen activation.",
+    "h": "T-cell cytokine"
+  },
+  {
+    "q": "What is an epitope?",
+    "a": ["Whole antigen", "Smallest antigenic determinant", "Antibody", "Hapten", "Fc region"],
+    "c": 1,
+    "l": "An epitope is the specific part of an antigen recognized by receptors.",
+    "h": "Antigenic determinant"
+  },
+  {
+    "q": "Which antigens are generally the best immunogens?",
+    "a": ["Lipids", "Steroids", "Complex proteins", "Monosaccharides", "Haptens"],
+    "c": 2,
+    "l": "Complex proteins are highly immunogenic.",
+    "h": "Most immunogenic"
+  },
+  {
+    "q": "Proteins become strongly immunogenic when their size exceeds:",
+    "a": ["1 kDa", "5 kDa", "10 kDa", "50 kDa", "100 kDa"],
+    "c": 2,
+    "l": "Proteins larger than 10 kDa are usually immunogenic.",
+    "h": "Size matters"
+  },
+  {
+    "q": "An antibody molecule contains how many chains?",
+    "a": ["2", "3", "4", "5", "6"],
+    "c": 2,
+    "l": "Antibodies contain 2 heavy and 2 light chains.",
+    "h": "2H + 2L"
+  },
+  {
+    "q": "The antigen-binding site is formed by:",
+    "a": ["Two Fc regions", "VH and VL domains", "Constant domains only", "Heavy chains only", "Light chains only"],
+    "c": 1,
+    "l": "Variable regions of heavy and light chains form the binding site.",
+    "h": "VH + VL"
+  },
+  {
+    "q": "How many antigen-binding sites are present on one antibody monomer?",
+    "a": ["1", "2", "3", "4", "5"],
+    "c": 1,
+    "l": "Each antibody monomer has two identical binding sites.",
+    "h": "Y-shaped antibody"
+  },
+  {
+    "q": "Which region of the antibody binds antigen?",
+    "a": ["Fc", "Fab", "Hinge", "CH1", "CH2"],
+    "c": 1,
+    "l": "Fab contains the antigen-binding site.",
+    "h": "Binding fragment"
+  },
+  {
+    "q": "Which region determines antibody function and isotype?",
+    "a": ["Fab", "CDR", "Fc", "VL", "VH"],
+    "c": 2,
+    "l": "Fc determines effector function and antibody class.",
+    "h": "Constant region"
+  },
+  {
+    "q": "Which part of the antibody provides flexibility?",
+    "a": ["Fc region", "Hinge region", "Fab region", "Light chain", "CDR"],
+    "c": 1,
+    "l": "The hinge region allows movement of Fab arms.",
+    "h": "Flexibility"
+  },
+  {
+    "q": "Which immunoglobulin classes have four heavy-chain constant domains?",
+    "a": ["IgG and IgA", "IgA and IgD", "IgM and IgE", "IgG and IgM", "IgD and IgE"],
+    "c": 2,
+    "l": "IgM and IgE contain four CH domains.",
+    "h": "Four domains"
+  },
+  {
+    "q": "Heavy-chain genes are located on which chromosome?",
+    "a": ["2", "14", "22", "7", "11"],
+    "c": 1,
+    "l": "All heavy-chain genes are on chromosome 14.",
+    "h": "Heavy chain chromosome"
+  },
+  {
+    "q": "Kappa light-chain genes are located on chromosome:",
+    "a": ["2", "14", "22", "7", "11"],
+    "c": 0,
+    "l": "Kappa light-chain genes are found on chromosome 2.",
+    "h": "κ chain"
+  },
+  {
+    "q": "Lambda light-chain genes are located on chromosome:",
+    "a": ["2", "14", "22", "7", "11"],
+    "c": 2,
+    "l": "Lambda light-chain genes are found on chromosome 22.",
+    "h": "λ chain"
+  },
+  {
+    "q": "A single antibody contains:",
+    "a": ["Both κ and λ chains", "Either κ or λ chains only", "Three light chains", "No light chains", "One κ and one λ"],
+    "c": 1,
+    "l": "An antibody contains either kappa or lambda light chains, never both.",
+    "h": "Never both"
+  },
+  {
+    "q": "Bence Jones proteins are:",
+    "a": ["Heavy chains", "Free light chains", "Complement proteins", "Autoantibodies", "Cytokines"],
+    "c": 1,
+    "l": "Bence Jones proteins are free κ or λ light chains.",
+    "h": "Multiple myeloma"
+  },
+  {
+    "q": "Idiotype refers to:",
+    "a": ["Fc region", "Antigen-binding specificity", "Isotype", "Allotype", "Complement activation"],
+    "c": 1,
+    "l": "Idiotype is determined by the antigen-binding region.",
+    "h": "Specificity"
+  },
+  {
+    "q": "How many CDRs contribute to one antigen-binding site?",
+    "a": ["2", "4", "6", "8", "10"],
+    "c": 2,
+    "l": "Three CDRs from VH and three from VL form one site.",
+    "h": "3 + 3"
+  },
+  {
+    "q": "Allotypes are useful in:",
+    "a": ["Transplant rejection", "Paternity testing", "Vaccination", "Complement activation", "Allergy testing"],
+    "c": 1,
+    "l": "Allotypes reflect inherited Fc differences and aid paternity testing.",
+    "h": "Inheritance"
+  },
+  {
+    "q": "Which antibody is the most abundant in serum?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 3,
+    "l": "IgG accounts for about 80% of serum immunoglobulins.",
+    "h": "Most abundant"
+  },
+  {
+    "q": "Which antibody crosses the placenta?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 3,
+    "l": "IgG is the only immunoglobulin that crosses the placenta.",
+    "h": "Placenta"
+  },
+  {
+    "q": "Which antibody is the best activator of complement?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 4,
+    "l": "IgM is the most efficient activator of complement.",
+    "h": "Pentamer"
+  },
+  {
+    "q": "Which antibody is produced first during a primary immune response?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 4,
+    "l": "IgM is the first antibody produced after antigen exposure.",
+    "h": "Primary response"
+  },
+  {
+    "q": "Which antibody protects mucosal surfaces?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 0,
+    "l": "IgA is the principal mucosal antibody.",
+    "h": "Mucosal immunity"
+  },
+  {
+    "q": "Secretory IgA exists as a:",
+    "a": ["Monomer", "Dimer", "Trimer", "Pentamer", "Hexamer"],
+    "c": 1,
+    "l": "Secretory IgA is a dimer linked by a J chain.",
+    "h": "J chain"
+  },
+  {
+    "q": "Which antibody mediates allergic reactions?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 2,
+    "l": "IgE binds mast cells and mediates Type I hypersensitivity.",
+    "h": "Allergy"
+  },
+  {
+    "q": "Which antibody is important against helminths?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 2,
+    "l": "IgE and eosinophils mediate defense against parasites.",
+    "h": "Worms"
+  },
+  {
+    "q": "Which antibody functions as a B-cell receptor on naïve B cells?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 1,
+    "l": "IgD is found primarily on naïve B cells.",
+    "h": "BCR"
+  },
+  {
+    "q": "The first antibody synthesized by a fetus is:",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 4,
+    "l": "IgM is the first immunoglobulin produced by the fetus.",
+    "h": "Fetal antibody"
+  },
+  {
+    "q": "Elevated fetal IgM suggests:",
+    "a": ["Maternal allergy", "Congenital infection", "Complement deficiency", "Autoimmunity", "Malnutrition"],
+    "c": 1,
+    "l": "Fetal IgM indicates in utero infection because IgM cannot cross the placenta.",
+    "h": "TORCH"
+  }
+],
+
 "8_cell_mediated_immune_response":
     [
   {
