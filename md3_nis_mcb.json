@@ -2579,6 +2579,289 @@
   }
 ],
 
+"5_antigen_receptors" : [
+  {
+    "q": "A mature naïve B cell expresses which immunoglobulins on its surface?",
+    "a": ["IgA and IgE", "IgG and IgA", "IgM and IgD", "IgE and IgD", "IgM only"],
+    "c": 2,
+    "l": "Mature naïve B cells express membrane-bound IgM and IgD.",
+    "h": "Naive B cell"
+  },
+  {
+    "q": "Which receptor binds unprocessed antigens directly?",
+    "a": ["TCR", "MHC II", "CD3", "BCR", "CD8"],
+    "c": 3,
+    "l": "BCR recognizes native unprocessed antigens.",
+    "h": "Native antigen"
+  },
+  {
+    "q": "T-cell receptors recognize:",
+    "a": ["Lipids only", "Native proteins", "Unprocessed antigens", "Processed peptides", "Carbohydrates"],
+    "c": 3,
+    "l": "TCR recognizes processed peptide antigens presented on MHC.",
+    "h": "Processed peptide"
+  },
+  {
+    "q": "Which molecule mediates signal transduction in T cells?",
+    "a": ["CD4", "CD8", "CD3", "CD21", "Igα"],
+    "c": 2,
+    "l": "CD3 transmits activation signals into T cells.",
+    "h": "T-cell signaling"
+  },
+  {
+    "q": "Which molecules mediate signal transduction in B cells?",
+    "a": ["CD4 and CD8", "CD19 and CD21", "Igα and Igβ", "CD3 and CD28", "CD40 and CD40L"],
+    "c": 2,
+    "l": "Igα and Igβ form the B-cell signaling complex.",
+    "h": "B-cell signaling"
+  },
+  {
+    "q": "CD21 (CR2) serves as the receptor for:",
+    "a": ["CMV", "HIV", "EBV", "HBV", "HSV"],
+    "c": 2,
+    "l": "EBV infects B cells through CD21.",
+    "h": "EBV receptor"
+  },
+  {
+    "q": "The B-cell co-receptor complex consists of:",
+    "a": ["CD3, CD4, CD8", "CD19, CD21, CD81", "CD20, CD40, CD80", "CD21, CD28, CD40", "CD19, CD20, CD40"],
+    "c": 1,
+    "l": "CD19, CD21, and CD81 form the B-cell co-receptor complex.",
+    "h": "Co-receptor"
+  },
+  {
+    "q": "Approximately 95% of circulating T cells express:",
+    "a": ["γδ TCR", "αβ TCR", "IgM", "CD8", "CD21"],
+    "c": 1,
+    "l": "Most circulating T cells express αβ TCR.",
+    "h": "Major TCR"
+  },
+  {
+    "q": "γδ T cells are primarily involved in:",
+    "a": ["Complement activation", "Mucosal immunity", "Antibody secretion", "Platelet activation", "Class switching"],
+    "c": 1,
+    "l": "γδ T cells contribute to innate and mucosal immunity.",
+    "h": "Mucosal immunity"
+  },
+  {
+    "q": "Which co-receptors participate in TCR signaling?",
+    "a": ["CD19 and CD21", "CD4 and CD8", "Igα and Igβ", "CD20 and CD40", "CD81 and CD21"],
+    "c": 1,
+    "l": "CD4 and CD8 bind MHC molecules during T-cell activation.",
+    "h": "T-cell co-receptors"
+  },
+  {
+    "q": "Heavy-chain variable regions are formed by:",
+    "a": ["VJ recombination", "VDJ recombination", "Class switching", "Somatic mutation", "RNA splicing"],
+    "c": 1,
+    "l": "Heavy chains undergo VDJ recombination.",
+    "h": "Heavy chain"
+  },
+  {
+    "q": "Light-chain variable regions are formed by:",
+    "a": ["VDJ recombination", "DJ recombination", "VJ recombination", "Class switching", "Splicing"],
+    "c": 2,
+    "l": "Light chains undergo VJ recombination only.",
+    "h": "Light chain"
+  },
+  {
+    "q": "The β chain of TCR undergoes:",
+    "a": ["VJ recombination", "VDJ recombination", "Class switching", "Hypermutation", "Deletion"],
+    "c": 1,
+    "l": "TCR β chain forms by VDJ recombination.",
+    "h": "TCR beta"
+  },
+  {
+    "q": "The α chain of TCR undergoes:",
+    "a": ["VDJ recombination", "Class switching", "VJ recombination", "Hypermutation", "Deletion"],
+    "c": 2,
+    "l": "TCR α chain forms by VJ recombination.",
+    "h": "TCR alpha"
+  },
+  {
+    "q": "Which genes encode the recombinase enzymes?",
+    "a": ["BTK and AID", "RAG1 and RAG2", "TdT and BTK", "IL7 and IL2", "CD19 and CD21"],
+    "c": 1,
+    "l": "RAG1 and RAG2 are essential for VDJ recombination.",
+    "h": "Recombinase"
+  },
+  {
+    "q": "Omenn syndrome is caused by:",
+    "a": ["BTK mutation", "Missense mutation in RAG genes", "ADA deficiency", "CD40L deficiency", "PIGA mutation"],
+    "c": 1,
+    "l": "Omenn syndrome results from partial RAG activity.",
+    "h": "Omenn"
+  },
+  {
+    "q": "A nonsense mutation in RAG1/RAG2 may cause:",
+    "a": ["Hyper-IgM syndrome", "SCID", "CVID", "Wiskott-Aldrich", "CGD"],
+    "c": 1,
+    "l": "Complete loss of recombination can cause SCID.",
+    "h": "SCID"
+  },
+  {
+    "q": "Bruton agammaglobulinemia results from deficiency of:",
+    "a": ["RAG1", "BTK", "TdT", "AID", "CD40L"],
+    "c": 1,
+    "l": "BTK deficiency arrests B-cell maturation.",
+    "h": "BTK"
+  },
+  {
+    "q": "B-cell development is arrested at which stage in Bruton agammaglobulinemia?",
+    "a": ["Stem cell", "Pro-B", "Pre-B", "Immature B", "Plasma cell"],
+    "c": 2,
+    "l": "Bruton disease causes arrest at the pre-B-cell stage.",
+    "h": "Pre-B arrest"
+  },
+  {
+    "q": "Which enzyme generates junctional diversity?",
+    "a": ["RAG1", "RAG2", "TdT", "BTK", "AID"],
+    "c": 2,
+    "l": "TdT randomly inserts nucleotides at gene junctions.",
+    "h": "Junctional diversity"
+  },
+  {
+    "q": "TdT acts mainly during:",
+    "a": ["Heavy-chain rearrangement", "Class switching", "Somatic hypermutation", "Light-chain only", "Plasma cell formation"],
+    "c": 0,
+    "l": "TdT is active during heavy-chain recombination.",
+    "h": "Heavy chain TdT"
+  },
+  {
+    "q": "TdT is turned off during:",
+    "a": ["Heavy-chain rearrangement", "TCR formation", "Light-chain rearrangement", "Class switching", "Activation"],
+    "c": 2,
+    "l": "TdT is inactive during light-chain rearrangement.",
+    "h": "Light chain"
+  },
+  {
+    "q": "TdT is a marker for:",
+    "a": ["AML", "CLL", "ALL", "CML", "Multiple myeloma"],
+    "c": 2,
+    "l": "TdT is expressed in lymphoblasts of ALL.",
+    "h": "ALL marker"
+  },
+  {
+    "q": "Finding TdT-positive lymphocytes in blood suggests:",
+    "a": ["CML", "AML", "ALL", "CLL", "Polycythemia"],
+    "c": 2,
+    "l": "Circulating TdT-positive cells suggest ALL.",
+    "h": "Lymphoblasts"
+  },
+  {
+    "q": "Which immunoglobulin is expressed on immature B cells?",
+    "a": ["IgD only", "IgG only", "IgM only", "IgA only", "IgE only"],
+    "c": 2,
+    "l": "Immature B cells express surface IgM only.",
+    "h": "Immature B"
+  },
+  {
+    "q": "Which immunoglobulins are expressed on mature naïve B cells?",
+    "a": ["IgM and IgD", "IgA and IgE", "IgG and IgA", "IgE and IgD", "IgG only"],
+    "c": 0,
+    "l": "Mature B cells express both IgM and IgD.",
+    "h": "Mature B"
+  },
+  {
+    "q": "Class switching is:",
+    "a": ["Reversible", "Temporary", "Irreversible", "Random", "Optional"],
+    "c": 2,
+    "l": "Once a B cell switches class, it cannot switch back.",
+    "h": "Class switch"
+  },
+  {
+    "q": "The first immunoglobulin expressed during B-cell development is:",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 4,
+    "l": "IgM is the first antibody expressed by developing B cells.",
+    "h": "First antibody"
+  },
+  {
+    "q": "RAG expression occurs in which stages?",
+    "a": ["Pro-B, Pre-B, Immature B", "Mature B only", "Plasma cells", "Memory cells", "Activated B cells"],
+    "c": 0,
+    "l": "RAG is expressed during early B-cell development.",
+    "h": "RAG stages"
+  },
+  {
+    "q": "Allelic exclusion ensures:",
+    "a": ["Multiple antibody specificities", "Class switching", "One antibody specificity per B cell", "Complement activation", "IgE production"],
+    "c": 2,
+    "l": "Allelic exclusion ensures identical idiotypes on a B cell.",
+    "h": "One specificity"
+  },
+  {
+    "q": "The pre-B-cell marker is:",
+    "a": ["Surface IgM", "Surface IgD", "Cytoplasmic μ chain", "Surface IgA", "CD21"],
+    "c": 2,
+    "l": "Pre-B cells contain cytoplasmic μ heavy chains.",
+    "h": "Pre-B marker"
+  },
+  {
+    "q": "The immature B-cell marker is:",
+    "a": ["Surface IgM", "Surface IgD", "Surface IgG", "CD21", "CD40"],
+    "c": 0,
+    "l": "Immature B cells express surface IgM.",
+    "h": "Immature marker"
+  },
+  {
+    "q": "The mature B-cell marker is:",
+    "a": ["IgG only", "IgM and IgD", "IgA only", "IgE only", "CD3"],
+    "c": 1,
+    "l": "Mature naïve B cells express IgM and IgD.",
+    "h": "Mature marker"
+  },
+  {
+    "q": "Lymphocytes lacking antigen receptors are:",
+    "a": ["Hyperactive", "Nonfunctional", "Autoimmune", "Memory cells", "Plasma cells"],
+    "c": 1,
+    "l": "Antigen receptors are essential for lymphocyte function.",
+    "h": "Nonfunctional"
+  },
+  {
+    "q": "Which process contributes most to antibody diversity?",
+    "a": ["Class switching", "Somatic hypermutation", "TdT-mediated nucleotide addition", "Complement activation", "Opsonization"],
+    "c": 2,
+    "l": "TdT-generated junctional diversity exceeds VDJ recombination alone.",
+    "h": "Greatest diversity"
+  },
+  {
+    "q": "Which immunoglobulin classes can be produced after class switching?",
+    "a": ["IgM and IgD only", "IgG, IgA, IgE", "IgM only", "IgD only", "None"],
+    "c": 1,
+    "l": "Class switching allows production of IgG, IgA, and IgE.",
+    "h": "Class switch products"
+  },
+  {
+    "q": "Bone marrow transplantation is a treatment for:",
+    "a": ["Bruton agammaglobulinemia", "Omenn syndrome", "PNH", "MPO deficiency", "LAD"],
+    "c": 1,
+    "l": "Omenn syndrome may be treated with bone marrow transplantation.",
+    "h": "Omenn treatment"
+  },
+  {
+    "q": "γδ T cells are found mainly in:",
+    "a": ["Bone marrow", "Blood and mucosal epithelium", "Spleen only", "Liver only", "Kidney"],
+    "c": 1,
+    "l": "γδ T cells are enriched in blood and mucosal tissues.",
+    "h": "γδ location"
+  },
+  {
+    "q": "CD3 is functionally equivalent to which B-cell molecules?",
+    "a": ["CD19/CD21", "Igα/Igβ", "IgM/IgD", "CD40/CD40L", "κ/λ"],
+    "c": 1,
+    "l": "CD3 and Igα/Igβ are signal transduction complexes.",
+    "h": "Signal transduction"
+  },
+  {
+    "q": "Failure of CD3 expression results in:",
+    "a": ["Failure of antigen binding", "Failure of signaling after antigen recognition", "Failure of class switching", "Failure of complement activation", "Failure of IgM synthesis"],
+    "c": 1,
+    "l": "Antigen recognition occurs, but signaling cannot proceed.",
+    "h": "CD3 deficiency"
+  }
+],
+
 "8_cell_mediated_immune_response":
     [
   {
