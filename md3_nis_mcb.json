@@ -2862,6 +2862,289 @@
   }
 ],
 
+"6_humoral_immune_response" : [
+  {
+    "q": "Humoral immunity is primarily responsible for controlling:",
+    "a": ["Intracellular pathogens", "Extracellular pathogens", "Tumor cells", "Transplanted organs", "Viruses inside cells"],
+    "c": 1,
+    "l": "Humoral immunity controls extracellular pathogens using antibodies.",
+    "h": "Extracellular"
+  },
+  {
+    "q": "Which cells mediate humoral immunity?",
+    "a": ["T cells", "NK cells", "B cells", "Macrophages", "Neutrophils"],
+    "c": 2,
+    "l": "B cells are responsible for antibody-mediated immunity.",
+    "h": "Antibodies"
+  },
+  {
+    "q": "Which cells mediate cellular immunity?",
+    "a": ["B cells", "T cells", "Plasma cells", "Mast cells", "Basophils"],
+    "c": 1,
+    "l": "T cells mediate cellular immunity.",
+    "h": "T cells"
+  },
+  {
+    "q": "B-cell receptors recognize:",
+    "a": ["Processed peptides", "MHC molecules", "Native antigens", "Cytokines", "Complement"],
+    "c": 2,
+    "l": "BCRs bind native unprocessed antigens directly.",
+    "h": "Unprocessed"
+  },
+  {
+    "q": "Humoral immune responses begin mainly in:",
+    "a": ["Bone marrow only", "Thymus", "Spleen, lymph nodes and MALT", "Skin", "Liver"],
+    "c": 2,
+    "l": "Humoral responses are initiated in secondary lymphoid organs.",
+    "h": "MALT"
+  },
+  {
+    "q": "Naive B cells express:",
+    "a": ["IgG only", "IgA only", "IgM only", "IgM and IgD", "IgE and IgA"],
+    "c": 3,
+    "l": "Mature naive B cells express both IgM and IgD.",
+    "h": "Naive B cell"
+  },
+  {
+    "q": "Activated B cells undergo:",
+    "a": ["Apoptosis only", "Clonal expansion", "Necrosis", "Tolerance only", "Deletion"],
+    "c": 1,
+    "l": "Activated B cells proliferate by clonal expansion.",
+    "h": "Proliferation"
+  },
+  {
+    "q": "The antibody-secreting form of B cells is:",
+    "a": ["Memory B cell", "Plasma cell", "Follicular B cell", "Tfh cell", "Marginal B cell"],
+    "c": 1,
+    "l": "Plasma cells produce antibodies.",
+    "h": "Secretion"
+  },
+  {
+    "q": "T-dependent B-cell activation requires:",
+    "a": ["NK cells", "Complement", "Helper T cells", "Neutrophils", "Basophils"],
+    "c": 2,
+    "l": "T-dependent responses require helper T-cell assistance.",
+    "h": "Helper T"
+  },
+  {
+    "q": "T-independent antigens are usually:",
+    "a": ["Proteins", "Peptides", "Polysaccharides and lipids", "MHC molecules", "Cytokines"],
+    "c": 2,
+    "l": "T-independent antigens commonly lack protein components.",
+    "h": "Polysaccharides"
+  },
+  {
+    "q": "T-independent antigens activate B cells by:",
+    "a": ["MHC II presentation", "CD40 signaling", "Cross-linking multiple BCRs", "CD8 activation", "IL-2 secretion"],
+    "c": 2,
+    "l": "Large multivalent antigens cross-link many BCRs.",
+    "h": "Cross-linking"
+  },
+  {
+    "q": "The main antibody produced in T-independent responses is:",
+    "a": ["IgG", "IgA", "IgE", "IgM", "IgD"],
+    "c": 3,
+    "l": "T-independent responses produce mainly IgM.",
+    "h": "IgM"
+  },
+  {
+    "q": "T-independent responses generate:",
+    "a": ["Strong memory", "Long-lived plasma cells", "No significant memory", "IgE only", "Affinity maturation"],
+    "c": 2,
+    "l": "T-independent antigens generate little or no memory.",
+    "h": "No memory"
+  },
+  {
+    "q": "PPSV23 is an example of:",
+    "a": ["Live vaccine", "T-dependent vaccine", "T-independent vaccine", "mRNA vaccine", "Toxoid vaccine"],
+    "c": 2,
+    "l": "PPSV23 contains unconjugated polysaccharide antigen.",
+    "h": "PPSV23"
+  },
+  {
+    "q": "PCV13 is an example of:",
+    "a": ["T-independent vaccine", "Conjugate vaccine", "Live vaccine", "Killed vaccine", "DNA vaccine"],
+    "c": 1,
+    "l": "PCV13 is polysaccharide conjugated to diphtheria toxoid.",
+    "h": "Conjugate"
+  },
+  {
+    "q": "Most B cells are:",
+    "a": ["B-1 cells", "Marginal zone B cells", "Follicular B cells", "Memory B cells", "Plasma cells"],
+    "c": 2,
+    "l": "Follicular B cells are the major B-cell population.",
+    "h": "Follicular"
+  },
+  {
+    "q": "B cells present antigen to Tfh cells using:",
+    "a": ["MHC I", "MHC II", "CD8", "CD16", "CD56"],
+    "c": 1,
+    "l": "B cells present processed antigen on MHC II.",
+    "h": "MHC II"
+  },
+  {
+    "q": "A critical interaction required for class switching is:",
+    "a": ["CD28-B7", "CD3-TCR", "CD40-CD40L", "CD8-MHC I", "CD21-CR2"],
+    "c": 2,
+    "l": "Class switching requires CD40 on B cells and CD40L on T cells.",
+    "h": "CD40"
+  },
+  {
+    "q": "The first wave of activated B cells mainly produces:",
+    "a": ["IgA", "IgE", "IgG", "IgM", "IgD"],
+    "c": 3,
+    "l": "Primary antibody response is predominantly IgM.",
+    "h": "Primary response"
+  },
+  {
+    "q": "The second wave of activated B cells occurs in:",
+    "a": ["Thymus", "Bone marrow", "Germinal center", "Blood", "Skin"],
+    "c": 2,
+    "l": "Affinity maturation and class switching occur in germinal centers.",
+    "h": "Germinal center"
+  },
+  {
+    "q": "Germinal centers are sites of:",
+    "a": ["Neutrophil maturation", "Class switching", "Platelet formation", "NK activation", "Complement synthesis"],
+    "c": 1,
+    "l": "Class switching occurs within germinal centers.",
+    "h": "Switching"
+  },
+  {
+    "q": "Germinal centers are sites of:",
+    "a": ["Somatic hypermutation", "Complement activation", "Apoptosis only", "Tolerance only", "Cytotoxicity"],
+    "c": 0,
+    "l": "Somatic hypermutation occurs in germinal centers.",
+    "h": "Hypermutation"
+  },
+  {
+    "q": "Affinity refers to:",
+    "a": ["Total binding strength", "Antibody concentration", "Strength of one antibody-antigen interaction", "Valency", "Opsonization"],
+    "c": 2,
+    "l": "Affinity measures the strength of a single interaction.",
+    "h": "Single binding"
+  },
+  {
+    "q": "Avidity refers to:",
+    "a": ["Single binding strength", "Overall binding strength", "Class switching", "Specificity", "Memory"],
+    "c": 1,
+    "l": "Avidity is the overall strength of all antibody-antigen interactions.",
+    "h": "Overall strength"
+  },
+  {
+    "q": "Which immunoglobulin has the highest avidity?",
+    "a": ["IgG", "IgA", "IgE", "IgD", "IgM"],
+    "c": 4,
+    "l": "Pentameric IgM has the highest avidity.",
+    "h": "Pentamer"
+  },
+  {
+    "q": "Somatic hypermutation occurs in the:",
+    "a": ["Constant region", "Fc region", "Variable region", "Hinge region", "J chain"],
+    "c": 2,
+    "l": "Somatic hypermutation affects variable region genes.",
+    "h": "Variable region"
+  },
+  {
+    "q": "Affinity maturation results in:",
+    "a": ["Lower affinity", "No change in binding", "Higher affinity antibodies", "Class switching only", "Memory loss"],
+    "c": 2,
+    "l": "Affinity maturation increases antigen-binding strength.",
+    "h": "Higher affinity"
+  },
+  {
+    "q": "Class switching changes the:",
+    "a": ["Variable region", "Antigen specificity", "Heavy-chain constant region", "Light chain", "CDR region"],
+    "c": 2,
+    "l": "Class switching changes the heavy-chain constant region.",
+    "h": "Constant region"
+  },
+  {
+    "q": "Class switching does NOT change:",
+    "a": ["Isotype", "Fc function", "Heavy chain", "Antigen specificity", "Antibody class"],
+    "c": 3,
+    "l": "The variable region remains unchanged.",
+    "h": "Specificity"
+  },
+  {
+    "q": "A B cell can switch from IgM to:",
+    "a": ["IgG", "IgA", "IgE", "All of the above", "None"],
+    "c": 3,
+    "l": "IgM can switch to IgG, IgA, or IgE.",
+    "h": "Switching"
+  },
+  {
+    "q": "Class switching is:",
+    "a": ["Reversible", "Bidirectional", "Irreversible", "Temporary", "Random"],
+    "c": 2,
+    "l": "Deleted DNA cannot be restored.",
+    "h": "One-way"
+  },
+  {
+    "q": "IL-4 promotes production of:",
+    "a": ["IgA", "IgG", "IgM", "IgE", "IgD"],
+    "c": 3,
+    "l": "IL-4 drives class switching to IgE.",
+    "h": "Allergy"
+  },
+  {
+    "q": "IL-13 also promotes production of:",
+    "a": ["IgM", "IgA", "IgE", "IgG", "IgD"],
+    "c": 2,
+    "l": "IL-13 assists IgE class switching.",
+    "h": "IgE"
+  },
+  {
+    "q": "IL-5 promotes production of:",
+    "a": ["IgM", "IgG", "IgD", "IgE", "IgA"],
+    "c": 4,
+    "l": "IL-5 enhances switching to IgA.",
+    "h": "Mucosal antibody"
+  },
+  {
+    "q": "Hyper-IgM syndrome is caused by defective:",
+    "a": ["CD3-CD28", "CD40-CD40L", "MHC I", "MHC II", "CR2"],
+    "c": 1,
+    "l": "Failure of CD40-CD40L interaction prevents class switching.",
+    "h": "CD40L defect"
+  },
+  {
+    "q": "Patients with Hyper-IgM syndrome cannot produce:",
+    "a": ["IgM", "IgG, IgA and IgE", "IgD", "Complement", "Cytokines"],
+    "c": 1,
+    "l": "Class switching fails, leaving only IgM production.",
+    "h": "Only IgM"
+  },
+  {
+    "q": "The predominant immunoglobulin in Hyper-IgM syndrome is:",
+    "a": ["IgA", "IgE", "IgG", "IgM", "IgD"],
+    "c": 3,
+    "l": "Only IgM is produced.",
+    "h": "Hyper-IgM"
+  },
+  {
+    "q": "Hyper-IgM syndrome commonly causes:",
+    "a": ["Skin cancer", "Sinopulmonary infections", "Hemolysis", "Thrombosis", "Arthritis"],
+    "c": 1,
+    "l": "Recurrent respiratory infections are characteristic.",
+    "h": "Respiratory"
+  },
+  {
+    "q": "Hyper-IgM syndrome may also cause recurrent:",
+    "a": ["GI infections", "Eye infections", "Bone tumors", "Melanoma", "Anemia"],
+    "c": 0,
+    "l": "GI infections are common due to impaired mucosal immunity.",
+    "h": "GI"
+  },
+  {
+    "q": "Memory B cells are generated mainly during:",
+    "a": ["T-independent responses", "Germinal center reactions", "Innate immunity", "Complement activation", "Inflammation only"],
+    "c": 1,
+    "l": "Memory B cells arise during germinal center reactions.",
+    "h": "Memory"
+  }
+],
+
 "8_cell_mediated_immune_response":
     [
   {
