@@ -3145,6 +3145,219 @@
   }
 ],
 
+"7_mhc" : [
+  {
+    "q": "The HLA genes that encode MHC proteins are located on:",
+    "a": ["Chromosome 1", "Chromosome 6", "Chromosome 11", "Chromosome 14", "Chromosome X"],
+    "c": 1,
+    "l": "HLA genes are clustered on chromosome 6.",
+    "h": "Chromosome 6"
+  },
+  {
+    "q": "MHC proteins are best described as:",
+    "a": ["Autoantigens", "Alloantigens", "Superantigens", "Haptens", "Mitogens"],
+    "c": 1,
+    "l": "MHC proteins differ among members of the same species and are alloantigens.",
+    "h": "Alloantigens"
+  },
+  {
+    "q": "MHC Class III locus encodes:",
+    "a": ["HLA-A", "HLA-B", "Complement C2 and C4", "β2-microglobulin", "Invariant chain"],
+    "c": 2,
+    "l": "Class III encodes complement components and cytokines, not histocompatibility antigens.",
+    "h": "C2 and C4"
+  },
+  {
+    "q": "MHC Class I consists of:",
+    "a": ["Two alpha chains", "Alpha heavy chain and β2-microglobulin", "Alpha and beta chains of equal size", "Invariant chain and TAP", "Two beta chains"],
+    "c": 1,
+    "l": "Class I contains an α heavy chain associated with β2-microglobulin.",
+    "h": "β2-microglobulin"
+  },
+  {
+    "q": "β2-microglobulin is required for:",
+    "a": ["MHC II expression", "CD4 activation", "MHC I expression", "B-cell activation", "TAP transport"],
+    "c": 2,
+    "l": "Without β2-microglobulin, MHC I cannot be expressed.",
+    "h": "MHC I"
+  },
+  {
+    "q": "A mutation in β2-microglobulin results in:",
+    "a": ["No MHC II expression", "No MHC I expression", "No TAP function", "No B cells", "No antibodies"],
+    "c": 1,
+    "l": "β2-microglobulin mutations prevent MHC I surface expression.",
+    "h": "No MHC I"
+  },
+  {
+    "q": "The peptide-binding groove of MHC I typically holds:",
+    "a": ["4-5 amino acids", "6-7 amino acids", "8-9 amino acids", "11-15 amino acids", "20 amino acids"],
+    "c": 2,
+    "l": "MHC I binds short peptides of 8-9 amino acids.",
+    "h": "8-9 aa"
+  },
+  {
+    "q": "The peptide-binding groove of MHC II typically holds:",
+    "a": ["5 amino acids", "8-9 amino acids", "10 amino acids", "11 or more amino acids", "Exactly 20 amino acids"],
+    "c": 3,
+    "l": "MHC II accommodates longer peptides of 11+ amino acids.",
+    "h": "11+ aa"
+  },
+  {
+    "q": "MHC Class I molecules bind to:",
+    "a": ["CD4+ T cells", "B cells", "CD8+ T cells", "NK cells", "Macrophages"],
+    "c": 2,
+    "l": "MHC I presents antigens to CD8+ cytotoxic T cells.",
+    "h": "CD8"
+  },
+  {
+    "q": "MHC Class II molecules bind to:",
+    "a": ["CD8+ T cells", "CD4+ T cells", "NK cells", "B cells", "Neutrophils"],
+    "c": 1,
+    "l": "MHC II presents antigens to CD4+ helper T cells.",
+    "h": "CD4"
+  },
+  {
+    "q": "MHC Class I loci include:",
+    "a": ["DP, DQ, DR", "A, B, C", "C2, C4", "DR only", "DQ only"],
+    "c": 1,
+    "l": "Class I molecules are encoded by HLA-A, HLA-B, and HLA-C.",
+    "h": "A B C"
+  },
+  {
+    "q": "MHC Class II loci include:",
+    "a": ["A, B, C", "B8, B27", "DP, DQ, DR", "C2, C4", "TNF"],
+    "c": 2,
+    "l": "Class II molecules are encoded by HLA-DP, DQ, and DR.",
+    "h": "DP DQ DR"
+  },
+  {
+    "q": "MHC Class I is expressed on:",
+    "a": ["APCs only", "B cells only", "All nucleated cells", "RBCs only", "Neutrophils only"],
+    "c": 2,
+    "l": "All nucleated cells express MHC I.",
+    "h": "Nucleated"
+  },
+  {
+    "q": "Which cell does NOT express MHC Class I?",
+    "a": ["Platelet", "Macrophage", "B cell", "RBC", "Dendritic cell"],
+    "c": 3,
+    "l": "Red blood cells lack nuclei and do not express MHC I.",
+    "h": "RBC"
+  },
+  {
+    "q": "MHC Class II is primarily expressed on:",
+    "a": ["All nucleated cells", "Platelets", "APCs", "RBCs", "Muscle cells"],
+    "c": 2,
+    "l": "Class II is expressed on professional antigen-presenting cells.",
+    "h": "APCs"
+  },
+  {
+    "q": "MHC Class I presents which type of antigen?",
+    "a": ["Extracellular", "Food antigens", "Endogenous", "Allergens", "Environmental"],
+    "c": 2,
+    "l": "Class I presents endogenous antigens such as viral proteins.",
+    "h": "Endogenous"
+  },
+  {
+    "q": "MHC Class II presents which type of antigen?",
+    "a": ["Endogenous", "Extracellular", "Self proteins", "Tumor proteins", "Cytosolic proteins"],
+    "c": 1,
+    "l": "Class II presents extracellular antigens to helper T cells.",
+    "h": "Extracellular"
+  },
+  {
+    "q": "Endogenous antigens are degraded in:",
+    "a": ["Lysosomes", "Golgi", "Proteasomes", "Nucleus", "Mitochondria"],
+    "c": 2,
+    "l": "Viral and cytosolic proteins are processed by proteasomes.",
+    "h": "Proteasome"
+  },
+  {
+    "q": "TAP transports peptides into the:",
+    "a": ["Nucleus", "Golgi", "ER", "Lysosome", "Cytoplasm"],
+    "c": 2,
+    "l": "TAP delivers peptides into the ER for MHC I loading.",
+    "h": "ER"
+  },
+  {
+    "q": "TAP deficiency causes deficiency of:",
+    "a": ["CD4+ T cells", "B cells", "CD8+ T cells", "NK cells", "Plasma cells"],
+    "c": 2,
+    "l": "TAP deficiency impairs MHC I loading and reduces CD8+ T cells.",
+    "h": "CD8"
+  },
+  {
+    "q": "Extracellular proteins are processed in:",
+    "a": ["Proteasomes", "ER", "Late endosomes and lysosomes", "Nucleus", "Golgi"],
+    "c": 2,
+    "l": "Class II antigens are processed in endosomes and lysosomes.",
+    "h": "Lysosomes"
+  },
+  {
+    "q": "The invariant chain functions to:",
+    "a": ["Transport TAP", "Activate CD8 cells", "Block the MHC II peptide groove", "Degrade proteins", "Activate B cells"],
+    "c": 2,
+    "l": "Invariant chain prevents premature peptide loading onto MHC II.",
+    "h": "Blocks groove"
+  },
+  {
+    "q": "Invariant chain is removed in:",
+    "a": ["ER", "Golgi", "Acidic vesicles", "Nucleus", "Cytosol"],
+    "c": 2,
+    "l": "Acidic vesicles dissolve the invariant chain to allow peptide loading.",
+    "h": "Acidic vesicles"
+  },
+  {
+    "q": "MHC molecules without peptide are:",
+    "a": ["Highly stable", "Overexpressed", "Unstable", "More immunogenic", "More active"],
+    "c": 2,
+    "l": "MHC molecules require peptide loading for stability.",
+    "h": "Unstable"
+  },
+  {
+    "q": "MHC molecules without peptide will:",
+    "a": ["Activate NK cells", "Be expressed normally", "Not reach the cell surface", "Bind antibodies", "Increase cytokines"],
+    "c": 2,
+    "l": "Peptide loading is required for surface expression.",
+    "h": "No surface"
+  },
+  {
+    "q": "MHC Class II deficiency results in deficiency of:",
+    "a": ["CD8+ T cells", "CD4+ T cells", "B cells", "NK cells", "Neutrophils"],
+    "c": 1,
+    "l": "MHC II deficiency impairs CD4+ T-cell development.",
+    "h": "CD4"
+  },
+  {
+    "q": "Expression of MHC alleles is:",
+    "a": ["Recessive", "Dominant", "Codominant", "Incomplete dominant", "Random"],
+    "c": 2,
+    "l": "Both maternal and paternal MHC alleles are expressed equally.",
+    "h": "Codominant"
+  },
+  {
+    "q": "The combination of MHC alleles on one chromosome is called a:",
+    "a": ["Genotype", "Phenotype", "Haplotype", "Isotype", "Allotype"],
+    "c": 2,
+    "l": "A haplotype refers to the MHC genes inherited together on one chromosome.",
+    "h": "Haplotype"
+  },
+  {
+    "q": "The chance that siblings are an identical HLA match is:",
+    "a": ["10%", "25%", "50%", "75%", "100%"],
+    "c": 1,
+    "l": "Siblings have a 25% chance of sharing both haplotypes.",
+    "h": "25%"
+  },
+  {
+    "q": "A parent used as a transplant donor is considered a:",
+    "a": ["0-haplotype match", "1-haplotype match", "2-haplotype match", "Identical match", "3-haplotype match"],
+    "c": 1,
+    "l": "Parents always share one haplotype with their children.",
+    "h": "1-haplotype"
+  }
+],
+
 "8_cell_mediated_immune_response":
     [
   {
