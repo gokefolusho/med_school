@@ -2819,6 +2819,289 @@
   }
 ],
 
+"10_immunoassays" : [
+  {
+    "q": "A diagnostic test correctly identifies individuals who have a disease. This property is known as:",
+    "a": ["Specificity", "Sensitivity", "Accuracy", "Precision", "Validity"],
+    "c": 1,
+    "l": "Sensitivity is the ability to correctly identify diseased individuals.",
+    "h": "Few false negatives"
+  },
+  {
+    "q": "A highly sensitive test is characterized by:",
+    "a": ["Few false positives", "Few false negatives", "Many false positives", "Many false negatives", "Low accuracy"],
+    "c": 1,
+    "l": "High sensitivity means very few false negatives.",
+    "h": "SNOUT"
+  },
+  {
+    "q": "Specificity refers to the ability of a test to:",
+    "a": ["Identify diseased individuals", "Measure antibody levels", "Correctly identify healthy individuals", "Detect antigens only", "Detect antibodies only"],
+    "c": 2,
+    "l": "Specificity identifies those who do not have the disease.",
+    "h": "Few false positives"
+  },
+  {
+    "q": "A highly specific test has:",
+    "a": ["Few false positives", "Few false negatives", "Many false positives", "Low sensitivity", "High prevalence"],
+    "c": 0,
+    "l": "High specificity means very few false positives.",
+    "h": "SPIN"
+  },
+  {
+    "q": "Which diagnostic method has the highest sensitivity for detecting infectious agents?",
+    "a": ["Western blot", "ELISA", "PCR", "Flow cytometry", "VDRL"],
+    "c": 2,
+    "l": "PCR has the highest sensitivity among these tests.",
+    "h": "PCR"
+  },
+  {
+    "q": "Which diagnostic method is known for having the highest specificity?",
+    "a": ["ELISA", "PCR", "Agglutination", "Western blot", "VDRL"],
+    "c": 3,
+    "l": "Western blot is highly specific and commonly used for confirmation.",
+    "h": "Confirmation"
+  },
+  {
+    "q": "Agglutination refers to:",
+    "a": ["Aggregation of soluble antigens", "Cross-linking of antibodies with particulate antigens", "Complement activation", "Cell lysis", "Protein electrophoresis"],
+    "c": 1,
+    "l": "Agglutination involves particulate antigens forming visible clumps.",
+    "h": "Particulate antigens"
+  },
+  {
+    "q": "Hemagglutination specifically refers to agglutination of:",
+    "a": ["Platelets", "Bacteria", "RBCs", "Viruses", "WBCs"],
+    "c": 2,
+    "l": "Hemagglutination is agglutination involving red blood cells.",
+    "h": "RBCs"
+  },
+  {
+    "q": "Blood typing is commonly performed using:",
+    "a": ["Precipitation", "Hemagglutination", "ELISA", "Western blot", "PCR"],
+    "c": 1,
+    "l": "Blood grouping relies on hemagglutination reactions.",
+    "h": "Blood group"
+  },
+  {
+    "q": "The Quellung reaction is primarily used to detect:",
+    "a": ["DNA", "RNA", "Capsules", "Antibodies", "Complement"],
+    "c": 2,
+    "l": "Quellung reaction demonstrates capsular swelling.",
+    "h": "Capsule"
+  },
+  {
+    "q": "Latex agglutination differs from standard agglutination because antibodies are attached to:",
+    "a": ["RBCs", "Platelets", "Latex beads", "Complement", "Viruses"],
+    "c": 2,
+    "l": "Latex beads make antigen-antibody reactions more visible.",
+    "h": "Latex beads"
+  },
+  {
+    "q": "Precipitation reactions involve aggregation of:",
+    "a": ["Particulate antigens", "Soluble antigens", "RBCs", "WBCs", "Viruses"],
+    "c": 1,
+    "l": "Precipitation occurs with soluble antigens.",
+    "h": "Soluble"
+  },
+  {
+    "q": "The VDRL test is an example of:",
+    "a": ["Agglutination", "Precipitation", "ELISA", "Western blot", "PCR"],
+    "c": 1,
+    "l": "VDRL is a precipitation test used for syphilis screening.",
+    "h": "Syphilis"
+  },
+  {
+    "q": "The equivalence zone is characterized by:",
+    "a": ["Excess antigen", "Excess antibody", "Optimal antigen-antibody ratio", "No antibody", "No antigen"],
+    "c": 2,
+    "l": "Maximum lattice formation occurs in the equivalence zone.",
+    "h": "Optimal ratio"
+  },
+  {
+    "q": "The prozone phenomenon occurs due to:",
+    "a": ["Excess antigen", "Excess antibody", "Complement deficiency", "No antibodies", "Hemolysis"],
+    "c": 1,
+    "l": "Excess antibody prevents proper lattice formation.",
+    "h": "False negative"
+  },
+  {
+    "q": "A false-negative VDRL test may result from:",
+    "a": ["Low antibody levels", "Prozone phenomenon", "PCR contamination", "Complement activation", "Western blot"],
+    "c": 1,
+    "l": "Excess antibody can cause a false-negative VDRL result.",
+    "h": "Prozone"
+  },
+  {
+    "q": "The prozone effect can be corrected by:",
+    "a": ["Heating serum", "Adding antigen", "Diluting serum", "Adding complement", "Adding RBCs"],
+    "c": 2,
+    "l": "Dilution reduces antibody excess and reveals positivity.",
+    "h": "Dilution"
+  },
+  {
+    "q": "An antibody titer is defined as:",
+    "a": ["Highest antigen concentration", "Reciprocal of highest positive dilution", "Lowest dilution tested", "Amount of complement", "IgG concentration"],
+    "c": 1,
+    "l": "Titer equals the reciprocal of the highest dilution with a positive reaction.",
+    "h": "Reciprocal"
+  },
+  {
+    "q": "If the highest positive serum dilution is 1:160, the antibody titer is:",
+    "a": ["80", "160", "320", "640", "20"],
+    "c": 1,
+    "l": "Titer equals 160.",
+    "h": "1:160"
+  },
+  {
+    "q": "The primary purpose of measuring antibody titers is to:",
+    "a": ["Detect DNA", "Monitor disease progression", "Count lymphocytes", "Detect capsules", "Measure complement"],
+    "c": 1,
+    "l": "Titers are used to follow disease progression and immunity.",
+    "h": "Progression"
+  },
+  {
+    "q": "Seroconversion refers to:",
+    "a": ["Loss of antibodies", "Appearance of detectable antibodies", "Loss of antigen", "Complement activation", "Cell lysis"],
+    "c": 1,
+    "l": "Seroconversion is the development of detectable antibodies.",
+    "h": "Antibodies appear"
+  },
+  {
+    "q": "ELISA is primarily used to detect:",
+    "a": ["DNA only", "RNA only", "Antigens and antibodies", "Complement only", "RBCs only"],
+    "c": 2,
+    "l": "ELISA can detect either antigens or antibodies.",
+    "h": "Ag and Ab"
+  },
+  {
+    "q": "The initial screening test for HIV infection is:",
+    "a": ["Western blot", "ELISA", "Flow cytometry", "IFA", "VDRL"],
+    "c": 1,
+    "l": "ELISA is the classic HIV screening test.",
+    "h": "Screening"
+  },
+  {
+    "q": "The enzyme commonly used in ELISA is:",
+    "a": ["Catalase", "Peroxidase (HRP)", "DNA polymerase", "Reverse transcriptase", "Ligase"],
+    "c": 1,
+    "l": "Horseradish peroxidase (HRP) is commonly used.",
+    "h": "HRP"
+  },
+  {
+    "q": "In ELISA, a positive result is indicated by:",
+    "a": ["Hemolysis", "Agglutination", "Color change", "Precipitation", "Cell death"],
+    "c": 2,
+    "l": "Enzyme activity produces a visible color change.",
+    "h": "Color"
+  },
+  {
+    "q": "The secondary antibody used in ELISA should be raised in:",
+    "a": ["The same species as the primary antibody", "A different species", "The patient", "A virus", "A bacterium"],
+    "c": 1,
+    "l": "Secondary antibodies are produced in a different host species.",
+    "h": "Different host"
+  },
+  {
+    "q": "Western blot is mainly used to:",
+    "a": ["Screen disease", "Confirm positive screening tests", "Count cells", "Measure titers", "Detect capsules"],
+    "c": 1,
+    "l": "Western blot is a highly specific confirmatory test.",
+    "h": "Confirm"
+  },
+  {
+    "q": "Proteins in Western blot are first separated by:",
+    "a": ["PCR", "Electrophoresis", "Agglutination", "Complement fixation", "Hemolysis"],
+    "c": 1,
+    "l": "Gel electrophoresis separates proteins by size.",
+    "h": "Electrophoresis"
+  },
+  {
+    "q": "Northern blot is used to detect:",
+    "a": ["DNA", "RNA", "Proteins", "Antibodies", "Lipids"],
+    "c": 1,
+    "l": "Northern blot detects RNA.",
+    "h": "RNA"
+  },
+  {
+    "q": "Southern blot is used to detect:",
+    "a": ["DNA", "RNA", "Proteins", "Antibodies", "Cells"],
+    "c": 0,
+    "l": "Southern blot detects DNA.",
+    "h": "DNA"
+  },
+  {
+    "q": "Flow cytometry is commonly used in HIV patients to determine:",
+    "a": ["Viral load", "CD4+ T-cell count", "Antibody titer", "Complement levels", "IgE levels"],
+    "c": 1,
+    "l": "Flow cytometry measures CD4+ T-cell numbers.",
+    "h": "CD4"
+  },
+  {
+    "q": "Flow cytometry can assess all of the following EXCEPT:",
+    "a": ["Cell size", "Granularity", "Immunophenotype", "DNA sequence", "Surface markers"],
+    "c": 3,
+    "l": "Flow cytometry does not sequence DNA.",
+    "h": "DNA sequence"
+  },
+  {
+    "q": "In a CD4/CD8 flow cytometry plot, double-negative cells appear in the:",
+    "a": ["Upper right", "Upper left", "Lower left", "Lower right", "Center"],
+    "c": 2,
+    "l": "CD4− CD8− cells are located in the lower left quadrant.",
+    "h": "Lower left"
+  },
+  {
+    "q": "CD4+ single-positive cells are found in which quadrant of a CD4/CD8 flow cytometry plot?",
+    "a": ["Upper left", "Upper right", "Lower left", "Lower right", "Center"],
+    "c": 3,
+    "l": "CD4+ cells occupy the lower right quadrant.",
+    "h": "Lower right"
+  },
+  {
+    "q": "CD8+ single-positive cells appear in the:",
+    "a": ["Upper left", "Upper right", "Lower left", "Lower right", "Center"],
+    "c": 0,
+    "l": "CD8+ cells are located in the upper left quadrant.",
+    "h": "Upper left"
+  },
+  {
+    "q": "Immature CD4+CD8+ thymocytes appear in the:",
+    "a": ["Upper right", "Upper left", "Lower right", "Lower left", "Center"],
+    "c": 0,
+    "l": "Double-positive cells are found in the upper right quadrant.",
+    "h": "Double positive"
+  },
+  {
+    "q": "Direct fluorescent antibody testing (DFA) is primarily used to detect:",
+    "a": ["Antibodies in serum", "Antigens in patient samples", "DNA", "RNA", "Complement"],
+    "c": 1,
+    "l": "DFA directly detects antigens using fluorescent antibodies.",
+    "h": "Antigen"
+  },
+  {
+    "q": "Indirect fluorescent antibody testing (IFA) is primarily used to detect:",
+    "a": ["Antigens", "Capsules", "Antibodies in patient serum", "DNA", "RNA"],
+    "c": 2,
+    "l": "IFA detects patient antibodies using fluorescent secondary antibodies.",
+    "h": "Antibody"
+  },
+  {
+    "q": "A fluorescent antibody test requires:",
+    "a": ["Electron microscope", "Fluorescent microscope", "PCR machine", "Flow cytometer", "Spectrophotometer"],
+    "c": 1,
+    "l": "Fluorescence is visualized using a fluorescent microscope.",
+    "h": "Microscope"
+  },
+  {
+    "q": "In the complement fixation test, a positive result is indicated by:",
+    "a": ["Hemolysis of RBCs", "No hemolysis of RBCs", "Agglutination", "Color change", "Precipitation"],
+    "c": 1,
+    "l": "Positive test = antibodies present = complement fixed = no RBC hemolysis.",
+    "h": "No hemolysis"
+  }
+],
+
 "11_immunization": [
   {
     "q": "Which type of immunity occurs when the body produces its own antibodies after exposure to an antigen?",
