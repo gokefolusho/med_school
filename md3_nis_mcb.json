@@ -3947,6 +3947,296 @@
   }
 ],
 
+"9_memory_tolerance" : [
+  {
+    "q": "Immunologic tolerance induced when developing lymphocytes encounter self-antigens in primary lymphoid organs is called:",
+    "a": ["Peripheral tolerance", "Central tolerance", "Anergy", "Clonal expansion", "Affinity maturation"],
+    "c": 1,
+    "l": "Central tolerance occurs in thymus and bone marrow.",
+    "h": "Primary lymphoid organs"
+  },
+  {
+    "q": "Immunologic tolerance induced when mature lymphocytes encounter self-antigens in peripheral tissues is called:",
+    "a": ["Central tolerance", "Positive selection", "Peripheral tolerance", "Class switching", "Somatic mutation"],
+    "c": 2,
+    "l": "Peripheral tolerance occurs in secondary lymphoid organs and tissues.",
+    "h": "Mature lymphocytes"
+  },
+  {
+    "q": "Which process allows self-reactive B cells to change their antigen specificity?",
+    "a": ["Class switching", "Anergy", "Receptor editing", "Affinity maturation", "Opsonization"],
+    "c": 2,
+    "l": "Receptor editing is unique to B cells during central tolerance.",
+    "h": "B cells"
+  },
+  {
+    "q": "Anergy in T cells is best defined as:",
+    "a": ["Apoptosis", "Functional unresponsiveness", "Hyperactivation", "Memory formation", "Clonal expansion"],
+    "c": 1,
+    "l": "Anergic T cells survive but fail to respond to antigen.",
+    "h": "Unresponsive"
+  },
+  {
+    "q": "T-cell anergy commonly occurs when antigen is recognized without:",
+    "a": ["MHC molecules", "Costimulation", "Cytokines", "CD4", "CD8"],
+    "c": 1,
+    "l": "Lack of costimulation induces T-cell anergy.",
+    "h": "Costimulation"
+  },
+  {
+    "q": "Which inhibitory receptor promotes T-cell anergy?",
+    "a": ["CD28", "CD40L", "CTLA-4", "CD3", "CD8"],
+    "c": 2,
+    "l": "CTLA-4 inhibits T-cell activation.",
+    "h": "Inhibitory receptor"
+  },
+  {
+    "q": "Another inhibitory receptor involved in peripheral tolerance is:",
+    "a": ["PD-1", "CD19", "CD21", "CD16", "CD56"],
+    "c": 0,
+    "l": "PD-1 suppresses T-cell responses.",
+    "h": "Checkpoint"
+  },
+  {
+    "q": "Positive selection ensures that mature T cells are:",
+    "a": ["Self-reactive", "MHC-restricted", "Antibody-producing", "Memory cells", "Anergic"],
+    "c": 1,
+    "l": "Positive selection establishes MHC restriction.",
+    "h": "MHC restriction"
+  },
+  {
+    "q": "Negative selection primarily ensures:",
+    "a": ["Class switching", "Self-tolerance", "Affinity maturation", "Memory formation", "Opsonization"],
+    "c": 1,
+    "l": "Negative selection eliminates autoreactive T cells.",
+    "h": "Self-tolerance"
+  },
+  {
+    "q": "Failure of negative selection most likely results in:",
+    "a": ["Immunodeficiency", "Autoimmune disease", "Leukemia", "Allergy", "Anaphylaxis"],
+    "c": 1,
+    "l": "Autoreactive T cells escape deletion.",
+    "h": "Autoimmunity"
+  },
+  {
+    "q": "Approximately what percentage of thymocytes survive thymic selection?",
+    "a": ["50%", "25%", "10%", "5%", "1%"],
+    "c": 3,
+    "l": "Less than 5% survive positive and negative selection.",
+    "h": "Thymocytes"
+  },
+  {
+    "q": "Positive selection occurs primarily in the:",
+    "a": ["Bone marrow", "Thymic cortex", "Thymic medulla", "Spleen", "Lymph node"],
+    "c": 1,
+    "l": "Positive selection occurs in the cortex.",
+    "h": "Cortex"
+  },
+  {
+    "q": "Negative selection occurs primarily in the:",
+    "a": ["Thymic cortex", "Bone marrow", "Thymic medulla", "Liver", "Spleen"],
+    "c": 2,
+    "l": "Negative selection occurs in the medulla.",
+    "h": "Medulla"
+  },
+  {
+    "q": "MHC restriction means T cells recognize antigens only when presented by:",
+    "a": ["Antibodies", "Self-MHC", "Complement", "NK cells", "B cells"],
+    "c": 1,
+    "l": "T cells require antigen presentation on self-MHC.",
+    "h": "Self-MHC"
+  },
+  {
+    "q": "Which protein allows thymic expression of tissue-restricted antigens?",
+    "a": ["FoxP3", "AIRE", "RAG", "TdT", "CTLA-4"],
+    "c": 1,
+    "l": "AIRE promotes expression of peripheral antigens in thymus.",
+    "h": "Thymus"
+  },
+  {
+    "q": "Mutation of AIRE causes:",
+    "a": ["SCID", "IPEX syndrome", "Autoimmune polyendocrine syndrome", "DiGeorge syndrome", "Wiskott-Aldrich syndrome"],
+    "c": 2,
+    "l": "AIRE deficiency impairs negative selection.",
+    "h": "AIRE"
+  },
+  {
+    "q": "Regulatory T-cell development depends on which transcription factor?",
+    "a": ["T-bet", "GATA3", "FoxP3", "RORγt", "NF-κB"],
+    "c": 2,
+    "l": "FoxP3 is the master regulator of Tregs.",
+    "h": "Treg"
+  },
+  {
+    "q": "Regulatory T cells are primarily:",
+    "a": ["CD8+", "CD4+", "CD19+", "CD16+", "CD21+"],
+    "c": 1,
+    "l": "Tregs are a specialized subset of CD4+ T cells.",
+    "h": "CD4"
+  },
+  {
+    "q": "Which cytokine is required for generation and maintenance of Tregs?",
+    "a": ["IL-1", "IL-4", "IL-6", "IL-2", "IL-17"],
+    "c": 3,
+    "l": "IL-2 is essential for Treg survival.",
+    "h": "IL-2"
+  },
+  {
+    "q": "FoxP3 mutation results in:",
+    "a": ["IPEX syndrome", "SCID", "Bruton agammaglobulinemia", "DiGeorge syndrome", "CGD"],
+    "c": 0,
+    "l": "IPEX syndrome is caused by FoxP3 mutation.",
+    "h": "FoxP3"
+  },
+  {
+    "q": "A characteristic feature of IPEX syndrome is:",
+    "a": ["Chronic granulomas", "Eczema", "Absent B cells", "Neutropenia", "Thrombocytopenia"],
+    "c": 1,
+    "l": "IPEX commonly presents with eczema.",
+    "h": "Eczema"
+  },
+  {
+    "q": "Another hallmark feature of IPEX syndrome is:",
+    "a": ["Type 1 diabetes mellitus", "Asthma", "Celiac disease", "TB", "Hodgkin lymphoma"],
+    "c": 0,
+    "l": "Autoimmune endocrine disease is common in IPEX.",
+    "h": "Endocrine"
+  },
+  {
+    "q": "Which cells suppress activation of potentially harmful self-reactive lymphocytes?",
+    "a": ["Th1 cells", "Th2 cells", "Treg cells", "NK cells", "Plasma cells"],
+    "c": 2,
+    "l": "Tregs maintain self-tolerance.",
+    "h": "Suppression"
+  },
+  {
+    "q": "Strong binding of immature B cells to self-antigens in bone marrow leads to:",
+    "a": ["Activation", "Memory formation", "Apoptosis", "Class switching", "Hypermutation"],
+    "c": 2,
+    "l": "Self-reactive B cells undergo clonal deletion.",
+    "h": "Deletion"
+  },
+  {
+    "q": "Only B cells with what affinity for self-antigens progress to maturity?",
+    "a": ["High", "Moderate", "Low", "Very high", "Extreme"],
+    "c": 2,
+    "l": "Low self-reactivity allows survival.",
+    "h": "Low affinity"
+  },
+  {
+    "q": "The first antibody produced during a primary immune response is:",
+    "a": ["IgG", "IgA", "IgE", "IgM", "IgD"],
+    "c": 3,
+    "l": "IgM is the earliest antibody produced.",
+    "h": "Primary response"
+  },
+  {
+    "q": "During a primary immune response, IgM is followed by:",
+    "a": ["IgG", "IgD", "IgE only", "No other antibodies", "Complement"],
+    "c": 0,
+    "l": "Class switching generates IgG and other isotypes.",
+    "h": "Class switch"
+  },
+  {
+    "q": "The secondary immune response is primarily due to:",
+    "a": ["Neutrophils", "Memory cells", "Complement", "Macrophages", "Platelets"],
+    "c": 1,
+    "l": "Memory cells mediate faster responses.",
+    "h": "Memory"
+  },
+  {
+    "q": "Compared with the primary response, the secondary response is:",
+    "a": ["Slower", "Equal", "Faster", "Absent", "Delayed"],
+    "c": 2,
+    "l": "Memory cells accelerate the response.",
+    "h": "Rapid"
+  },
+  {
+    "q": "Which antibody predominates in the secondary immune response?",
+    "a": ["IgM", "IgD", "IgE", "IgG", "None"],
+    "c": 3,
+    "l": "IgG is the dominant antibody in secondary responses.",
+    "h": "IgG"
+  },
+  {
+    "q": "The effectiveness of vaccine boosters is based on:",
+    "a": ["Tolerance", "Immunologic memory", "Anergy", "Deletion", "Opsonization"],
+    "c": 1,
+    "l": "Boosters activate memory cells.",
+    "h": "Booster"
+  },
+  {
+    "q": "Secondary antibodies generally have:",
+    "a": ["Lower affinity", "Equal affinity", "Higher affinity", "No affinity", "Variable affinity"],
+    "c": 2,
+    "l": "Affinity maturation increases antibody affinity.",
+    "h": "Affinity"
+  },
+  {
+    "q": "Higher affinity antibodies in secondary responses are due to:",
+    "a": ["Complement", "Somatic mutation", "Phagocytosis", "Anergy", "Tolerance"],
+    "c": 1,
+    "l": "Somatic hypermutation drives affinity maturation.",
+    "h": "Mutation"
+  },
+  {
+    "q": "Memory B cells typically have a lifespan of approximately:",
+    "a": ["1 year", "5 years", "10 years", "20 years", "Lifetime"],
+    "c": 2,
+    "l": "Memory B cells can persist for about 10 years.",
+    "h": "10 years"
+  },
+  {
+    "q": "Memory T cells can persist for:",
+    "a": ["Weeks", "Months", "Years", "Many decades", "Days"],
+    "c": 3,
+    "l": "Memory T cells may last decades.",
+    "h": "Decades"
+  },
+  {
+    "q": "The primary immune response usually has what antibody affinity?",
+    "a": ["Very high", "High", "Low to variable", "Fixed", "None"],
+    "c": 2,
+    "l": "Primary responses generate lower-affinity antibodies.",
+    "h": "Primary"
+  },
+  {
+    "q": "Class switching is most dependent on:",
+    "a": ["NK cells", "Protein antigens and T-cell help", "Complement", "Neutrophils", "Platelets"],
+    "c": 1,
+    "l": "Protein antigens require T-cell help for class switching.",
+    "h": "T-dependent"
+  },
+  {
+    "q": "The major mechanism of peripheral tolerance involving functional silencing is:",
+    "a": ["Deletion", "Anergy", "Affinity maturation", "Positive selection", "Opsonization"],
+    "c": 1,
+    "l": "Anergy renders lymphocytes nonresponsive.",
+    "h": "Silencing"
+  },
+  {
+    "q": "Which mechanism of peripheral tolerance physically removes self-reactive lymphocytes?",
+    "a": ["Anergy", "Deletion", "Suppression", "Editing", "Restriction"],
+    "c": 1,
+    "l": "Deletion eliminates autoreactive cells.",
+    "h": "Removal"
+  },
+  {
+    "q": "Peripheral tolerance can also be mediated by:",
+    "a": ["Basophils", "Regulatory T cells", "Eosinophils", "Platelets", "RBCs"],
+    "c": 1,
+    "l": "Tregs suppress self-reactive immune responses.",
+    "h": "Tregs"
+  },
+  {
+    "q": "Self-reactive lymphocytes that escape central tolerance are mainly controlled by:",
+    "a": ["Peripheral tolerance", "Positive selection", "Class switching", "Somatic mutation", "Opsonization"],
+    "c": 0,
+    "l": "Peripheral tolerance prevents autoimmunity.",
+    "h": "Backup mechanism"
+  }
+],
+
 "11_immunization": [
   {
     "q": "Which type of immunity occurs when the body produces its own antibodies after exposure to an antigen?",
