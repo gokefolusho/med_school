@@ -514,7 +514,250 @@
     "l": "Second-generation agents have minimal CNS effects.",
     "h": "Alcohol"
   }
-]
+],
+
+"3_toxicology" : [
+  {
+    "q": "A child with pica develops abdominal pain, anemia, and cognitive impairment. Which heavy metal poisoning is most likely?",
+    "options": {
+      "A": "Arsenic",
+      "B": "Mercury",
+      "C": "Lead",
+      "D": "Iron",
+      "E": "Copper"
+    },
+    "a": "C",
+    "e": "Lead poisoning commonly occurs from soil pica and affects the nervous and hematopoietic systems."
+  },
+  {
+    "q": "A patient presents with painful peripheral neuropathy and raindrop skin pigmentation. Which poisoning is most likely?",
+    "options": {
+      "A": "Lead",
+      "B": "Mercury",
+      "C": "Arsenic",
+      "D": "Iron",
+      "E": "Copper"
+    },
+    "a": "C",
+    "e": "Chronic arsenic exposure causes raindrop pigmentation and Mee lines."
+  },
+  {
+    "q": "Mee lines are classically associated with:",
+    "options": {
+      "A": "Lead poisoning",
+      "B": "Arsenic poisoning",
+      "C": "Iron poisoning",
+      "D": "Methanol poisoning",
+      "E": "Cyanide poisoning"
+    },
+    "a": "B",
+    "e": "White transverse nail lines (Mee lines) are characteristic of arsenic exposure."
+  },
+  {
+    "q": "The first-line antidote for arsenic poisoning is:",
+    "options": {
+      "A": "EDTA",
+      "B": "Succimer",
+      "C": "Deferoxamine",
+      "D": "Dimercaprol (BAL)",
+      "E": "Penicillamine"
+    },
+    "a": "D",
+    "e": "BAL is the primary chelator for arsenic poisoning."
+  },
+  {
+    "q": "Lead toxicity primarily interferes with:",
+    "options": {
+      "A": "Acetylcholine synthesis",
+      "B": "Heme synthesis",
+      "C": "Dopamine synthesis",
+      "D": "Insulin secretion",
+      "E": "Thyroxine production"
+    },
+    "a": "B",
+    "e": "Lead inhibits several enzymes involved in heme synthesis."
+  },
+  {
+    "q": "Which chelator is commonly used for severe lead poisoning?",
+    "options": {
+      "A": "Penicillamine",
+      "B": "N-acetylcysteine",
+      "C": "Calcium disodium EDTA",
+      "D": "Flumazenil",
+      "E": "Fomepizole"
+    },
+    "a": "C",
+    "e": "EDTA is a major chelator used in lead poisoning."
+  },
+  {
+    "q": "Lead accumulates primarily in:",
+    "options": {
+      "A": "Liver",
+      "B": "Brain",
+      "C": "Kidney",
+      "D": "Bone and teeth",
+      "E": "Spleen"
+    },
+    "a": "D",
+    "e": "Lead replaces calcium and has a long half-life in bone."
+  },
+  {
+    "q": "Which heavy metal poisoning is associated with psychiatric disturbances and tremors?",
+    "options": {
+      "A": "Lead",
+      "B": "Mercury",
+      "C": "Arsenic",
+      "D": "Iron",
+      "E": "Copper"
+    },
+    "a": "B",
+    "e": "Chronic mercury exposure prominently affects the CNS."
+  },
+  {
+    "q": "A patient ingests a large amount of acetaminophen. The toxic metabolite responsible for liver necrosis is:",
+    "options": {
+      "A": "Acetaldehyde",
+      "B": "Formic acid",
+      "C": "Cyanide",
+      "D": "NAPQI",
+      "E": "Methemoglobin"
+    },
+    "a": "D",
+    "e": "NAPQI causes centrilobular hepatic necrosis when glutathione is depleted."
+  },
+  {
+    "q": "The antidote for acetaminophen overdose is:",
+    "options": {
+      "A": "Atropine",
+      "B": "Naloxone",
+      "C": "Flumazenil",
+      "D": "N-acetylcysteine",
+      "E": "Physostigmine"
+    },
+    "a": "D",
+    "e": "NAC replenishes glutathione stores and detoxifies NAPQI."
+  },
+  {
+    "q": "Which overdose classically presents with 'Red as a beet, dry as a bone, blind as a bat, mad as a hatter'?",
+    "options": {
+      "A": "Opioids",
+      "B": "Organophosphates",
+      "C": "Anticholinergics",
+      "D": "Benzodiazepines",
+      "E": "Methanol"
+    },
+    "a": "C",
+    "e": "This mnemonic describes anticholinergic toxicity."
+  },
+  {
+    "q": "The antidote for severe anticholinergic toxicity is:",
+    "options": {
+      "A": "Naloxone",
+      "B": "Physostigmine",
+      "C": "Flumazenil",
+      "D": "Atropine",
+      "E": "Fomepizole"
+    },
+    "a": "B",
+    "e": "Physostigmine crosses the BBB and reverses central anticholinergic effects."
+  },
+  {
+    "q": "A patient presents with respiratory depression, miosis, and coma. What is the most likely diagnosis?",
+    "options": {
+      "A": "Methanol poisoning",
+      "B": "Opioid overdose",
+      "C": "Benzodiazepine overdose",
+      "D": "Cyanide poisoning",
+      "E": "Arsenic poisoning"
+    },
+    "a": "B",
+    "e": "The classic opioid triad is CNS depression, respiratory depression, and miosis."
+  },
+  {
+    "q": "The antidote for opioid overdose is:",
+    "options": {
+      "A": "Atropine",
+      "B": "Naloxone",
+      "C": "Physostigmine",
+      "D": "Flumazenil",
+      "E": "EDTA"
+    },
+    "a": "B",
+    "e": "Naloxone is a competitive opioid receptor antagonist."
+  },
+  {
+    "q": "Which antidote reverses benzodiazepine overdose?",
+    "options": {
+      "A": "Naloxone",
+      "B": "Atropine",
+      "C": "Flumazenil",
+      "D": "Physostigmine",
+      "E": "N-acetylcysteine"
+    },
+    "a": "C",
+    "e": "Flumazenil antagonizes the benzodiazepine receptor."
+  },
+  {
+    "q": "Organophosphate poisoning typically presents with:",
+    "options": {
+      "A": "Mydriasis and dry skin",
+      "B": "Miosis and excessive secretions",
+      "C": "Hypertension and tachycardia",
+      "D": "Constipation and urinary retention",
+      "E": "Hyperthermia and rigidity"
+    },
+    "a": "B",
+    "e": "Organophosphates cause cholinergic excess."
+  },
+  {
+    "q": "Which antidote is specific for organophosphate poisoning but not carbamate poisoning?",
+    "options": {
+      "A": "Atropine",
+      "B": "Naloxone",
+      "C": "Pralidoxime (PAM)",
+      "D": "Physostigmine",
+      "E": "Flumazenil"
+    },
+    "a": "C",
+    "e": "PAM reactivates acetylcholinesterase inhibited by organophosphates."
+  },
+  {
+    "q": "A patient presents with blurred vision and describes seeing a 'snowstorm.' Which poisoning is most likely?",
+    "options": {
+      "A": "Cyanide",
+      "B": "Lead",
+      "C": "Methanol",
+      "D": "Mercury",
+      "E": "Arsenic"
+    },
+    "a": "C",
+    "e": "Visual disturbances are the hallmark of methanol poisoning."
+  },
+  {
+    "q": "The antidote that inhibits alcohol dehydrogenase in methanol poisoning is:",
+    "options": {
+      "A": "Naloxone",
+      "B": "Flumazenil",
+      "C": "Fomepizole",
+      "D": "Atropine",
+      "E": "EDTA"
+    },
+    "a": "C",
+    "e": "Fomepizole prevents formation of toxic methanol metabolites."
+  },
+  {
+    "q": "A patient has seizures, cardiovascular collapse, bitter almond odor on the breath, and elevated venous oxygen saturation. Which poisoning is most likely?",
+    "options": {
+      "A": "Methanol",
+      "B": "Lead",
+      "C": "Arsenic",
+      "D": "Cyanide",
+      "E": "Mercury"
+    },
+    "a": "D",
+    "e": "Cyanide inhibits cytochrome oxidase, preventing cellular oxygen utilization."
+  }
+],
 
   }
 }
