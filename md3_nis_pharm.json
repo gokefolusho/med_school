@@ -301,6 +301,219 @@
     "l": "Uricase converts uric acid into soluble allantoin.",
     "h": "Allantoin"
   }
+],
+
+"2_autacoids" : [
+  {
+    "q": "Histamine is synthesized from which amino acid?",
+    "a": ["Tyrosine", "Tryptophan", "Histidine", "Phenylalanine", "Lysine"],
+    "c": 2,
+    "l": "Histamine is formed by decarboxylation of histidine.",
+    "h": "Histidine"
+  },
+  {
+    "q": "The major storage site of histamine in the body is:",
+    "a": ["Neutrophils", "Mast cells", "T cells", "Hepatocytes", "Fibroblasts"],
+    "c": 1,
+    "l": "Mast cells contain abundant histamine granules.",
+    "h": "Mast cells"
+  },
+  {
+    "q": "Which histamine receptor mediates bronchoconstriction?",
+    "a": ["H1", "H2", "H3", "H4", "M3"],
+    "c": 0,
+    "l": "H1 receptors cause contraction of bronchial smooth muscle.",
+    "h": "Bronchi"
+  },
+  {
+    "q": "Which histamine receptor is responsible for gastric acid secretion?",
+    "a": ["H1", "H2", "H3", "H4", "M1"],
+    "c": 1,
+    "l": "H2 receptors stimulate parietal cells.",
+    "h": "Parietal cell"
+  },
+  {
+    "q": "Which histamine receptor acts as a presynaptic autoreceptor in the CNS?",
+    "a": ["H1", "H2", "H3", "H4", "H5"],
+    "c": 2,
+    "l": "H3 receptors inhibit histamine release.",
+    "h": "Brain"
+  },
+  {
+    "q": "Which histamine receptor is associated with eosinophil chemotaxis?",
+    "a": ["H1", "H2", "H3", "H4", "β2"],
+    "c": 3,
+    "l": "H4 receptors are involved in inflammation and chemotaxis.",
+    "h": "Eosinophils"
+  },
+  {
+    "q": "Histamine-induced itching is primarily mediated by:",
+    "a": ["H1", "H2", "H3", "H4", "M3"],
+    "c": 0,
+    "l": "H1 receptors stimulate sensory nerve endings.",
+    "h": "Pruritus"
+  },
+  {
+    "q": "The most powerful gastric secretagogue is:",
+    "a": ["Acetylcholine", "Gastrin", "Histamine", "Secretin", "Somatostatin"],
+    "c": 2,
+    "l": "Histamine strongly stimulates gastric acid secretion.",
+    "h": "Acid"
+  },
+  {
+    "q": "The proton pump stimulated by histamine is:",
+    "a": ["Na+/K+ ATPase", "Ca++ ATPase", "H+/K+ ATPase", "Na+/H+ exchanger", "Cl-/HCO3 exchanger"],
+    "c": 2,
+    "l": "Histamine activates the gastric proton pump.",
+    "h": "Proton pump"
+  },
+  {
+    "q": "The triple response of histamine includes red spot, flare, and:",
+    "a": ["Ulcer", "Nodule", "Wheal", "Plaque", "Pustule"],
+    "c": 2,
+    "l": "The wheal results from increased vascular permeability.",
+    "h": "Wheal"
+  },
+  {
+    "q": "The flare component of the triple response is caused by:",
+    "a": ["Venoconstriction", "Axon reflex", "Platelet activation", "Complement", "Histamine degradation"],
+    "c": 1,
+    "l": "Flare results from axon reflex-mediated vasodilation.",
+    "h": "Axon reflex"
+  },
+  {
+    "q": "Which immunoglobulin mediates histamine release in immediate hypersensitivity?",
+    "a": ["IgA", "IgD", "IgE", "IgG", "IgM"],
+    "c": 2,
+    "l": "IgE cross-linking on mast cells triggers degranulation.",
+    "h": "Type I"
+  },
+  {
+    "q": "Which drug is a classic pharmacologic histamine releaser?",
+    "a": ["Metformin", "Morphine", "Atenolol", "Digoxin", "Warfarin"],
+    "c": 1,
+    "l": "Morphine can directly induce histamine release.",
+    "h": "Morphine"
+  },
+  {
+    "q": "Red Man Syndrome is classically associated with:",
+    "a": ["Penicillin", "Vancomycin", "Ceftriaxone", "Azithromycin", "Doxycycline"],
+    "c": 1,
+    "l": "Vancomycin causes mast cell degranulation and histamine release.",
+    "h": "Red Man"
+  },
+  {
+    "q": "Which first-generation antihistamine is highly sedating?",
+    "a": ["Loratadine", "Fexofenadine", "Cetirizine", "Diphenhydramine", "Desloratadine"],
+    "c": 3,
+    "l": "Diphenhydramine readily crosses the BBB.",
+    "h": "Sedation"
+  },
+  {
+    "q": "Which antihistamine is preferred for allergic rhinitis because it causes minimal sedation?",
+    "a": ["Promethazine", "Diphenhydramine", "Loratadine", "Hydroxyzine", "Dimenhydrinate"],
+    "c": 2,
+    "l": "Loratadine is a second-generation antihistamine.",
+    "h": "Hay fever"
+  },
+  {
+    "q": "Which property distinguishes second-generation antihistamines?",
+    "a": ["Severe sedation", "Strong anticholinergic effects", "Minimal CNS penetration", "Poor H1 selectivity", "Motion sickness treatment"],
+    "c": 2,
+    "l": "Second-generation antihistamines poorly cross the BBB.",
+    "h": "BBB"
+  },
+  {
+    "q": "Which adverse effect is most characteristic of first-generation antihistamines?",
+    "a": ["Hyperglycemia", "Dry mouth", "Hyperkalemia", "Bradycardia", "Hypertension"],
+    "c": 1,
+    "l": "Anticholinergic effects include dry mouth and urinary retention.",
+    "h": "Anticholinergic"
+  },
+  {
+    "q": "Which antihistamine is commonly used for motion sickness?",
+    "a": ["Loratadine", "Fexofenadine", "Promethazine", "Desloratadine", "Cetirizine"],
+    "c": 2,
+    "l": "Promethazine is effective for motion sickness and nausea.",
+    "h": "Travel"
+  },
+  {
+    "q": "Which drug is used for Ménière disease and vertigo?",
+    "a": ["Diphenhydramine", "Promethazine", "Betahistine", "Cetirizine", "Loratadine"],
+    "c": 2,
+    "l": "Betahistine is an H1 agonist used for Ménière disease.",
+    "h": "Vertigo"
+  },
+  {
+    "q": "Betahistine is contraindicated in:",
+    "a": ["Hypertension", "Asthma", "Diabetes", "Migraine", "Anemia"],
+    "c": 1,
+    "l": "Betahistine may worsen bronchospasm in asthma.",
+    "h": "Asthma"
+  },
+  {
+    "q": "H1 antihistamines are generally ineffective in asthma because:",
+    "a": ["Histamine is absent", "Leukotrienes are more important mediators", "H2 receptors dominate", "Histamine only affects vessels", "They increase bronchospasm"],
+    "c": 1,
+    "l": "Leukotrienes and PAF are major mediators in asthma.",
+    "h": "Leukotrienes"
+  },
+  {
+    "q": "Which first-generation antihistamine is commonly used as a sleep aid?",
+    "a": ["Loratadine", "Diphenhydramine", "Fexofenadine", "Cetirizine", "Desloratadine"],
+    "c": 1,
+    "l": "Diphenhydramine causes marked sedation.",
+    "h": "Sleep"
+  },
+  {
+    "q": "Which antihistamine is commonly used for morning sickness in pregnancy?",
+    "a": ["Fexofenadine", "Promethazine", "Desloratadine", "Cetirizine", "Ebastine"],
+    "c": 1,
+    "l": "Promethazine is useful for nausea and vomiting.",
+    "h": "Pregnancy"
+  },
+  {
+    "q": "Which receptor mediates increased vascular permeability caused by histamine?",
+    "a": ["H1", "H2", "H3", "H4", "β1"],
+    "c": 0,
+    "l": "H1 activation increases capillary permeability.",
+    "h": "Edema"
+  },
+  {
+    "q": "Which receptor mediates increased heart rate due to histamine?",
+    "a": ["H1", "H2", "H3", "H4", "M2"],
+    "c": 1,
+    "l": "H2 receptors increase heart rate and contractility.",
+    "h": "Heart"
+  },
+  {
+    "q": "Histamine-induced urticaria is primarily mediated through:",
+    "a": ["H1", "H2", "H3", "H4", "M3"],
+    "c": 0,
+    "l": "H1 receptors mediate hives and itching.",
+    "h": "Hives"
+  },
+  {
+    "q": "Which antihistamine is useful for acute dystonic reactions caused by antipsychotics?",
+    "a": ["Loratadine", "Diphenhydramine", "Fexofenadine", "Cetirizine", "Ebastine"],
+    "c": 1,
+    "l": "Diphenhydramine has anticholinergic activity that helps acute dystonia.",
+    "h": "EPS"
+  },
+  {
+    "q": "The major CNS effect of first-generation antihistamines is:",
+    "a": ["Euphoria", "Sedation", "Hallucinations", "Excitation", "Tremor"],
+    "c": 1,
+    "l": "They cross the BBB and cause drowsiness.",
+    "h": "Drowsy"
+  },
+  {
+    "q": "Which class of antihistamines has minimal interaction with alcohol?",
+    "a": ["First-generation", "Second-generation", "H2 blockers", "H3 agonists", "H4 antagonists"],
+    "c": 1,
+    "l": "Second-generation agents have minimal CNS effects.",
+    "h": "Alcohol"
+  }
 ]
 
   }
