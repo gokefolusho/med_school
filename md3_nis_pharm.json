@@ -516,7 +516,7 @@
   }
 ],
 
-"3_toxicology" :[ 
+"3_toxicology" : [ 
   {
     "q": "A child with pica develops abdominal pain, anemia, and cognitive impairment. Which heavy metal poisoning is most likely?",
     "a": ["Arsenic", "Mercury", "Lead", "Iron", "Copper"],
